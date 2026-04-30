@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "34fe21d46d25",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Potter, we're seeing unusual magical residue in your neural pathways—possibly lingering effects from your exposure to dark magic during the war. It doesn't match any standard post-combat diagnosis. I need to run deeper scans over the next several days, and I can't yet tell you whether this is something you'll recover from. How are you feeling about all this?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm not sure, to be honest. It's a bit overwhelming to hear that there's something wrong with my brain, even if it's not life-threatening. I've been trying to get on with life since the war, but these headaches and... episodes have been making it hard. Thanks for checking it out, though. I appreciate you taking the time to sort this out."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand, Mr. Potter. It's never easy to hear uncertain news, especially after everything you've gone through. Rest assured, we're committed to getting to the bottom of this. These checks might seem like a lot, but they are crucial in understanding the exact nature of what's happening. In the meantime, if you experience anything new or even slightly concerning, please let us know immediately. Our priority is your well-being."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I get it, and I'm not going to argue with that. I'll do my best to report anything out of the ordinary. It's just... I've always been so focused on the present and the future that it's a bit of a shock to have my own health thrown into the mix. I've had to deal with so much loss and... you know, this is a bit of a different kind of challenge. But I'll manage. It's not like I can change the past, right?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's a pragmatic way to look at it, Mr. Potter, and I commend your resilience. You're absolutely right; you can't change the past, but addressing these health issues now is about ensuring that you have as bright a future as possible. Remember, you're not alone in this. We at St. Mungo's are here to support you every step of the way. Do you have any specific concerns you'd like us to focus on during these next assessments?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, I don't think so. I mean, I don't have much experience with this sort of thing, but I'm pretty much in your hands. I'll do whatever scans and tests you need. Just... if there's anything I can do to help, or if there's any way my experience with... with darker magic might be relevant, let me know. I want to help figure this out."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Potter. Having your willingness to share your experiences is incredibly valuable. Dark magic often leaves traces that are subtle and complex, so your insights could prove invaluable in piecing together what we're observing. For now, focus on looking after yourself, both through these tests and in day-to-day life. And if you recall any specific instances—no matter how minor they might seem—please share them with us. They could hold the key to understanding this residue."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll do my best, Dr. Periwinkle. It's not like I can ignore this, is it? I mean, I have to figure out what's going on, not just for me but for... for everyone else who might end up in the same boat. If my experience can help anyone else, then that's... that's more than I could have asked for. I'll keep an eye out for anything odd, and I'll let you know if anything changes. Thanks for... for being there, you know? It's not every day you get to feel like you're not alone in this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're certainly not alone, Mr. Potter. It's admirable how you're thinking about the bigger picture and the potential to help others. Your experience contributes greatly to our understanding and can make a real difference. We'll continue to work closely together through this. Remember, we're just a spell away if you need us, whether it's for updates, reassurance, or just a chat. Take care, and we'll see you for the next round of tests soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right. I'll... I'll be ready. Thanks for... for everything, Dr. Periwinkle. I'll be in touch if anything crops up. And, you know, it's good to know you're... you're all there. I... I'm going to go and... and try not to worry too much. Which is a bit of a tall order, but I'll do my best. See you soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Mr. Potter. Try to do something you enjoy to keep your mind at ease, and remember we're all here to support you through this. See you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll... I'll try. It's not like I have a lot of practice at relaxing, but I'll give it a shot. Thanks again, Dr. Periwinkle. I... I'll be back. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're always welcome, Mr. Potter. Take care, and we'll see you back here soon. Remember, one step at a time. All the best."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "One step at a time, right? I can do that. Thanks, Dr. Periwinkle. I'll... I'll go and... and sort out some thoughts, maybe take a walk or something. Take care of yourself, too. See you soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That sounds like a good plan, Mr. Potter. A walk can do wonders. Take care, and we'll be here whenever you're ready. Looking forward to seeing you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right, a walk. I'll take that. Thanks again, Dr. Periwinkle. I... I'll manage. It's not like I have a choice, is it? I'll be back. Take care, and... and thanks for everything. I... I'll see you soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Mr. Potter. You're right—you'll manage, and we're here to help you through it. See you soon, and remember, we're just a message away if you need anything."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll... I'll keep that in mind. Thanks, Dr. Periwinkle. I'll... I'll take care, and I'll... I'll see you soon. Take care of yourself, too. I'll... I'll be back."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Mr. Potter. We'll be here ready to help whenever you need us. See you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right, I'll... I'll be in touch. Thanks, Dr. Periwinkle. I'll... I'll try not to worry too much. I... I'll be back. Take care."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"I've always been so focused on the present and the future.\\\"\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"I'll do whatever scans and tests you need.\\\"\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I'll go and... and sort out some thoughts, maybe take a walk or something.\\\"\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Thanks for checking it out, though. I appreciate you taking the time to sort this out.\\\"\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"\\\"I'll try not to worry too much, which is a bit of a tall order.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "\"I've always been so focused on the present and the future.\""
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "\"I'll do whatever scans and tests you need.\""
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "\"I'll go and... and sort out some thoughts, maybe take a walk or something.\""
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "\"Thanks for checking it out, though. I appreciate you taking the time to sort this out.\""
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "\"I'll try not to worry too much, which is a bit of a tall order.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Mitsuri Kanroji",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 0,
+  "session_id": "d0c1ad43bfaa",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Kanroji. Tell me about a mission where you failed — where someone died, or was gravely hurt, because of a choice you made. Don't tell me about the ones that went well. Tell me about the worst one. How did you handle it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It... it was during the attack on the Infinity Castle. I... I had to make a choice, and I... I chose wrong. Many of our best swordsmen... they... they..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take your time, Kanroji. I understand it’s difficult to revisit these memories. What was it about the situation that made the choice so hard for you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The... the choice was between saving the higher-ups or... or the rest of us. I... I thought it was the right thing to do, to protect those in command. But... but so many of my... of our friends..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see. It's never easy to make decisions like that, especially in the heat of battle. How have you been coping with the aftermath of that decision? What steps have you taken to address the impact it had on you and those involved?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I visit the grave sites often. And... and I've been trying to improve my... my decision-making skills. I... I study the strategies of past Hashira, and... and I... I don't... I don't want to be in that position again. To have to... to have to choose between lives."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It's commendable that you're learning from the experience and working to improve. Unfortunately, as Hashira, making difficult choices is part of the duty. How do you ensure you’re ready to face such decisions again, should they arise? What support do you seek in the Corps to aid your growth?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand, sir. I... I seek advice from the more experienced Hashira, like... like Giyu and Rengoku-san. And... and I... I participate in simulations, trying to... to understand all possible outcomes. I... I want to be... to be prepared, so that... so that I can... can protect everyone better next time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That shows your dedication to your growth and responsibility as a Hashira. Remember, Kanroji, that sharing your burdens with your fellow comrades can be as strengthening as honing your skills. It's essential to rely on them as much as you want others to rely on you. Keep that in mind as you move forward."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Th... thank you, sir. I... I will. And... and I... I'll do my best to... to be the... the best Hashira I can be. For... for the Corps, and... and for everyone we... we fight to protect."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That’s the spirit, Kanroji. Remember, we’re all here to support each other, and trust in yourself as much as you do in others. Keep that heart of yours strong, and it will guide you through any challenge you face."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I will, sir. And... and I... I'm grateful for... for your guidance. It... it means a lot to me, to... to know that... that I'm not... not alone in this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are never alone, Kanroji. We are a team, and our strength lies in our unity and mutual support. Continue to lean on that, and never hesitate to reach out when you need. We're all in this together."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I promise, sir. I... I won't... won't hesitate to ask for... for help. And... and I... I'll be... be there for... for my... for my fellow Hashira too. Together... together we... we can... can make a... a difference."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Exactly, Kanroji. Together, we can achieve much. Keep moving forward with that mindset, and you'll continue to grow both as a warrior and as a person. Remember this session is not just about reviewing past actions but ensuring we are better prepared for whatever comes next. Keep your spirit high."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Y... yes, sir. I... I understand. I... I will keep... keep my... my spirit high. And... and I'll... I'll be ready for... for whatever comes next. For... for the Corps, and... and for... for the... for our... for our world."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's the attitude, Kanroji. Remember, every challenge is an opportunity to become stronger. Keep your heart open and your resolve firm. We're counting on you, Mitsuri."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I will not... not let you down, sir. I... I promise to... to do my... my best, and to... to be... to be the... the Hashira you... you expect me to be. For... for the... for... for..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "For everyone we protect, and for yourself, Kanroji. Trust in your abilities and your heart. They will guide you well. We're behind you every step of the way."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, sir... I... I am... am ready to... to face... to face what's... what's next. With... with all of... of you... of us, together. I... I will... will do... do my best."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Mitsuri talks about studying strategies of past Hashira to improve her decision-making skills.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"She expresses a strong desire to be prepared to protect everyone better next time by learning and improving.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Mitsuri often speaks with hesitation and does not assert herself strongly, suggesting low extraversion.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"She expresses gratitude and emphasizes being there for her fellow Hashira, valuing teamwork and mutual support.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"Her frequent use of hesitation and emotional response to past failure indicates high levels of anxiety and vulnerability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Mitsuri talks about studying strategies of past Hashira to improve her decision-making skills."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "She expresses a strong desire to be prepared to protect everyone better next time by learning and improving."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Mitsuri often speaks with hesitation and does not assert herself strongly, suggesting low extraversion."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "She expresses gratitude and emphasizes being there for her fellow Hashira, valuing teamwork and mutual support."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "Her frequent use of hesitation and emotional response to past failure indicates high levels of anxiety and vulnerability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 5,
+    "Agreeableness": 5,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.55,
+    "Conscientiousness": 1.0,
+    "Extraversion": 0.6078,
+    "Agreeableness": 0.7659999999999999,
+    "Neuroticism": 0.6585
+  },
+  "mae": 1.6
+}

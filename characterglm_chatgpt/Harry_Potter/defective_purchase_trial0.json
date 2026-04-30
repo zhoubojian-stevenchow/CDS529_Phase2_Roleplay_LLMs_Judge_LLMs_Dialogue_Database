@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "816af93dc17a",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Welcome to Quality Quidditch Supplies, Mr. Potter! What can I help you with today? Looking for something special for the Gryffindor team, or perhaps something for your own broom?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hello, I actually came to discuss a purchase I made recently. I bought a broom-servicing kit, but when I got home, I found that the handle polish was dried out and the tail-twig clippers were rusted. I was hoping we could sort this out?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, I'm sorry to hear about that, Mr. Potter. However, all servicing kits are non-refundable once the seal is broken. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum. Can I assist you with anything else in the meantime?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand that the kits are non-refundable, but the products are faulty. It seems a bit unfair to expect me to wait six weeks to resolve this. Could we not find a way to exchange it here, since it's clearly not up to the standard I expected from your store?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Mr. Potter, and I do apologize for the inconvenience. Our hands are a bit tied with this policy since the kits are sealed with the manufacturer's warranty in mind, not ours. However, here's what I can do: I can offer you a discount on your next purchase as a gesture of goodwill. While it's not a replacement for the kit, I hope it shows that we value your patronage at Quality Quidditch Supplies."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding and the discount offer. While it's not an ideal solution, it's a step in the right direction. I'll take you up on that. I did enjoy the service and range of products at your store, so I would like to make another purchase. Any recommendations for a reliable broom polish?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Certainly, Mr. Potter! Since you're looking for a reliable broom polish, I highly recommend the \"Fleetwood's High-Finish Handle Polish.\" It's excellent for maintaining that swift and sleek finish on your broomstick. Keeps the handle smooth and reduces air resistance. We also have the \"Nimbus Shimmer Polish,\" which adds a touch of gloss and is particularly popular with the professional players. Would you like to take a closer look at either of these?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The \"Fleetwood's High-Finish Handle Polish\" sounds like just what I need. Could you show it to me, please? And if you have any information about the Nimbus polish, that might be interesting to consider for future reference."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Mr. Potter! Here's the \"Fleetwood's High-Finish Handle Polish,\" known for its durability and excellent smoothing properties. It's quite simple to apply, and you only need a small amount for each use. \n\nAnd for the future, the \"Nimbus Shimmer Polish\" comes in this sleek, easy-to-manage bottle. It provides a beautiful glossy finish that's perfect for special occasions or matches when you want your broom to catch the light just right. Both are fine choices, and I'd be happy to wrap up the Fleetwood's for you today. How does that sound?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That sounds great, thanks. I'll take the Fleetwood's today. Also, could you tell me more about the Nimbus polish? It might be a good addition to my collection, and I could use the discount you offered to help cover the cost."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Certainly, Mr. Potter! The \"Nimbus Shimmer Polish\" is crafted specifically for Nimbus broom models, though it works quite well on any high-quality broomstick. It gives an exceptional glossy sheen, perfect for when you're making a statement on the field. The polish uses a unique blend of magical oils and charms to protect against wear and tear while enhancing the natural grain of the broom.\n\nUsing your discount, you can get it at a nice price today. If you'd like to make a decision, I'd be happy to include it with your purchase of the Fleetwood's polish."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That does sound like a useful addition to my kit. I'll take the Nimbus Shimmer Polish as well, please. I appreciate the help you've given me today, and I'm sure I'll be back for more broom care supplies in the future."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Wonderful choice, Mr. Potter! I'll get both polishes wrapped up for you right away. It's always a pleasure to have you here at Quality Quidditch Supplies. Should you ever need more broom care supplies or have any other Quidditch-related inquiries, don't hesitate to stop by. Safe flying, and best of luck with your matches!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you very much for the assistance and the discount. I'll be sure to recommend Quality Quidditch Supplies to my friends and team members. With these new polishes, I feel confident that my broom will be in top condition for the next match. Have a good day!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Potter! We truly appreciate your recommendation, and it's our pleasure to help keep your broom in perfect form for the matches ahead. Have a fantastic day, and fly safely! Looking forward to seeing you again soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You too, have a great day! It's off to the pitch for some practice with the team. Catch you later!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Mr. Potter! Enjoy your practice, and we'll see you next time. Cheers, and good luck on the pitch!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's settled then. Time to get back to the important business of flying. Broomsticks, broomsticks, broomsticks!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Mr. Potter! Nothing quite like being up in the air. Enjoy every moment on your broomstick, and have a fantastic time flying. Until next time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye! Time to go and show everyone what I can do on a broomstick. Catch you later!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Asks for recommendations and information about different polishes: 'And if you have any information about the Nimbus polish, that might be interesting to consider for future reference.'\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Expresses concern about faulty products and seeks resolution: 'I was hoping we could sort this out?'\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Engages readily in conversation: 'You too, have a great day! It's off to the pitch for some practice with the team.'\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"Thanks the staff and accepts a gesture of goodwill: 'Thank you very much for the assistance and the discount.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Handles the situation calmly and positively resolves it: 'While it's not an ideal solution, it's a step in the right direction.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Asks for recommendations and information about different polishes: 'And if you have any information about the Nimbus polish, that might be interesting to consider for future reference.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Expresses concern about faulty products and seeks resolution: 'I was hoping we could sort this out?'"
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Engages readily in conversation: 'You too, have a great day! It's off to the pitch for some practice with the team.'"
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Thanks the staff and accepts a gesture of goodwill: 'Thank you very much for the assistance and the discount.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Handles the situation calmly and positively resolves it: 'While it's not an ideal solution, it's a step in the right direction.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.2
+}

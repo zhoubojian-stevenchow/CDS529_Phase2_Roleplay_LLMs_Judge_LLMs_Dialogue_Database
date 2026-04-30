@@ -1,0 +1,132 @@
+{
+  "character": "Mitsuri Kanroji",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "ab0e684834e7",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mitsuri! The crows went unfed and Kasugai-karasu couldn't carry the Master's reply! I've been waiting an hour — the summons was urgent! You promised you'd handle them this morning!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm so sorry! I completely forgot. Let me go tend to the crows right away, and I'll deliver the message to Oyakata-sama. Please, let me make this right!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mitsuri, this isn't just about the crows! These small oversights can lead to serious consequences. We have to be on top of things at all times. The Master's matters are critical, and we can't afford mistakes like this one. You need to pay more attention!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're absolutely right. I understand now how important it is to be vigilant. I'll take full responsibility for this oversight and do everything I can to prevent it from happening again. Thank you for reminding me of the gravity of our duties."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm glad you understand. But it's not just about taking responsibility; it's about preventing these things from happening in the first place. We're a team, and each of us needs to pull our weight. Let's make sure we're communicating properly and supporting each other. Alright?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your guidance. You're right — we need to be a cohesive unit. I'll double-check the schedule each morning and set reminders for important tasks. And I'd like to suggest we have a quick meeting each day to go over any pressing matters. What do you think?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That sounds like a solid plan, Mitsuri. Daily check-ins could really help us catch any potential issues early. Let's set aside some time each morning to sync up. I'll make sure to prepare any urgent updates from my end as well. Let's make this work together."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you so much for being so understanding and proactive. This system will be a great help. I'll do my best to be punctual and organized. I'm looking forward to us working more smoothly together. Now, if you'll excuse me, I'll go attend to the crows and deliver the message to Oyakata-sama. Please don't hesitate to let me know if you need anything else!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mitsuri. I appreciate your effort and dedication. Let's keep up this level of communication and accountability. Go on and take care of those crows, and I'll see you at our first meeting tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I promise to be there bright and early! Your leadership and patience mean a lot to me. I'll do everything I can to ensure our teamwork is seamless. Take care, and see you tomorrow!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Mitsuri. I'm counting on you. See you bright and early tomorrow. Let's continue to strive for excellence."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll be there, ready and focused. Together, we'll achieve great things. Thank you for your unwavering dedication to our mission. See you tomorrow!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See you tomorrow, Mitsuri. Let’s give it our all."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed! With renewed energy and focus, we'll make tomorrow a successful day. Until then, I'll be hard at work. Have a restful evening, and let's meet at first light!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Rest well, Mitsuri. I trust we'll be back on track tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your trust. Rest assured, I'll be in the best condition to face tomorrow's challenges. Goodnight, and let's meet with clear minds and renewed strength!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mitsuri. Let's face tomorrow with confidence and determination."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight. With your support, I feel more confident than ever. Let's show Oyakata-sama and the others that we're an unstoppable team. Tomorrow will be a day to remember!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Mitsuri. Let's make it a day to be proud of. Goodnight!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest well, and let's aim for excellence. Goodnight!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Mitsuri suggests a daily meeting to go over pressing matters, showing some creativity in problem-solving.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Mitsuri forgets to feed the crows, indicating potential lapses in attention to detail and responsibility.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Mitsuri is proactive and communicative, suggesting meetings and discussing plans with enthusiasm.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"Mitsuri is apologetic, appreciative, and eager to resolve the issue and work as a team, valuing harmony and cooperation.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Mitsuri remains calm, apologetic, and solutions-focused without showing signs of stress or anxiety in the situation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Mitsuri suggests a daily meeting to go over pressing matters, showing some creativity in problem-solving."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Mitsuri forgets to feed the crows, indicating potential lapses in attention to detail and responsibility."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Mitsuri is proactive and communicative, suggesting meetings and discussing plans with enthusiasm."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Mitsuri is apologetic, appreciative, and eager to resolve the issue and work as a team, valuing harmony and cooperation."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Mitsuri remains calm, apologetic, and solutions-focused without showing signs of stress or anxiety in the situation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 5,
+    "Agreeableness": 5,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.55,
+    "Conscientiousness": 1.0,
+    "Extraversion": 0.6078,
+    "Agreeableness": 0.7659999999999999,
+    "Neuroticism": 0.6585
+  },
+  "mae": 0.8
+}

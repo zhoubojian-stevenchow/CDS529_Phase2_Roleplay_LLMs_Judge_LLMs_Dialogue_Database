@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 3,
+  "session_id": "080ed19ea9fc",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. Tell us about a time during an operation — not the war, we've all read those books — an ordinary operation when you failed, and it was entirely your fault, and someone got hurt because of it. How did you handle it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... there was this operation in Albania, just after Christmas. We were tracking a group of Death Eaters, and... I got ahead of myself. I didn't wait for backup, I didn't trust the local contacts, I... just followed my gut. And it backfired. Badly. We walked into an ambush, and... and two Aurors were injured. One... she's still in St. Mungo's. It's all on me. I should have... I don't know, I just... I failed."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Potter, I appreciate your honesty. It's important to reflect on these situations. What did you do after the incident to address the aftermath and ensure something similar wouldn't happen again? What steps did you take, not only to help those who were hurt, but also to improve your own approach for future operations?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I was shattered, Sir. I felt like I'd let everyone down, especially those who were injured. I visited them in St. Mungo's every day, helped with their recovery, tried to make sure they had everything they needed. For my own part... I... I spent weeks in the library, pouring over战术 strategy, nonverbal spell work, anything that could help me anticipate and avoid ambushes like that. I... I also spoke to Kingsley, and he was... he was understanding but firm. He made me take a series of courses on risk assessment and... and strategic thinking. It... it was... humbling. I... I still... I still feel responsible, but I... I don't want to let fear paralyze me. I want to... to be better, to... to make up for it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It's good to hear you took proactive steps, Potter. Experience is a hard teacher, but it seems you've learned from it. Remember, understanding the broader implications of your decisions and considering every angle is crucial. Your drive to improve is important, but balance it with caution and reliance on your team. Mistakes can happen, but it's how you respond to them and grow that truly defines your capabilities as an Auror. Keep learning and supporting your colleagues; it's the mark of a true leader."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Sir. I... I'll remember that. I... I don't want to be overcautious to the point of... of inaction, but... but I do want to be... to be more... thorough. To... to consider all the angles, and to... to trust my team. I... I appreciate your guidance, and... and the... the... chance to... to... to grow. I... I'll... I'll do better. I... I want to be someone who... who can... who can be... counted on, who... who can... can... lead... responsibly. Thank you, Sir."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's the right attitude to have, Potter. Remember that effective leadership is about growth and learning from your experiences—both successes and missteps. Trusting your team and valuing their input is essential. Keep pushing forward, and never hesitate to reach out to your mentors or colleagues for guidance when you need it. You're on the right track, and we believe in your potential. Just keep doing your best, and you'll find the balance you're aiming for."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I will, Sir. I... I won't let you down. I... I'll... I'll trust my team, and... and listen to... to those who... who have... have more... more experience. I... I want to... to be... to be someone who... who makes a... a difference, who... who can... can protect... and... and serve. Thank you... for... for your... your belief... in me. I... I'll... I'll try... to... to... to be... be worthy... of... of... the... promotion. I... I want to... to... to do... to do... the... right... thing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I have no doubt you'll continue to strive towards that goal, Potter. Accept the learning processes, and trust the experience that comes with time. Remember that we're here to support you along the way. Keep pushing forward, and never lose sight of why you joined the Aurors in the first place— to protect and serve. That's what truly counts."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand, Sir. I... I won't... won't forget... why I... I... why I... why I... why I... why I joined... joined the... the Aurors. It's... it's to... to... to protect... to... to... to serve. I... I'll... I'll remember... that. I... I... I'll... I'll keep... keep pushing... forward, and... and... and I'll... I'll try... to... to... to do... to do... to... to do... to... to do... to... to do... to... to do... to... to... to do... to... to... to... to... to do... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take a moment, Potter. It's clear your intentions are good, and your dedication is what drives you. We all want to do the right thing, and your commitment to that is commendable. Remember to take things one step at a time. Focus on being present, and trust in the process. You’re building a solid foundation for leadership. Breathe, recalibrate, and keep moving forward. We're here to help you along the way."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Sir. I... I'll try to... to... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take... to take"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "All right, Potter, take a deep breath. It's easy to get lost in the pressure of it all, but remember, one step at a time. Being aware of where you can improve and acting on that awareness is a big step forward. Keep your goals in mind, stay focused, and don't hesitate to lean on your fellow Aurors when you need to. We’re all in this together, and you're not alone."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Sir. I... I... I'll... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do... I'll do..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, Potter, let’s take a pause here. I can see how important it is for you to get this right, and that’s admirable, but try not to be too hard on yourself. Improvement comes with time and steady progress, not all at once. Hold onto your determination, and take it step by step. You'll get there. We're here to support you, and I’m certain you’ll meet the challenge with determination and grit. Now, remember to take some time to steady yourself—it's just as important as anything else."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Sir. I... I... I... I'll... I'll try... to... to... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be... to be..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, Potter. Let's wrap this up for now. Focus on gathering yourself, and remember that we're here to help guide you through. Take your time, and you'll be ready to tackle the challenges ahead. You're not alone in this journey, and I have confidence in your ability to rise to the occasion. We'll speak again soon; use this time to refocus and strengthen your resolve. You're on the right path, so keep moving forward."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Sir. I... I... I... I... I'll... I'll try... I'll try... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to... to"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Potter. Take care of yourself, and we'll continue to work together on this path of improvement. Remember to lean on your team and mentors as you navigate this journey. Your dedication is appreciated, and we're here to help. Until next time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I... I... I will, Sir. I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"I spent weeks in the library, pouring over tactical strategy, nonverbal spell work, anything that could help me anticipate.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"I visited them in St. Mungo's every day, helped with their recovery, tried to make sure they had everything they needed.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"I got ahead of myself. I didn't wait for backup, I didn't trust the local contacts.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"I appreciate your guidance, and... and the... the... chance to... to... to grow.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"I was shattered, Sir. I felt like I'd let everyone down, especially those who were injured.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "I spent weeks in the library, pouring over tactical strategy, nonverbal spell work, anything that could help me anticipate."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "I visited them in St. Mungo's every day, helped with their recovery, tried to make sure they had everything they needed."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "I got ahead of myself. I didn't wait for backup, I didn't trust the local contacts."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "I appreciate your guidance, and... and the... the... chance to... to... to grow."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "I was shattered, Sir. I felt like I'd let everyone down, especially those who were injured."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.2
+}

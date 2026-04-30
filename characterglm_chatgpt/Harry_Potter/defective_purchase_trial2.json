@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "75d4ac7f0bcf",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. Potter! How can I assist you today at Quality Quidditch Supplies? Looking for anything in particular, or perhaps something's not quite right?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day. I purchased a broom-servicing kit from here recently, and I'm afraid there are a couple of issues with it. The handle polish is dried out, and the tail-twig clippers are rusted. I was hoping to get either a refund or a replacement."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, I see. I understand how that could be quite frustrating. Unfortunately, all servicing kits are non-refundable once the seal is broken, Mr. Potter. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum, I'm afraid. May I help with anything else today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "But... it's brand new and defective! I've hardly used it at all. Isn't there anything you can do? It's not like I can use it in its current state."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand your frustration, Mr. Potter, and I truly sympathize with your situation. While we, unfortunately, cannot process a refund or replacement directly because the seal is broken, I can assist you with contacting the manufacturer to expedite the process. Also, if you'd like, I can offer a discount on a purchase of a new kit in the meantime. Would that help?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I don't know. It's not ideal, but if you're offering a discount on a new kit, that might be the best option. Could you tell me how much of a discount you're able to provide?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Mr. Potter. Let me check what we can do for you. Under the circumstances, I can offer you a 15% discount on a new broom-servicing kit. While it's not perfect, we're hoping it helps make things a little easier for you. Would you like to go ahead with that?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "15% is... not bad, I suppose. I guess that's the best I can hope for right now. I'll take the discount and get a new kit. It's just a bit of a hassle, you know? I was looking forward to using the original one."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand, Mr. Potter. It is certainly inconvenient, and I'm sorry for the trouble. Let me get that sorted for you right away so you can get back to enjoying your broom as soon as possible. Thank you for being so understanding, and please, feel free to reach out if there's anything else I can do for you today."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Okay, I'll take it. It's not ideal, but at least I'll have a working kit soon. Thank you for the discount and for trying to help. I'll make sure to let you know if there are any more issues. Have a good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're very welcome, Mr. Potter. I hope the new kit works perfectly for you, and do not hesitate to pop back in if anything else comes up. Have a wonderful day, and happy Quidditch-ing!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll do that. Thanks again. I'll head out now and get my new kit. See you later, perhaps under better circumstances. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Mr. Potter! Looking forward to seeing you again, hopefully under much better circumstances. Safe flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Safe flying to you too. I'll be back if I need anything else. Thanks for your help, it's much appreciated. Take care, and see you next time!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Potter. It was a pleasure helping you. See you next time, and take care!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You too. See you next time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See you next time, Mr. Potter!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Bye!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, Mr. Potter!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Bye!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Harry focuses on practical issues and solutions, shows little interest in exploring new experiences or ideas.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Harry is concerned with resolving the issue properly, returning the defective kit and accepting a discounted replacement.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Engages in polite conversation but doesn't exhibit high enthusiasm or assertiveness.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Expresses understanding and gratitude, saying 'thank you for the discount and for trying to help.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Expresses mild frustration, 'it's just a bit of a hassle,' but remains calm and composed.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Harry focuses on practical issues and solutions, shows little interest in exploring new experiences or ideas."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Harry is concerned with resolving the issue properly, returning the defective kit and accepting a discounted replacement."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Engages in polite conversation but doesn't exhibit high enthusiasm or assertiveness."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Expresses understanding and gratitude, saying 'thank you for the discount and for trying to help.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Expresses mild frustration, 'it's just a bit of a hassle,' but remains calm and composed."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

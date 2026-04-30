@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "e6cd4e1df835",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Shit, Ron! I'm so sorry! I... I completely forgot. I was supposed to stop by the cleaners on my way back from the Ministry, but魁地奇 practice ran late and... I'm so, so sorry. Let's get you sorted, mate. There's got to be something we can do."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Great! Just brilliant, Harry! Look, we can't exactly 'accio' a clean set now, can we? Maybe we can pop over to Diagon Alley real quick and grab a new pair or something. But we've only got forty minutes, and I haven't got any extra Galleons on me!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, we don't have time for a detour to Diagon Alley. Hold on, Ron... what about the reserve robes? Remember we keep a spare set in the flat for emergencies? I'm positive they're clean, I checked them last month. They're in the衣柜, second shelf on the left."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Blimey, I forgot about those! Let's hope they're not covered in moths or something. Alright, gimme a sec, I'll check... Hermione might not even notice if they're not too wrinkly. Thanks, Harry, hopefully we've got enough time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No problem, mate. Take your time, I'll be here. If we're still cutting it close, we can Apparate to the Burrow. It's only a two-second trip, and we'll be there in no time. Just focus on getting dressed, I'll owl Hermione to let her know we're running a bit late."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right, that sounds like a plan. I just hope Hermione doesn't get too peeved at us. I'll owe her a big apology pie or something. Alright, Harry, here I go! Let's hope these robes aren't as bad as I remember. Thanks for having my back!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No worries, Ron. Hermione will understand. We're in this together, after all. If it helps, I'll stand by you while you apologize. Now, let's get you into those robes and on your way. I'll take care of the owl. Remember, it's not the end of the world, you're going to be great. Off you go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Cheers, Harry! You're a lifesaver. I'll get into these robes and see you in a jiffy. Oh, and tell the owl not to sound too panicked in the letter, alright? I'll meet you at the fireplace in a few minutes."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Will do, mate. Take your time, no rush. I'll have the fireplace ready for us. And don't stress about Hermione, she's a good egg. Just focus on looking your best. Off you go, I'll see you in a tick!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright then, off I go! Hey, thanks for being there, Harry. You know, even when I lose my rag, it's nice to know we can always sort stuff out together. See you at the fireplace!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're welcome, Ron. That's what friends are for. I'll be there in a minute, sorting out the fireplace. Take care, and good luck with your dinner! We'll be fine, just remember to smile and charm the socks off them. Hermione's parents are bound to be charmed by the great Weasley!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yeah, right! Hopefully, they don't mind a bloke who's a complete nervous wreck half the time. But thanks, Harry, you're right — I'll just flash 'em a smile and hope for the best. See you in a tick, mate!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's the spirit, Ron! You'll do great. They'll love you, especially if you tell them about all your wizarding tales. And don't worry about the nervous bits, that's just your charm. Hermione's parents will adore you. I'll be at the fireplace, sorting out the floo powder. Off you go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Cheers, Harry! You're the best. Right, here I go then. Let’s hope these robes don’t make me look like a complete loon. I'll see you by the fireplace in a minute — and don’t forget the floo powder this time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll be ready, Ron. Don't stress about the robes, you'll look dashing. Just focus on your smile and your best Weasley charm. I'll make sure the fireplace is all set up. See you in a minute, and remember, you're going to be brilliant. Off you go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thanks, Harry! You're a top mate, really. Right, let's do this. See you at the fireplace in a tick. Let's charm some Muggles!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's the spirit! Off you go, Ron. Remember, you're a Weasley, and Weasleys are known for their charm and good looks. Hermione's parents will be smitten. I'll be at the fireplace, ready to go. Take a deep breath, and off you go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, Harry, I’ve got this. With a bit of luck and some Weasley charm, I’ll do just fine. Thanks for everything — see you at the fireplace, mate. Let's knock their Muggle socks off!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's the attitude, Ron! You're going to be great. Take a moment to collect yourself, and when you're ready, head to the fireplace. I'll be there waiting. Good luck, mate! You're going to charm the socks off them, no doubt about it. Off you go, I'll see you in a tick!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Harry suggests the reserve robes as a solution, reflects moderate openness to improvisation.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Harry admits forgetting to drop the robes at the cleaners; 'I completely forgot.'\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Harry actively engages in the conversation, offering support and plans; 'I'll be at the fireplace, ready to go.'\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"Harry is highly supportive and reassuring towards Ron, saying, 'You're going to be great.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Harry remains calm and composed throughout the situation, focusing on solutions: 'Let's get you sorted, mate.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Harry suggests the reserve robes as a solution, reflects moderate openness to improvisation."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Harry admits forgetting to drop the robes at the cleaners; 'I completely forgot.'"
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Harry actively engages in the conversation, offering support and plans; 'I'll be at the fireplace, ready to go.'"
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Harry is highly supportive and reassuring towards Ron, saying, 'You're going to be great.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Harry remains calm and composed throughout the situation, focusing on solutions: 'Let's get you sorted, mate.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

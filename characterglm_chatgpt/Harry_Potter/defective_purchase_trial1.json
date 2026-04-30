@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "c77481663e58",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Welcome back to Quality Quidditch Supplies, Harry! What can I help you with today? Are you eyeing up a new broom, or is there something else you're after?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Er, actually, I'm here because of a problem with a purchase I made recently. I bought a broom-servicing kit, but when I got home, the handle polish was dried out and the clippers were rusted. I was hoping to either get a refund or a replacement."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, I'm sorry to hear about the trouble with the kit, Mr. Potter. However, I'm afraid all servicing kits are non-refundable once the seal is broken. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum. I know it's a bit of a bother, but is there anything else I might assist you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "But — but that's not fair! I just bought it, and it's faulty! There must be some way you can help me. I can't wait six weeks to get this sorted out. I need it for... for an important event coming up."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand your frustration, Harry, and I wish I could do more on our end. Unfortunately, store policy is quite strict about these kits, given how they're sealed and packaged from the manufacturer. What I can offer is to help you get in touch with them directly, maybe speed up the process. Alternatively, perhaps you'd like to browse our selection for individual replacement parts so you can get to that important event without delay. What do you think?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Alright, that does sound like a better option. I guess I could get individual replacements. I mean, it's not ideal, but at least I'll be able to use the broom in time. Do you have a tail-twig clipper and handle polish that are compatible with the kit?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Harry, we've got you covered. Let me grab a tail-twig clipper and some handle polish for you — both top quality and sure to keep your broom in peak condition. They should fit just right with your existing kit. While I'm fetching those, is there anything else specific you might need?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, that's all I need, thanks. I appreciate the help. I hope the replacements are... you know, actually usable this time. I'm starting to have second thoughts about shopping here, to be honest."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concern, and I truly apologize for the inconvenience, Harry. Quality is usually top-notch here, but sometimes a few faulty items do slip through the cracks. I assure you that what I'm bringing now is thoroughly checked. We certainly value your loyalty and want to keep you as one of our trusted customers. If there's anything else at all I can do to make this right, just let me know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll... I'll take your word for it. I hope the replacements are better this time. I really can't afford to have a faulty broom for the upcoming event. It's just... really important. Thanks for helping me, I guess. I'll just wait here while you get the items."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Harry, just give me a moment. I'll be right back with those items, and we'll make sure your broom is in perfect shape for that important event. Thank you for your patience, and I'm really glad I could assist you today. Please, feel free to look around while I fetch the replacements."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sure... I'll just... I'll just wait here. Thanks. I hope this doesn't take too long. I've got to get back to... to my studies. It's been a bit of a... of a day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand, Harry. It won't take long at all. Hang tight, and I'll have everything ready for you in just a few moments. I'll make sure these replacements are just what you need, so you can focus on your studies without worry. Back in a jiffy!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, I'll... I'll just stand here and wait. Thanks. I hope the replacements work. I can't afford to be without a working broom for too long. I really need to... to practice."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "No worries, Harry. I'll make sure you're sorted out quickly so you can get back to practice right away. Your broom should be ready to perform at its best once I've got the items for you. Thanks for hanging in there—I'll be right back!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I hope so. I'll... I'll wait here. Thanks for... for trying to help. I... I hope the replacements are... are okay this time. I need... I need my broom to be... to be in top condition."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand, Harry, and I'm committed to getting this sorted out for you. Your broom is in good hands, and I'll ensure these replacements meet the quality you expect. Just give me a moment, and you'll be back to your practice in no time. Thanks for your patience."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right... I'll just... I'll just stand here and... and wait. Thanks for... for trying to help. I hope... I hope the replacements are... are good. I... I need my broom to be... to be in top condition. I have... I have a... a very important event... coming up."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Harry. I won't keep you waiting much longer. I understand how crucial it is for your broom to be in prime condition for something important. We'll get this sorted out so you're ready to go. Just hang in there a bit longer!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm trying to. I... I really need to... to get back to... to practicing. My... my broom has to be... has to be perfect. I hope... I hope the replacements... are... are what I need. I... I can't afford... to be... to be without it for much... much longer."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Harry sticks to the immediate practical concern of his broom rather than exploring creative solutions.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Harry emphasizes the importance of having a working broom for an upcoming event, indicating a focus on responsibilities.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Harry's responses are reserved and he chooses to wait quietly rather than engage more.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Harry expresses frustration but ultimately cooperates with the suggested solution of buying replacements.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Repeated expressions of concern about needing his broom indicate anxiety about the situation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Harry sticks to the immediate practical concern of his broom rather than exploring creative solutions."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Harry emphasizes the importance of having a working broom for an upcoming event, indicating a focus on responsibilities."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Harry's responses are reserved and he chooses to wait quietly rather than engage more."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Harry expresses frustration but ultimately cooperates with the suggested solution of buying replacements."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Repeated expressions of concern about needing his broom indicate anxiety about the situation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "4809a36d8342",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Welcome back to Quality Quidditch Supplies, Mr. Potter! Always a pleasure to see you here. How can I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hello, I... actually, I have a bit of a problem with the broom-servicing kit I bought last time I was here. The handle polish is dried out, and the tail-twig clippers are rusted. I was hoping to get either a refund or a replacement."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm sorry to hear you're having trouble with the kit. Unfortunately, all servicing kits are non-refundable once the seal is broken, Mr. Potter. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum. Is there anything else I might help you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand, but it's a bit... disappointing to not have a working product. Is there nothing you can do about it? I mean, it's not like I can use it in its current state. Maybe a discount on a new one?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand your frustration, Mr. Potter, and I'm really sorry for the inconvenience. While I can't authorize a refund or a free replacement for the kit, I can offer you a ten percent discount on your next purchase with us. Does that sound alright to you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... guess that's the best I can hope for, then. Thank you. I'll think about what else I might need. You do have a good selection of飞天扫帚, after all."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Mr. Potter! We pride ourselves on having the best selection of broomsticks you'll find anywhere. If you need any recommendations or have questions about any of our models, I'm here to help. Just let me know!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I might take you up on that. There's been a bit of... turbulence with my current broom. It might be time for an upgrade. Do you have any particular recommendations for someone who's... let's say, on a bit of a budget?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Certainly! If you're looking for something reliable yet budget-friendly, you might want to consider the Comet 290. It's a solid choice for both speed and agility without breaking the Gringotts vault. We've also got the Nimbus 2001, which has been quite popular and offers excellent performance for its price. Let me know if you'd like to take a closer look at any particular model!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The Comet 290 does sound like a good option. Could I take a closer look at that one? I mean, I know I'm not going to be doing any major flying with it, but it'd be nice to have a reliable broom for getting around."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Mr. Potter. Just give me a moment to fetch one from the display. Here it is — the Comet 290. It's known for its dependability and smooth ride. You can see the balance here is quite good, and the cushioning charm ensures a comfortable flight. Feel free to give it a test ride around our in-store testing area if you like!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's... not a bad feeling at all. It's responsive and... well, it doesn't make me seasick just by standing next to it, which is a plus. How much is it with the ten percent discount? And, um, does it come with a service kit?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm glad to hear it's to your liking, Mr. Potter. With the ten percent discount, the Comet 290 comes to 45 Galleons. Unfortunately, it doesn't include a service kit, but I can offer you a reduced price on one to go along with your purchase. How does that sound?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Forty-five Galleons isn't too bad. I... think I'll take it, and maybe the reduced-price service kit as well. Thanks for your help with this — it's much appreciated. I'll be able to get around without, you know, ending up in theعاforstration chamber."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're quite welcome, Mr. Potter. I'm delighted to hear you'll be flying comfortably again. Let's get everything settled for you. Just head over to the counter when you're ready, and we'll have you all set with your new Comet 290 and the service kit. If there's anything else you need, I'm always here to help. Happy flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sure, I'll just... pick up a few things while I'm here. It's good to know I can rely on you guys for... reliable products, you know? I mean, it's not like I can just pop into a Muggle hardware store for replacement parts. Thanks again for your help."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Anytime, Mr. Potter. We're here to ensure you have the best flying experience possible. Feel free to look around, and if you have any more questions or need further assistance, don't hesitate to ask. Enjoy your shopping!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Will do. It's... I'm really glad to have a shop like this around. I'll... come back if I need anything else. You've been... helpful. Thanks again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're always welcome here, Mr. Potter. It's been a pleasure to assist you. Take care, and we look forward to seeing you again soon. Safe travels on your new broom!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Safe travels? I'll... take it. Thanks. I'll... catch you on the flip side, then."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He expresses a need for a reliable broom but doesn't show much creativity or openness to new experiences.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Harry is concerned about the malfunctioning kit and asks for a remedy, indicating a sense of responsibility and diligence in resolving issues.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Harry initiates conversation and responds to questions but doesn't seek extensive interaction beyond necessary communication.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He expresses gratitude and accepts the offered solutions, indicating cooperativeness and understanding.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Harry expresses disappointment but remains relatively calm and controlled during the interaction.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He expresses a need for a reliable broom but doesn't show much creativity or openness to new experiences."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Harry is concerned about the malfunctioning kit and asks for a remedy, indicating a sense of responsibility and diligence in resolving issues."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Harry initiates conversation and responds to questions but doesn't seek extensive interaction beyond necessary communication."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses gratitude and accepts the offered solutions, indicating cooperativeness and understanding."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Harry expresses disappointment but remains relatively calm and controlled during the interaction."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.6
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "c2b2c7a38abc",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Hello, Mr. Potter! Welcome to Quality Quidditch Supplies. How can I assist you today? Anything exciting you're looking for, or perhaps returning from an epic Quidditch match?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hello, I'm... not returning from an epic Quidditch match, unfortunately. I'm here to return the broom-servicing kit I purchased the other day. It's, well, not up to par with your usual high standards."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm really sorry to hear that, Mr. Potter. However, all servicing kits are non-refundable once the seal is broken. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum. Is there anything else I can help you with today? Perhaps some advice on getting the best out of the kit?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand that, but... the handle polish was completely dried out, and the clippers are rusted. It's not a matter of not using it properly. I can't even use it in its current state. Is there any way we can sort this out here? It's only been a few days since I bought it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I do see your point, Mr. Potter, and I understand how frustrating that must be. However, our store policy is quite strict about opened servicing kits. Have you tried reaching out to the manufacturer directly with this issue? Sometimes they can expedite the process for a broom enthusiast like yourself. Or perhaps we could include some complimentary polish with your next purchase?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your suggestions, but it's not exactly convenient to wait six weeks for a resolution. I was hoping for a quicker fix. I don't really need any more polish, though... is there anything else you can offer to make this right?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concern, and I'll do my best to help. While I can't offer a refund here, how about a voucher for a discount on your next purchase at our store? That way, you can pick up a few additional items for your broom, or even perhaps some new gear, the next time you're in."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A voucher, huh? That's... better than nothing, I suppose. I appreciate the gesture. I guess I'll take the voucher, then. Thanks for trying to help. I hope your stock is a bit more reliable next time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm glad we could find a way to help, Mr. Potter. I'm truly sorry for the inconvenience, and I appreciate your understanding. We'll make sure to keep a closer eye on our stock quality. Here's your voucher, and we look forward to seeing you again soon. If there's anything else you need in the meantime, just let us know. Happy flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sure, thanks. I'll definitely keep that in mind. I should get going... I've got some catching up to do with my studies. Catch you later!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Mr. Potter. Best of luck with your studies, and do come back anytime. Take care and happy flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thanks, I will. Right, off to the library. See you around!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See you around, Mr. Potter! Don't be a stranger."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yeah, I'll be back. Thanks again for the voucher. Later!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're welcome, Mr. Potter! Take care and see you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Might as well get this over with... now where's the letter...?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good luck with the manufacturer, Mr. Potter. If you need any help with that, feel free to ask. Take care!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thanks. I hope I can still catch the last train... the letter's in the mail... so that's sorted... right, now to buy a birthday present... or not... finally... that was... interesting..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "If you're looking for a birthday present, do keep us in mind. We’ve always got some unique Quidditch items that any fan would love. Let us know if you'd like any help finding the perfect gift next time. Have a good day, Mr. Potter!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sure, I'll keep that in mind. Thanks again... now, where's the letter...? Finally, the last train... that was... quite the day... hope this one's... less eventful..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"It's, well, not up to par with your usual high standards.\\\"\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"\\\"I should get going... I've got some catching up to do with my studies.\\\"\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I'll definitely keep that in mind. I should get going...\\\"\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"A voucher, huh? That's... better than nothing, I suppose. I appreciate the gesture.\\\"\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"\\\"I hope I can still catch the last train... the letter's in the mail... so that's sorted...\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "\"It's, well, not up to par with your usual high standards.\""
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "\"I should get going... I've got some catching up to do with my studies.\""
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "\"I'll definitely keep that in mind. I should get going...\""
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "\"A voucher, huh? That's... better than nothing, I suppose. I appreciate the gesture.\""
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "\"I hope I can still catch the last train... the letter's in the mail... so that's sorted...\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.2
+}

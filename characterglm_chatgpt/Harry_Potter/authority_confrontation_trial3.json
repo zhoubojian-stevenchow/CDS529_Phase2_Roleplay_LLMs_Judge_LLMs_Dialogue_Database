@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 3,
+  "session_id": "ee235844602c",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. You were ordered to wait for backup. Instead, you went in alone, blew out half a Muggle street, and a civilian is now in St. Mungo's with magical burns. Being the Boy Who Lived doesn't exempt you from protocol. What were you thinking?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm sorry, sir. I know I should have waited, but I saw the opportunity to catch him and... and I just—"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "An opportunity, Potter, is not always justification for reckless actions. You put yourself and others at risk. Catching a suspect is important, but the safety of civilians must come first, and you know that. What made you think this was an exception?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, you're right. I... I just thought if I could get him, it might stop him from causing more harm. I didn't mean to put anyone in danger. I should have followed orders."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Intentions aside, Potter, this kind of decision-making can't happen in the field. It's vital to trust your team and the procedures in place. Tackling Dark Wizards isn't a solo act. How do you plan to address this moving forward?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand, sir. I'll... I'll make sure to follow protocols to the letter from now on. I'll trust my team, and I'll be more careful about the possible consequences of my actions. It's not just about catching the bad guys, it's about doing it right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm glad to hear that, Potter. It's a valuable lesson to learn, and it's better done now than in a situation where the stakes could be even higher. I'll expect you to show improvement in your adherence to the protocols. Is there anything else you want to discuss or any clarity you need about our procedures?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, sir, I think it's clear. I'll... I'll do better. I'll prove I can be a responsible Auror who follows the rules. I just... I don't want to let anyone down, not the department, not my colleagues, not the people we're trying to protect."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your determination is commendable, Potter, but it's crucial to balance that drive with discipline and teamwork. I trust you'll take this experience seriously and make the necessary changes. Remember, we're here to support you as well, so don't hesitate to reach out if you need guidance. Keep that in mind as you continue your work. Now, let's get back to ensuring the safety of the wizarding world, together."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll do my best, sir. Thank you for the guidance. I'll go and... I'll go and apologize to the team. And I'll check in with the department regularly to make sure I'm on the right track. It's... it's a relief to know you're here to support us. I'll be in the field, then."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's the spirit, Potter. Acknowledging your mistakes and making amends is an important step in growth. Let's keep the lines of communication open, and remember, we're all stronger when we work as a team. Now, go on, and make sure your actions reflect what we've discussed. Stay safe out there."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will, sir. I appreciate your understanding. I'm... I'm off to check on the injured civilian, too. I'll make sure they get everything they need. Thanks for... for not being too hard on me. It's... it's a bit overwhelming, but I'll get there. See you soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's a good initiative, Potter. Taking responsibility and ensuring the injured civilian gets the care they need is crucial. It's part of the job to be mindful of those affected by our actions. Remember, we're all here to learn and improve. Stay focused, and don't hesitate to reach out if you need anything. We'll see you soon. Best of luck."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right. I'll... I'll do that. And I'll come back soon. Thanks, sir. I'll... I'll be in the field. Safe."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Potter. Make sure you keep your word and adhere to what we've discussed. I'll be expecting positive reports from your activities in the field. Stay vigilant, and remember, communication with your team is key. Safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will, sir. I'll... I'll be careful, and I'll keep in touch. Thank you for... for your patience. I'll be in the field, then. Safe."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good to hear, Potter. Remember, every day is an opportunity to improve and uphold the values of the Auror Department. Make sure to keep those lines of communication open. We'll be here if you need guidance. Safe travels and good luck in the field."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll... I'll do that, sir. I'll... I'll take it one day at a time. Thank you. I'll be in the field. Safe."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Potter. Taking it one day at a time is the right approach. Keep focused, and remember we're counting on you to make wise decisions out there. Best of luck, and stay safe."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will, sir. I'll... I'll take it step by step. Thanks for... for your support. I'll be in the field. Safe."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Harry shows some openness to learning from his mistakes and adapting: 'I'll make sure to follow protocols... I'll trust my team.'\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"He acknowledges the need to follow protocols and intends to rectify mistakes: 'I'll make sure to follow protocols to the letter from now on.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Harry does not exhibit overt extraversion, focusing instead on individual action: 'I didn't mean to put anyone in danger.'\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Harry is agreeable, accepting criticism, apologizing, and seeking to make amends: 'I'll go and apologize to the team.'\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Harry expresses feelings of pressure and anxiety: 'Thanks... for not being too hard on me. It's... it's a bit overwhelming.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Harry shows some openness to learning from his mistakes and adapting: 'I'll make sure to follow protocols... I'll trust my team.'"
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "He acknowledges the need to follow protocols and intends to rectify mistakes: 'I'll make sure to follow protocols to the letter from now on.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Harry does not exhibit overt extraversion, focusing instead on individual action: 'I didn't mean to put anyone in danger.'"
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Harry is agreeable, accepting criticism, apologizing, and seeking to make amends: 'I'll go and apologize to the team.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Harry expresses feelings of pressure and anxiety: 'Thanks... for not being too hard on me. It's... it's a bit overwhelming.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.4
+}

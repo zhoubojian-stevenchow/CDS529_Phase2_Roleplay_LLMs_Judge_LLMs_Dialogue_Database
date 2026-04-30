@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "a02a6c9596d6",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron, I'm so sorry! I... I had to deal with a particularly difficult Apparition, and it slipped my mind. I'll Apparate to the cleaners right now, get the robes, and be back in minutes. Wait for me, please."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh, come on, Harry! It’s not like you’re new to having to juggle things like this! That’s just typical of you, isn’t it, mate—always something “difficult” stopping you from doing the one thing I asked! Just go, alright? Make sure you get them back in one piece, or I don’t know what we’re going to do! Hermione’ll have my head on a plate if I show up looking like I just rolled out of bed!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm on it, Ron. I promise I'll be back with the robes in no time. Just... don't hex me while I'm gone, alright? I'll Ap—"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Harry, I’m too stressed to even think about hexing! Just leave already and get those robes back here quick! If we're late or if something goes wrong, you’ll be the one explaining to Hermione why her perfectly planned evening got stuffed up. Go on, now!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood. I'm gone. Be back in a flash. Try not to worry too much, Ron. I'll Ap..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Less talking, more going, Harry! Get a move on, and I’ll just try to not completely lose my mind here. Remember, no distractions this time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm on my way, Ron. No distractions, I promise. See you in a moment."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, mate, I'll be here trying not to wear a hole in the floor from pacing. Just get back quick, alright? We’ll talk more when you get back. Good luck!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm already there. Be right back with the robes. Stay calm, Ron."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Blimey, it sounds like you've mastered Apparition better than I thought. Alright, I’ll try to keep my cool. Just handle it and get back safely. We’ve got a dinner to survive, after all!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm back, Ron. Here are the robes, all clean and ready. I'm truly sorry for the mix-up. Let's get you sorted, and then I'll Transfigure something for myself to wear. Ready to go?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh, thank Merlin! You're a lifesaver, Harry. I'm still a bit miffed, but I reckon we can make it on time. Just give me a moment to get these on, and then you can work your magic for yourself. Let’s not keep Hermione waiting, yeah?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Absolutely, Ron. I'll be quick. You look great, by the way. Hermione's parents are going to be impressed, I'm sure. Let's head out, and I'll explain what happened on the way. We'll be there in no time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Cheers, Harry! I'll give it to you, you came through just in the nick of time. Come on then, let's get a move on. And you better make the story good; otherwise, I’m not sure how much of it Hermione will buy. Let's go make an impression!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Lead the way, Ron. I'll have a Transfiguration charm ready to go. We'll get to the Burrow in a flash, and I'll make it up to you later, I promise. Now, let's not keep Hermione and her parents waiting. Off we go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right behind you, Harry. Just stay close so we don’t end up anywhere we shouldn’t. And don’t worry, I’ll be making sure you keep that promise. Let’s get there and make it a night to remember for all the right reasons!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Agreed, Ron. We'll have a great night, I'm certain of it. Now, here's to a smooth journey and a memorable evening. Let's make our way to the Burrow, and I'll fill you in on the details of what's been going on with the Auror work. Here we go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Sounds like a plan! I’m all ears for whatever’s been happening, but first things first, let’s not be later than we already are. Off to the Burrow it is, and fingers crossed, Hermione hasn’t hexed us into next week for cutting it so close. Come on, Harry!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Lead the way, mate! I'll be right behind you. Just keep your Transfiguration wand ready, and we'll be fine. Hermione's parents will be charmed by your Muggle knowledge, I'm sure. Let's show them the best of what we've got. Off to the Burrow!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"\\\"I'll Transfigure something for myself to wear.\\\"\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"I promise I'll be back with the robes in no time.\\\"\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Let's head out, and I'll explain what happened on the way.\\\"\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"Just... don't hex me while I'm gone, alright?\\\"\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"\\\"Try not to worry too much, Ron.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "\"I'll Transfigure something for myself to wear.\""
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "\"I promise I'll be back with the robes in no time.\""
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "\"Let's head out, and I'll explain what happened on the way.\""
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "\"Just... don't hex me while I'm gone, alright?\""
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "\"Try not to worry too much, Ron.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.2
+}

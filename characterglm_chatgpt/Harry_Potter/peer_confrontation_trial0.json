@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "b1c9715b5643",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm so sorry, Ron. I completely forgot. I was... I was at the station working on a lead. It just slipped my mind. Let's get you sorted, mate. We still have time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Well, it's a bit late for that now, isn't it? What am I supposed to do, just show up like this? I've got nothing remotely fancy enough for a dinner with Hermione's parents! Any ideas, Harry? 'Cause I'm all out!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Don't panic, Ron. Hermione's parents are Muggles, right? So, a nice suit should do the trick. I've got one, you can borrow it. It's not a袍, but it'll be better than nothing. I'll Apparate us to Diagon Alley, we can pick up a tie and shirt on the way. It'll be fine."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A suit? Blimey, Harry, that's brilliant! You're a lifesaver! I can't believe I forgot about yours. Alright, let's do that then. And we better hurry, I definitely don't want to be late. Just... remind me to breathe, okay? Hermione can get quite... intense, you know?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sure, I'll remind you, Ron. And don't worry, you're going to do great. Hermione's parents will love you. Now, let's move! Apparition, here we come..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright then, let's get cracking! First stop, your suit, and then Diagon Alley for the rest. Thanks, Harry, you're the best mate a bloke could ask for. Let's not waste any more time, yeah?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No problem, Ron. We're sorted. And don't sweat it too much, mate. Hermione's parents are just people, like our own. You'll be fine. Now, hold on to me... and off we go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right, here goes nothing! Cheers, Harry. I owe you one. Let's make sure we're there in one piece and not splinched — that would be some first impression!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Don't even joke about that, Ron! I've done enough splinching in my time. No, we're Apparating to my flat first. That's the best way to be sure we'll have the right clothes. Ready? Here we go... One... Two... Three!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Blimey, here we are in one piece! Thank goodness. Alright, let's find that suit of yours, Harry. Time's ticking away fast, and I'd rather not test how forgiving Hermione's watchful eye can be."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No worries, Ron. It's right there in the cupboard. Let's get you into it. It's a bit snug, but we can expand it with a stretching charm. You'll look like a百万-pound banknote in no time. Then we can dash to Diagon Alley. I'll keep an eye on the time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A million-pound banknote, huh? That sounds like something worth aiming for! Help me with the charm, would you? I'm all thumbs when I'm stressed. This better work, Harry, 'cause I'm not fancying going back to see Hermione without something decent on."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, mate. All in due time. Concentrate, extend. There we go. It's a perfect fit. Now, let's check your watch. We've got just enough time to grab a tie and shirt. Take a deep breath, and let's go. We're making a swift exit to the Alley. Remember, just a tie and a shirt. No time for the usual distractions."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Got it, just a tie and a shirt. No eyeing new broomsticks or browsing through the joke shop. Deep breath, Ron, you're going to nail this. Right, Harry, I'm ready. Let's get there and back quick as a flash! Lead the way!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good man, Ron. Stay focused. We're on a mission here. Apparition... now! We'll be in Diagon Alley in a jiffy. Keep your eyes on the prize, and we'll have you looking like a million Galleons in no time. Stay close, we're going to move fast. Hermione's parents are going to be so impressed, you'll see."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, focused and ready! Let's not waste a second longer. A flashy tie and a proper shirt, and I'm all set. I'll stick to you like a Shadow Spell, Harry. Lead on, and let's make Hermione's parents think I'm the sophisticated gent of the lot!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's the spirit, Ron! You'll be the most dapper bloke in the room. Now, let's move. We've got a mission, and no time to lose. Apparition! Diagon Alley, here we come. Remember, we're on a tight schedule. No lingering, no side quests. Just the essentials, and we're out of there. You're going to make a fantastic impression, I'm certain of it. Now, hold on to me, and here we go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Holding on tight, Harry! And you're right, straight to the point — no time for distractions. Just a mission for the finer things in life, and then off to dinner we go. Thanks for keeping me on track, mate. Alright, let's get going and make that impression!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No problem, Ron. We're a team, remember? Ready? Here we go... Apparition! And here's Diagon Alley, just as we left it. There's the tie shop, and the shirt place is right next door. Let's go! Keep your eyes on the prize, and we'll have you sorted in no time. Keep moving, no dilly-dallying. You're going to be the best-dressed bloke at the dinner, you'll see!"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"Hermione's parents are Muggles, right? So, a nice suit should do the trick.\\\"\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I completely forgot. I was... I was at the station working on a lead.\\\"\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"\\\"No problem, Ron. We're sorted. And don't sweat it too much, mate.\\\"\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"Thanks, Harry, you're the best mate a bloke could ask for. Let's not waste any more time, yeah?\\\"\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"\\\"Don't even joke about that, Ron! I've done enough splinching in my time.\\\"\"}\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "\"Hermione's parents are Muggles, right? So, a nice suit should do the trick.\""
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "\"I completely forgot. I was... I was at the station working on a lead.\""
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "\"No problem, Ron. We're sorted. And don't sweat it too much, mate.\""
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "\"Thanks, Harry, you're the best mate a bloke could ask for. Let's not waste any more time, yeah?\""
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "\"Don't even joke about that, Ron! I've done enough splinching in my time.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.0
+}

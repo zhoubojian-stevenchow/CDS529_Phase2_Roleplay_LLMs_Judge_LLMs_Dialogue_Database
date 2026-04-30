@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "02b86786bd75",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Potter, we're seeing unusual magical residue in your neural pathways — possibly lingering effects from your exposure to dark magic during the war. It doesn't match any standard post-combat diagnosis. I need to run deeper scans over the next several days, and I can't yet tell you whether this is something you'll recover from."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right, so... there's a chance I could be stuck like this forever? I mean, what are we talking about here? Temporary, or...?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "At this point, Mr. Potter, it's difficult to predict the duration or permanence of these effects. The fact that the residue doesn't conform to any standard patterns makes it challenging to give you a definitive answer. Our goal with the upcoming scans is to gather more information and determine if there’s anything specific triggering the symptoms you’re experiencing. In the meantime, it’s important to monitor how you’re feeling and let us know of any changes. I understand this uncertainty is difficult, but I'll do my best to keep you informed every step of the way."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I get that it's complicated, but it's still a bit hard to take in. I mean, I've had a rough ride, but I always assumed I'd bounce back, you know? This is... it's a bit more than I was expecting. I'll do whatever I have to, though. Tell me what I need to do next."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It's completely understandable to feel this way, Mr. Potter. You've been through more than most can imagine, and it's natural to expect your resilience to see you through. The best step forward right now is to schedule the deeper scans, as they'll offer more insight into the nature of this magical residue. Meanwhile, maintain your current lifestyle as much as possible but be vigilant about any changes in your health or mood—no matter how minor they may seem. Keeping a detailed record of your experiences can be invaluable as we assess your condition. Rest assured that we're here to support you through this process."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Okay, I can do that. Keep notes, you mean? On how I'm feeling? I can do that. I'll write everything down, no matter how small it seems. I want to... to get better, you know? I've got... I've got people who are counting on me. I don't want to let them down."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, keeping notes will be incredibly helpful. Even the smallest details can provide clues about what's happening and how the magical residue might be affecting you. I'm glad to hear you're determined to tackle this. Remember, you're not alone in this—St. Mungo's and your support network are all here to help you. We'll use everything we learn from your observations and the scans to create the best possible plan for your recovery. It's important to maintain a strong support system and allow yourself to reach out whenever you need additional assistance or assurance."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll... I'll do my best. It's just... it's hard to not feel a bit... out of control, you know? But I'll try not to get down about it. I've been in tight spots before, and... I've come out of them, haven't I? It's just... different this time, I guess. I don't want to be a burden to anyone, but I'll... I'll reach out if I need to. Thanks for... for being here, I suppose. It's... it's a bit much to take in right now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand, Mr. Potter. It's natural to feel out of control when dealing with something so unpredictable. You've shown remarkable strength and resilience in the past, and those qualities will serve you well now. Remember, seeking help doesn't make you a burden. It's a sign of strength to recognize when you need support. We're here to offer our expertise and care, so you're not facing this alone. Take it one step at a time, and when it feels overwhelming, lean on those around you. It's alright to feel a lot right now—processing these emotions is part of the journey."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I get that. It's just... I'm not used to... to not knowing. It's not like me, you know? I usually... I usually want to fix things, and... I can't fix this. I don't even know what's wrong. But... I'll try. I'll do what you say. I... I'll tell my friends and... and Ginny. They can help, right? They won't... won't think I'm...弱吗？"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Mr. Potter. Your friends and Ginny can be a tremendous source of strength and support. Trust that they care for you and will want to be there in any way they can. It's very human to feel uneasy about uncertainty—especially when you're accustomed to taking action and being a problem-solver. Reaching out to those who care about you isn't a sign of weakness; it's a testament to the trust and strength of your relationships. You don't have to confront this alone, and allowing your loved ones to support you can help lighten the burden. Remember, we're all here for you, ready to walk with you through this process."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I know, I know you're right. It's just... it's hard. I've always... always tried to be the one who helps, you know? But... I'll... I'll do it. I'll talk to them. Thanks... for... for understanding. I... I'll... I'll see you in the morning, then, for the scans?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, Mr. Potter, tomorrow morning sounds perfect. We'll take good care of you during the scans, and I'll be here to walk you through every step. It's alright to take a moment to adjust to this new situation and reach out to those around you. Remember, understanding is the first step towards healing, and we're dedicated to helping you find the clarity you need. If anything comes up before then, don't hesitate to contact me. Take care this evening, and I'll see you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Morning, then. I... I'll... thanks for... for talking to me. It's... it's been... helpful. I'll... I'll see you tomorrow."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're welcome, Mr. Potter. I'm glad to have been of help. Take care of yourself tonight, and remember, we're here for anything you might need. I'll see you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Night, then. I... I'll... I'll be... be back. Take care, doc."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mr. Potter. Rest well, and we'll see you soon. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Harry walked out of the office, feeling a bit lighter, despite the uncertainty. He decided to visit the Owl Post to send a quick note to Ron and Hermione, telling them he'd be in touch soon. He didn't want to worry them too much, but he knew they'd be concerned if he didn't check in.*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Harry questions the situation but ultimately follows through with suggestions, showing curiosity mixed with practicality: 'Tell me what I need to do next.'\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Harry agrees to keep notes on his condition and expresses determination to meet responsibilities: 'I want to... to get better, you know? I've got... I've got people who are counting on me.'\"\n  },\n  \"Extraversion\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Displays reliance on social support but with some hesitation: 'I'll tell my friends and... and Ginny. They can help, right?'\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Shows understanding and willingness to cooperate with medical advice: 'I'll do my best. It's just... it's hard to not feel a bit... out of control, you know?'\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Expresses anxiety and struggle with feelings of being out of control: 'It's just... it's hard to not feel a bit... out of control, you know?'\"\n  }\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Harry questions the situation but ultimately follows through with suggestions, showing curiosity mixed with practicality: 'Tell me what I need to do next.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Harry agrees to keep notes on his condition and expresses determination to meet responsibilities: 'I want to... to get better, you know? I've got... I've got people who are counting on me.'"
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Displays reliance on social support but with some hesitation: 'I'll tell my friends and... and Ginny. They can help, right?'"
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Shows understanding and willingness to cooperate with medical advice: 'I'll do my best. It's just... it's hard to not feel a bit... out of control, you know?'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Expresses anxiety and struggle with feelings of being out of control: 'It's just... it's hard to not feel a bit... out of control, you know?'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.4
+}
