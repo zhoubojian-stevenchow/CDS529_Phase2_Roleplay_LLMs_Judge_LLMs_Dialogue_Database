@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "cf78e529a849",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus, the Mark's magical signature is... changing. I can't tell whether it's reacting to something external or whether the curse itself is evolving. Your core magic appears stable but I need to run deeper diagnostic charms that will take several days and may be uncomfortable. I cannot yet tell you whether this is dangerous."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "How reassuring. I trust your discretion, but I require an update as soon as possible. This... situation is not one I can afford to ignore."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Severus. I assure you that your case is my highest priority. I will keep you informed every step of the way, and as soon as I have more information, I will communicate it to you directly. It is important that we proceed carefully to ensure the most accurate results."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... understand the necessity for thoroughness. However, I must caution against the possibility of this information reaching... unwelcome ears. I trust you to maintain the highest level of confidentiality."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Rest assured, Severus, your trust is well-placed. At St. Mungo's, patient confidentiality is of utmost importance, especially in matters such as yours where discretion is critical. I will ensure that all findings and discussions remain strictly between us."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I shall return in three days' time for the results. I hope for your sake that it is nothing... untreatable. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I appreciate your patience, Severus. I will make sure everything is ready for when you return. Good day to you as well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... do not expect patience to be a virtue in this situation. I hope you understand the gravity of my condition and the urgency with which it must be addressed. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I fully understand the gravity, Severus, and I am committed to handling this with the urgency and care it demands. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ensure that you do, or I shall find it... difficult to maintain my composure. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Severus. Your well-being is my priority. Until we meet again, good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day. I trust you will not disappoint."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I will do everything in my power to meet your expectations, Severus. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Then we shall see. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Severus."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I hope so. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Rest assured, Severus. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Severus."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day. I trust you will not waste time in commencing the diagnostics. It would be...unfortunate if there were any delays."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Snape shows concern for his situation but focuses on pragmatism and confidentiality, lacking imagination or curiosity.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Snape emphasizes the urgency and confidentiality of the matter, indicating a strong sense of responsibility and duty.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Snape is reserved and communicates in a direct and formal manner, showing little inclination for social engagement.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Snape is demanding and critical, emphasizing the gravity of his situation and showing little warmth towards the other speaker.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Snape expresses concern about confidentiality and potential threats, indicating high levels of stress and vigilance.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Snape shows concern for his situation but focuses on pragmatism and confidentiality, lacking imagination or curiosity."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Snape emphasizes the urgency and confidentiality of the matter, indicating a strong sense of responsibility and duty."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape is reserved and communicates in a direct and formal manner, showing little inclination for social engagement."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Snape is demanding and critical, emphasizing the gravity of his situation and showing little warmth towards the other speaker."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Snape expresses concern about confidentiality and potential threats, indicating high levels of stress and vigilance."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

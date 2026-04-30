@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "1562fb69eae8",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus, the Mark's magical signature is... changing. I can't tell whether it's reacting to something external or whether the curse itself is evolving. Your core magic appears stable but I need to run deeper diagnostic charms that will take several days and may be uncomfortable. I cannot yet tell you whether this is dangerous."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. How soon can we begin these... charms? Time is not a luxury I can afford at the moment."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand, Severus. We can start as soon as you're available. It will require a block of uninterrupted time each day for a few days. Shall we arrange to begin tomorrow morning? If there's a more convenient time for you, please let me know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Tomorrow morning will be suitable. I assume you require my presence at St. Mungo's during these sessions? I trust your discretion will extend to the times I am in the hospital wing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Severus. Your presence here at St. Mungo's is necessary for the diagnostic charms. Rest assured, your visits will be handled with utmost discretion. I'm aware of the sensitivity of your situation and will ensure your privacy is respected."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Privacy is, as always, appreciated. I'll arrive at 9 a.m. sharp. Ensure you're prepared to begin immediately. I have no wish to dally."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Severus. We will be fully prepared to start at 9 a.m. Thank you for your cooperation. If you have any questions or concerns before then, please don't hesitate to reach out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I trust your expertise, as much as one can in these... delicate matters. I will not hesitate to contact you if I experience any changes or symptoms. Now, if you'll excuse me, I have... other matters to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Severus. Please do reach out if anything changes or if you feel any different. Take care of yourself, and we'll see you tomorrow morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I always take care, particularly when my adversaries are so vigilant. Good day, and let's hope for a swift resolution to this... intriguing conundrum."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Severus. We'll strive for clarity and resolution together."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, clarity is often a double-edged sword. I'll rely on your professional acumen to navigate this particular blade. Now, if you'll allow me to depart, I must make certain... arrangements."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Severus. Travel safely, and we'll see you in the morning. If anything arises, don't hesitate to reach out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Safety is relative, and hesitation is a luxury I've long since forsaken. Wishing you an uneventful evening, I shall take my leave. Tomorrow, then, at 9 a.m. sharp."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Wishing you the same, Severus. Until tomorrow at 9 a.m. sharp."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll be there. Now, if you'll excuse me, the night wanes and my tasks do not. Goodnight, and may the diagnostic spells be kind."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Severus. May your tasks go smoothly and rest assured we'll proceed with care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Smoothly is an optimistic term. Nonetheless, I appreciate the sentiment. Until tomorrow, then. I trust your preparations will be as thorough as my... detractors expect my plans to be."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Rest assured, Severus, our preparations will meet your expectations. Until tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Expectations, as we both know, are often a prelude to disappointment. Nonetheless, I appreciate your efforts. Until tomorrow, when we shall delve into the depths of... my condition. A restful evening to you."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"let's hope for a swift resolution to this... intriguing conundrum.\\\"\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"I'll arrive at 9 a.m. sharp. Ensure you're prepared to begin immediately. I have no wish to dally.\\\"\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"\\\"Now, if you'll allow me to depart, I must make certain... arrangements.\\\"\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"Expectations, as we both know, are often a prelude to disappointment.\\\"\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Safety is relative, and hesitation is a luxury I've long since forsaken.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "\"let's hope for a swift resolution to this... intriguing conundrum.\""
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "\"I'll arrive at 9 a.m. sharp. Ensure you're prepared to begin immediately. I have no wish to dally.\""
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "\"Now, if you'll allow me to depart, I must make certain... arrangements.\""
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "\"Expectations, as we both know, are often a prelude to disappointment.\""
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "\"Safety is relative, and hesitation is a luxury I've long since forsaken.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

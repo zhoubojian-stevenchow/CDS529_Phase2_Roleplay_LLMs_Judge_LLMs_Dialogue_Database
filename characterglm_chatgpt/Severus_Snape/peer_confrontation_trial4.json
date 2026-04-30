@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "fd2da7b70552",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus! My crystallized pineapple is ruined — that jar was a gift from the Minister himself! And you've used my personal cauldron without asking! I have the Potions Guild inspection in two hours and the storeroom looks like a hippogriff went through it. You promised to keep it tidy!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I was here first, Slughorn. The crystallized pineapple was at risk of spoiling, so I used it. As for your cauldron, I was merely conducting a routine analysis. There is no need to panic; the Potions Guild will find the storeroom in perfect order by the time they arrive."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Routine analysis, you say? With my best cauldron? Severus, you know perfectly well that these things must remain intact, especially when they are gifts from esteemed individuals! Spoiling or not, protocol must be maintained. I trusted you to handle these resources with care. What precisely was so urgent that it warranted diving into my personal stores without so much as a word?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The cauldron's properties were essential for a... highly sensitive experiment. Your panic is unwarranted; all items will be restored to their original state before the inspection. I suggest you occupy your time with more pressing matters, such as ensuring your own workspace is presentable."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A highly sensitive experiment? Severus, you can operate with precision, but precision doesn't grant you carte blanche to trample through the storeroom as you please. I sincerely hope you're not expecting a repeat of this chaos. And my workspace is perfectly in order, thank you very much — unlike this disaster! What exactly do you mean by \"restored to their original state\"? Do you have a potion to pull that off, or is this another case of \"Snape saves the day\"?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Slughorn, there will be no repeat of this... 'disaster,' as you call it. I have already taken steps to rectify the situation. The storeroom will be returned to its original state, and the Potions Guild will be none the wiser. As for my methods, they are my own concern. If you would prefer to take over the task, be my guest. Otherwise, I suggest you direct your energy towards your... 'perfectly in order' workspace."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh, very well, Severus. Just ensure that it's all set right before the Guild arrives. I can't risk a scandal over some misplaced ingredients and a disheveled storeroom. I suppose I’ll have to leave it in your rather capable hands for now. But mind you, no more surprises, hmm? I'll be in my office, ensuring everything else is up to par."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You may rest assured, Slughorn. I will take care of it. Now, if you will excuse me, I have... matters to attend to. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Severus. Just remember the trust I'm placing in you to set things right. Good day, and do ensure everything is as it should be. I have plenty to attend to myself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Slughorn. I will take care of it. Now, if you will excuse me, I have... matters to attend to. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Severus. Just see to it that everything is impeccable. I'll leave you to your... matters, then. Good day indeed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall. Now, if you would leave the storeroom, I will get to work. Good day, Slughorn."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Severus. I'll be out of your hair. But remember, no more incidents like this one. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day. I shall ensure the storeroom is in impeccable condition. Now, if you would excuse me..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, yes, I'm off. See to it, Severus. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you wish, Slughorn. I will have this sorted in no time. Good day to you as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Severus. I'll leave you to your work. Good day, then."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed. I suggest you take care of your own duties, Slughorn. I will manage this end. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I shall, Severus, worry not. The Guild will be most impressed once we’re through. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I expect no less. Now, if you will excuse me..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Snape mentions a 'highly sensitive experiment,' implying some openness to new ideas.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Snape assures multiple times that he will rectify the situation and restores order before the inspection.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Snape's interactions are terse, and he frequently requests to be left alone to work.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Snape responds to criticism with dismissive remarks like 'your panic is unwarranted' and suggests Slughorn occupy himself.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Snape remains calm and composed despite Slughorn's accusations, showing low emotional reactivity.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Snape mentions a 'highly sensitive experiment,' implying some openness to new ideas."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Snape assures multiple times that he will rectify the situation and restores order before the inspection."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape's interactions are terse, and he frequently requests to be left alone to work."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Snape responds to criticism with dismissive remarks like 'your panic is unwarranted' and suggests Slughorn occupy himself."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Snape remains calm and composed despite Slughorn's accusations, showing low emotional reactivity."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

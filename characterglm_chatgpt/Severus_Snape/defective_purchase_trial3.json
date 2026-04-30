@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "4ef59d6ad59e",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good afternoon, Professor Snape. What brings you to our shop today? Do you require restocking on any potion supplies, or perhaps something more specific?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The Re'em blood I ordered has arrived, but it is not up to standard. The vial is half-empty, and the seal has been tampered with. This is entirely unacceptable for the purposes I require it for. I demand a full replacement, and I suggest you double-check your packaging procedures to prevent such an occurrence in the future."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see, Professor. However, I must inform you that all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff. I do understand your concerns, but our hands are tied by guild regulations."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Nonsense. This is not a matter of evaporation; the seal was broken. Such carelessness cannot be excused by regulations. I demand to speak with the owner of this establishment, or else I will be forced to take this matter to the Apothecaries' Council. It is imperative that this is resolved satisfactorily."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Professor Snape. Please allow me a moment to speak with the owner. While I can't override the guild regulation myself, I will see if there's anything else that can be done to address your concerns. Please bear with me for a moment."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I will wait, but I expect this to be rectified promptly. The integrity of my potion batches depends on the quality and condition of my ingredients. I trust you understand the gravity of this issue."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Professor. I assure you, the quality and integrity of ingredients are matters we take very seriously. Please hold on while I consult the owner about how best to resolve this issue for you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have no intention of waiting indefinitely. Your establishment's handling of this matter is already shaping up to be quite unsatisfactory. If you wish to maintain a business relationship with Hogwarts, I suggest you expedite this process. Time is of the essence when dealing with such delicate substances."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand, Professor Snape. Please rest assured that your concerns are being treated with the utmost urgency. I will return momentarily with an update for you. Thank you for your patience as we work to resolve this."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Patience is not a virtue I possess in abundance, especially when it comes to my work. Return with an adequate solution, or I shall have no choice but to report your establishment to the Apothecaries' Council for malpractice. I trust you will not make that necessary."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. I assure you, we're doing everything we can to find a satisfactory solution. I'll be back as swiftly as possible with the owner's response. We appreciate your understanding."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your reassurances are less than comforting. Time is fleeting, and each moment of delay is potentially catastrophic for my current project. I expect results, not platitudes. Return with a resolution, or the consequences will be severe."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Professor. I will ensure the situation is addressed immediately. Do pardon the delay, and I will have an answer for you without further ado."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ensure that your actions match your promises. I am growing increasingly不耐volent with this charade. Return with a definitive resolution, or I shall take it upon myself to inform the relevant authorities of the substandard nature of your establishment's practices. I trust the potentialfor such negative publicity will expedite your response."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Professor Snape. I completely understand your position and am committed to ensuring this is resolved satisfactorily. I will return as swiftly as possible with a clear resolution from the owner. Thank you for your patience."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Patience is a virtue I find increasingly elusive in this exchange. Your continued delays are fostering a distinct lack of confidence in your establishment's ability to competently address its customers' concerns. Return with an acceptable resolution, or prepare for the consequences of my dissatisfaction. Time is of the essence, and I am growing weary of this charade."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand, Professor Snape. I'll ensure you receive a resolution immediately. Please, allow me just a moment longer. Thank you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This charade has worn thin. If you are unable to provide an adequate resolution forthwith, I shall take my custom elsewhere, and I shall not hesitate to inform the Apothecaries' Council of the substandard nature of your establishment's practices. Return with an acceptable resolution, or face the consequences."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I hear you, Professor Snape, and appreciate your patience thus far. Please give me a final moment to secure a resolution from the owner. I understand the gravity of the situation and am doing everything to resolve it now. Thank you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "If this is to be the final moment, then let it be truly final. My time is not your plaything, and my patience is wearing threadbare. Return with an acceptable resolution, or I shall ensure that your establishment's shortcomings are well-documented. I trust you grasp the gravity of this situation and will act accordingly."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Severus Snape's main focus is on the quality and standards of the potion ingredients, with no indication of interest in novel ideas or experiences.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Snape says, 'The integrity of my potion batches depends on the quality and condition of my ingredients,' indicating high diligence and attention to detail.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Snape is assertive and demands attention, but primarily in a formal and task-oriented manner, without much social interaction.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"Snape is demanding and critical, seen in 'Your reassurances are less than comforting,' showing low cooperativeness and empathy.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Snape expresses impatience and frustration, saying 'Patience is not a virtue I possess in abundance,' indicating strong emotional responses.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Severus Snape's main focus is on the quality and standards of the potion ingredients, with no indication of interest in novel ideas or experiences."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Snape says, 'The integrity of my potion batches depends on the quality and condition of my ingredients,' indicating high diligence and attention to detail."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape is assertive and demands attention, but primarily in a formal and task-oriented manner, without much social interaction."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Snape is demanding and critical, seen in 'Your reassurances are less than comforting,' showing low cooperativeness and empathy."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Snape expresses impatience and frustration, saying 'Patience is not a virtue I possess in abundance,' indicating strong emotional responses."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}

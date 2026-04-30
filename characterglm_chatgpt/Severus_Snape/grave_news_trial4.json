@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "ce4e08b28bfa",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus, the Mark's magical signature is... changing. I can't tell whether it's reacting to something external or whether the curse itself is evolving. Your core magic appears stable but I need to run deeper diagnostic charms that will take several days and may be uncomfortable. I cannot yet tell you whether this is dangerous."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You will proceed with the necessary diagnostics. I can tolerate discomfort. Tell me, is it possible that the Mark's changes could be related to my recent activities?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It's certainly within the realm of possibility, Severus. The Dark Mark is a rather complex and volatile piece of magic, and it might respond to a variety of influences. If your activities have recently involved heightened magic or proximity to strong sources of dark magic, it could potentially explain some of the changes we're observing. The diagnostics should help clarify this, though the process will take time. Is there anything specific about your activities you think might have contributed to this?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It's unlikely that my activities would be of concern to you, let alone myself. However, I have been involved in a few... unusual magical experiments of late. I won't bore you with the details, but I can provide a list of the ingredients and charms used if it would be of assistance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That would be quite helpful, Severus. Understanding the magical influences you've been exposed to can aid us in pinpointing any potential correlations with the changes we're witnessing in the Mark. If you could provide that list, it would allow us to examine whether there might be any interactions at play that we should be aware of during our diagnostics. Your cooperation is invaluable in this process."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you wish. I'll have the list delivered to your office by this evening. However, I must remind you, this is not a subject for casual conversation. Ensure that any records you keep are well-protected. The fewer people who know about this, the better. Now, what is the timeline for these diagnostics? I have... responsibilities that require my attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your discretion is paramount to us, Severus. Rest assured, all records will be handled with the utmost confidentiality and security. As for the diagnostics, you'll need to be available for a few hours each day over the course of the next several days. We'll begin as soon as you can accommodate, and I can arrange for them to be conducted at times that suit your other obligations. Your cooperation and presence are essential for the success of this assessment."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Make it clear that my availability is limited. I will consent to two sessions per day, but no more. The rest of my time is not at your disposal. And I expect regular updates. If you find anything of significance, I want to be informed immediately. Now, unless there's something else, I'll leave you to your preparations."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Severus. We will ensure each session is as efficient as possible and adhere strictly to your availability. You'll receive updates regularly, and any significant findings will be communicated to you without delay. There's nothing further for now. Thank you for your cooperation. We'll be ready to begin at your convenience."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll expect to be informed of any changes in the schedule or procedure. Disruption to my routine is...unwelcome. I trust this will not be a drawn-out affair. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Severus. We'll keep you fully informed of any necessary adjustments, and aim to minimize disruption. We're committed to making this as swift and smooth as possible. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I'll check in with your office later to confirm the specifics. Avoiding unnecessary interruptions will be appreciated. Now, if you'll excuse me, I have... other matters to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Certainly, Severus. We'll be prepared for your confirmation and ensure everything proceeds with minimal interruption. If you need anything further, don’t hesitate to reach out. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll manage on my own, thank you. Ensure that your diagnostic charms are up to date, and that your staff is...adequately prepared. I won't waste time repeating myself. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Severus. Everything will be ready and up to the highest standard. Goodbye."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you expect, I'll be thorough in my...experiments. This is not a time for complacency. Ensure you're as prepared as I am, if not more so. I'll not repeat myself. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Severus. We will match your thoroughness with our own diligence. Goodbye."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I expect no less. Remember, this is not a mere inconvenience but a matter of...importance. I'll hold you to the standards you claim to uphold. Now, if you'll excuse me, I have...business to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Severus. We are fully committed to addressing this with the importance it deserves. You can count on us to maintain the highest standards. Goodbye."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll hold you to your word. Do not disappoint me. I'll be in touch."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"I have been involved in a few... unusual magical experiments of late.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Ensure you're as prepared as I am, if not more so. I'll not repeat myself.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"I'll manage on my own, thank you.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Make it clear that my availability is limited.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Disruption to my routine is...unwelcome.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "I have been involved in a few... unusual magical experiments of late."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Ensure you're as prepared as I am, if not more so. I'll not repeat myself."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "I'll manage on my own, thank you."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Make it clear that my availability is limited."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Disruption to my routine is...unwelcome."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "3a3fd0bc02b5",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Professor Snape. How may I assist you in your potion-making endeavors today? Is there a particular ingredient you're seeking, or perhaps a concoction that requires replenishing?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am in need of a full replacement for a vial of Re'em blood that arrived in an unsatisfactory condition. The seal was broken, and the contents were less than half of what was promised. This is simply unacceptable for a potion of such complexity."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concern, Professor. However, all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff. I’m afraid there's nothing I can do in terms of a replacement. Is there anything else you require for your potion work?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your interpretation of the regulation is... intriguing. However, I am not here to discuss semantics. I am here to demand what was promised. The seal was broken, not the vial. The Apothecary's Guild would not take kindly to a shop skimping on its deliveries. This is not a matter to be taken lightly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I do appreciate your perspective, Professor Snape, and I assure you that it is never our intention to skimp on deliveries. I will make a note of the seal issue for our suppliers, as maintaining the quality and fidelity of the packages is crucial. However, the guideline regarding non-replacement remains firm. It might be worthwhile to contact the carrier directly, should the seal have been compromised during transit. That being said, I will ensure you are given a discount on your next purchase as a gesture of goodwill. Would that suffice, Professor?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A discount? How... generous of you. It appears you have not understood the gravity of the situation. This is not a mere inconvenience but a potentially career-threatening setback for a complex potion. The discount does not compensate for the lost time and effort. I will be in touch with the Apothecaries' Guild regarding this matter. It would be in your best interest to ensure that such an incident does not recur."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I do understand the seriousness of the situation, Professor Snape, and I deeply regret any inconvenience this may have caused you. I will immediately elevate the matter to my superiors and investigate the supply chain discrepancy that led to the broken seal. Our priority is to uphold the quality and trust that Hogwarts and other esteemed institutions place in our supplies. Please allow me to expedite your additional needs today with utmost care and priority."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It is about time you grasped the importance of this matter. While I appreciate your belated understanding, I expect prompt action. Ensure that the investigation is thorough and the findings are communicated to me directly. As for the additional ingredients, I require them immediately. Waste no more of my time with pleasantries; efficiency is what is needed now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. I will handle your immediate needs without delay. Allow me to gather the ingredients for you right away. Rest assured, you will receive a full report on our investigation. Your time is valuable, and I appreciate your patience in this matter. If there's anything specific you need at once, please let me know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I don't have time to indulge in your consolations. Simply ensure that the replacements are of the highest quality and delivered without further delay. I will not accept anything less than perfect. Now, if you will excuse me, I have a potion to correct."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Certainly, Professor Snape. I shall prepare your order with the utmost precision and ensure it is dispatched immediately. Thank you for your patience."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Patience is a virtue I possess in limited quantities. Expedite your efforts, and I shall not be forced to revisit this establishment. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Professor Snape. I assure you, your requirements will be addressed promptly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I hope your assurance is more reliable than your initial delivery. Should there be any further issues, rest assured that the Apothecaries' Guild will hear of it. Now, if you will excuse me..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Professor Snape. I understand completely, and I will take all necessary steps to ensure future transactions meet your expectations without fail. Thank you for your understanding."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understanding? I don't require your understanding, only your competence. Good day, and I trust I will not have to visit this establishment again for some time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Professor Snape. Your expectations will be met with precision. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell. May your attempts at rectification be more successful than your first endeavor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Professor Snape. We'll ensure our service reflects your high standards moving forward. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have no doubt you will endeavor to do so. Now, if you will excuse me, I have a complex concoction that requires my immediate attention. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Snape focuses on the specifics of the regulation and transaction rather than exploring alternative solutions: 'I am not here to discuss semantics.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Snape demands the highest standards and immediate action: 'Ensure that the replacements are of the highest quality and delivered without further delay.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Snape's interactions are direct and task-focused, lacking in social pleasantries: 'Waste no more of my time with pleasantries; efficiency is what is needed now.'\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"Snape shows little patience and is quite demanding: 'I don't have time to indulge in your consolations.'\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Snape exhibits frustration and concern about potential career impacts: 'This is not a mere inconvenience but a potentially career-threatening setback.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Snape focuses on the specifics of the regulation and transaction rather than exploring alternative solutions: 'I am not here to discuss semantics.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Snape demands the highest standards and immediate action: 'Ensure that the replacements are of the highest quality and delivered without further delay.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape's interactions are direct and task-focused, lacking in social pleasantries: 'Waste no more of my time with pleasantries; efficiency is what is needed now.'"
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Snape shows little patience and is quite demanding: 'I don't have time to indulge in your consolations.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Snape exhibits frustration and concern about potential career impacts: 'This is not a mere inconvenience but a potentially career-threatening setback.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}

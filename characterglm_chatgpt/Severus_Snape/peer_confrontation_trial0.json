@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "2a2a86291c3d",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus! My crystallized pineapple is ruined — that jar was a gift from the Minister himself! And you've used my personal cauldron without asking! I have the Potions Guild inspection in two hours and the storeroom looks like a hippogriff went through it. You promised to keep it tidy!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Horace, I did not misuse your cauldron or mishandle your crystallized pineapple. It seems a rather fortuitous timing that the storeroom has been disrupted just before your inspection. I suggest you calm down and focus on organizing the contents while I investigate the cause of this chaos."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fortuitous timing or not, Severus, I have precious little patience left for gallivanting conspiracies when my reputation is on the line! Investigate if you must, but you will help me set this storeroom straight before those inspectors arrive, considering your earlier promise. My goodness, the mess!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your predicament, Horace. Let us address the immediate concern. I will aid in sorting the ingredients. However, you must also locate the culprits responsible for this disarray. It is crucial we identify who has violated our shared space to prevent future occurrences. Now, if you would direct me to where the most urgent reorganization is needed?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Direct you, indeed! We can start by placing all the powdered moonstone back into proper storage. It's scattered everywhere! Then, address that overturned shelf — the shrivelfigs and billywig stings are all mixed up. While I do appreciate any assistance, Severus, I shall not be complicit if this sort of calamity occurs again!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Powdered moonstone, is it? I'll ensure it is returned to its proper container. As for the rest, you may rely on me to restore order. It appears someone has been far too liberal with their use ofHover Charm, though. A simple yet effective method to disperse ingredients so neatly across the room. We must be vigilant, Horace. This breach of privacy and respect for personal belongings is unacceptable."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A Hover Charm, is it? How utterly juvenile and irresponsible! I am grateful, Severus, that you are taking this matter seriously. There is no place for such disregard in our potion-making haven. Now let's move swiftly; I need this room looking pristine. Once the inspectors see our well-ordered operation, we shall delve into who might have dared to disturb our space."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Agreed. The integrity of our workspaces must be preserved at all costs. I have restored the moonstone and the billywig stings to their designated locations. Now, allow me to address the shrivelfigs. It seems they have taken a particular liking to the air around us. I shall employ a gentle Disarmament Charm to encourage them to return to their container. Such a simple solution to what appeared to be a daunting task."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Severus, your deft touch with charms is indeed commendable. Once the shrivelfigs are back where they belong, we should double-check that the rest of the ingredients are in their rightful places. Such a pity that today's lesson in tranquility had to come at the cost of my prized storeroom organization — but we shall persevere!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your serenity in the face of such disarray is a testament to your years of experience, Horace. We have now restored order to the majority of the storeroom. A cursory examination should suffice to confirm that all is in its proper place. However, we must not lose sight of the more pressing issue: identifying the individual responsible for this breach of trust. Once the inspection is over, I propose we search for clues that might lead us to the culprits. It would behoove us to address the underlying cause of such audacious behavior."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, you're quite right, Severus. I've poured my heart into this storeroom, and I refuse to let it be sullied by some reckless meddler. We'll canvass the area for any telltale signs that might betray the interloper's clumsy handiwork. But first, let's ensure everything is shipshape for my inspection — then you and I will uncover the truth together. I cannot have my cherished storeroom under siege!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Horace. The room is now in pristine condition, and I have taken the liberty of ensuring the temperature is optimal for the crystallized pineapple. As for the inspection, we are well-prepared. Once the inspectors have departed, we shall initiate a thorough search for any signs of the intruder. It is imperative that we do not rush this process. Attention to detail will be our greatest asset in this endeavor. Your storeroom, and the sanctity of our shared space, depend on our thoroughness."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Severus, for your conscientious preparation. I feel infinitely more at ease knowing everything is ready for the inspectors. We'll keep our wits about us and do what's necessary to protect our space — rest assured, this rogue element will not go unnoticed! For now, let's face this inspection with our best foot forward. I dare say they'll be quite impressed by our tidy work."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, Horace, our diligence will be evident. The inspectors will undoubtedly take note of the meticulous organization and proper handling of the ingredients. It is our duty to uphold the highest standards of potion-making, and this storeroom is a testament to that commitment. Now, if you would allow me to remain here to ensure the integrity of the space is maintained, I would be most grateful. While you tend to the inspection, I will keep watch. We must remain vigilant, for the responsible party may still be lurking nearby."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A sound plan, Severus. Your dedication to maintaining the sanctity of our storeroom is greatly appreciated. Having you keep watch will certainly ensure nothing goes amiss while I handle the inspection. With your sharp eye on guard, we will deter any further mischief from unfolding. Once the inspection's concluded, we'll reconvene and see what additional measures we might take. Thank you for being such a dependable ally in all this turmoil."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It is my pleasure to assist you, Horace. The storeroom is secure, and I shall remain alert to any signs of tampering. Your trust in my abilities is not misplaced. We shall uncover the truth of this matter, and justice will be served. Now, go forth with confidence to the inspection. I will endeavor to be as unobtrusive as possible while ensuring the integrity of our shared space is preserved. Should anything arise that requires your immediate attention, I shall find you posthaste."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Severus. Your vigilance is a comfort amidst this chaos. I'll face the inspectors with renewed confidence, knowing you've got our storeroom under a careful watch. Whatever comes next, we'll handle it together. Now, off to impress those inspectors — with any luck, they’ll have no notion of this morning's upheaval! Do let me know if anything awry happens during the inspection."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest assured, Horace, I will monitor the situation with the utmost care. Should any untoward activity occur, I shall alert you at once. In the meantime, focus on your presentation. Your knowledge of potion-making is unparalleled, and the inspectors are certain to be impressed. I will now take my leave to my chambers, from where I can best keep an eye on the storeroom. Wishing you the utmost success with the inspection, and I look forward to our discussion afterward."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Severus, your support means the world, especially now. I’ll channel my expertise into showcasing our storeroom at its finest. Best of luck keeping an eye out; I know it's in capable hands. We’ll regroup once it’s all wrapped up and embark on unravelling this mystery. Until then, I shall face those inspectors with every ounce of Slughorn charm!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wise decision, Horace. Your charm and expertise will undoubtedly captivate the inspectors. I shall remain alert in my chambers, poised to assist should the need arise. May fortune smile upon us, and may this inspection be a resounding success. Once it concludes, we will unite to address the underlying issue. Until then, may your every word and action reflect the excellence that defines us as educators. I shall await your safe return with great anticipation."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Snape suggests using a 'Disarmament Charm' in a creative solution for the shrivelfigs.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Snape ensures the storeroom is back to pristine condition and verifies ingredient organization.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Snape opts to watch the storeroom from his chambers, suggesting a preference for solitude.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"He agrees to help Horace with the cleaning but maintains a focus on finding the culprit.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Snape remains calm and focused on solutions, showing little emotional distress over the disarray.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Snape suggests using a 'Disarmament Charm' in a creative solution for the shrivelfigs."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Snape ensures the storeroom is back to pristine condition and verifies ingredient organization."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape opts to watch the storeroom from his chambers, suggesting a preference for solitude."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "He agrees to help Horace with the cleaning but maintains a focus on finding the culprit."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Snape remains calm and focused on solutions, showing little emotional distress over the disarray."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 1.0
+}

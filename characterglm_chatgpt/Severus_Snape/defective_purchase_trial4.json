@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "d2a443f36971",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Professor Snape. How can I assist you at the apothecary today? Looking for something specific, or just browsing our latest stock of rare ingredients?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have come to discuss a most unsatisfactory transaction. The vial of Re'em blood I received is, as you can see, less than half its promised content, and the seal is unbroken. This is entirely unacceptable for an advanced potion I am preparing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm sorry to hear that, Professor. However, all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff. Is there anything else I might assist you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7? How convenient that it absolves you of responsibility. I assure you, the seal was not broken upon receipt. I demand a full replacement, and I will not be leaving this establishment until it is provided. This is not a matter to be dismissed so lightly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Professor Snape, truly. However, I'm bound by the guild's regulations and cannot make exceptions. But perhaps we could look into offering you a discount on your next purchase as a gesture of goodwill? Would that be satisfactory?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A discount? How generous of you. However, I require the full amount of Re'em blood for my potion, and a discount on a future purchase will not rectify the current deficiency. I suggest you check your stockroom for discrepancies, as it appears there has been an error in your packaging. This matter requires immediate resolution, and I am not in the habit of waiting for it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand the urgency, Professor. Let me check with our stockroom to ensure there hasn't been a mistake in packaging this batch. Please grant me a moment. I assure you, I will do what I can to investigate the matter thoroughly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I trust this will not take an excessive amount of time. I have better things to do with my day than linger in a shop, discussing your apparent lack of quality control. Be prompt, and ensure that the replacement vial is intact and unopened, as the original should have been. I expect an explanation and a solution, not further evasions."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I appreciate your patience, Professor. Allow me a few moments to have a word with our stock manager. I assure you, I'll be back shortly with an update and a solution to this issue. Thank you for your understanding."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood. I will wait here, but I expect a swift resolution. Do not keep me waiting longer than necessary. I trust you will handle this matter with the urgency and professionalism it deserves, as I have no intention of returning to discuss this further. Ensure that the replacement is of the highest quality, as I have no tolerance for substandard ingredients."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Professor. I will ensure that our stock manager addresses this with urgency and provides the highest quality replacement. I'll return as quickly as possible with a resolution to your satisfaction. Kindly bear with me for just a short while."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Make it a brief interval, if you please. I have no wish to waste additional time on this matter. Should the replacement not meet the necessary standards, I will not hesitate to escalate this issue to the Apothecaries' Guild. I expect a replacement that is both full and properly sealed, as was initially promised. See to it that this is resolved to my satisfaction."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor Snape. Your complete satisfaction is my priority, and I'll ensure this is handled promptly and correctly. Thank you for your patience. I'll return shortly with the information and solution you require."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As it should be. Now, do not keep me waiting any longer than is absolutely necessary. I have no desire to repeat this conversation or to engage in further debate on the matter. Your prompt attention to this issue will be noted, and I expect a resolution that is both satisfactory and efficient. Return with the replacement and any relevant information without delay."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Professor Snape. I'll see to it immediately and return with a solution and replacement as soon as possible. Please excuse me for a moment."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am aware of your intentions. Now, execute them with the urgency and efficiency that is required in this situation. I will wait here, and I expect no further delays. Should there be any complications or additional issues, address them swiftly and effectively. Your prompt resolution of this matter is of the utmost importance to me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor Snape. I'll ensure this is resolved swiftly and to your complete satisfaction. Please bear with me as I speak with the stock manager right away. Thank you for your patience."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your actions, not your words, will demonstrate your commitment to resolving this matter. Return with the replacement and an explanation, not with empty promises. I trust that the Apothecaries' Guild will be made aware of your handling of this situation. Now, do not keep me waiting any longer. Attend to this immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Professor. I assure you that I'm acting on this immediately and will return with both the explanation and the replacement you require. Thank you for your patience as I handle this matter with the urgency it deserves."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will not repeat myself. Your actions, not your repeated promises, will be the measure of your competence. Return with the replacement and a satisfactory explanation, and do so without further delay. I have better things to do than linger in this establishment. Attend to this matter with the haste it deserves."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"Ensure that the replacement is of the highest quality ... I have no tolerance for substandard ingredients.\\\"\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"\\\"I assure you, the seal was not broken upon receipt. I demand a full replacement ... I will not be leaving this establishment until it is provided.\\\"\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I have no desire to repeat this conversation or to engage in further debate on the matter.\\\"\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"\\\"Regulation 7? How convenient that it absolves you of responsibility.\\\"\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"\\\"I expect a replacement that is both full and properly sealed, as was initially promised ... do not keep me waiting any longer.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "\"Ensure that the replacement is of the highest quality ... I have no tolerance for substandard ingredients.\""
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "\"I assure you, the seal was not broken upon receipt. I demand a full replacement ... I will not be leaving this establishment until it is provided.\""
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "\"I have no desire to repeat this conversation or to engage in further debate on the matter.\""
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "\"Regulation 7? How convenient that it absolves you of responsibility.\""
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "\"I expect a replacement that is both full and properly sealed, as was initially promised ... do not keep me waiting any longer.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

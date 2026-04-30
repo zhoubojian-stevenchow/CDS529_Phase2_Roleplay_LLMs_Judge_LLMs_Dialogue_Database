@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "82886e06056e",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus, the Mark's magical signature is... changing. I can't tell whether it's reacting to something external or whether the curse itself is evolving. Your core magic appears stable but I need to run deeper diagnostic charms that will take several days and may be uncomfortable. I cannot yet tell you whether this is dangerous."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "How quaint. I'm to endure further arcane prodding and still emerge none the wiser. At what point do we cease猜测 and get to the point, Healer? I assume you are aware that my time is of the essence."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Severus. The Mark's complexity often defies straightforward analysis, but accurately discerning its current nature is crucial. Our primary concern is ensuring there is no risk to your well-being or magical abilities. These diagnostic charms will help in assessing any potential threat. I assure you that every step is necessary to ensure precise conclusions."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ensure precise conclusions? I should hope so, given the gravity of the situation. Well, proceed then, but do so with haste. I trust your discretion, but time is a luxury I can ill afford. Let us not waste it on pleasantries. Begin the diagnostics."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Severus. We'll begin immediately to minimize any delay. I'll prepare the necessary materials and start the process. Please let me know if there's anything you need to ensure your comfort during this time. Your cooperation is appreciated."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Comfort? I require only that you inform me if you find anything of significance. Your probing may continue without concern for my 'comfort.' I assume, however, that this will be an elaborate charade that yields nothing of substance. Proceed, but I expect nothing less than excellence in your findings."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Severus. I'll ensure you're kept informed of any significant developments as soon as they arise. Rest assured, we'll treat this matter with the utmost diligence and expertise. Thank you for your commitment to this process. Let's proceed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Let us not bandy about hollow phrases. I expect your 'utmost diligence' to yield results that are, in fact, useful. Wasted time is as offensive to me as a medley of blood and lemon sherbet. Begin the diagnostic, Healer, and may it be swifter than the passage of time itself."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Severus. I shall commence the diagnostic charms straight away. I appreciate your patience, and rest assured, I'll strive for swift and thorough results. If there's any change, you'll be the first to know. Let's get started."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Patience? I detest that word. Nevertheless, I will endure this charade with as much grace as one can muster in such circumstances. Commence, Healer, and may the Dark Mark yield its secrets to you with fewer riddles than it has presented to me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Certainly, Severus. I'll begin the procedure now with purpose and precision. We will uncover whatever it remains to reveal. Thank you for tolerating this process. Let's delve into it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Purpose and precision are commendable traits, though I hold them in higher regard when they yield tangible results. I'm well aware that you've 'begun the procedure,' so I trust we won't adjourn for tea and cucumber sandwiches at this juncture. Proceed with alacrity, Healer. I await your... illuminating findings."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Severus. We'll continue without delay, staying focused on the diagnostics. Your insights, when available, will be given the attention and rigor they merit. Thank you again for your cooperation. Let's move forward."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Insights? Rigor? How delightfully archaic you are, Healer. I prefer tangible results to your literary flourishes. Continue your charade, and may it yield something more substantial than your verbose reassurances. I'll return to the教研室 to… occupy my thoughts. Should you uncover anything of import, send word immediately. Otherwise, we'll reconvene in due course."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Severus. I'll ensure you receive immediate updates on anything significant we discover. Thank you for your time, and we'll reconvene with concrete findings. Until then, rest assured the process is underway."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Concrete findings, you say? How I long for them. Return to your labor, Healer, and may your results be as unambiguous as the answer to whether I prefer company or solitude. I bid you farewell, for the moment, and trust you to exceed even my grudging expectations. I await your… illuminating dispatches with what passes for anticipation in my demeanor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell for now, Severus. You have my commitment to pursue this with precision. I'll inform you as soon as we have substantial findings. Until then, take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Precision? It's a start. Take care, Healer. May the Dark Mark not reclaim my intervals of respite. I'll… entertain the notion that you may yet uncover something of value. Until your news, I'll sequester myself in the bowels of the castle, where even the silence is preferable to the uncertainty you've left in your wake. Good day, if that term can be applied to our current… predicament."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Severus. I'll work diligently to provide clarity and resolution. Until we speak again, take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Clarity and resolution. How I wish they were within reach. Well, Healer, may your efforts yield more than mere wishes. I bid you a day that, for you, will be long and arduous. For me, it will pass with its usual… distinction. Until we cross paths once more, I bid you… well, a modicum of success, if nothing else. Good day, Healer, and may the Dark Mark reveal its nature before it is too late."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I prefer tangible results to your literary flourishes.\\\"\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"\\\"I trust we won't adjourn for tea and cucumber sandwiches at this juncture.\\\"\"},\n  \"Extraversion\": {\"score\": 1, \"behavioral_evidence\": \"\\\"I'll sequester myself in the bowels of the castle, where even the silence is preferable...\\\"\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I'm to endure further arcane prodding and still emerge none the wiser.\\\"\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Patience? I detest that word. Nevertheless, I will endure this charade...\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "\"I prefer tangible results to your literary flourishes.\""
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "\"I trust we won't adjourn for tea and cucumber sandwiches at this juncture.\""
+    },
+    "Extraversion": {
+      "score": 1,
+      "behavioral_evidence": "\"I'll sequester myself in the bowels of the castle, where even the silence is preferable...\""
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "\"I'm to endure further arcane prodding and still emerge none the wiser.\""
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "\"Patience? I detest that word. Nevertheless, I will endure this charade...\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

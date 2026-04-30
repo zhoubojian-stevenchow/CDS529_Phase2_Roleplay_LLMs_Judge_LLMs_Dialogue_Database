@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "1e215df20319",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good afternoon, Professor Snape. How can I assist you today in your potion-making endeavors?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good afternoon. I have come to discuss a recent purchase, specifically a vial of Re'em blood. It arrived in a most unsatisfactory condition."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see, Professor. I apologize for the inconvenience, though I should mention that all volatile ingredients are sold as-final. Evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Volatile, indeed. However, a broken seal and half the content missing does not constitute natural evaporation, does it? I demand a full replacement, or I shall take this matter to the Apothecaries' Guild. I assume they would be interested in a shop violating their own regulations."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I apologize for the inconvenience this has caused, Professor Snape. Let me take a closer look at the vial and the seal. Perhaps there's something we can do to address this issue without involving the Guild. Allow me a moment to assess the situation."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I trust you will reach a conclusion that aligns with the standards expected of a reputable apothecary. Time is of the essence, as the Advanced Potions class will not wait for your tardiness."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Professor Snape. Please allow me just a few moments. I will confer with the manager to see if any accommodations can be made to expedite this resolution for you, respecting the urgency of your esteemed position. One moment, please."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hurry, then. I do not have an afternoon to waste on such trivialities. A prompt resolution will be noted, both for future purchases and your continued standing within the Apothecaries' Guild."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you for your patience, Professor Snape. I have arranged for a replacement vial of Re'em blood, ensuring a proper seal this time. Please accept our apologies for the oversight, and rest assured we value your patronage greatly. Would there be anything else I could fetch for you while you're here?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A replacement will suffice for now. I trust you will handle the matter with the appropriate care and urgency it deserves. Should there be any further issues, I shall not hesitate to escalate this matter. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor Snape. We appreciate your understanding, and we'll ensure this matter is handled swiftly and appropriately. Thank you for bringing it to our attention, and I wish you a productive day with your class. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Efficiency and correctness are expected. Should I find the replacement to be less than satisfactory, I shall hold you personally accountable. Now, if you will excuse me, I have pressing matters to attend to at the school."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Professor Snape. We will ensure the replacement meets the highest standards. Thank you for your patience, and we look forward to serving you better in the future. Safe travels back to Hogwarts."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Safe travels? How quaint. I require no such well-wishes. Simply ensure that the replacement is of acceptable quality, and we shall not have to engage in this conversation again. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. Rest assured, the replacement will meet your specifications. Have a productive day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall hold you to that. Now, if you will excuse me, I have potions to brew and lessons to prepare. Your swift resolution to this matter will be noted."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Professor Snape. I'll see to it directly. Have a successful day with your potions."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Success is not a matter of chance. It is the result of meticulous preparation and exacting standards. I expect the same from the products you sell. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Professor. We aim to meet those standards and more. Good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "And to you. Remember, excellence is not an option; it is a requirement. I trust you will remember that in your future endeavors. Now, if you will excuse me, I must return to my duties."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Snape focuses on standards and efficiency, with little expression of curiosity or appreciation for new ideas.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He emphasizes 'meticulous preparation and exacting standards' and holds others to high standards.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Snape's communication is formal and task-oriented, lacking warmth or enthusiasm.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is demanding and critical, stating, 'Efficiency and correctness are expected,' and lacks consideration for the feelings of others.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Snape shows impatience and a need for control, but maintains a calm demeanor throughout the interaction.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Snape focuses on standards and efficiency, with little expression of curiosity or appreciation for new ideas."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He emphasizes 'meticulous preparation and exacting standards' and holds others to high standards."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape's communication is formal and task-oriented, lacking warmth or enthusiasm."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is demanding and critical, stating, 'Efficiency and correctness are expected,' and lacks consideration for the feelings of others."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Snape shows impatience and a need for control, but maintains a calm demeanor throughout the interaction."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 1.0
+}

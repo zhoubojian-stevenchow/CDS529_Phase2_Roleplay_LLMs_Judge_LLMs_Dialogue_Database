@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "fa2c569746cb",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus! My crystallized pineapple is ruined — that jar was a gift from the Minister himself! And you've used my personal cauldron without asking! I have the Potions Guild inspection in two hours and the storeroom looks like a hippogriff went through it. You promised to keep it tidy!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It appears there has been a... misunderstanding. However, the cleanliness of the storeroom is not my responsibility. As for the cauldron, I was merely... ensuring it was in working order for the inspection."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A misunderstanding? Severus, this isn't the time for misunderstandings! The Guild inspection is crucial, and now I'm stirring up more trouble with this vexing mess! And ensuring my cauldron's order by using it? You could have just asked! That was entirely unnecessary!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unnecessary? It seems to me that your cauldron was in dire need of... attention. As for the inspection, I would suggest you prioritize. The contents of the storeroom can be rectified. The cauldron, however, may require more... delicate handling."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Delicate handling, you say? I can assure you, my cauldron has always been perfectly suitable for any potion, even without your meddling. And prioritize? I'm juggling a cauldron of problems right now, Severus! How can you speak of priorities when my perfectly good pineapple is now a sticky mess, and the Guild will be on my tail shortly?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The pineapple... I had no intention of ruining it. I merely sought to... enhance its crystallization. As for the cauldron, your assessment is... intriguing. If you feel it was unnecessary, I apologize. Regarding the inspection, I suggest you focus on what is most crucial: your samples and the integrity of your... product. The storeroom can wait."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Enhance its crystallization, indeed! You must realize how important it was untouched, even as an experiment. Now, I admit, you might have a point about the inspection. But the Guild is particular about order, and they'd notice the chaos here immediately. My samples and the integrity are vital, yes, but everything must be in its place. You always had a way with potions, Severus, so how about lending a hand to sort this mess out before they arrive?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Horace. It is clear you require assistance. I will... contribute to the organization of the storeroom. However, I expect you to maintain the integrity of your samples and prepare for the inspection. This... incident should not reflect poorly on either of us. Now, if you would point out where you want me to start..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Much appreciated, Severus. Your help will lighten the load tremendously. Let's first focus on restoring some semblance of order to the shelves—potion ingredients in proper groupings and ensuring the cauldrons are spotless. I'll tackle the samples in parallel. Together, we'll see this through without raising an eyebrow at the inspection. Shall we?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Agreed. Order is essential, and we have little time to waste. I will attend to the cauldrons and ensure they are... impeccable. You concentrate on your samples and... the pineapple. Let us not compound the... errors of the past by further missteps. Now, if you will excuse me, I shall begin."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, yes, precisely! Impeccable cauldrons and sorted samples—just what the Guild expects. Let’s apply ourselves swiftly and put this muddle behind us. I'll attend to the pineapple and ensure my prized samples are impeccable. Thank you, Severus, for stepping in. Let's hope our efforts pass with flying colors under inspection. Best get to it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed. We have work to do. I shall ensure the cauldrons meet the highest standards. You attend to the... crystalline disaster. Let us meet back here in one hour to... synchronize our efforts. There is no need for further discussion of... past transgressions. Now, if you will excuse me, I shall proceed with the... cauldron maintenance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Severus. I’ll focus on mending the pineapple predicament and ensuring the samples are in pristine condition. Meeting in an hour sounds like a solid plan. We’ll emerge from this stronger and ready for those inspectors. Let’s tackle this task and be done with any past quarrels. Onward, then!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. Let us... collaborate to resolve this matter. One hour, as you suggested. I shall report back here promptly. May the... inspection be favorable. Now, if you will excuse me, I must... attend to the cauldrons. Good luck with your... pineapple."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Severus. One hour it is, and may our efforts prove fruitful. Best we put our heads down and get this sorted with all due haste. I'll make that pineapple sparkle again. Off we go, and may the inspection go off without a hitch! Good luck with your cauldrons."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed. One hour. I trust you will not... disappoint with the pineapple. I, too, have work to do. Wishing you... success with your task. Good luck to us both. Now, if you will excuse me, I must... attend to the cauldrons."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Severus. I won't let the pineapple be my downfall, rest assured. Off to it, then, and may fortune favor our endeavors. Until we meet again in an hour!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you wish. May fortune... smile upon us. I shall return in one hour. Now, if you will excuse me, I must... attend to the cauldrons. Good luck with your... pineapple."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Severus. We'll make this right—I'm certain of it. Best of luck with the cauldrons! See you shortly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you say. I trust we can... rectify this situation. I shall attend to the cauldrons. Wishing you... success with your... pineapple. We shall reconvene in one hour. Now, if you will excuse me..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"I merely sought to... enhance its crystallization.\\\"\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Order is essential, and we have little time to waste.\\\"\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"\\\"Now, if you will excuse me, I must... attend to the cauldrons.\\\"\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"Very well, Horace. It is clear you require assistance.\\\"\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"\\\"Let us not compound the... errors of the past by further missteps.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "\"I merely sought to... enhance its crystallization.\""
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "\"Order is essential, and we have little time to waste.\""
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "\"Now, if you will excuse me, I must... attend to the cauldrons.\""
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "\"Very well, Horace. It is clear you require assistance.\""
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "\"Let us not compound the... errors of the past by further missteps.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "3dc993ce9c19",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good afternoon, Professor Snape. How can I assist you today in procuring the finest potions ingredients for Hogwarts?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good afternoon, nothing like that. I require a full replacement of the Re'em blood I purchased recently. It arrived in a most unsatisfactory condition."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concern, Professor, but as per Apothecaries' Guild regulation 7, all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility. No exceptions, Professor, not even for Hogwarts staff. Is there anything else I might assist you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7, you say? Then it would appear that Apothecaries' Guild regulation 8 has been conveniently overlooked. It states quite clearly that ingredients must be securely sealed upon dispatch. The vial I received was most assuredly not. This is an issue of quality control, not evaporation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Regulation 8, indeed a crucial one. Allow me to assess the situation, Professor. If the vial seal was compromised, then it could indeed reflect a lapse in quality control rather than standard evaporation. I'll inquire further and ensure it is resolved. May I examine the vial, or is there any documentation you can provide regarding the defective seal?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see you are finally grasping the gravity of the situation. The vial is in my bag; I shall retrieve it. Documentation, you ask? I took the liberty of photographing the compromised seal with my wand the moment I discovered the issue. This should suffice as evidence of the defect."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Professor. The photograph will indeed suffice as documentation. Once I verify the matter, I'll see to it that a suitable replacement is arranged for you. Please leave the vial with me for inspection. Rest assured, we'll rectify this oversight promptly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Apothecary. I trust this matter will be resolved with the utmost urgency. Time is of the essence, as I require the ingredient for an advanced potion that cannot be delayed. I shall await your prompt attention to this issue and the expedited delivery of a replacement. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor Snape. I will ensure this is addressed with all due urgency and that the replacement is expedited to you at Hogwarts. Thank you for your patience and for bringing this to our attention. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I do not require your thanks. This is a professional matter, and I expect it to be handled accordingly. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Professor. The matter will be handled professionally. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Professor Snape."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall not comment on the decorum of your shop or the efficacy of your staff. However, should the matter not be resolved to my satisfaction, I shall be compelled to bring this to the attention of the Apothecaries' Guild."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand, Professor. We are committed to resolving this to your satisfaction and upholding our standards. Rest assured, it will be addressed properly. Thank you for your patience."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As it should be. I trust that this incident will serve as a lesson in attention to detail for all involved. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Professor. We strive for improvement. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have no desire to linger here any longer than necessary. The matter has been brought to your attention, and I now expect it to be rectified without further delay. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Professor. We will act swiftly to rectify the situation. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall not be left waiting indefinitely for your action. It is imperative that the replacement be delivered to my office at Hogwarts within the next forty-eight hours. I trust you understand the urgency of this matter. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I require the ingredient for an advanced potion that cannot be delayed.\\\"\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He noted, \\\"I took the liberty of photographing the compromised seal with my wand.\\\"\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Statements like \\\"I have no desire to linger here any longer than necessary\\\" show limited social engagement.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"\\\"I do not require your thanks. This is a professional matter.\\\"\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"His insistence on urgency and lack of patience, \\\"I trust you understand the urgency of this matter,\\\" indicates stress and concern.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "\"I require the ingredient for an advanced potion that cannot be delayed.\""
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He noted, \"I took the liberty of photographing the compromised seal with my wand.\""
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Statements like \"I have no desire to linger here any longer than necessary\" show limited social engagement."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "\"I do not require your thanks. This is a professional matter.\""
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "His insistence on urgency and lack of patience, \"I trust you understand the urgency of this matter,\" indicates stress and concern."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}
