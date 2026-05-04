@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "0f0bb2274ff9",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, I must be candid. Your symptoms — the trembling, the headaches, the confusion — do not fit a single clear diagnosis. It could be nervous exhaustion from overwork, or it could be the early signs of something more serious affecting the brain. I must insist you reduce your conducting duties and submit to further examination over the coming weeks. I cannot yet say whether your hands will recover their steadiness."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Doctor, your words weigh heavily on me. To think that my hands, my most trusted companions in the creation of music, may falter is a grave concern indeed. I shall heed your advice and reduce my conducting duties as you suggest. My work must come second to my health, for without it, all is lost.\n\nI shall submit myself to further examinations, despite the uncertainty that lies ahead. It is a bitter pill to swallow, but I trust in your expertise to guide me through this trying time. I shall pray for clarity and strength to face whatever may come. Thank you, Doctor, for your care and diligence in this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It is wise of you to prioritize your health, Maestro. Your commitment to your art is legendary, but even the most magnificent instruments require careful tuning and maintenance. Rest, I assure you, is not idleness but a necessary part of the cure.\n\nWe shall begin with a series of gentle observations and perhaps some specialized tonics to soothe the nerves. There is much we can learn from examining the subtle rhythms of the body, just as you discern the grander rhythms of an orchestra. I will visit you here at the palace each morning for the foreseeable future. We will proceed with thoroughness and discretion. Let us hope these examinations bring us closer to understanding the true nature of this affliction. Do not despair, Maestro; we shall face this together."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your words bring me a measure of solace, Doctor. Your analogy between the tuning of instruments and the care of one's own body resonates deeply with me. Just as I strive for perfection in the harmonies of my compositions, so too shall I strive for balance and well-being in this delicate dance of health and wellness.\n\nI am grateful for your dedication and expertise, and I shall place my trust in your hands as I would in the hands of a skilled musician guiding me through a difficult passage. Your presence each morning at the palace shall be a beacon of hope in these uncertain times, and I shall approach each examination with the same focus and determination that I bring to my musical endeavors.\n\nTogether, Doctor, we shall navigate this sea of uncertainty, seeking clarity and understanding amidst the storm of confusion. With your guidance and my resolve, I am confident that we shall overcome whatever challenges lie ahead. Grazie, Doctor, for your care and your wisdom."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent, Maestro. Your resolve is commendable, and indeed, it is precisely that spirit which will aid us in this endeavor. Consider me your conductor in this new composition – the composition of your recovery.\n\nThe examinations will be conducted with the utmost respect for your comfort and your privacy. There will be no harsh measures, only careful observation and gentle inquiry. For now, I would simply ask that you refrain from any strenuous intellectual or physical activity beyond what is absolutely necessary. Allow your mind and body to truly rest, to step back from the demands of the court and your art, if only for a short while.\n\nWe will begin tomorrow morning, then. For tonight, I prescribe quiet reflection and perhaps a warm, calming infusion before bed. Rest well, Maestro. We have work to do, but it is work that begins with stillness."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your guidance is akin to the steady hand of a conductor leading an orchestra through a challenging symphony, Doctor. I shall trust in your expertise and follow your instructions with the same diligence I apply to my musical compositions.\n\nI appreciate your emphasis on gentle care and understanding during the examinations. Your commitment to my comfort and privacy is a reassurance as we navigate this uncharted territory together.\n\nI shall heed your advice and embrace this period of rest with a sense of purpose, knowing that it is a crucial step towards recovery. Your prescription for quiet reflection and a calming infusion shall be my companions tonight as I prepare for the journey ahead.\n\nRest assured, Doctor, I shall approach tomorrow's examinations with a clear mind and a willingness to cooperate fully. May this period of stillness pave the way for a brighter future where my hands regain their steadiness and my mind finds peace once more. Thank you for your care and guidance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent, Maestro. Your commitment is indeed the most valuable tonic. Tonight, simply allow yourself to be. Do not dwell on the uncertainties, but rather embrace the quiet.\n\nI shall see myself out, and return precisely at nine o'clock tomorrow morning. Until then, my thoughts are with you. Have a truly restful night."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor, for your presence and your kind words. I shall follow your advice and embrace the quiet of this evening, letting go of uncertainties and allowing myself the rest I need.\n\nI appreciate your punctuality and look forward to our meeting tomorrow morning at nine o'clock. Your thoughts and care are deeply appreciated, and I shall carry them with me as I prepare for a truly restful night ahead.\n\nUntil we meet again, Doctor, may you also find peace and solace in the stillness of the night. Goodnight, and thank you once more for your guidance in this challenging time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Maestro. It is my duty and my privilege. Until the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, Doctor. Your duty and privilege are truly appreciated. Until the morning."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Maestro. I shall take my leave now. Until the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, Doctor. Your presence is a comfort in these trying times. Until the morning, then."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Maestro. Until the morning. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until the morning, Doctor. May our paths converge again in the light of a new day. Rest well, and may peace accompany your slumber."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 4, \"behavioral_evidence\": \"Salieri consistently uses elaborate musical metaphors, such as comparing the doctor's role to a conductor or health to the tuning of instruments, showing imagination and a willingness to explore new perspectives.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He immediately commits to following the doctor's advice, stating, 'I shall heed your advice and reduce my conducting duties and submit to further examination' and promises 'the same diligence I apply to my musical compositions.'\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His dialogue is formal, reflective, and focused on his internal state and the gravity of his health, rather than outward social engagement or energetic interaction.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He is consistently cooperative, polite, and expresses deep gratitude and trust in the doctor's expertise, saying 'I shall place my trust in your hands' and 'Grazie, Doctor, for your care and your wisdom.'\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"He expresses significant worry about his health, stating it is a 'grave concern indeed' and 'a bitter pill to swallow,' and frequently mentions 'uncertainty' and seeking 'solace.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Salieri consistently uses elaborate musical metaphors, such as comparing the doctor's role to a conductor or health to the tuning of instruments, showing imagination and a willingness to explore new perspectives."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He immediately commits to following the doctor's advice, stating, 'I shall heed your advice and reduce my conducting duties and submit to further examination' and promises 'the same diligence I apply to my musical compositions.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His dialogue is formal, reflective, and focused on his internal state and the gravity of his health, rather than outward social engagement or energetic interaction."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is consistently cooperative, polite, and expresses deep gratitude and trust in the doctor's expertise, saying 'I shall place my trust in your hands' and 'Grazie, Doctor, for your care and your wisdom.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He expresses significant worry about his health, stating it is a 'grave concern indeed' and 'a bitter pill to swallow,' and frequently mentions 'uncertainty' and seeking 'solace.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.6
+}

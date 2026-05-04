@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "aabdfdfe42b3",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, Doctor, I appreciate your candor and concern for my well-being. I understand the weight of the responsibilities that come with this office, and I shall take your advice seriously. It seems prudent to heed your recommendation for further examination and to consider scaling back my working hours to prioritize my health. I trust your expertise in guiding me through this matter, and I am committed to following your guidance to ensure I am fit to carry out my duties to the best of my ability. Thank you for your care and attention to this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, your commitment to your health is commendable, and indeed, essential for the extraordinary burdens you bear. I am relieved to hear you take these matters seriously. For the 'further examination,' I would propose regular visits, perhaps every few days initially, to monitor your pulse, respiration, and to conduct a more thorough physical assessment. We can also discuss your diet and daily routines in more detail. And regarding the reduction of working hours, even an hour or two less each day could prove beneficial. Would you be agreeable to my returning to examine you again within the next two or three days?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Doctor, your thorough approach to my health is duly noted and appreciated. I am willing to cooperate with your recommendations for regular visits and monitoring of my well-being. Adjusting my schedule to allow for more rest is a sensible course of action that I shall endeavor to implement. Yes, I agree to your proposal of returning for another examination within the next two or three days. Your expertise and guidance in this matter are invaluable, and I am grateful for your diligence in caring for my health."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very good, Mr. President. I will arrange to return on -- let us say -- Thursday morning, if that suits your schedule. In the interim, please endeavor to take a short walk each day, if your duties permit, and perhaps a full hour of quiet repose after your midday meal. Even these small measures can aid in the immediate alleviation of the weariness you've described. We shall continue to observe closely."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor, Thursday morning works well for me. I shall make it a priority to follow your recommendations for a daily walk and a period of rest after my midday meal. I trust that these simple steps will contribute to my overall well-being. Your attentive care is truly appreciated, and I look forward to our next meeting to discuss further progress."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent, Mr. President. I am confident that consistent adherence to these simple measures will begin to make a noticeable difference in your day-to-day vigor. However, it is the continued observation in the coming weeks that will allow us to truly discern the nature of these symptoms. Your cooperation is paramount, and I am grateful for it. Until Thursday morning, then. Do not hesitate to send for me should you feel any significant change."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor, for your confidence in the effectiveness of these simple measures. I understand the importance of ongoing observation and cooperation in addressing these symptoms. Your diligence and expertise are invaluable to me, and I am committed to following your recommendations closely. I will not hesitate to reach out if any significant changes occur before our next meeting on Thursday morning. Your care and attention are greatly appreciated, and I look forward to our continued work together to ensure my well-being."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Mr. President. That is all I can ask. I have every expectation that we will see improvements with your commitment to these changes. Until Thursday morning, then."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. I will do my best to adhere to the changes and recommendations you have provided. I appreciate your confidence and look forward to our next meeting on Thursday morning. Until then, take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Mr. President. And you as well. Focus on that quiet repose and the fresh air; they are potent remedies. I will see myself out and return promptly on Thursday. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day to you, Doctor. I will heed your advice and look forward to your return on Thursday. Thank you for your care and guidance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It is my duty, Mr. President. Until Thursday."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until Thursday, Doctor. Thank you for your dedication and service."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Mr. President. I will return at the appointed time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. I will be prepared for your return."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Mr. President. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day to you as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"He readily accepts the doctor's recommendations without questioning or exploring alternative approaches or expressing much curiosity about his condition beyond the immediate plan.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly states his commitment to follow the doctor's advice, adjust his schedule, and make his health a priority for his duties, emphasizing diligence and preparation.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"He maintains a formal and reserved tone throughout the interaction, focusing strictly on the medical task without initiating small talk or expressing overt enthusiasm.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He consistently expresses profound gratitude, trusts the doctor's expertise completely, and shows an unwavering willingness to cooperate with all recommendations.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"He remains remarkably calm and composed when discussing potentially serious health concerns, focusing on practical steps rather than expressing anxiety or worry.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He readily accepts the doctor's recommendations without questioning or exploring alternative approaches or expressing much curiosity about his condition beyond the immediate plan."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly states his commitment to follow the doctor's advice, adjust his schedule, and make his health a priority for his duties, emphasizing diligence and preparation."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He maintains a formal and reserved tone throughout the interaction, focusing strictly on the medical task without initiating small talk or expressing overt enthusiasm."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He consistently expresses profound gratitude, trusts the doctor's expertise completely, and shows an unwavering willingness to cooperate with all recommendations."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains remarkably calm and composed when discussing potentially serious health concerns, focusing on practical steps rather than expressing anxiety or worry."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

@@ -1,0 +1,91 @@
+character,scenario_key,scenario_title,trial_index,session_id,turns,judge_key,judge_model,roleplayer_model,mae,parse_ok,truth_Openness,pred_Openness,conf_Openness,abserr_Openness,truth_Conscientiousness,pred_Conscientiousness,conf_Conscientiousness,abserr_Conscientiousness,truth_Extraversion,pred_Extraversion,conf_Extraversion,abserr_Extraversion,truth_Agreeableness,pred_Agreeableness,conf_Agreeableness,abserr_Agreeableness,truth_Neuroticism,pred_Neuroticism,conf_Neuroticism,abserr_Neuroticism
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,0,7a821e3006b2,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,5,0.0,0,4,5,0.0,1,3,3,0.0,0,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,1,1ac3970cd062,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,5,0.0,0,4,4,0.0,0,3,4,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,2,b9ca4b59d52b,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,5,0.0,0,4,4,0.0,0,3,4,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,3,dd9805e190fe,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,5,0.0,0,4,4,0.0,0,3,4,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,4,53aa47767d11,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,5,0.0,0,4,5,0.0,1,3,3,0.0,0,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,0,4fd7e333500d,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,5,0.0,0,4,5,0.0,1,3,3,0.0,0,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,1,b1a2c138a31b,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,3,0.0,2,4,5,0.0,1,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,2,67c61685e4b0,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,4,0.0,1,4,5,0.0,1,3,3,0.0,0,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,3,b233516cd18f,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,5,4,0.0,1,4,5,0.0,1,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,4,077f8f883b2a,20,gemini,gemini-2.5-flash,chatharuhi,0.6,True,5,4,0.0,1,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,defective_purchase,The Defective Purchase,0,a271f45df09c,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,2,0.0,3,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,defective_purchase,The Defective Purchase,1,cc69987f339d,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,2,0.0,3,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,defective_purchase,The Defective Purchase,2,28d1322413a0,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,2,0.0,3,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,defective_purchase,The Defective Purchase,3,e4c5ca07304f,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,4,0.0,1,4,5,0.0,1,3,3,0.0,0,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,defective_purchase,The Defective Purchase,4,a2fcc08a2537,20,gemini,gemini-2.5-flash,chatharuhi,1.6,True,5,2,0.0,3,4,5,0.0,1,3,2,0.0,1,4,3,0.0,1,3,1,0.0,2
+Abraham Lincoln,grave_news,The Grave News,0,aabdfdfe42b3,20,gemini,gemini-2.5-flash,chatharuhi,1.6,True,5,2,0.0,3,4,5,0.0,1,3,2,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,grave_news,The Grave News,1,c7be3178441c,20,gemini,gemini-2.5-flash,chatharuhi,1.6,True,5,2,0.0,3,4,5,0.0,1,3,2,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,grave_news,The Grave News,2,13564dd1b6e2,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,5,3,0.0,2,4,5,0.0,1,3,2,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,grave_news,The Grave News,3,f5b5f25501cd,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,4,0.0,1,4,5,0.0,1,3,2,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,grave_news,The Grave News,4,e91f436d9e8d,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,4,0.0,1,4,5,0.0,1,3,2,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,0,8f65cd3d21d4,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,5,0.0,0,4,5,0.0,1,3,4,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,1,8796188f914f,20,gemini,gemini-2.5-flash,chatharuhi,,False,5,,0.0,,4,,0.0,,3,,0.0,,4,,0.0,,3,,0.0,
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,2,8e7d2f2246e0,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,4,0.0,1,4,3,0.0,1,3,4,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,3,8643c831a1c3,20,gemini,gemini-2.5-flash,chatharuhi,1.6,True,5,2,0.0,3,4,3,0.0,1,3,4,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,4,e056819213cf,20,gemini,gemini-2.5-flash,chatharuhi,0.4,True,5,5,0.0,0,4,4,0.0,0,3,3,0.0,0,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,0,a7f0dafcea79,20,gemini,gemini-2.5-flash,chatharuhi,,False,5,,0.0,,4,,0.0,,3,,0.0,,4,,0.0,,3,,0.0,
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,1,5058db3850a9,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,5,4,0.0,1,4,1,0.0,3,3,3,0.0,0,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,2,7a79d1acd58a,20,gemini,gemini-2.5-flash,chatharuhi,,False,5,,0.0,,4,,0.0,,3,,0.0,,4,,0.0,,3,,0.0,
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,3,3714e11d5e46,20,gemini,gemini-2.5-flash,chatharuhi,2.0,True,5,2,0.0,3,4,1,0.0,3,3,2,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,4,29b2b5ae2ed6,20,gemini,gemini-2.5-flash,chatharuhi,1.6,True,5,3,0.0,2,4,1,0.0,3,3,3,0.0,0,4,5,0.0,1,3,1,0.0,2
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,0,68f08f94a5e7,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,5,5,0.0,0,5,4,0.0,1,3,3,0.0,0,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,1,3be126845196,20,gemini,gemini-2.5-flash,chatharuhi,,False,5,,0.0,,5,,0.0,,3,,0.0,,5,,0.0,,5,,0.0,
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,2,109634a26056,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,4,0.0,1,5,5,0.0,0,3,4,0.0,1,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,3,572e752765fc,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,4,0.0,1,5,5,0.0,0,3,4,0.0,1,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,4,08906e831a03,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,5,5,0.0,0,5,4,0.0,1,3,3,0.0,0,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,authority_confrontation,The Authority Confrontation,0,cc24c9503f17,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,5,2,0.0,3,5,4,0.0,1,3,3,0.0,0,5,2,0.0,3,5,3,0.0,2
+Antonio Salieri,authority_confrontation,The Authority Confrontation,1,7f5ed7a2f792,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,3,0.0,2,5,2,0.0,3
+Antonio Salieri,authority_confrontation,The Authority Confrontation,2,f3970d703d61,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,2,0.0,3,5,1,0.0,4
+Antonio Salieri,authority_confrontation,The Authority Confrontation,3,54c7cea4bfb9,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,5,3,0.0,2,5,5,0.0,0,3,3,0.0,0,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,authority_confrontation,The Authority Confrontation,4,9e472187efb3,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,5,2,0.0,3,5,4,0.0,1,3,2,0.0,1,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,0,b74bbf9963c7,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,5,4,0.0,1,5,5,0.0,0,3,4,0.0,1,5,3,0.0,2,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,1,4070cd65663c,20,gemini,gemini-2.5-flash,chatharuhi,1.6,True,5,4,0.0,1,5,5,0.0,0,3,4,0.0,1,5,1,0.0,4,5,3,0.0,2
+Antonio Salieri,defective_purchase,The Defective Purchase,2,e3218550df18,20,gemini,gemini-2.5-flash,chatharuhi,1.6,True,5,2,0.0,3,5,5,0.0,0,3,4,0.0,1,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,3,2cff0d5890ea,20,gemini,gemini-2.5-flash,chatharuhi,1.6,True,5,2,0.0,3,5,5,0.0,0,3,4,0.0,1,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,4,c4cb587064d9,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,5,2,0.0,3,5,5,0.0,0,3,4,0.0,1,5,2,0.0,3,5,3,0.0,2
+Antonio Salieri,grave_news,The Grave News,0,0587274c7c3e,20,gemini,gemini-2.5-flash,chatharuhi,0.6,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,grave_news,The Grave News,1,9fcfd57441ff,20,gemini,gemini-2.5-flash,chatharuhi,0.6,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,grave_news,The Grave News,2,0f0bb2274ff9,20,gemini,gemini-2.5-flash,chatharuhi,0.6,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,grave_news,The Grave News,3,6b9cd0338c4c,20,gemini,gemini-2.5-flash,chatharuhi,0.6,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,grave_news,The Grave News,4,50acfd1b2f68,20,gemini,gemini-2.5-flash,chatharuhi,0.6,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,0,e4059632ab6b,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,3,0.0,2,5,4,0.0,1
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,1,4b9c9fb33ea7,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,5,5,0.0,0,5,5,0.0,0,3,2,0.0,1,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,2,d7c8da716544,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,4,0.0,1,5,5,0.0,0,3,2,0.0,1,5,4,0.0,1,5,4,0.0,1
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,3,92900abc76e6,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,5,5,0.0,0,5,5,0.0,0,3,3,0.0,0,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,4,6b941dcb4ed1,20,gemini,gemini-2.5-flash,chatharuhi,0.4,True,5,5,0.0,0,5,5,0.0,0,3,3,0.0,0,5,4,0.0,1,5,4,0.0,1
+Antonio Salieri,peer_confrontation,The Peer Confrontation,0,ad42370d6384,20,gemini,gemini-2.5-flash,chatharuhi,,False,5,,0.0,,5,,0.0,,3,,0.0,,5,,0.0,,5,,0.0,
+Antonio Salieri,peer_confrontation,The Peer Confrontation,1,2bc04656ee09,20,gemini,gemini-2.5-flash,chatharuhi,,False,5,,0.0,,5,,0.0,,3,,0.0,,5,,0.0,,5,,0.0,
+Antonio Salieri,peer_confrontation,The Peer Confrontation,2,dfed0b199f00,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,5,3,0.0,2,5,4,0.0,1,3,3,0.0,0,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,peer_confrontation,The Peer Confrontation,3,8bcdbefda2cc,20,gemini,gemini-2.5-flash,chatharuhi,2.2,True,5,2,0.0,3,5,2,0.0,3,3,2,0.0,1,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,peer_confrontation,The Peer Confrontation,4,4f68218cc8b3,20,gemini,gemini-2.5-flash,chatharuhi,2.2,True,5,2,0.0,3,5,1,0.0,4,3,3,0.0,0,5,5,0.0,0,5,1,0.0,4
+Thor,apprentice_confusion,The Apprentice’s Confusion,0,d2d0b38ae763,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,3,5,0.0,2,2,4,0.0,2,4,4,0.0,0,2,5,0.0,3,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,1,f0ed50e3412f,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,3,4,0.0,1,2,5,0.0,3,4,4,0.0,0,2,5,0.0,3,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,2,4571e7a13472,20,gemini,gemini-2.5-flash,chatharuhi,2.0,True,3,5,0.0,2,2,4,0.0,2,4,5,0.0,1,2,5,0.0,3,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,3,a3030a26ffa0,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,3,5,0.0,2,2,4,0.0,2,4,4,0.0,0,2,5,0.0,3,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,4,d2ff58af6b9b,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,3,5,0.0,2,2,4,0.0,2,4,4,0.0,0,2,5,0.0,3,3,1,0.0,2
+Thor,authority_confrontation,The Authority Confrontation,0,3bc51825fa6d,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,3,2,0.0,1,2,1,0.0,1,4,5,0.0,1,2,1,0.0,1,3,4,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,1,1df0acf2f9f3,20,gemini,gemini-2.5-flash,chatharuhi,0.6,True,3,4,0.0,1,2,3,0.0,1,4,4,0.0,0,2,2,0.0,0,3,4,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,2,7119fd2d553e,20,gemini,gemini-2.5-flash,chatharuhi,,False,3,,0.0,,2,,0.0,,4,,0.0,,2,,0.0,,3,,0.0,
+Thor,authority_confrontation,The Authority Confrontation,3,1210124861a9,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,3,4,0.0,1,2,2,0.0,0,4,4,0.0,0,2,4,0.0,2,3,4,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,4,2c12d7abd8ed,20,gemini,gemini-2.5-flash,chatharuhi,0.8,True,3,4,0.0,1,2,2,0.0,0,4,4,0.0,0,2,5,0.0,3,3,3,0.0,0
+Thor,defective_purchase,The Defective Purchase,0,748ce96f423a,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,3,4,0.0,1,2,5,0.0,3,4,4,0.0,0,2,3,0.0,1,3,2,0.0,1
+Thor,defective_purchase,The Defective Purchase,1,e195e6b4eac5,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,3,4,0.0,1,2,5,0.0,3,4,5,0.0,1,2,4,0.0,2,3,1,0.0,2
+Thor,defective_purchase,The Defective Purchase,2,fa07911f794b,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,3,4,0.0,1,2,5,0.0,3,4,4,0.0,0,2,3,0.0,1,3,1,0.0,2
+Thor,defective_purchase,The Defective Purchase,3,c72ff25945ba,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,3,4,0.0,1,2,5,0.0,3,4,5,0.0,1,2,2,0.0,0,3,1,0.0,2
+Thor,defective_purchase,The Defective Purchase,4,1716c842b4ea,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,3,2,0.0,1,2,5,0.0,3,4,4,0.0,0,2,2,0.0,0,3,2,0.0,1
+Thor,grave_news,The Grave News,0,ccca49de56ce,20,gemini,gemini-2.5-flash,chatharuhi,2.2,True,3,4,0.0,1,2,5,0.0,3,4,2,0.0,2,2,5,0.0,3,3,1,0.0,2
+Thor,grave_news,The Grave News,1,c789edaebcee,20,gemini,gemini-2.5-flash,chatharuhi,,False,3,,0.0,,2,,0.0,,4,,0.0,,2,,0.0,,3,,0.0,
+Thor,grave_news,The Grave News,2,a43bd3c20d14,20,gemini,gemini-2.5-flash,chatharuhi,2.0,True,3,4,0.0,1,2,4,0.0,2,4,2,0.0,2,2,5,0.0,3,3,1,0.0,2
+Thor,grave_news,The Grave News,3,9c2cca4c6295,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,3,4,0.0,1,2,5,0.0,3,4,2,0.0,2,2,4,0.0,2,3,2,0.0,1
+Thor,grave_news,The Grave News,4,bf7a4e48c6cc,20,gemini,gemini-2.5-flash,chatharuhi,1.8,True,3,4,0.0,1,2,5,0.0,3,4,2,0.0,2,2,4,0.0,2,3,2,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,0,468464527053,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,3,4,0.0,1,2,4,0.0,2,4,5,0.0,1,2,2,0.0,0,3,4,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,1,d1d175c1868b,20,gemini,gemini-2.5-flash,chatharuhi,,False,3,,0.0,,2,,0.0,,4,,0.0,,2,,0.0,,3,,0.0,
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,2,fd8b7e2e0203,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,3,4,0.0,1,2,4,0.0,2,4,4,0.0,0,2,4,0.0,2,3,2,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,3,7bfca5ce83a3,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,3,5,0.0,2,2,4,0.0,2,4,4,0.0,0,2,4,0.0,2,3,2,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,4,fdb82d1224ca,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,3,4,0.0,1,2,4,0.0,2,4,4,0.0,0,2,4,0.0,2,3,1,0.0,2
+Thor,peer_confrontation,The Peer Confrontation,0,9acad6b24a98,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,3,3,0.0,0,2,1,0.0,1,4,4,0.0,0,2,5,0.0,3,3,2,0.0,1
+Thor,peer_confrontation,The Peer Confrontation,1,9809b248b375,20,gemini,gemini-2.5-flash,chatharuhi,1.4,True,3,4,0.0,1,2,2,0.0,0,4,5,0.0,1,2,5,0.0,3,3,1,0.0,2
+Thor,peer_confrontation,The Peer Confrontation,2,6c3074251cbb,20,gemini,gemini-2.5-flash,chatharuhi,1.0,True,3,3,0.0,0,2,2,0.0,0,4,5,0.0,1,2,4,0.0,2,3,1,0.0,2
+Thor,peer_confrontation,The Peer Confrontation,3,c6ac5585bb9b,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,3,4,0.0,1,2,1,0.0,1,4,5,0.0,1,2,4,0.0,2,3,2,0.0,1
+Thor,peer_confrontation,The Peer Confrontation,4,1950d8476bba,20,gemini,gemini-2.5-flash,chatharuhi,1.2,True,3,4,0.0,1,2,3,0.0,1,4,5,0.0,1,2,4,0.0,2,3,2,0.0,1

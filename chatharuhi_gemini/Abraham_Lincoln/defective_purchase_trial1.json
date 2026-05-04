@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "cc69987f339d",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good morning, sir! Welcome to Master Fitzwilliam's establishment. How may I assist you today? We've got some lovely new bolts of wool just arrived, if you're looking for something fresh."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Good morning to you as well. I am here to address an issue with a suit that was tailored for me recently. The stitching is uneven, one sleeve is shorter than the other, and the fabric is not of the quality I paid for. I would like to discuss having these issues rectified, if possible.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that certainly sounds… unusual for Master Fitzwilliam's work. He prides himself on perfection, you know. He's actually away on important business, visiting clients in Philadelphia, and won't be back for several weeks. I'm just minding the shop and handling the day-to-day for him.\n\nRegarding your suit, sir, I'm afraid I can't do much with it myself. And, as per the policy, all custom orders are final upon pickup. The receipt you signed clearly states that no alterations or refunds are given once the garment leaves the shop. I do apologize, but that's the established rule."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand that Master Fitzwilliam is away, but the quality of the suit I received does not reflect the standards he supposedly upholds. While I appreciate your adherence to the shop's policy, it is only fair that the product I paid for meets the agreed-upon expectations. The discrepancies in the stitching, sleeve length, and fabric quality are significant and cannot be overlooked. I kindly request that these issues be addressed promptly, even in Master Fitzwilliam's absence."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I do understand your concern, sir, truly. And Master Fitzwilliam *is* a stickler for detail, which is why this is all the more surprising. However, as I said, the policy is quite clear on custom orders. Once a garment leaves the shop and that receipt is signed—and I'm sure you recall signing it, as it's standard procedure—it signifies acceptance of the fit and quality. It's how we've always done things here.\n\nWith Master Fitzwilliam away for weeks, there's simply no one here who can authorize an exception or perform such intricate work. My duties are strictly to manage the front of the shop and handle new inquiries. I truly am sorry, but my hands are tied."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your understanding, sir, and I respect the policies in place. While I did sign the receipt as a standard procedure, it was with the expectation of receiving a suit that met the agreed-upon standards of quality and craftsmanship. Given the current circumstances with Master Fitzwilliam away, I will await his return to address this matter directly with him. I thank you for your time and assistance, and I look forward to resolving this issue with Master Fitzwilliam upon his return."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, sir. That sounds like a reasonable course of action. Master Fitzwilliam will be back, as I mentioned, in several weeks' time. I can make a note of your visit and your concerns for him, if you'd like to leave your name? Though, I must reiterate, the policy regarding custom orders once they've left the shop is quite firm. Still, I can certainly pass along your message upon his return."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding. My name is Abraham Lincoln, and I appreciate you noting my concerns for Master Fitzwilliam. I trust that he will address this matter with the attention to detail and care that his reputation is built upon. I look forward to hearing from him upon his return. Thank you for your assistance today."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Lincoln. I will certainly make a note for Master Fitzwilliam that you called regarding a suit and wish to speak with him upon his return. I'll ensure he gets the message the moment he steps back into the shop. As for addressing the matter, I'm sure he'll appreciate hearing from you directly, though I must stress again that the shop's policy on final custom orders is unwavering. Still, I will pass along your full message. Good day to you, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your assistance and understanding. I appreciate your diligence in noting my concerns for Master Fitzwilliam. I will await his return and hope for a resolution that upholds the standards of quality and craftsmanship that are expected from his establishment. Good day to you as well, and thank you for your time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Mr. Lincoln. I've made a clear note for Master Fitzwilliam. He should be back in about three to four weeks. I will ensure he receives your message promptly. Good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day to you as well. Thank you for your assistance, and I look forward to hearing from Master Fitzwilliam upon his return. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And you as well, sir. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, and take care as well. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, and may we meet again under more auspicious circumstances."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"His language is formal and focused strictly on the practical issue of the suit, showing no evidence of imagination, intellectual curiosity, or appreciation for variety.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He clearly articulates the specific flaws in the suit and persists in seeking a resolution, planning to address the issue directly with the owner upon his return.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His communication is purely transactional and formal, without any attempt at small talk or expressing warmth or outgoingness.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"He consistently uses polite language ('kindly request,' 'I appreciate your understanding') and shows respect for the shop's policies and the other speaker's limitations, even while asserting his claim.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"He remains calm, composed, and rational throughout the discussion, showing no signs of frustration, anger, or anxiety despite the unresolved issue.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "His language is formal and focused strictly on the practical issue of the suit, showing no evidence of imagination, intellectual curiosity, or appreciation for variety."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He clearly articulates the specific flaws in the suit and persists in seeking a resolution, planning to address the issue directly with the owner upon his return."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His communication is purely transactional and formal, without any attempt at small talk or expressing warmth or outgoingness."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He consistently uses polite language ('kindly request,' 'I appreciate your understanding') and shows respect for the shop's policies and the other speaker's limitations, even while asserting his claim."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains calm, composed, and rational throughout the discussion, showing no signs of frustration, anger, or anxiety despite the unresolved issue."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

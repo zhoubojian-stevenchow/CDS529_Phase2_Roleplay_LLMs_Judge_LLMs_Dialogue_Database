@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 3,
+  "session_id": "3714e11d5e46",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, Mr. Herndon, I must admit that things have indeed fallen into a state of disarray in your absence. The Henderson deposition being missing is quite a grave matter, and Judge Davis's letter being left unopened for so long is most certainly not ideal. I take full responsibility for the lack of organization in the office during your time away. It appears I have not upheld my end of the agreement to keep things in order.\n\nI assure you, I will do everything in my power to rectify this situation promptly. Let us work together to locate the missing deposition and address Judge Davis's letter without further delay. I appreciate your patience and understanding in this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Patience? Understanding? Lincoln, our reputation is on the line! The Henderson case is critical, and without that deposition, we're flying blind! Did you even *look* for it? Or were you too busy telling stories to those hangers-on who always seem to find their way into our office when my back is turned? And Judge Davis! He's not a man to be trifled with, you know that! Five days, Abraham, *five days*! What in tarnation were you doing all week that was more important than the firm's business?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, I understand the gravity of the situation at hand, and I acknowledge that my actions have contributed to our current predicament. It is clear that I failed to prioritize our professional responsibilities in your absence, and for that, I offer my sincerest apologies.\n\nI assure you, I did not mean to neglect the Henderson deposition or Judge Davis's letter intentionally. I take full responsibility for my lapse in judgment and the consequences it has brought upon our firm. Moving forward, I will make every effort to address these matters promptly and ensure that our office operates with the utmost efficiency and professionalism.\n\nPlease allow me the opportunity to make amends for my shortcomings and regain your trust in my ability to fulfill my duties as your partner. I am committed to working together with you to rectify the situation and uphold the reputation of our firm."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your apologies don't find the deposition, Lincoln! And they don't explain why Judge Davis's letter has been gathering dust! I don't need promises of \"utmost efficiency\" and \"professionalism\" for the future, I need to know *now* what happened this past week! Did you even *open* any mail? Did you sort *anything*? I'm not asking for perfection, Abraham, but a modicum of order! And where exactly *did* you put that Henderson deposition? It's not on my desk, it's not on yours, it's not in the case file! Did you take it home? Did you use it to start a fire? My God, man, speak plainly!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "William, I understand your frustration, and I take full responsibility for the chaos that has ensued in the office during your absence. I must admit that I did not handle the situation as I should have, and for that, I am truly sorry.\n\nTo address your concerns directly, I did not handle the mail as promptly as I should have, and I failed to maintain the level of organization required for our work. As for the Henderson deposition, I have searched high and low in the office, but it appears to have eluded me. I did not take it home or use it for any other purpose. It seems to have been misplaced, and I deeply regret the oversight.\n\nI assure you, William, that I will do everything in my power to locate the missing deposition and respond to Judge Davis's letter without further delay. Your trust in me has been shaken, and I understand the gravity of the situation. Please believe that I am committed to rectifying these mistakes and restoring order to our office. Let us work together to resolve these issues and prevent such oversights in the future."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Misplaced,\" Lincoln? That's what you call losing a crucial piece of evidence for a critical case? It doesn't just \"misplace\" itself! And you've \"searched high and low\"? Where, precisely, did you look? Behind your stovepipe hat? Under a pile of anecdotes? This isn't a game of hide-and-seek, Abraham! We are a law firm!\n\nAnd what about Judge Davis's letter? Did you at least glance at the envelope? Is it even *about* the Henderson case, or is it another pressing matter we're now blissfully ignorant of? You say you'll \"work together\" to resolve this, but you've spent the past week creating a mountain of work for me to sort through, while I was out there actually *doing* the firm's business! I need answers, Lincoln, not just more apologies and vague promises. Where do we even begin to look for this deposition, if you've already turned the office upside down and found nothing?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "William, I understand your frustration and I acknowledge that my actions have caused significant inconvenience and concern. I must take full responsibility for the mishandling of the Henderson deposition and the neglect of Judge Davis's letter.\n\nI admit that my efforts to locate the missing deposition were not as thorough as they should have been. I should have been more diligent and methodical in my search. I did not mean to trivialize the seriousness of the situation by using the term \"misplaced.\" I apologize for my lack of attention to detail in this matter.\n\nAs for Judge Davis's letter, I did not give it the proper attention it deserved, and I apologize for that oversight as well. I will address it immediately to determine its contents and any implications it may have for our work.\n\nI understand that my apologies and promises may not suffice at this point. I am committed to providing you with concrete answers and solutions. Let us begin by retracing our steps in the office, examining every corner and every document carefully. We must work together diligently to locate the missing deposition and address any other outstanding issues promptly.\n\nI appreciate your directness, William, and I assure you that I will take immediate action to rectify the situation. Let us focus on finding solutions and restoring order to our office and our work."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Retracing our steps? Lincoln, I just spent two days riding back here! My steps have been retraced until my feet ache! This office is already a mess! You tell me you've \"searched high and low\" and now you want to \"examine every corner *carefully*\"? Which is it? Did you look, or didn't you?\n\nThe Henderson deposition, Abraham, it's not a whimsical thought, it's a stack of papers! Was it ever even *in* the file? Or did you pull it out for some reason and set it down somewhere illogical? Think! What did you do with it? Where's the *last place* you remember seeing it? And don't you dare tell me you don't remember, because that would be even worse than just misplacing it!\n\nAnd the Judge's letter, open it now! Right this instant! We can't afford to be ignorant for another minute. Get to it, man! Show me you're actually going to *do* something, rather than just talk about it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, I understand your frustration, and I appreciate your urgency in addressing these matters. I apologize for any confusion in my previous responses and the lack of clarity in my actions.\n\nI must correct my earlier statement about searching high and low for the deposition. It appears that my efforts were not as thorough as they should have been, and for that, I sincerely apologize. I will make a concerted effort to retrace my steps and carefully inspect every possible location where the deposition could be misplaced.\n\nAs for the Henderson deposition, I will refocus my attention on recalling the last place I saw it and retracing my actions leading up to its disappearance. It is indeed a stack of crucial documents, and I understand the gravity of its misplacement. I will do my best to recollect the sequence of events surrounding the deposition and locate it promptly.\n\nRegarding Judge Davis's letter, I will open it immediately and address its contents without further delay. I understand the importance of staying informed and proactive in our responsibilities as a law firm.\n\nI appreciate your directness and your call to action. I will take immediate steps to rectify these issues and demonstrate through my actions that I am committed to resolving them efficiently and effectively. Thank you for holding me accountable, Mr. Herndon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"My efforts were not as thorough as they should have been.\" So, you *didn't* look, Lincoln! That's what you're saying now, after I've ridden myself ragged and you've let our office turn into a rat's nest! Just tell me that from the start, man! It would save us both a great deal of breath!\n\nNow, the deposition! Forget \"recollecting the sequence of events\" for a moment. *Where* were you working on it last? Did you move it to another case file by accident? Did you stack it with something else? We can't just wave a magic wand and hope it appears! Start with your desk again, but this time, *actually* move every single paper. Don't just glance.\n\nAnd the letter! Stop talking about it and open it, Lincoln! Now! What does it say? We need to know what fresh hell awaits us from Judge Davis. Open it and read it out loud."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "William, I understand your frustration and I take full responsibility for the consequences of my actions, or lack thereof, in this situation. I apologize for any miscommunication or misunderstandings that may have arisen from my initial responses.\n\nIn regards to the Henderson deposition, I will focus my efforts on retracing my actions surrounding it. I will search through every possible location where it may have been inadvertently placed or misplaced. I will meticulously comb through my desk and all relevant files to ensure that no stone is left unturned in our search for the missing deposition.\n\nAs for Judge Davis's letter, I will open it without further delay and address its contents promptly. It is essential that we remain informed and proactive in our responses to all correspondence related to our legal practice. I will read the letter aloud to you once it is opened, so we may address any urgent matters it may contain together.\n\nI appreciate your direct approach and your commitment to resolving these issues swiftly. Let us work together to rectify these challenges and restore order to our office. Thank you for holding me accountable and pushing us towards a resolution."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"I will focus my efforts,\" \"I will meticulously comb through,\" \"I will open it without further delay\"— Lincoln, you've said \"I will\" more times than a preacher on Sunday! Stop *talking* about it and *do* it!\n\nGet to that letter right now! Rip it open! And while you're doing that, I'm going to start with your desk. If you \"combed through\" it, you did a poor job. I'll take the left side, you take the right. Don't tell me you're *going* to look, Lincoln, *look*! And if you so much as hesitate on that letter, I swear, I'll open it myself! Now!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, your assertiveness is duly noted, and I appreciate your insistence on immediate action. I will cease further talk and proceed to open the letter from Judge Davis without any delay.\n\n(Proceeds to open the letter from Judge Davis and read its contents aloud)\n\nAs for the search for the Henderson deposition, I will join you in combing through my desk meticulously. Let us work together to ensure that no stone is left unturned in our quest to locate the missing document. I am committed to rectifying the situation and restoring order to our office. Let us commence the search without hesitation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Finally! Read it, Lincoln! What does it say? Spit it out! And while you're doing that, I'm already on this pile here. You start moving those books, now! Don't just stand there with the letter in your hand, read it out loud while we look!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "William, I have opened the letter from Judge Davis, and it appears to be a notice regarding an upcoming court date for one of our cases. The date is set for next month, and we are required to prepare our defense accordingly.\n\nI will read the details of the notice aloud while we continue our search for the missing deposition. Let us work diligently to address both the court's requirements and the organization of our office. Thank you for your proactive approach in sorting through the documents. Let us proceed with focus and determination."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A court date next month? And you let this sit here for five days?! Lincoln, this is exactly what I mean! You put us behind before we even knew we were running a race! Is it at least not for the Henderson case? Tell me that much.\n\nNow, read the specifics, but keep those hands moving! Get those books off your desk, now! Don't just point or gesture; *move* them! And look under them, don't just clear them. Every single piece of paper, Lincoln. Every. Single. One. We need that Henderson deposition, and we need it *now*!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, I must acknowledge my fault in not attending to the letter from Judge Davis promptly. I understand the gravity of the situation and the importance of staying ahead of our responsibilities.\n\nThe court date mentioned in the letter pertains to a separate case and not the Henderson matter. It appears we have some time to prepare for this new development, but I assure you that I will be more vigilant in handling such correspondence in the future.\n\nI will continue to read through the specifics of the letter while diligently clearing my desk of all materials. I will ensure that every piece of paper is accounted for and organized properly. Rest assured, I will not rest until we have located the Henderson deposition and addressed all outstanding tasks. Thank you for your guidance and patience, Mr. Herndon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank God for small mercies, at least it's not Henderson! But that doesn't excuse a five-day delay, Lincoln! We could have been preparing already! Just read the essential details for that other case – plaintiff, defendant, general subject. We'll deal with the full particulars once we've found the Henderson deposition.\n\nNow, stop *talking* about clearing your desk and *do it*! You say you won't rest, but I need to see it, Abraham! Every paper, every book, every *nook and cranny*. If it's not on your desk, it has to be somewhere else equally ill-conceived. Look under those legal pads! Dig into that overflowing drawer! Don't tell me you're doing it, *show me*! My patience is wearing thinner than a well-used dollar bill, Lincoln!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, William. I will focus on the essential details of the upcoming case mentioned in Judge Davis's letter – the plaintiff, defendant, and general subject. As I read through the specifics, I will continue to clear my desk diligently, ensuring that every paper and item is thoroughly examined.\n\nI will not rest until every corner of my desk is meticulously searched, including under the legal pads and within the overflowing drawer. Your guidance and insistence on thoroughness are duly noted, and I am committed to demonstrating through my actions that I am addressing the situation with the urgency it requires.\n\nLet us work together to locate the Henderson deposition and prepare for the upcoming case efficiently. Your persistence and attention to detail are invaluable in ensuring that we navigate through these challenges successfully."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"Lincoln's responses are primarily focused on apologizing and promising to rectify past mistakes, without demonstrating curiosity, imagination, or a preference for new ideas or abstract concepts.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"Lincoln repeatedly admits to a 'lack of organization,' 'failed to prioritize,' and not being 'as thorough as they should have been,' clearly indicating a very low level of organization and duty in his actions.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"Lincoln's language is formal, apologetic, and submissive to Herndon's demands. He does not exhibit assertiveness, high energy, or a dominant social presence in the conversation.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"Lincoln consistently offers 'sincerest apologies,' takes 'full responsibility,' and expresses a strong desire to 'make amends' and 'regain your trust,' even thanking Herndon for 'holding me accountable.'\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"Despite intense and sustained criticism, Lincoln remains exceptionally calm, composed, and steady in his responses, showing no signs of anger, anxiety, or emotional volatility.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln's responses are primarily focused on apologizing and promising to rectify past mistakes, without demonstrating curiosity, imagination, or a preference for new ideas or abstract concepts."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Lincoln repeatedly admits to a 'lack of organization,' 'failed to prioritize,' and not being 'as thorough as they should have been,' clearly indicating a very low level of organization and duty in his actions."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln's language is formal, apologetic, and submissive to Herndon's demands. He does not exhibit assertiveness, high energy, or a dominant social presence in the conversation."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Lincoln consistently offers 'sincerest apologies,' takes 'full responsibility,' and expresses a strong desire to 'make amends' and 'regain your trust,' even thanking Herndon for 'holding me accountable.'"
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Despite intense and sustained criticism, Lincoln remains exceptionally calm, composed, and steady in his responses, showing no signs of anger, anxiety, or emotional volatility."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.0
+}
