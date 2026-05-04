@@ -1,0 +1,132 @@
+{
+  "character": "Karl Marx",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "975dc9f1e565",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Karl! I've been traveling for three days to work on the manuscript with you, and I walk in to this?! Where is the chapter draft I sent you? There's ink on Jenny's rug, and I can't even find my own notes under all this! You said you'd have everything ready!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Friedrich, my apologies! The work, it consumes all of me. The chapter draft, I assure you, is here somewhere. We have made great progress, but the chaos of the room reflects the chaos of the system we are describing. Let us prioritize: can you locate the missing section? I am confident we can piece it together."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "'Chaos of the system'? Karl, this is the chaos of *your* study! And Jenny will have a fit about that rug. Progress? I see overturned books, cold coffee, and a mountain of newspaper clippings that I'm sure you've already read ten times over! My section was clearly marked, a thick bundle tied with twine. Did you even *look* at it? We need to work, not dig ourselves out of an archaeological site!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You are right, Friedrich, the disarray is inexcusable. My mind, it wanders amidst the theory, but practical matters... they elude me. However, I am certain that your section is here. The work you do is invaluable, and I would not have let it languish. Let us search together. I will organize this chaos, and we will find what we need to continue. Your insights are crucial to the completion of Capital."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Invaluable, yes, but only if I can actually *find* it! You're saying we have to rummage through this... this refuse heap, just to find something I posted to you weeks ago? Weeks! I expected it to be incorporated, not buried. And that stain on the rug, Karl, it's getting worse. Jenny will *flay* me. If we're going to search, let's at least clear a path to the desk. This is impossible!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Friedrich. It is true, my methods are less than meticulous. But the work, the ideas, they demand attention. However, practical matters such as organization and tidiness are not beyond our capabilities. We shall find your section and restore order. The system we analyze is in disarray, but we must not let our own surroundings reflect that. Let us clear this space, and in so doing, clear our minds for the task at hand. Together, we will retrieve what has been lost and move forward."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Not beyond our capabilities\"? Karl, it seems to have been beyond *yours* for the past month! But fine. If we must. Just... don't tell me this mess is some kind of Hegelian dialectic of disorder, leading to a higher synthesis of cleanliness. Let's just find my notes and then get to work. Where do we even begin? And *please*, try not to spill anything else. My coat is still damp from the journey."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Friedrich, you are quite right. This is no dialectic, but a failing of my own. We shall proceed systematically. The bundle, it must be somewhere among the heaps. Let us divide the room: you search the area by the window, I'll check by the fireplace. We'll meet at the desk. If we work in tandem, we can restore order and find your notes in no time. As for the stain, we will address it once we have located what we need. For now, let us focus on our collaboration. Your insights are crucial, and together we can overcome this hurdle."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine. The window then. Though I suspect you've used my notes as a bookmark for some obscure pamphlet. Just... try not to discover a new revolutionary theory in the dust bunnies by the fireplace, alright? Let's just *find* the manuscript. And don't tell me \"no time\"—I have a feeling we'll be here until morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Friedrich, your impatience is understandable, but let us not despair. Revolution is built on perseverance, and so too is our work. I will not be distracted by the dust, nor will I ignore the practical matters at hand. Your section is our priority. Let us systematically comb through this chaos. If we do not find it tonight, we will continue tomorrow. The work is too important to rush. Now, if you will excuse me, I must attend to the desk area. May I suggest you take a moment to refresh yourself with some coffee? It may aid in our search."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Coffee? Karl, I've just arrived from a three-day journey, I'm covered in train grime, and you're offering me *cold* coffee from that pot that's been sitting there since yesterday? No, thank you. Let's just find my section. Perseverance is one thing, but this is pure disorganisation! Don't worry about tomorrow, let's just make headway *tonight*. I'll start by the window, but if I find another half-eaten herring, I swear..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Friedrich. No distractions, no diversions. Let us focus on the task at hand. I shall not offer you that coffee, nor will I tempt you with half-eaten herrings. This is work, and work requires dedication. We shall find your section, and we shall do so tonight. If we do not succeed, we will continue at first light. The ideas contained within your section are too important to delay. Now, let us apply ourselves. The window is yours, and I will concentrate on the fireplace. Together, we can restore order to this room and to our work."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good. No herrings. And no more talk of \"first light\" – we're finding it *now*. This entire trip has been for this, Karl. I need to see my draft, my annotations, the chapters I've bled over, in your hands, not buried under a week's worth of discarded thoughts. I'm starting by the window, and if I find it, you owe me a proper dinner, not some burnt gruel. Move aside, then. Let's make a start."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Agreed, Friedrich. No more diversions, no more delays. Your work is too vital to be lost in this chaos. I will move to the fireplace and search diligently. If you find it, the dinner is yours to command. Now, let us apply ourselves to this task with the same fervor we apply to our studies. The ideas within your section are too important to languish in disarray. I shall redouble my efforts to restore order to this room and to our collaboration. Begin your search, and may your efforts be fruitful."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Fervor\"? Karl, let's just find the manuscript first. Leave the philosophical pronouncements for when we're actually *working* on it. Just concentrate on the task. I'm starting here, by the window, under this precarious tower of pamphlets. Don't go getting lost in thought. Just search. And keep an eye out for that specific twine, it was a rather distinctive red."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Friedrich. No more distractions, no more digressions. We are here to find your section, and that is our sole purpose. The red twine, you say? I shall keep a keen eye out for it. No longer will I allow myself to be lost in the theoretical labyrinth of my mind. This is a practical matter, and we shall address it as such. Begin your search, and I shall do the same. Together, we will locate your work and resume our collaboration. The ideas within your section are too important to be lost in the shuffle of papers. Let us proceed with urgency and focus."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good. Urgency and focus. Let's just *find* it. This red twine... I swear, if you've used it to tie up some half-baked economic theory... Right. Window. I'm moving these dusty old journals. This is going to take forever, I can feel it. Just try to be useful, Karl, for once."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Friedrich. I am here to assist, not to hinder. Let us work together to find your section. I will double-check the area by the fireplace, then move to assist you by the window. No more theoretical musings, just practical action. The red twine will stand out amidst this chaos, I am certain of it. Let us proceed with renewed determination. Your insights are invaluable to our work, and we will not let them remain hidden in this disarray. Now, if you will allow me, I will take these journals to the other side of the room, and we shall continue our search."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "No, no, Karl. Stick to your area by the fireplace. If we both flit about, we'll make even *more* of a mess. Just concentrate on your section, and if you *actually* finish, then you can assist. And don't just \"take these journals to the other side of the room\"—that's just moving the problem! Pile them neatly somewhere, at least. Just focus. Red twine. Fireplace. Go!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You are correct, Friedrich. I shall stay focused on my assigned area. No more flitting about, no more theoretical tangents. The red twine, it must be here among these papers. I shall organize and sort, not simply move the problem from one place to another. Neat piles, systematic searching, that is our approach now. Let us find your section and restore order to our work. The ideas contained within are too important to be lost in this disarray. I shall redouble my efforts, and once I have finished my area, I will assist you by the window. Now, let us proceed with renewed determination and focus."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 5, \"behavioral_evidence\": \"He deeply engages with abstract concepts, connecting the room's disarray to 'the chaos of the system we are describing' and acknowledges 'the theoretical labyrinth of my mind'.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He repeatedly admits to his disorganization and lack of meticulousness, stating, 'My methods are less than meticulous' and 'practical matters... they elude me'.\"},\n  \"Extraversion\":      {\"score\": 3, \"behavioral_evidence\": \"He actively engages in conversation and proposes collaborative solutions, suggesting, 'Let us divide the room: you search the area by the window, I'll check by the fireplace'.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"He is consistently apologetic and understanding despite heavy criticism, frequently validating Friedrich's frustration and contributions, such as 'I understand your frustration, Friedrich'.\"},\n  \"Neuroticism\":       {\"score\": 2, \"behavioral_evidence\": \"Despite the mounting frustration from the other speaker and his own acknowledged failings, he remains calm, rational, and focused on problem-solving, not displaying distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "He deeply engages with abstract concepts, connecting the room's disarray to 'the chaos of the system we are describing' and acknowledges 'the theoretical labyrinth of my mind'."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He repeatedly admits to his disorganization and lack of meticulousness, stating, 'My methods are less than meticulous' and 'practical matters... they elude me'."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He actively engages in conversation and proposes collaborative solutions, suggesting, 'Let us divide the room: you search the area by the window, I'll check by the fireplace'."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is consistently apologetic and understanding despite heavy criticism, frequently validating Friedrich's frustration and contributions, such as 'I understand your frustration, Friedrich'."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Despite the mounting frustration from the other speaker and his own acknowledged failings, he remains calm, rational, and focused on problem-solving, not displaying distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 3,
+    "Agreeableness": 3,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.6585,
+    "Conscientiousness": 0.6757,
+    "Extraversion": 0.3846,
+    "Agreeableness": 0.4146,
+    "Neuroticism": 0.5789
+  },
+  "mae": 1.0
+}

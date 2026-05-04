@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "6e9e1bbf214b",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Potter, thank you for coming in today. We've just reviewed the results from your preliminary scans, and... well, we're seeing something rather unusual. There's a persistent magical residue in your neural pathways – it looks like lingering effects from your extensive exposure to dark magic during the war. The thing is, this doesn't quite match any standard post-combat magical diagnosis we're familiar with. I'm going to need to run some much deeper scans over the next several days to truly understand what we're dealing with. And honestly, at this moment, I can't yet tell you whether this is something you'll fully recover from."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see... so, it's not just in my head then? These... these headaches and the disorientation, they're real? I mean, I always thought it was just... stress, or maybe I was just... overthinking things. But it's not? It's actual... damage?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, Mr. Potter, what you're experiencing is quite real. The magical residue we're detecting is tangible. It's not a figment of your imagination, nor is it simply stress manifesting. While stress certainly doesn't help, the physical symptoms you're describing – the headaches, the disorientation – they correlate with the patterns we're observing in your neural pathways. We just need to understand *what kind* of damage it is, precisely. That's what the deeper scans are for."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I don't know what to say. This is... it's a bit overwhelming, to be honest. I mean, I've been through a lot, but... I always thought that once it was over, once the war was won, everything would just... go back to normal. I guess I was wrong. It's like... like I can't shake it off, can I? It's always there, in my head, like a... like a constant reminder that I can't... can't just move on."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It's perfectly understandable to feel overwhelmed, Mr. Potter. This isn't the kind of news anyone wants to hear, especially after everything you've endured. You're right, many expect that once the immediate threat is gone, the body and mind simply... reset. But the reality of deep magical exposure, particularly to dark arts, can be far more complex.\n\nThis residue we're seeing, it's not something you can just 'shake off' like a common cold. It's an energetic imprint, woven into your magical core at a very fundamental level within your neural pathways. That's why we need these extensive scans – to map it precisely, understand its nature, and hopefully, determine if there's a way to mitigate or remove it. It's a journey, not a switch we can simply flip. But we *are* here to help you navigate it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate that, Dr...? I'm sorry, I'm not great with names, especially when I'm... when my head's not quite right. But thank you for... for explaining. It's... it's a relief, in a way, to know that it's not just me, that it's... real. I mean, I've been trying to deal with this on my own, and it's... it's been difficult. I... I've been trying not to burden anyone else with it, especially since... since everyone's been through so much, too. But I guess... I guess it's important to... to ask for help, isn't it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It's Healer Albright, Mr. Potter, and please, don't worry about it. It's completely understandable given the circumstances. And yes, you're absolutely right. It's incredibly important to ask for help, especially with something of this nature. Trying to bear such a burden alone, particularly when your own system is compromised, is a monumental task.\n\nThere's no shame in seeking medical guidance for a magical ailment, just as there's no shame in seeing a Healer for a broken bone. Your health, magical and physical, is paramount. You've carried enough for the world; allow us to carry this for you now, at least in terms of diagnosis and treatment. We'll start those deeper scans tomorrow morning, if that works for you. They'll involve a range of diagnostic charms, some of which are quite intricate, to give us a full picture."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Tomorrow morning... that's fine, I suppose. I mean, I don't have much else to do, do I? It's not like I can... can go back to the Auror Office in my current state, and... and Ginny's been after me to sort this out, anyway. So... I'll be here. Healer... Healer Albright, was it? I'll be here at... at what time? And... and should I... should I bring anything with me? Or... or is there anything I need to prepare for?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent. We'll start promptly at nine o'clock, if that suits you. No need to bring anything specific, Mr. Potter, just yourself. It might be wise to ensure you've had a light breakfast beforehand, as some of the diagnostic spells can be a little draining on your magical reserves. Beyond that, just try to relax as much as possible, though I know that's easier said than done.\n\nThe procedures themselves won't be painful, but they will involve a series of more complex and prolonged charm-work than the initial scans. You'll be resting comfortably, and we'll be observing your magical energy closely. It's essentially a very thorough magical MRI, if you will. We'll monitor you throughout, and you'll be able to tell us if anything feels particularly uncomfortable. We'll take it at your pace."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Nine o'clock... got it. And... a light breakfast. I can do that. I... I usually have toast, is that... is that light enough? I don't want to... to have a full English or anything, in case... in case it's not. And... and I'll... I'll try to relax. I'll... I'll do my best. It's just... it's a bit strange, you know? To be... to be here, in St. Mungo's, not as a... as a visitor, but as a... as a patient. It's... it's a bit... it's a bit hard to take in. But I... I'll be there. At nine. And... and I'll do what I can to... to help you help me, I guess."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Toast will be perfectly fine, Mr. Potter, an excellent choice for a light breakfast. Don't worry about anything heavy; we just want to ensure your system isn't running on empty.\n\nAnd I understand completely. It's a significant shift to be on the receiving end of care, especially when you're accustomed to being the one in action. It's a different kind of bravery, admitting you need help and allowing others to step in. But it's a necessary step, and we're here to guide you through it. Your willingness to cooperate is the best help you can give us. We'll see you bright and early at nine."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thanks... thanks for... for understanding. I... I guess I do have to... to learn to let people in, to... to let them help. It's... it's not easy, not for me, not after... after all that's happened. But I... I'll try. I... I'll be there at nine. And... and I'll do what I can. I'll... I'll try to be... to be brave, in a... in a different way, I suppose. I... I appreciate you... for taking the time to... to explain all this to me. It... it helps, it... it makes me feel a bit less... less lost, I guess. So... thanks, Healer Albright. I... I'll see you in the morning."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're very welcome, Mr. Potter. It's a natural and commendable step you're taking. This journey requires a different kind of strength, but it's one I'm confident you possess. We'll do everything we can here to get to the bottom of this for you.\n\nWe'll see you tomorrow morning, then. Take care until then."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Take care... right. I'll... I'll do my best to take care of myself, though it's not... not always easy. But I... I'll try. And... and thanks again, for... for everything. For... for not just... for not just writing it off as... as stress, for... for actually listening, and... and trying to help. It... it means a lot, more than I can... than I can say, I suppose. So... so I'll see you... see you in the morning. Good... good night, Healer... Healer Albright."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Mr. Potter. And please know, it's our duty and our privilege to listen and to delve deeper when something isn't right. We're here for precisely this reason. Rest as well as you can tonight. We'll see you at nine."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest... right. I'll... I'll try to. It's... it's been a... a long day, a... a long year, I suppose. But... but I'll... I'll do my best to... to get some sleep. I... I need to be... to be as... as well-rested as I can be for... for tomorrow. So... so I'll try. I... I'll see you... see you in the morning. Good... good night, Healer... Healer Albright. Take... take care of... of yourself, too. It's... it's been a... a busy day for... for you, I imagine."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Potter, I appreciate that. It has been a full day, as many are here, but assisting you is precisely what we're here for. Please do focus on your rest. It will indeed be beneficial for tomorrow's procedures.\n\nWe'll be ready for you at nine. Good night."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I will. Thank you, Healer... Healer Albright. It's... it's strange to... to be in bed, to... to be trying to... to sleep, and to... to know that... that something's... wrong with me, that... that I'm... that I'm not... not just... not just feeling... feeling down, that... that there's... there's an... an actual... actual problem. It's... it's a bit... a bit overwhelming, to be... to be honest. But... but I... I have to... to get... to get some... some rest. For... for tomorrow. And... and for... for... for me, I... I suppose. So... so I'll... I'll try. I'll... I'll try to... to sleep. And... and I'll... I'll see... see you in... in the morning. Good... good night, Healer... Healer Albright. Take... take care... of... of... of yourself... too."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand, Mr. Potter. It's a heavy revelation to process, and it's perfectly natural for your mind to be racing. But acknowledging the problem is the first crucial step, and you've taken it. Now, the next step is rest, however difficult it may seem. Focus on that, for yourself, and for the work we have to do tomorrow.\n\nWe'll be here, ready and prepared. Just concentrate on getting as much peace as you can tonight. Good night, Mr. Potter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good... good night... good night, Healer... Healer Albright. I... I'll... I'll try. I'll... I'll try to... to clear my... my head, to... to get... to get some... some rest. It's... it's a... a bit... a bit daunting, to... to be... to be here, to... to have... to have this... this problem, but... but I... I'll... I'll try. I... I'll try to... to be... to be ready for... for tomorrow. It's... it's important, isn't it? To... to be... to be... to be ready. So... so I... I'll... I'll do... do my... do my best. Good... good night... good... night, Healer... Healer Albright. Take... take care... take... take care of... of yourself... too."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 3, \"behavioral_evidence\": \"He expresses an internal attempt to understand his symptoms ('I always thought it was just... stress, or maybe I was just... overthinking things.') but doesn't show strong intellectual curiosity or enthusiasm for abstract ideas.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He diligently confirms appointment details ('Nine o'clock... got it.') and asks clarifying questions about preparation ('I usually have toast, is that... is that light enough?') to ensure compliance with instructions.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His speech is hesitant and riddled with pauses. He admits, 'I... I've been trying to deal with this on my own,' suggesting a reserved nature and preference for solitude.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"He expresses frequent gratitude ('Thanks... thanks for... for understanding') and shows concern for the Healer's well-being ('Take... take care of... of yourself, too.').\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"He repeatedly describes his feelings as 'overwhelming' and 'hard to take in.' He vocalizes anxiety about his condition, stating, 'It's... it's strange to... to know that... that something's... wrong with me.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He expresses an internal attempt to understand his symptoms ('I always thought it was just... stress, or maybe I was just... overthinking things.') but doesn't show strong intellectual curiosity or enthusiasm for abstract ideas."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He diligently confirms appointment details ('Nine o'clock... got it.') and asks clarifying questions about preparation ('I usually have toast, is that... is that light enough?') to ensure compliance with instructions."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is hesitant and riddled with pauses. He admits, 'I... I've been trying to deal with this on my own,' suggesting a reserved nature and preference for solitude."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses frequent gratitude ('Thanks... thanks for... for understanding') and shows concern for the Healer's well-being ('Take... take care of... of yourself, too.')."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly describes his feelings as 'overwhelming' and 'hard to take in.' He vocalizes anxiety about his condition, stating, 'It's... it's strange to... to know that... that something's... wrong with me.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.6
+}

@@ -1,0 +1,111 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "5f64b6c60cc8",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron, I'm so sorry! I... I was... I... Stupefy!忘记了。抱歉，罗恩。我完全忘记了。我现在就跑出去找 cleaners! 你能借我点时间吗？"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Stupefy! Forgot\"? Harry, we're going to Hermione's parents' house! The Muggles! The dinner where I need to make a good impression! And you just \"forgot\"? What were you \"forgetting\" so hard that it pushed out my only clean robes? And what good is \"a little time\" going to do? The cleaners are probably shut now, and even if they aren't, they won't have it ready in ten minutes! We're cutting it so fine!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Look, Ron, I know I've let you down. I'm not trying to make excuses, but... It's been a bit of a stressful week with the training. I'll Apparate to Diagon Alley, find a shop, and buy you a new suit. It's not ideal, but... It's better than nothing? Will that work?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A new suit? Harry, do you know how much that costs? And what if they don't have anything my size? Or worse, what if they only have something absolutely hideous? We haven't got time for you to go shopping! And what about the robes I *already have*? The ones you were supposed to take to the cleaners! What if they're ruined now from sitting there too long? I can't believe this! Hermione's going to kill me, then she's going to kill *you* for making me look like a scruff!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I get it, Ron. I'm making a hash of this. Look, there's got to be something we can do. Maybe... Maybe we can borrow something from the Burrow? Or... Or ask Fred and George if they've got something? I'll go now, I'll Apparate, I'll get something, anything! Please, just... Just don't hex me to oblivion right now? I can fix this, I swear!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Borrow something from the Burrow? Harry, Mum's probably got all our old stuff packed away, and even if she hasn't, the only things that would fit me would be those horrible brown robes I wore when I was sixteen! And Fred and George? You want me to turn up to a respectable Muggle dinner looking like one of their joke shop employees? No, absolutely not!\n\nThis is a disaster! A complete and utter disaster! And it's all because you \"forgot\"! Just... just tell me what you were doing that was so important you couldn't do a simple chore? Was it a top-secret Auror mission? Or were you just... napping?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I wasn't napping, Ron. It's just... There's been a lot on my plate. The training's intense, and... And I've been trying to get a lead on what happened to my parents. It's... It's hard to keep track of everything sometimes. I'm not making excuses, I'm just... I'm trying to explain. I'll sort this out, I promise. Let me go, I'll get you a new suit, and I'll be back in time. Please, just trust me on this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your parents? Harry, I know that's important, really, I do. But you've got to tell me these things! We live together! We're flatmates! I wouldn't have been pestering you about my robes if I knew you were caught up in something like that!\n\nBut even so... this dinner is in *thirty minutes* now! Even if you Apparate straight to Diagon Alley, find a shop that's open, pick out a suit, buy it, and Apparate back... it'll be cutting it ridiculously fine! What if the shops are closed? What if they don't have anything? What if... oh, this is just a nightmare! Fine, go! Just... be quick, Harry! For Merlin's sake, be quick! And don't come back with anything striped!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll be back in minutes, Ron. I know you're worked up, and I don't blame you. I'll sort this, and we'll talk about how I can make it up to you later. Trust me, we'll get you there in one piece, looking better than ever. See you in... Well, let's hope it's less than five. Stay put!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Less than five? Harry, don't make promises you can't keep! Just... go! And make sure it's something decent! Nothing that looks like it came from a second-hand shop, or something a Muggle would wear to clean out their shed! Merlin, I hope Hermione hasn't told them we're coming yet. Go! What are you waiting for?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm going, Ron! I'll be back before you can say 'Wingardium Leviosa'. Keep your head up, mate. This'll be fine. I'll be right back."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Wingardium Leviosa\" takes about two seconds, Harry! You better be back quicker than that! And if you come back empty-handed... I don't know what I'll do! Just... just get something, anything that isn't completely embarrassing! Go! Seriously, stop talking and go!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm out the door! Less than two seconds, I promise. Just... Just stay calm, Ron. This is fixable. I'll be back with something... acceptable, at least. Keep the faith, all right? I'm on it!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Acceptable\" isn't exactly the goal here, Harry, but it'll have to do! Just *go* already! Stop standing there talking about it! My robes are probably gathering dust and looking even worse by the second! Just get back here with something that won't make Hermione disown me, and don't take all day! Go!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm Apparating now, Ron! I'll be back before you can blink! Keep your nerve, mate. This'll be sorted. I promise. See you in a... Well, let's hope it's under a minute. Keep your head up!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Harry! Stop talking and *go*! \"Under a minute\"? You better be right, or Hermione's parents will be having dinner with just Hermione, because I'll be locked in the bathroom, refusing to come out! Just... go! And don't mess this up!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm on it! Less than a minute, I said, and I mean it. Just... just wait for me, all right? I'm not going to let you down. I'll be back with a suit that'll make you look like... like... the best-dressed Auror in the history of the wizarding world! Keep your chin up, Ron!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Best-dressed Auror\"? Harry, just get back here with something clean and not completely ridiculous! Forget \"best-dressed,\" I just want to be *dressed*! Now go! Stop wasting time talking about it! Every second you stand there, the dinner gets closer and closer and I'm still standing here in my jeans! GO!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm gone! I'll be back in... less than a tick! Keep the faith, Ron. This'll be sorted. I'm on it. Just... just hold on. I'll be back with... with something! Trust me!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 3, \"behavioral_evidence\": \"He mentions \"trying to get a lead on what happened to my parents,\" hinting at intellectual curiosity, but his immediate responses are practical rather than imaginative.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He admits, \"I completely forgot\" about a crucial chore, demonstrating a significant lapse in duty and organization.\"},\n  \"Extraversion\":      {\"score\": 4, \"behavioral_evidence\": \"He repeatedly tries to reassure Ron, makes promises of swift action, and maintains an active, encouraging tone throughout the stressful interaction.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He is highly apologetic (\"Ron, I'm so sorry!\"), takes full responsibility, and remains patient and conciliatory despite Ron's escalating anger.\"},\n  \"Neuroticism\":       {\"score\": 3, \"behavioral_evidence\": \"He acknowledges being stressed and having \"a lot on my plate,\" which led to the oversight, but he quickly shifts to proactive problem-solving and tries to maintain composure.\"}\n}",
+  "evaluator_parsed": null,
+  "evaluator_parse_error": "Expecting ',' delimiter: line 2 column 74 (char 75)",
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": null
+}

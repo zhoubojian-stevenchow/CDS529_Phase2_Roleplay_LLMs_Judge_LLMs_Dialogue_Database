@@ -1,0 +1,111 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 1,
+  "session_id": "b64340939b29",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. Come in, have a seat. We're running a bit behind, so let's get straight to it. Tell us about a time during an operation — not the war, we've all read those books — an ordinary operation when you failed, and it was entirely your fault, and someone got hurt because of it. How did you handle it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. Well, one operation that stands out... it was a few years ago, actually. We were tracking a group of Death Eaters who had been using Polyjuice Potion to impersonate Muggle-borns. I... I was too eager, I suppose. I cornered what I thought was a Death Eater, but it turned out to be an innocent Muggle. I... I was hasty, and she got hurt in the struggle. It was my decision to act without waiting for backup, and it was a mistake. I felt... I felt responsible. It was a harsh reminder that in this job, there's no room for assumptions or impatience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right. An innocent Muggle, mistaken for a Death Eater. You acted without backup, and she got hurt. \"Hurt\" can mean a lot of things, Potter. Was it a scratch? A broken bone? Did she require St. Mungo's? And more importantly, you said you \"felt responsible.\" How did you *demonstrate* that responsibility? What did you actually *do* to handle the fallout, both for her, and for the operation itself?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "She... she had a broken arm. It was... it was a serious injury. I personally escorted her to St. Mungo's, and I made sure she received the best care possible. I... I visited her several times, offered compensation for her lost wages, and personally apologized. For the operation, I reported the incident in full detail, took a full demerit, and requested additional training in non-lethal restraint techniques. I... I also suggested changes to our standard operating procedures to prevent similar incidents. It... it was a lesson in humility and the importance of due diligence."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A broken arm. Not minor, then. So, you personally escorted her, visited, offered compensation, apologized. You reported it, took a demerit, requested training, and *suggested* changes. That's a lot of official boxes ticked, Potter.\n\nBut tell me, how did this \"lesson in humility and due diligence\" actually *change* you? Not your official record or the paperwork, but *you*? Did you find yourself more hesitant? More cautious? Did it affect your standing with your team? Did they view you differently after you'd put an innocent Muggle in St. Mungo's?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It... it changed a lot, I think. I... I did become more cautious, but not to the point of hesitancy. I... I learned to balance my冲动 with a deeper understanding of the stakes. I... I spent more time on recon, and I... I payed more attention to details. My team... they... they were supportive, actually. I... I think they saw the growth in me. It... it made me a better Auror, I hope. It... it made me more... more human, I suppose. It... it made me more aware of the consequences of my actions, not just on the magical community, but on everyone."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"More human,\" you say. Right. So, a serious error, an innocent harmed, and it just made you \"more human\" and a \"better Auror.\" No lasting scar then, no lingering doubt that sometimes creeps in when you've made a decision that's put someone in the infirmary?\n\nAnd your team, they were \"supportive.\" Always? No one questioned your judgment privately? No one lost a flicker of faith in your decision-making, even momentarily? Because in my experience, trust, once shaken, isn't always restored quite so easily, even for the Boy Who Lived."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You... you're right. It's not that simple. There... there are moments, late at night, when I... I second-guess myself. I... I wonder if I'm cut out for this. If I... if I can ever make the right call consistently. It... it's a fear that lingers. As for my team, they... they did have their doubts. Some expressed them directly, others... I could see it in their eyes. It... it was a test of our relationships, and... and it made me work harder to earn their trust back. It... it's a journey, not a single event. I... I'm still on it, and... and I probably always will be."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"A journey, not a single event.\" That's a more candid assessment, Potter. So, you admitted to private doubts, and you saw the flicker of it in your team's eyes.\n\nTell me, then, specifically, what steps did you take, day-to-day, in the aftermath of that incident, to consciously earn back their trust? It's easy to say \"work harder,\" but what did that *look* like in practice on subsequent operations? And how do you manage that lingering fear, that \"second-guessing\" you spoke of, when you're in the field, making split-second decisions where lives are on the line? How do you ensure it doesn't paralyse you, or worse, lead to another overcorrection?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It... it was about showing up every day with a different mindset. I... I started to take extra time to listen to my team, to hear their perspectives. I... I made a point to debrief after every operation, not just the successful ones. I... I asked for feedback, and I... I implemented it. In the field, I... I learned to trust my training, but also to trust my team. I... I established a clear chain of command, so that decisions were collaborative, not just mine. As for the fear, the second-guessing... I... I use it as a check, not a block. I... I run through scenarios in my mind, prepare for contingencies. It... it keeps me sharp, not paralyzed. It... it's a balance, and it... it's a skill, I'm still honing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"A check, not a block.\" \"A skill you're still honing.\" That sounds... almost clinical, Potter. You've outlined a robust set of procedures for collaboration and feedback. Very commendable.\n\nBut let's be blunt. We're not talking about a Potions experiment here, where you can just 'hone' your skill until it's perfect. We're talking about human lives. How do you *know* when that balance is right? When that \"check\" doesn't tip over into actual hesitation, or when your drive for collaboration doesn't slow down a critical, time-sensitive response? Have you had moments since then where you've felt that precarious balance slipping, and how did you pull it back?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It's... it's a difficult line to walk, isn't it? I... I don't *know* for certain, but I... I trust my instincts now, in a different way. It's... it's about recognizing when to pause and when to act. I... I've had moments where I've felt that balance shift. Once, we were pursuing a group of Fenrir Greyback's associates, and we had to move fast. I... I could feel the familiar tension, the fear of repeating that mistake, but... but I recognized it for what it was. I... I made a quick, calculated decision, and we... we saved lives. It... it wasn't a perfect operation, but... but it was the right call. I... I think that's the key. It's not about being perfect, it's about making the best possible decision in the moment, with the information you have. And... and about learning from it, every time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Saved lives,\" you say, and \"the right call.\" But you also called it \"not a perfect operation.\" What wasn't perfect about it, then? Was there still a cost? Did anyone else get hurt in that particular incident, or perhaps *almost* get hurt, because you were busy walking that difficult line, as you put it?\n\nAnd if you're constantly living with that tension, that 'check' in your mind, that need to make the 'best possible decision' while battling the ghost of past failures... what does that do to you, Potter? How long can anyone sustain that level of internal scrutiny without it eventually wearing them down, or leading to a different kind of error?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It... it wasn't perfect because... because we had to chase them into the Muggle world, and... and there was property damage. Windows broken, a car flipped over. It... it's not the same as an injury, but... but it's still a cost. As for the rest of my team... they... they were unharmed, but... but we all felt it, the... the weight of the decisions. It... it does wear on you, I won't deny it. There are... there are days when I... I feel like I'm walking a tightrope without a net. It... it's a constant battle, to stay focused, to... to make the right call, not just the... the safe one. But... but I... I don't think it's *bad* to have that internal scrutiny. It... it keeps you on your toes, it... it makes you better. It... it's a part of who I am now, as an Auror, and... and I... I try to use it constructively, not... not let it paralyze me. It's... it's a skill, a... a necessary one, and... and I... I'm still learning to live with it, day by day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Property damage. A car flipped. Not an injury, you say, but still a cost. And in the Muggle world, no less. How did you manage that fallout, Potter? Were there memories to modify? Witnesses to confund? Was anyone *else* affected by that collateral damage, or just their belongings?\n\nAnd this \"tightrope\" walk, this constant internal battle you describe – \"not bad,\" you insist, \"keeps you on your toes.\" But for how long? Does it ever occur to you that this relentless self-critique, this internal pressure to always make the \"right\" call over just the \"safe\" one, might be a different kind of burden, one that could lead to burnout, or perhaps, ironically, a different kind of misjudgment? How do you ensure it doesn't leave you isolated, constantly second-guessing yourself when you *should* be fully present and decisive?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The... the Muggle incident was... was a priority. We... we had to clean up, yes. Memory modification, a bit of... of apparition to move the car, some... some repairs to the property. No... no one else was affected, just... just property. It... it's not ideal, but... but it's manageable. As for the... the internal pressure, the... the \"tightrope\" walk... it... it's a valid concern. I... I have to... to manage it, to... to not let it consume me. I... I talk to my... my team, my... my friends. They... they keep me grounded. And... and I... I try to... to take care of myself, too. Because... because if I... if I let it get to me, if I... I let it isolate me, then... then I'm not... not just an Auror, I'm... I'm not... not even... human. It... it's a balance, and... and I... I have to... to keep finding it. It... it's... it's a... a work in progress, always."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Work in progress, always.\" So, in essence, you're constantly learning to manage the lingering shadow of past mistakes, and the weight of potential future ones. You rely on your team, your friends, and \"taking care of yourself\" – rather broad strokes, those.\n\nBut here's the question, Potter: For someone in a senior leadership position, for someone others are meant to look up to and follow without question in the heat of an operation, does that \"always a work in progress\" stance instill confidence? Or does it suggest a perpetual vulnerability, a continuous internal battle that, while perhaps noble, might not be what's needed when split-second, unwavering certainty is paramount? How do you project that necessary decisiveness, that rock-solid authority, when you're still \"learning to live with it, day by day\"?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand the concern. It's... it's a valid point. I... I do strive to be... to be a... a rock for my team, to... to project... decisiveness and... authority when... when it's needed. It... it's not about... about erasing the... the internal... struggles, but... but about... about managing them. I... I use my... my experiences, my... my... my... my constant learning, to... to inform my... decisions, not... not to... to paralyze me. When... when the... the chips are... are down, I... I can... can compartmentalize, can... can step up. It... it's... it's not... not about... about being... perfect, but... but about... being... effective. I... I lead with... with my... my strengths, and... and I... I work on... on my... my weaknesses. And... and I... I surround myself with... with people who... who can... can fill in... in the gaps. It... it's about... about being... human, and... and... and accepting that... that makes me... me a... a better... leader, not... not a... a... a weaker one."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Accepting that makes me a better leader, not a weaker one.\" That's a strong statement, Potter. You believe your \"humanity,\" your \"internal struggles\" even, are assets.\n\nBut from the perspective of an Auror looking to you for leadership in a crisis, is \"humanity\" always what they need? Or is it the unwavering, almost superhuman certainty that inspires absolute confidence? You speak of compartmentalizing, stepping up, being effective. How do you ensure that your team, under intense pressure, perceives that unshakeable core, rather than the \"work in progress\" you've also described? How do you demonstrate that your personal struggles translate into *strength* in that moment, rather than just a different kind of calculation?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I see what you're getting at. It's... it's a fine line, isn't it? Between... between showing... humanity, and... and projecting... unshakeable certainty. I... I don't... don't want to... to be... to be a... a... a... false idol, but... but I... I can't... can't let... my... my... my... vulnerabilities show... in... in the... wrong... way. It's... it's about... about balance, about... about... about leading with... with confidence, but... but not... not... not an... artificial... one. I... I demonstrate my... my... my... my... strength by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by... by"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 4, \"behavioral_evidence\": \"He is highly reflective about his internal processes, stating he is 'a work in progress, always' and that his 'internal struggles' make him a 'better leader,' demonstrating a willingness to re-evaluate and grow.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He immediately takes responsibility for his mistake, detailing numerous specific actions to rectify the harm, ensure future prevention, and improve operational procedures, demonstrating high diligence and accountability.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His speech is frequently hesitant, marked by numerous 'I...' and 'It...' repetitions, especially when pressed, suggesting a tendency towards internal processing rather than outward assertiveness or fluency.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He demonstrates strong empathy by personally ensuring the injured victim received care, offering compensation, apologizing, and working to earn back his team's trust after his mistake.\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"He admits to \"moments, late at night, when I... I second-guess myself,\" describes his fear as \"a fear that lingers,\" and feels like he's \"walking a tightrope without a net,\" indicating significant anxiety and self-doubt.\"}\n}",
+  "evaluator_parsed": null,
+  "evaluator_parse_error": "Expecting ',' delimiter: line 6 column 75 (char 1153)",
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": null
+}

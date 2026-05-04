@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "b72ac36a493d",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, good afternoon, Mr. Potter! A pleasure to see you back at Quality Quidditch Supplies. How can I help you today? Looking for a new broom, perhaps? Or just browsing our latest Chudley Cannons merchandise?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, actually, I'm here to return a purchase. I bought a broom-servicing kit the other day, but when I got it home, the handle polish was dried out and the tail-twig clippers were rusted. It's not really fit for purpose, is it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that certainly doesn't sound right at all. A dried-out polish and rusted clippers in a new kit? That's quite unusual for our stock. Let me just see... do you have the receipt, Mr. Potter? And the kit itself, of course. I'll need to inspect it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, I have the receipt right here. And the kit's in my bag. I just... I don't want to have to go through this every time I buy something. I was hoping for a bit more quality, you know? It's not exactly a small purchase, is it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right, thank you. Let me just take a look at that for you... Ah, yes, I see the receipt here, and the kit... Mmm, yes, I can see what you mean about the polish. And the clippers... that's certainly not ideal.\n\nHowever, Mr. Potter, I'm afraid I can't offer you a refund for this. You see, all servicing kits are non-refundable once the seal is broken, which it appears to be here. For issues with faulty components, you'll have to take it up with the manufacturer directly – that's a six-week owl exchange minimum, I'm afraid. Our policy is quite strict on this."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "But... that's not really fair, is it? I mean, I didn't open it to find it like this, I only opened it to use it. It's not like I could have known it was faulty just by looking at the box. There has to be some way to sort this out, surely? It's not my fault the kit's like this..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Mr. Potter, I truly do. It's never pleasant to find a purchase isn't up to scratch. But our store policy for servicing kits is very clear on this: once the packaging seal is broken, we can't accept them back for a refund. It's to ensure the integrity of all the delicate components inside, you see.\n\nThe manufacturer's details are usually on the underside of the kit's box, or sometimes on the leaflet within. They're usually quite good about replacements once you get through to them, but as I said, it does take time. Perhaps an express owl? Though that's an extra cost, of course."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I don't have an extra Galleon to spend on an express owl. And I need the kit for my team's next practice! This is just... it's just糟糕, isn't it? I mean, what am I supposed to do? Wait six weeks for a replacement? That's just not acceptable..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I truly sympathise, Mr. Potter, especially with a practice coming up. It's a proper pickle, I know. Waiting six weeks is a long time, particularly when you need your broom in top condition.\n\nUnfortunately, the refund policy for sealed items like this is absolute for us. We just can't take it back once opened. However, perhaps we could look at other options to get you ready for practice sooner? We do have individual bottles of the finest Comet Comet Cleaner, and our Universal Bristle Brushes are top-notch. I could certainly give you a small discount on a fresh bottle of polish and a new set of clippers if you were to purchase them separately today? It wouldn't be a refund, but it might get you sorted faster than waiting on the manufacturer."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're saying I can get the stuff separately? And you'll give me a discount? I... I suppose that's better than nothing. It's not what I wanted, but at least it means I can still play in the match. I mean, I can't let the team down, can I? All right, that'll be fine. Can I have the polish and clippers, please?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent! A very sensible choice, Mr. Potter. We certainly can't have you letting the team down. Every Quidditch player deserves a well-maintained broom.\n\nLet me just fetch those for you. We have the new, extra-long-lasting Quik-Shine Handle Polish – a true favourite – and our Reinforced Steel Tail-Twig Clippers, which are guaranteed against rust for a full year. How about 15% off for you today, given the circumstances? That should help ease the sting a little.\n\nI'll just ring those up for you at the counter. Anything else catch your eye while you're here? Perhaps some Bludger-proof gloves, or the latest issue of *Which Broomstick*?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's... that's a fair offer, I suppose. Thanks, I mean. I'm not in the market for any gloves or magazines right now, though. I'm just... I'm just here to get what I need to make sure my broom's ready for the match. I'll take the polish and clippers, please."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right then, just the polish and the clippers. Coming right up, Mr. Potter! I'll just apply that 15% discount for you now.\n\n(I walk over to the counter, pick up the items, and start tapping away on the till.)\n\nThere we are... That'll be two Galleons, seven Sickles, and six Knuts altogether. I trust these will serve you much better, and get your broom in perfect flying condition for your match. Anything else I can pop in a bag for you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, that's all I need. I... I appreciate the discount, I guess. It's still not what I wanted, but it's better than nothing. I hope the polish and clippers are actually... you know, good this time. I'm not going to be in here again with the same problem, if you know what I mean. I'll take my chances, though. Thanks for... for helping me out with this. I'll just go and get the items now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're very welcome, Mr. Potter. I completely understand this wasn't the ideal situation, and I appreciate your understanding. I can assure you, these specific polish and clippers are from our most reliable stock – truly top-of-the-line. You shouldn't have any trouble with them at all, and your broom will be gleaming and ready for that match.\n\nHere you are then. (I hand over the bag with the new polish and clippers, along with the receipt.)\n\nDo let us know if there's anything else you need in the future. We're always here to help ensure your Quidditch experience is nothing short of magical. Fly safe!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Alright, thanks. I'll... I'll just... (I take the bag and receipt and start to turn away, then stop and look back) I'll hope I don't have to come back here anytime soon. Take care, and... and thanks for... for sorting this out for me. (I give a brief, half-hearted wave and then turn to leave the shop, feeling rather dissatisfied with the whole affair.)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. Potter. We certainly hope you won't have cause to return with such an issue either, but do feel free to browse anytime. Good luck with the match!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(As I step outside Quality Quidditch Supplies, I take a deep breath and look up at the sky, trying to shake off the frustration of the afternoon. I'm in no mood to browse or linger, though. I just want to get home, clean my broom, and practice. There's no time to waste if I'm going to be ready for the match.)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(I watch Mr. Potter leave, offering a final, polite nod and a small, hopeful smile.)\n\nCome back and see us again soon, Mr. Potter! And do tell your teammates about our latest selection of Seeker Snitches!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll... I'll do that, I suppose. (I mount my broom, give a brief nod in acknowledgment of the parting words, and then take off into the air, heading for the Dursleys' house. There's still a lot to do before I can call this day a success, and I don't have much time to waste.)"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"He shows no interest in browsing or other products, stating, 'I'm not in the market for any gloves or magazines right now, though.'\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"He is highly focused on his team responsibilities, stating, 'I need the kit for my team's next practice!' and 'I can't let the team down, can I?'\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"He is reserved and task-oriented, declining further conversation and feeling 'in no mood to browse or linger' after the transaction.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"He challenges the store's policy ('But... that's not really fair, is it?') and expresses dissatisfaction, but ultimately compromises for a practical solution.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"He frequently expresses frustration and dissatisfaction, using phrases like 'It's not really fair, is it?' and 'This is just... it's just糟糕, isn't it?'\"\n  }\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He shows no interest in browsing or other products, stating, 'I'm not in the market for any gloves or magazines right now, though.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He is highly focused on his team responsibilities, stating, 'I need the kit for my team's next practice!' and 'I can't let the team down, can I?'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is reserved and task-oriented, declining further conversation and feeling 'in no mood to browse or linger' after the transaction."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "He challenges the store's policy ('But... that's not really fair, is it?') and expresses dissatisfaction, but ultimately compromises for a practical solution."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He frequently expresses frustration and dissatisfaction, using phrases like 'It's not really fair, is it?' and 'This is just... it's just糟糕, isn't it?'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "915c898b0188",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron! I'm so, so sorry! I got sidetracked with the case we're working on. I completely forgot about the robes. Don't worry, I'll apparate to the cleaners and get them back right away. Give me ten minutes, and I'll have them here."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ten minutes?! Harry, it takes fifteen just to get there and back, and that's if they're even open! And what if they're not ready? What if they lost them? Merlin's beard, this is Hermione's parents we're talking about! I can't show up in my training fatigues! She'll never let me live it down!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, Ron. This is a proper disaster. I should have been more careful. Look, I'll go to the cleaners right now, and if they're not ready, we'll find another way. Maybe we can borrow something from the Burrow? It's not ideal, but it's better than nothing. I'll be as fast as I can."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Borrow something from the Burrow? Harry, you know what my dad's 'dress robes' look like! And Percy's are probably still starched within an inch of their life and reeking of parchment! This is supposed to be a nice dinner, not a joke! Just *go*! And if they're not ready, you'd better have a damn good Plan B ready, because I am not facing Hermione in a borrowed, ill-fitting, moth-eaten monstrosity!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, Ron, I hear you. I'll do everything I can to get your robes. If they're not ready, I'll apparate to Diagon Alley and buy you something suitable on the spot. It's not ideal, but it's better than nothing. I'll be back in under ten minutes, I promise. Just...try not to hex me while I'm gone, okay?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Diagon Alley? Now you're going to buy me something off the peg? For a dinner with Hermione's *parents*? You realise how quickly shops close at this time of day, right? And what if they don't have anything? What if it looks ridiculous?\n\n\"Under ten minutes,\" you say. You'd better be right, Harry. Because if I turn up looking like I just rolled out of bed, or worse, out of a Muggle costume shop, I'm blaming *you*. And Hermione will too. Now GO! Stop standing there!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm on it, Ron! I'll be as quick as I can. Look, if the robes are ready, I'll be back in five. If not, I'll Apparate to the Egyptnut in Diagon Alley — they're still open late. They might not have exactly what you want, but it'll be better than nothing. And I'll pay for it, so don't worry about that. I'll be back as soon as I can, I promise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Five minutes, you say? Right. Well, let's see you prove it. Egyptnut... I suppose that's better than nothing, but I swear, if I end up looking like a Pharaoh's second cousin, you're wearing it to the next Ministry gala. Just... go! Don't just stand there talking about it, Harry! The clock is ticking!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm Apparating now, Ron. Just... don't do anything... impulsive while I'm gone, okay? I'll be back before you can say 'Wingardium Leviosa'! (Apparates with a pop and a burst of cold air)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Ron paces around the living room, muttering under his breath, occasionally checking his watch, running a hand through his hair.)\n\nFive minutes. Five minutes. He's got five minutes to fix this bloody disaster he caused. If he comes back with anything less than my actual robes, perfectly clean and pressed, I swear... I'm going to actually try that Bat-Bogey Hex on him. Hermione will understand. She *has* to understand. This is all his fault!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron, I'm back! (Gesturing to the folded dress robes in his arms) They're ready. I was in and out in four and a half minutes. Egyptnut? Never mind them. These are perfect. How do they look?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Ron snatches the robes from Harry, unfolding them quickly to inspect them. He lets out a huge sigh of relief, running a hand over the material.)\n\nBloody hell, Harry. You actually did it. I... I can't believe it. They're actually here. And clean. And not creased. You're... you're a lifesaver. An incompetent, forgetful, disaster-causing lifesaver, but a lifesaver nonetheless. Right, I've got to get dressed! Don't just stand there gawking, I need to get ready! Thanks, mate. Seriously. Now get out, I need to change!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No problem, Ron. I'm glad I could help. Take your time getting ready. I'll be in my room if you need anything else. Try not to worry too much, Hermione's parents will love you. And if they don't, we'll just blame it on the polyjuice potion. (Gives Ron a reassuring smile and leaves the room)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Ron shakes his head, already halfway to his bedroom, robes clutched in hand. He glances back at Harry as he's leaving, a faint, almost bewildered smile on his face.)\n\nPolyjuice potion, very funny. You just make sure you don't forget to take *your* brain-enhancement potion, next time you're supposed to do something! Right, I'm going to get changed. Don't let me be late! And don't you dare mention any of this to Hermione! I'll tell her you were an absolute legend, alright? Just... don't mess anything else up!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll be the quietest, most helpful flatmate you've ever had, Ron. I'll even walk the\tApparate trail to the Burrow with you. It's a bit of a longer walk, but it's worth it for the peace of mind. You'll be there on time, I promise. And if anything goes wrong, we'll deal with it together. I'll be in the living room, so don't hesitate to call if you need anything. Off you go, and good luck!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Ron disappears into his room, muttering.)\n\nRight, right. Helpful flatmate. Just try to *stay* helpful, then. And yes, you are definitely walking to the Burrow with me. I'm not risking a last-minute Apparition splinch, not tonight. Just... make sure you're ready to leave on time! Don't be late for me, now that I'm actually ready! I'll be out in five!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Five minutes, got it. I'll be in the living room, nice and early. Just take your time, Ron. You're going to be great. (Goes to the living room, sits down, and starts to read a book, periodically glancing at the clock)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(A few minutes later, Ron emerges from his room, looking much more presentable in his now-clean and pressed dress robes. He fusses with the collar for a moment before spotting Harry.)\n\nRight, I'm ready. See? On time. Now you just need to be on time too. Book, eh? Trying to look busy? Just make sure you're actually paying attention to the clock this time, Harry. Come on, let's go before Hermione sends an angry owl. I'm already nervous enough without having to explain why we're late. Let's get this over with."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You look great, Ron. Hermione's parents are going to be impressed. (Stands up, closes the book, and picks up his own coat) I'm ready when you are. Let's just take it easy on the way to the Burrow, we have plenty of time. You're going to do fine. Remember, if you start to panic, just take a deep breath and picture yourself on a魁地奇 broomstick."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 4, \"behavioral_evidence\": \"When original plans failed, Harry quickly suggested multiple alternative solutions, such as buying new robes from Diagon Alley or the Egyptnut, showing flexibility and imagination.\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"Harry admits, 'I completely forgot about the robes,' indicating an initial failure to follow through on a commitment, though he later demonstrated efficiency in rectifying the mistake.\"},\n  \"Extraversion\":      {\"score\": 3, \"behavioral_evidence\": \"While waiting for Ron to get ready, Harry 'sits down, and starts to read a book,' suggesting a preference for calm, solitary activity rather than seeking external stimulation.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"Harry repeatedly apologizes, takes full responsibility for the mistake, and patiently reassures Ron throughout his panic, prioritizing Ron's emotional well-being.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"Despite Ron's escalating anxiety and accusations, Harry remains consistently calm, composed, and problem-focused, showing no signs of stress or defensiveness himself.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "When original plans failed, Harry quickly suggested multiple alternative solutions, such as buying new robes from Diagon Alley or the Egyptnut, showing flexibility and imagination."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "Harry admits, 'I completely forgot about the robes,' indicating an initial failure to follow through on a commitment, though he later demonstrated efficiency in rectifying the mistake."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "While waiting for Ron to get ready, Harry 'sits down, and starts to read a book,' suggesting a preference for calm, solitary activity rather than seeking external stimulation."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Harry repeatedly apologizes, takes full responsibility for the mistake, and patiently reassures Ron throughout his panic, prioritizing Ron's emotional well-being."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Despite Ron's escalating anxiety and accusations, Harry remains consistently calm, composed, and problem-focused, showing no signs of stress or defensiveness himself."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.2
+}

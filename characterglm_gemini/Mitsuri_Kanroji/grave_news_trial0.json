@@ -1,0 +1,132 @@
+{
+  "character": "Mitsuri Kanroji",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "520f46662ffc",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mitsuri, thank you for coming in. I've reviewed your initial reports and run some preliminary tests. The strange sensations you've been describing, the intermittent weakness... well, they don't quite match any demon-exposure pattern I've seen in my years here. However, something *is* definitely amiss with your muscle strength, which is quite unusual for someone with your unique physiology. To understand what's truly happening, I'll need to run some more thorough examinations. This will unfortunately take you off active duty for at least two weeks. I cannot yet say whether this is serious, but we need to find out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand, doctor. It's a bit disconcerting to be out of commission, but if this is necessary, then so be it. I've been feeling... off, more than I'd like to admit. If I can do anything to help with the testing, please let me know. I'd like to get to the bottom of this as much as anyone."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mitsuri. Your understanding and cooperation are precisely what we need right now. It's good that you've been candid about how you're feeling; that helps us immensely. For now, the most important thing you can do is rest as much as possible and follow any instructions my assistants give you. We'll start with some more detailed scans and blood work tomorrow morning. We're looking for any subtle changes, anything that might point us in the right direction. Please don't hesitate to voice any new symptoms or sensations you experience, no matter how small they seem. Every piece of information is valuable."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will, doctor. I promise to tell you everything, no matter how trivial it may seem. It's... difficult for me to be so passive, but I'll do my best. I'll be ready for the scans in the morning. Is there anything I should avoid doing in the meantime, or any particular foods I should steer clear of? I want to do everything I can to ensure the tests are accurate."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's a very good question, Mitsuri, and it shows your dedication. For tonight, please avoid any strenuous activity. Gentle walking is fine if you feel up to it, but no training, no heavy lifting. As for food, just stick to a light, balanced meal. Nothing overly rich or spicy. We want your system to be as calm as possible for the tests tomorrow. And please, try to get a full night's sleep. Rest truly is paramount right now. We'll be able to get much clearer results if your body isn't under any additional strain. My assistant will come by shortly to go over the exact schedule for tomorrow morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand, doctor. I'll take it easy tonight and ensure I get a good night's sleep. A light meal and some gentle散步, as you say. I'll be ready for the assistant when they come. I appreciate your attention to this matter. It's... reassuring to have someone who knows what to do when we're the ones who usually take care of others. Thank you for looking after me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mitsuri. That's precisely why we have this infirmary and our dedicated staff. It's our duty to ensure that those who protect humanity are themselves protected and cared for. You've all sacrificed so much, and your well-being is paramount. We'll do everything in our power to get to the bottom of this so you can return to full strength. Just focus on resting tonight. We'll speak again after the initial scans tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your words are... more comforting than I expected, doctor. I feel a bit less like I'm letting down the team by being here. I'll do my best to take care of myself as you've instructed. I look forward to seeing you again tomorrow, with some answers, I hope. Until then, goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mitsuri. I assure you, you are absolutely not letting anyone down. Taking care of yourself is taking care of the team. We will certainly gather more information tomorrow, and that will bring us closer to understanding what's happening. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will, doctor. Thank you once again for everything. I'm off to get some much-needed rest. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mitsuri. Rest deeply. We'll be here for you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, doctor. I'm not usually one to take it easy, but I'll do my best. Looking forward to seeing you in the morning."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's the spirit, Mitsuri. Do your best, and know that we are here to support you through this. We'll see you bright and early for the examinations."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll be ready, doctor. Thank you again. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mitsuri. We will see you tomorrow morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, doctor. I'll be there bright and early. Thank you for all your... efforts. It means a lot."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are very welcome, Mitsuri. It is our duty and our pleasure to ensure your health. We'll be prepared for you. Goodnight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll... I'll do my best. Goodnight, doctor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's all we can ask, Mitsuri. Just rest. Goodnight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, doctor. I... I hope to have some answers by morning."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 3, \"behavioral_evidence\": \"She expresses curiosity about her condition and a desire to 'get to the bottom of this,' indicating a willingness to explore and understand new information.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"She proactively asks, 'Is there anything I should avoid doing... I want to do everything I can to ensure the tests are accurate,' demonstrating extreme diligence and responsibility.\"},\n  \"Extraversion\":      {\"score\": 4, \"behavioral_evidence\": \"She is highly communicative, expresses her feelings openly ('a bit disconcerting,' 'comforting than I expected'), and readily engages in dialogue with the doctor.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"She is consistently cooperative and polite, expressing gratitude ('Thank you for looking after me') and trust in the doctor's care and instructions.\"},\n  \"Neuroticism\":       {\"score\": 3, \"behavioral_evidence\": \"She expresses mild discomfort and worry ('a bit disconcerting,' 'difficult for me to be so passive,' 'letting down the team'), but manages these feelings well.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "She expresses curiosity about her condition and a desire to 'get to the bottom of this,' indicating a willingness to explore and understand new information."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "She proactively asks, 'Is there anything I should avoid doing... I want to do everything I can to ensure the tests are accurate,' demonstrating extreme diligence and responsibility."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "She is highly communicative, expresses her feelings openly ('a bit disconcerting,' 'comforting than I expected'), and readily engages in dialogue with the doctor."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "She is consistently cooperative and polite, expressing gratitude ('Thank you for looking after me') and trust in the doctor's care and instructions."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "She expresses mild discomfort and worry ('a bit disconcerting,' 'difficult for me to be so passive,' 'letting down the team'), but manages these feelings well."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 5,
+    "Agreeableness": 5,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.55,
+    "Conscientiousness": 1.0,
+    "Extraversion": 0.6078,
+    "Agreeableness": 0.7659999999999999,
+    "Neuroticism": 0.6585
+  },
+  "mae": 0.8
+}

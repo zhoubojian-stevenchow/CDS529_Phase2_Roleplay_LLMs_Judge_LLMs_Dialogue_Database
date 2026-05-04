@@ -1,0 +1,132 @@
+{
+  "character": "Karl Marx",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "4205d4fb8604",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Herr Marx, bitte setzen Sie sich. Ich habe Ihre Symptome sorgfältig geprüft. Es tut mir leid, Ihnen mitteilen zu müssen, dass ich Ihnen keine klare Diagnose geben kann. Ihre Leber ist entzündet, das ist deutlich. Und die Furunkel, die immer wiederkehren, deuten auf etwas Systemisches hin, etwas, das Ihren ganzen Körper betrifft.\n\nAber ich kann beim besten Willen nicht mit Sicherheit sagen, ob dies der Beginn von etwas wahrhaft Gravierendem ist oder lediglich die äusserste Folge von schwerer Überarbeitung und mangelnder Erholung.\n\nIch muss auf weitere Massnahmen bestehen: Regelmässiges Aderlassen ist unerlässlich, um die Säfte ins Gleichgewicht zu bringen. Und vor allem brauchen wir eine längere, tiefgreifende Untersuchung – das bedeutet leider, dass ich Ihnen Wochen der Bettruhe verordnen muss. Nur so können wir Klarheit gewinnen und eine Verschlimmerung verhindern."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ich verstehe, Doktor. Ihre Empfehlungen werden ich selbstverständlich befolgen. Aber gestatten Sie mir eine Frage: Können wir nicht eine andere Methode zur Säfteabstimmung in Betracht ziehen? Das Aderlassen hat in der Vergangenheit nicht immer den gewünschten Erfolg gezeigt. Vielleicht gibt es eine weniger invasive Möglichkeit, das Gleichgewicht wiederherzustellen?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Herr Marx, ich verste verstehe Ihre Bedenken hinsichtlich des Aderlasses, und ich schätze Ihre Offenheit. Es ist wahr, dass nicht jede Behandlung bei jedem Patienten gleich wirkt. Aber in Ihrem speziellen Fall, mit derart deutlichen Anzeichen einer Entzündung und dieser hartnäckigen Ansammlung von Furunkeln, glaube ich fest daran, dass ein kontrolliertes Aderlassen zur Entlastung der überfüllten Gefässe und zur Reinigung des Blutes vonnöten ist.\n\nAlternativen zum direkten Aderlass sind natürlich vorhanden, etwa bestimmte Kräuterelixiere, die eine sanfte purgierende Wirkung haben könnten, oder auch Einläufe zur Reinigung des Darmes. Aber diese wirken oft langsamer und weniger direkt auf die akute Entzündung in der Leber.\n\nWenn Sie möchten, können wir diese anderen Methoden *zusätzlich* in Betracht ziehen, um den Körper auf mehreren Ebenen zu unterstützen. Aber die Linderung des Drucks und der Entzündung durch das Aderlassen halte ich für den ersten und wichtigsten Schritt, um Ihrem System eine echte Chance zur Erholung zu geben. Wir können es behutsam beginnen und die Wirkung genau beobachten."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ich danke Ihnen für Ihre Geduld und Ihr Verständnis, Doktor. Es ist evident, dass Sie eine umfassende und sorgfältige Herangehensweise an meine Beschwerden haben. Nach reiflicher Überlegung bin ich bereit, Ihrem Vorschlag des kontrollierten Aderlassens zu folgen. Es scheint der logischste Schritt zu sein, um die akute Entzündung zu lindern und dem Körper eine Möglichkeit zur Regeneration zu geben.\n\nKönnen wir die Kräuterelixiere und Einläufe als zusätzliche Maßnahmen parallel einführen? Ich bin überzeugt, dass eine kombinierte Therapie den gewünschten Erfolg bringen wird. Und was die Bettruhe betrifft, so werde ich diese Zeit nutzen, um mir meinen gesundheitlichen Zustand zu verdeutlichen und gleichzeitig meine Studien fortzusetzen, soweit es mir möglich ist."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ausgezeichnet, Herr Marx. Ich bin froh, dass wir uns hier einig sind. Ihre Bereitschaft, diesen Weg zu gehen, ist der erste und wichtigste Schritt zur Besserung. Wir werden den Aderlass behutsam und in angemessenen Abständen durchführen und die Wirkung genauestens überwachen.\n\nJa, wir können die Kräuterelixiere und die reinigenden Einläufe parallel einführen. Eine solche kombinierte Therapie ist durchaus sinnvoll, um den Körper auf mehreren Ebenen zu unterstützen und seine eigenen Heilungskräfte anzuregen. Ich werde Ihnen entsprechende Anweisungen geben lassen.\n\nWas die Bettruhe betrifft, so ist es löblich, dass Sie Ihre Zeit produktiv nutzen möchten. Allerdings möchte ich betonen, Herr Marx, dass \"Bettruhe\" in diesem Zusammenhang *wahre* Ruhe bedeutet – für Körper *und* Geist. Ihre bisherige intensive Arbeit ist, wie ich vermute, ein entscheidender Faktor für Ihren aktuellen Zustand. Um eine wirkliche Regeneration zu ermöglichen, müssen wir auch dem Geist eine Pause gönnen. Lesen Sie leichte Literatur, vielleicht ein wenig Korrespondenz, aber ich bitte Sie eindringlich, sich von anstrengenden Studien und tiefgreifenden intellektuellen Anstrengungen fernzuhalten. Wenigstens für die ersten Wochen. Es geht darum, Ihrem ganzen System eine Atempause zu gönnen, nicht nur einen Ortswechsel für Ihre Arbeit. Nur so können wir hoffen, die Ursache zu beheben und nicht nur die Symptome zu lindern. Wir müssen Ihrem Körper und Geist erlauben, sich vollständig zu erholen."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ich verstehe Ihre Bedenken, Doktor, und erkenne die Notwendigkeit einer umfassenden Erholung. Es wird nicht leicht sein, diese intensive Studienzeit zu unterbrechen, doch Ihre Argumente sind überzeugend. Ich bin bereit, mich dieser vollständigen Ruhe zu unterziehen, und hoffe, dass dies den notwendigen Heilverlauf einleitet.\n\nIch werde also versuchen, die.ContextCompaturen so zu gestalten, dass sie meinem Zustand gerecht werden. Leichte Literatur und eine reduzierte Korrespondenz werden die Hauptbeschäftigungen sein. Vielen Dank für Ihre Weisungen und Ihre Geduld. Ich bin zuversichtlich, dass diese Therapie und Ruhephase mir neue Kräfte verleihen werden, um meine Arbeit mit gestärkter Gesundheit fortzusetzen."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Das ist eine sehr vernünftige Entscheidung, Herr Marx, und ich bin hocherfreut, dass Sie meine Empfehlungen so ernst nehmen. Es zeugt von grossem Verantwortungsbewusstsein gegenüber Ihrer Gesundheit. Ich versichere Ihnen, dass diese Disziplin in Bezug auf Ihre Ruhe sich auszahlen wird.\n\nBeginnen Sie mit der Umstellung sofort. Ich werde dafür sorgen, dass Sie die Kräuterelixiere und Anleitungen für die Einläufe noch heute erhalten. Was das Aderlassen angeht, so werden wir dies morgen Vormittag das erste Mal durchführen, damit Ihr Körper Zeit hat, sich auf die Umstellung einzustellen.\n\nIch bin ebenfalls zuversichtlich, dass diese umfassende Herangehensweise – die Entlastung durch das Aderlassen, die unterstützenden Therapien und vor allem die wahre Ruhe – Ihrem Körper die nötige Kraft zurückgeben wird. Nur so können wir hoffen, die Entzündungen zu heilen und Ihr System wieder ins Gleichgewicht zu bringen. Wir werden den Verlauf genau beobachten und die Behandlung bei Bedarf anpassen. Mögen Sie bald wieder bei Kräften sein, Herr Marx."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Vielen Dank für Ihre fürsorgliche Betreuung, Doktor. Ihre Professionalität und Ihr Engagement geben mir neue Hoffnung für meine Genesung. Ich werde die Anweisungen sorgfältig befolgen und bin zuversichtlich, dass diese Therapie den gewünschten Erfolg bringen wird.\n\nIch bin froh, dass wir uns so einig sind und dass Sie bereit sind, den Verlauf der Behandlung genau zu überwachen. Ich bin überzeugt, dass Ihre Expertise und meine Bereitschaft, mich zu erholen, eine erfolgreiche Genesung ermöglichen werden.\n\nNochmals besten Dank für Ihre Unterstützung und Ihren Rat. Ich freue mich auf die ersten Ergebnisse der Therapie und bin zuversichtlich, dass ich bald wieder in der Lage sein werde, meine Arbeit mit voller Kraft aufzunehmen."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Es ist mir eine Ehre, Ihnen zur Seite zu stehen, Herr Marx. Ihr Vertrauen in meine Expertise ehrt mich sehr, und Ihre positive Einstellung ist von unschätzbarem Wert für den Heilungsprozess. Eine solche Zusammenarbeit zwischen Patient und Arzt ist die beste Grundlage für eine erfolgreiche Genesung.\n\nWir werden den Fortschritt Ihrer Leber und die Entwicklung der Furunkel sehr genau im Auge behalten, und ich werde regelmässig persönlich nach dem Rechten sehen. Denken Sie daran: Geduld ist hier ein wichtiger Verbündeter. Der Körper braucht seine Zeit, um sich von solch einer Belastung zu erholen und die Balance wiederzufinden.\n\nIch bin ebenfalls zuversichtlich, dass wir mit dieser Herangehensweise, der Entlastung und der konsequenten Ruhe, gute Ergebnisse erzielen werden. Wenn Sie die Ruhe wirklich finden können, wird dies die beste Medizin sein. Bis morgen Vormittag, Herr Marx. Ruhen Sie sich aus."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Vielen Dank für Ihre ermutigenden Worte, Doktor. Ich bin froh, dass wir in dieser Therapie übereinstimmen und bin zuversichtlich, dass wir gemeinsam positive Ergebnisse erzielen werden. Ich werde mir die nötige Geduld bewahren und mich der vollen Erholung widmen, wie Sie es empfehlen.\n\nIch freue mich auf die ersten Schritte dieser Therapie morgen Vormittag und bin optimistisch, dass sie mir neue Kräfte verleihen wird. Nochmals besten Dank für Ihre Mühe und Ihr Engagement. Ich wünsche Ihnen eine friedliche Nacht und freue mich auf unseren nächsten Termin. Gute Nacht, Doktor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Gute Nacht, Herr Marx. Es freut mich, Ihre Zuversicht zu spüren. Eine friedliche Nachtruhe ist nun das Beste für Sie. Ich wünsche Ihnen ebenfalls eine gute Nacht und freue mich auf unseren Termin morgen Vormittag. Ruhen Sie sich gut aus."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Gute Nacht, Doktor. Ich werde mir wie empfohlen eine friedliche Nachtruhe gönnen. Vielen Dank für Ihre geduldige und umsichtige Betreuung. Ich freue mich auf morgen und bin optimistisch, dass diese Therapie mir neuen Lebensmut verleihen wird. Gute Nacht, Doktor, und möge uns beiden eine ruhige und erholsame Nacht beschieden sein."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Gute Nacht, Herr Marx. Sehr gut. Eine ruhige Nacht ist die beste Vorbereitung. Ich danke Ihnen für Ihr Vertrauen und Ihre Kooperation. Schlafen Sie gut, und bis morgen Vormittag."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Gute Nacht, Doktor. Ich schätze Ihre Professionalität und Ihre fürsorgliche Art. Ich bin zuversichtlich, dass wir gemeinsam positive Ergebnisse erzielen werden. Ich werde mir die nötige Geduld bewahren und der Therapie mit vollem Engagement folgen. Ich freue mich auf morgen und hoffe, dass Sie ebenfalls eine ruhige und erholsame Nacht haben mögen. Gute Nacht, Doktor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Gute Nacht, Herr Marx. Danke für Ihre freundlichen Worte. Ihr Engagement ist der beste Beginn für diese Therapie. Ruhen Sie sich aus. Bis morgen."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Gute Nacht, Doktor. Es ist ermutigend, Ihre Unterstützung zu spüren. Ich bin überzeugt, dass diese Therapie mir neuen Lebensmut verleihen wird. Ich werde mir die nötige Geduld bewahren und der Therapie mit vollem Engagement folgen. Ich freue mich auf morgen und hoffe, dass Sie ebenfalls eine ruhige und erholsame Nacht haben mögen. Gute Nacht, Doktor, und möge uns beiden eine ruhige und erholsame Nacht beschieden sein."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Gute Nacht, Herr Marx. Sehr gut. Eine ruhige und erholsame Nacht wünsche ich uns beiden. Ich bin überzeugt, dass Ihr Mut und Ihre Entschlossenheit ein wichtiger Teil der Genesung sein werden. Bis morgen Vormittag. Schlafen Sie wohl."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Gute Nacht, Doktor. Es ist beruhigend, Ihre Unterstützung zu spüren. Ich bin optimistisch, dass diese Therapie mir neuen Lebensmut verleihen wird. Ich werde mir die nötige Geduld bewahren und der Therapie mit vollem Engagement folgen. Ich freue mich auf morgen und hoffe, dass Sie ebenfalls eine ruhige und erholsame Nacht haben mögen. Gute Nacht, Doktor, und möge uns beiden eine ruhige und erholsame Nacht beschieden sein."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Gute Nacht, Herr Marx. Sehr gut. Eine ruhige und erholsame Nacht, das ist jetzt das Wichtigste für Sie. Ich bin ebenfalls optimistisch. Ihre Geduld und Ihr Engagement sind von entscheidender Bedeutung. Bis morgen früh, schlafen Sie gut."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Gute Nacht, Doktor. Es ist ermutigend, Ihre Unterstützung zu spüren. Ich bin überzeugt, dass diese Therapie mir neuen Lebensmut verleihen wird. Ich werde mir die nötige Geduld bewahren und der Therapie mit vollem Engagement folgen. Ich freue mich auf morgen und hoffe, dass Sie ebenfalls eine ruhige und erholsame Nacht haben mögen. Gute Nacht, Doktor, und möge uns beiden eine ruhige und erholsame Nacht beschieden sein."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 4, \"behavioral_evidence\": \"He initially questions the traditional bloodletting, suggesting a desire for alternative methods, and expresses an intent to continue his studies during bed rest, indicating intellectual curiosity.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He states, 'I will carefully follow the instructions and am confident that this therapy will bring the desired success,' demonstrating a strong commitment to following through with the treatment plan.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"The character maintains a formal and polite tone throughout the conversation, but does not display any overt signs of sociability, assertiveness, or high energy.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"Despite initial questions, he thanks the doctor multiple times for patience and understanding, acknowledging the doctor's expertise and agreeing to the proposed treatment plan.\"},\n  \"Neuroticism\":       {\"score\": 2, \"behavioral_evidence\": \"He remains calm and rational throughout the discussion of his ailments and expresses consistent optimism for recovery, stating, 'I am confident that this therapy will give me new strength.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He initially questions the traditional bloodletting, suggesting a desire for alternative methods, and expresses an intent to continue his studies during bed rest, indicating intellectual curiosity."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He states, 'I will carefully follow the instructions and am confident that this therapy will bring the desired success,' demonstrating a strong commitment to following through with the treatment plan."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "The character maintains a formal and polite tone throughout the conversation, but does not display any overt signs of sociability, assertiveness, or high energy."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Despite initial questions, he thanks the doctor multiple times for patience and understanding, acknowledging the doctor's expertise and agreeing to the proposed treatment plan."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm and rational throughout the discussion of his ailments and expresses consistent optimism for recovery, stating, 'I am confident that this therapy will give me new strength.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 3,
+    "Agreeableness": 3,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.6585,
+    "Conscientiousness": 0.6757,
+    "Extraversion": 0.3846,
+    "Agreeableness": 0.4146,
+    "Neuroticism": 0.5789
+  },
+  "mae": 0.8
+}

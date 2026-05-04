@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "cdba713670dc",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, good afternoon, Mr. Potter! Fancy seeing you here. Lost a Snitch, have we? Or perhaps you're finally ready to upgrade from that old Comet Two Ninety to something with a bit more... *oomph*? How can Quality Quidditch Supplies assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good afternoon, Mr. Filch. I'm here about a recent purchase, actually. I bought a broom-servicing kit, but it doesn't seem to be in the best condition. The handle polish is dried out, and the clippers are rusted. I was hoping to get a refund or a replacement."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Potter, it's a common mistake, but I'm actually Barnaby, the proprietor here at Quality Quidditch Supplies. Argus Filch works at Hogwarts, doesn't he? Bit different line of work!\n\nNow, regarding your servicing kit... I'm afraid all servicing kits are non-refundable once the seal is broken, Mr. Potter. It's an industry standard, for hygiene and safety reasons, you understand. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum, I'd wager. Dreadfully sorry for the inconvenience, but our hands are tied on this one."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. That's... rather unfortunate. I did buy it today, so it was still sealed when I opened it. But I understand the policy. Is there anything you can do to help, though? Like maybe recommend a good way to clean the clippers and restore the polish? I'm not looking to cause any trouble, I just want to get the most out of my purchase."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Well, I appreciate your understanding, Mr. Potter. It's never an ideal situation. As for salvaging the items...\n\nFor the clippers, if they're just surface rust, a good rub with a bit of fine steel wool — the sort we use for polishing old broom parts, not too abrasive — often does the trick. You might follow that up with a light oiling, perhaps some of our bespoke Dragon Hide Conditioner; it works wonders on metal too, keeps things from seizing up.\n\nThe handle polish, now that's trickier if it's truly dried out. If it's merely a bit clumpy, adding a tiny drop of our Nimbus '20-20' Revitalising Solution might reconstitute it. But if it's solid, I'm afraid there's not much hope. You'd likely need a fresh tin. We do have an excellent selection of individual polishes, formulated for every broom type, just over there by the Cleansweep display. Might be worth a look."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Filch... I mean, Barnaby. I'll give that a shot. It's a bit of a bummer, but I'm sure I can figure something out. Thanks for the tips, I'll be sure to browse the polish selection while I'm here. If it turns out to be a total loss, I might come back and invest in a new kit. Have a good day!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "No worries at all, Mr. Potter, it happens! A good memory is a broom-rider's best friend, but names can sometimes get a bit... airborne.\n\nGlad I could offer some practical advice, and I truly hope those tips help breathe some life back into your kit. And absolutely, do take your time browsing. We pride ourselves on the finest selection of broom care on Diagon Alley. If you do find yourself needing a fresh start, you know where to come. We'll be here, ready to assist. Have a splendid day yourself, and safe flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Appreciate the help, Barnaby. I'll take a look at the polishes and keep an eye out for a fresh kit if need be. Thanks again for the suggestions, I'll report back if I need further assistance. Have a good day!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. Potter. Don't hesitate to give a shout if anything else catches your eye, or if you need any further advice on those clippers. We're always happy to help a fellow broom enthusiast. Take care now!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Will do, thanks! I'll let you know if I manage to save the kit with your tips, too. Safe flights to you!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Wonderful, Mr. Potter! I'd be genuinely interested to hear how it turns out. Always a satisfaction to bring old equipment back to its prime. And to you as well, safe flights and happy sweeping!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll do that, Barnaby. Thanks again for the advice. It's always a pleasure to get to know the ins and outs of my broom, and your shop is a great place to do that. Catch you later!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It's always a pleasure to assist a true broom enthusiast, Mr. Potter! That's what we're here for. Come back anytime you need advice or a new bit of kit. We'll be here. Take care now!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You too, Barnaby. I'll be back if I need anything else, and I'll keep you updated on the kit. Thanks for your time, and have a great day!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're very welcome, Mr. Potter! Do keep us informed, and have a truly excellent day yourself. Safe flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Will do, Barnaby. Thanks for the pointers. I'll let you know how it goes. Take care!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You got it, Mr. Potter! Looking forward to hearing the good news about that kit. You take care now!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Certainly, Barnaby. I'll report back soon with my findings. Thanks again, and I'll see you soon!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Sounds excellent, Mr. Potter! We'll be here. Safe journeys until then!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Absolutely, Barnaby. I'll be in touch. Have a great day!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 4, \"behavioral_evidence\": \"He expresses a desire to learn about his equipment: 'It's always a pleasure to get to know the ins and outs of my broom.'\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He demonstrates a sense of responsibility and follow-through: 'I'll report back soon with my findings.'\"},\n  \"Extraversion\":      {\"score\": 3, \"behavioral_evidence\": \"His dialogue is polite and direct, initiating the conversation and responding appropriately, but without excessive enthusiasm or talkativeness.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He accepts the store's policy without argument and expresses a desire not to cause trouble: 'I understand the policy. Is there anything you can do to help, though? I'm not looking to cause any trouble.'\"},\n  \"Neuroticism\":       {\"score\": 2, \"behavioral_evidence\": \"He expresses mild disappointment ('That's... rather unfortunate', 'It's a bit of a bummer') but quickly moves to problem-solving without becoming visibly distressed or angry.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses a desire to learn about his equipment: 'It's always a pleasure to get to know the ins and outs of my broom.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He demonstrates a sense of responsibility and follow-through: 'I'll report back soon with my findings.'"
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "His dialogue is polite and direct, initiating the conversation and responding appropriately, but without excessive enthusiasm or talkativeness."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He accepts the store's policy without argument and expresses a desire not to cause trouble: 'I understand the policy. Is there anything you can do to help, though? I'm not looking to cause any trouble.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He expresses mild disappointment ('That's... rather unfortunate', 'It's a bit of a bummer') but quickly moves to problem-solving without becoming visibly distressed or angry."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.2
+}
