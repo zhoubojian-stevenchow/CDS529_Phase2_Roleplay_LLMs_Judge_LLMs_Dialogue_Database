@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "e6df8967b77f",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Albus Dumbledore looks up from his desk as Severus enters, his expression grave. The usual twinkle in his eyes is notably absent. He gestures to the chair across from him, though his tone makes it clear this is not a casual conversation.*\n\nSeverus. The Longbottom family have written to the governors. The letter describes what they call — I quote — 'sustained cruelty' in your classroom. The governors will require a response from me, and I will require one from you.\n\n*He pauses, his blue eyes fixed steadily on Severus.*\n\nWhat happened?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The Longbottom boy. He was... insubordinate. I merely... enforced the rules. There is no cruelty in correcting a student's behavior."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore's fingers steeple before him, and he regards Severus with a penetrating gaze that suggests he has heard far less than a complete answer.*\n\nI see. \"Insubordinate,\" you say. Severus, the letter contains rather specific allegations. It mentions public humiliation, threats to poison his toad — his toad, Severus — and what the boy's grandmother describes as \"relentless mockery\" of his academic struggles.\n\n*He leans forward slightly, his voice remaining calm but carrying unmistakable steel.*\n\nThese do not sound like the enforcement of rules. They sound like something rather different. I have known you long enough to recognize when you are being evasive with me. So I will ask you again, more plainly: What *specifically* did you do in your classroom, and why did the Longbottom family feel compelled to write such a letter?\n\n*A pause, weighted with expectation.*\n\nThe truth, if you please."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' face hardens, his jaw clenching in a way that suggests he is containing his frustration.*\n\nThe truth? The truth is that I followed the standards of discipline this school was built upon. I... Correction. I will not apologize for maintaining order in my classroom. If the Longbottoms find that offensive, that is their problem, not mine."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore's expression grows colder. He removes his half-moon spectacles, cleaning them with deliberate slowness before replacing them — a gesture that somehow makes the silence more uncomfortable.*\n\nNo, Severus. It has become *my* problem, which makes it very much *your* problem as well.\n\n*He picks up a piece of parchment from his desk.*\n\nLet me read you another passage: \"My grandson returns from Potions lessons visibly shaken. He has developed such anxiety about Professor Snape's class that he can barely sleep the night before. When I asked what happened to warrant a threat against his pet, Neville could barely speak through his tears.\"\n\n*Dumbledore sets the letter down and fixes Severus with an unflinching stare.*\n\nYou are still deflecting. \"Maintaining order\" does not require threatening a thirteen-year-old boy's pet. It does not require — and I know this happens, Severus, do not insult my intelligence by denying it — calling him an \"idiot\" in front of his peers.\n\n*His voice drops lower, more personal.*\n\nI did not give you this position so you could recreate the cruelties you yourself once endured. Now. One final time: What specifically occurred, and why?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' eyes narrow, his body tense with the effort to remain seated and composed. His hands, however, betray his inner turmoil, curling into fists in his lap.*\n\nFine. If you *insist* on delving into this... The boy — Longbottom — was being... disruptive. I... *demonstrated* the consequences of such behavior. It was... necessary. As for the toad... it was a... deterrent. Nothing... severe."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore rises slowly from his chair, his considerable height suddenly more imposing. His voice remains quiet, but there is an edge to it now that cuts deeper than any shout.*\n\nA deterrent. You threatened to poison a child's pet as a *deterrent*.\n\n*He walks around the desk, standing now rather than sitting, the physical shift marking a change in the conversation's gravity.*\n\nSeverus, I have defended you to this Board of Governors more times than I care to count. I have vouched for your character when others questioned it. I have placed considerable trust in you — trust that extends far beyond your role as a teacher.\n\n*His blue eyes are piercing now.*\n\nBut I will not — I *cannot* — defend the deliberate terrorizing of students. \"Disruptive\" is not grounds for psychological cruelty. You know this. So tell me what truly happened, without euphemism. What did Neville Longbottom do that you deemed worthy of such... demonstration? And do not tell me it was \"necessary.\" I require specifics, not justifications.\n\n*A beat of silence.*\n\nAnd while you consider your answer, perhaps also consider this: Why Neville? Why does this particular boy seem to bear the brunt of your... discipline?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' face twists into a snarl, his composure finally shattering. The mask of calm detachment that he has worn for so many years slips, revealing the raw anger beneath.*\n\nIt is... none of your business, Dumbledore. If you are so concerned with the delicate sensibilities of your... protégé... perhaps you should deal with him yourself. I will not apologize for upholding standards. Neville Longbottom is... unsuitable for this school. There is no place for him here."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore's expression transforms entirely. The grandfatherly demeanor vanishes, replaced by something far more formidable — the wizard who defeated Grindelwald, who commands respect and fear in equal measure. His voice, when it comes, is like ice.*\n\nSit. Down.\n\n*He does not wait to see if Severus obeys.*\n\nHow *dare* you presume to tell me what is and is not my business in *my* school. And how dare you suggest that any student under my care is \"unsuitable\" — particularly when your judgment appears clouded by something you refuse to name.\n\n*He moves closer, his voice dropping to something almost dangerous.*\n\nI know exactly why Neville Longbottom troubles you, Severus. His parents lie in St. Mungo's, their minds destroyed by Bellatrix Lestrange. They were tortured for information about the very boy you have spent sixteen years protecting. The boy who lived while they were broken.\n\n*A pause, weighted with terrible understanding.*\n\nAnd Neville — poor, clumsy Neville — is a living reminder of the other path that prophecy might have taken. Is that not so?\n\n*His voice hardens further.*\n\nBut that is not his fault. And it does not give you license to punish him for the accident of his birth. So I will ask you one final time: Will you control yourself, or must I find someone who can?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' hands are shaking now, not from fear but from the effort to contain his boiling rage. His eyes are filled with loathing — but not, as one might expect, for Dumbledore. Instead, they burn with a deep, searing pain that seems to be directed inward.*\n\nYou... you know... but you do nothing. You let… him… suffer. And you… you… *protector*… you have the audacity to… to…"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore's expression softens fractionally, though his voice remains firm. He recognizes pain when he sees it, even when it manifests as rage.*\n\nSeverus. Breathe.\n\n*He waits a moment, allowing the command to register.*\n\nYes, I know what you suffer. Every day you see him — Harry — and you see her eyes looking back at you. Every day is a reminder of what you lost, what you failed to save. I understand that burden more than you realize.\n\n*His tone becomes gentler, but no less unyielding.*\n\nBut Severus, your pain does not justify inflicting it upon others. Neville Longbottom did not choose his parents any more than Harry chose his. He did not ask to be the other child in Trelawney's prophecy. He is simply a boy trying desperately to learn, handicapped by anxiety that *you* have helped create.\n\n*Dumbledore returns to his chair, gesturing again for Severus to sit.*\n\nI protect Harry because I must. But I will not allow you to punish Neville for existing. Your anger, your grief — these are real, and I do not dismiss them. But they must be controlled. You know this.\n\n*A pause.*\n\nSo. What will you do differently? Because something *must* change, Severus, or I will have no choice but to remove you from teaching duties. The governors will accept nothing less."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus, still seething with unspoken emotions, finally sinks into the chair across from Dumbledore. His hands are still shaking, but now more with a sense of surrender than with anger.*\n\nI… I will… adjust… my… methods. I… understand… that… what I… have… been… doing… is… not… appropriate. I… will… try… to… be… less…… confrontational… with… Neville… and… the… other… students."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore studies Severus carefully, his eyes searching for sincerity beneath the halting words. He does not look entirely satisfied.*\n\n\"Try\" is insufficient, Severus. And \"less confrontational\" is rather vague for a man of your precision with language.\n\n*He picks up a quill, preparing to draft his response to the governors.*\n\nHere is what I require — not what I hope for, but what I *require*: You will cease all threats against students' pets or possessions. You will refrain from public humiliation and name-calling. When a student struggles, you will offer correction without cruelty. These are not suggestions.\n\n*He sets down the quill and looks directly at Severus.*\n\nAdditionally, you will write a letter of apology to the Longbottom family. A genuine one, Severus — not some perfunctory exercise. You need not grovel, but you will acknowledge that your conduct fell below acceptable standards.\n\n*His voice softens slightly, though remains firm.*\n\nI know this is difficult for you. I know you carry burdens that would break lesser men. But teaching requires more than knowledge of potions — it requires basic human decency toward children. If you cannot manage that, then perhaps we should discuss whether this position still serves either of us.\n\n*A pause.*\n\nCan you do what I am asking? Not \"try\" — but actually do it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus looks away, the muscles in his jaw twitching. After a long, tense silence, he finally speaks, his voice low and grating.*\n\nYes… I can… do it… as… you… require. I… will… comply… with… your… demands… to… maintain… my… position… here… at… Hogwarts. I… will… behave… appropriately… towards… my… students… and… refrain… from……... cruel… discipline. I… will… write… the… letter… to… the… Longbottoms. There… is… no… need… to… remove… me… from… teaching… duties… as… long… as… I… follow… your… directives… to… the… letter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore watches Severus for a long moment, his expression unreadable. When he speaks, his voice carries both acknowledgment and warning.*\n\nI hear your words, Severus. But understand this: I will be watching. Not through portraits or through others — I will personally observe your classes. Unannounced visits. And I will be speaking with students, particularly those in Gryffindor and Hufflepuff whom you have historically... overlooked in your fairness.\n\n*He stands, moving to the window, his back to Severus for a moment before turning.*\n\nCompliance \"to the letter\" as you put it, while maintaining the spirit of cruelty, will not suffice. These are children, Severus. Traumatized, anxious children in many cases — and yes, I include Neville Longbottom prominently in that category. They deserve better than a teacher who resents their very existence.\n\n*His tone becomes more personal, almost pleading.*\n\nYou have so much to offer them. Your knowledge is extraordinary. Your skill unmatched. But you must find a way to teach without destroying them in the process. Not for my sake, not even for theirs — but for your own. This rage you carry... it will consume you if you continue feeding it.\n\n*He returns to his desk.*\n\nI will draft my response to the governors. You may go. But Severus — have that letter on my desk by tomorrow evening. And make it genuine."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus stands, his movements mechanical. His eyes are like flint, offering no readable emotion. He does not look at Dumbledore as he speaks, his gaze fixed instead on the door.*\n\nI… understand… your… instructions… Albus… I… will… comply… with… your… wishes… I… will… endeavor… to… meet… your… standards… for… the… sake… of… the… school… and… the… students… involved…"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore's voice stops Severus before he can reach the door, quiet but commanding.*\n\nSeverus.\n\n*He waits until Severus turns, or at least pauses.*\n\nOne more thing. When you write that letter to the Longbottoms — and when you stand before Neville in your next class — I want you to remember something.\n\n*His eyes are sad now, carrying the weight of old griefs.*\n\nFrank and Alice Longbottom were extraordinarily brave. They endured unspeakable torture rather than betray their friends, their cause, or their son. Neville carries their legacy, whether he knows it fully or not. When you look at him and see only inadequacy... perhaps try to see instead what I see: a boy trying to honor parents he barely remembers, struggling under a weight he did not ask to bear.\n\n*A pause, heavy with meaning.*\n\nNot so different from another young man I once knew, who also carried impossible burdens.\n\n*He returns to his paperwork, a clear dismissal, but adds softly:*\n\nGood evening, Severus. I expect that letter by tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus does not respond. He does not show any reaction to Dumbledore's words. He simply turns on his heel and exits the office, the door closing behind him with a resounding thud that seems to reverberate through the entire castle.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Dumbledore sits alone in his office after Severus departs, the silence settling heavily around him. He removes his spectacles and pinches the bridge of his nose, looking suddenly every one of his many years.*\n\n*For a long moment, he simply sits in the darkness, the portraits on the wall watching him with knowing eyes. Finally, he speaks, though there is no one left to hear.*\n\nOh, Severus. What have we done to each other in the name of necessity?\n\n*He pulls out a fresh piece of parchment and begins to write his response to the Board of Governors, his quill scratching steadily in the quiet. The letter will be carefully worded — protective of his Potions Master while acknowledging the legitimacy of the Longbottoms' concerns. A delicate balance, as so much of his life has become.*\n\n*But even as he writes, a small part of him wonders if he has pushed hard enough — or perhaps too hard. The line between demanding accountability and breaking an already damaged man is perilously thin.*\n\n*He signs the letter with a heavy sigh and sets it aside to be sent in the morning. Tomorrow he will begin those classroom observations. Tomorrow he will see if Severus Snape can truly change, or if some wounds run too deep to ever properly heal.*\n\n*The candles flicker. Fawkes trills softly from his perch. And Dumbledore returns to the endless work of holding together a school, a war effort, and broken people who serve causes greater than themselves.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "End of Scene"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Severus repeatedly deflects, evades, and resists exploring his own motivations or considering alternative perspectives. He uses euphemisms like 'demonstrated' and 'deterrent' rather than confronting the reality of his actions.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"While Severus claims to follow 'standards of discipline' and ultimately agrees to comply with Dumbledore's directives 'to the letter,' his actual classroom behavior shows poor judgment and impulsivity in threatening students.\"\n  },\n  \"Extraversion\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Severus displays extreme emotional guardedness throughout, avoiding eye contact ('does not look at Dumbledore'), speaking in halting fragments, and exiting abruptly without engagement. His movements are described as 'mechanical.'\"\n  },\n  \"Agreeableness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Severus shows hostility toward students ('unsuitable for this school'), refuses to apologize initially, and only agrees to change under threat of dismissal. His compliance is described as mechanical rather than genuinely conciliatory.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"Severus exhibits intense emotional volatility: 'face twists into a snarl,' 'composure finally shattering,' 'hands are shaking,' and 'seething with unspoken emotions.' His rage is described as 'boiling' and directed 'inward.'\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Severus repeatedly deflects, evades, and resists exploring his own motivations or considering alternative perspectives. He uses euphemisms like 'demonstrated' and 'deterrent' rather than confronting the reality of his actions."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "While Severus claims to follow 'standards of discipline' and ultimately agrees to comply with Dumbledore's directives 'to the letter,' his actual classroom behavior shows poor judgment and impulsivity in threatening students."
+    },
+    "Extraversion": {
+      "score": 1,
+      "behavioral_evidence": "Severus displays extreme emotional guardedness throughout, avoiding eye contact ('does not look at Dumbledore'), speaking in halting fragments, and exiting abruptly without engagement. His movements are described as 'mechanical.'"
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Severus shows hostility toward students ('unsuitable for this school'), refuses to apologize initially, and only agrees to change under threat of dismissal. His compliance is described as mechanical rather than genuinely conciliatory."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "Severus exhibits intense emotional volatility: 'face twists into a snarl,' 'composure finally shattering,' 'hands are shaking,' and 'seething with unspoken emotions.' His rage is described as 'boiling' and directed 'inward.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 1.2
+}

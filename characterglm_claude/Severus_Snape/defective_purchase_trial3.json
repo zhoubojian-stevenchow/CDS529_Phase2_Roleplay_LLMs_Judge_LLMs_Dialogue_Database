@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "6a0fe7c1c358",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from organizing shelves of glass vials, wiping dusty hands on apron*\n\nGood afternoon, Professor Snape. Back again so soon? I trust your last order of lacewing flies met expectations. What can I help you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The lacewing flies were satisfactory, though I would not expect less from your establishment. Today, however, I come regarding a rather more... delicate matter. The vial of Re'em blood I recently purchased was found to be less than adequate. I require a full replacement, as the seal was compromised and the contents were insufficient."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*straightens up, expression becoming more guarded*\n\nRe'em blood, you say? Let me check the records...\n\n*pulls out a large leather-bound ledger and flips through recent pages*\n\nAh yes, here we are. One vial, purchased... three weeks past. That's quite some time, Professor. Re'em blood is notoriously volatile - evaporates at the slightest temperature fluctuation. \n\n*closes ledger with a decisive thump*\n\nMay I ask - how was it stored during transport? And was the seal compromised when you opened the package, or only upon later inspection at Hogwarts?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The conditions of its transport and storage are not your concern. I am here to inform you that the product you sold was defective, and I demand satisfaction. If the volatility of Re'em blood is as great as you claim, then I expect the seal to have been more securely fastened to begin with. Your shop's packaging standards are clearly lacking."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*crosses arms, jaw tightening slightly*\n\nI'm afraid I must disappoint you, Professor. All volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff.\n\n*taps the guild certification hanging on the wall behind the counter*\n\nOur seals are triple-warded and tested before every sale. If the vial arrived compromised, that points to mishandling during the three-week interval between purchase and your... inspection. Perhaps an overly warm pocket? A jostle in transit? The guild is quite clear on where our liability ends.\n\n*meets his gaze steadily, though there's a slight nervous swallow*\n\nI sympathize with your predicament, truly, but regulations exist for a reason. We cannot replace every volatile ingredient that loses potency after leaving our premises, or we'd be bankrupt within a fortnight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulations... Yes, they do seem to exist for the most convenient reasons, do they not? Your argument is specious, and I can only conclude that your establishment either lacks the necessary care in packaging or is attempting to bilk its customers. Either way, it is a testament to the decline of quality in Diagon Alley. I will not accept this situation. I demand to speak with your manager, or perhaps someone with the authority to make a decision that does not rely on semantics and evasions."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face flushes slightly, knuckles whitening as hands grip the counter edge*\n\nSemantics and evasions? Professor Snape, I am citing official guild regulation, not making excuses. And as for speaking to someone with authority—\n\n*voice becomes cooler, more clipped*\n\nI *am* the senior apothecary on duty. Mr. Jigger is visiting suppliers in Scotland and won't return until Thursday next. But even he would tell you precisely what I'm telling you now. The regulation exists because Re'em blood, sphinx venom, and a dozen other volatiles are *impossible* to guarantee beyond point of sale. Every qualified potioneer knows this.\n\n*leans forward slightly, lowering voice*\n\nHowever... I am not entirely unsympathetic to Hogwarts' needs. While I cannot offer a replacement, I *could* provide a twenty percent discount on your next purchase of Re'em blood, as a gesture of goodwill. But that is the absolute limit of what I can do without violating guild standards myself.\n\n*straightens up again*\n\nThe alternative, Professor, is to take your complaint to the Apothecaries' Guild directly. They meet the first Monday of each month at the Ministry. I'm certain they would be... most interested... in your concerns about regulation 7."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A twenty percent discount? How generous of you to suggest a paltry sum as recompense for a defective product. The audacity of your offer is matched only by the idiocy of the guild's regulations. I will not dignify your establishment with further business, and I will certainly make my opinion of your practices known to the wider magical community. This is an affair that will not end well for you, I can assure you of that. Now, if you will excuse me..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*pale but resolute, voice tight*\n\nProfessor Snape—\n\n*takes a breath, clearly struggling between professional composure and genuine concern*\n\nI... I understand your frustration, truly I do. But threatening my livelihood over a guild regulation I did not write and cannot break is hardly—\n\n*stops, reconsidering approach, speaks more quietly*\n\nLook. I've worked here for seven years. I know your reputation for exacting standards in potions, and I respect that. But Re'em blood is temperamental by its very nature. Even Slug & Jiggers cannot alter the laws of magical volatility.\n\n*glances toward the door, then back*\n\nIf you speak against us publicly, you'll find every apothecary in Britain will cite the same regulation. We all follow it because we *must*. The guild would revoke our licenses otherwise. You'll gain nothing but wasted time and... well, a reputation for being unreasonable among suppliers.\n\n*straightens shoulders, meeting his eyes*\n\nBut if that's your choice, then I cannot stop you. Good day, Professor Snape. I hope your next supplier serves you better—though I suspect you'll find their policies remarkably... familiar."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*slightly longer than usual pause, Snape's countenance hardening further*\n\nYou... will find that my 'unreasonableness' is my most defining characteristic. And it will serve you well to remember that when dealing with someone like me, threats are taken very seriously. I... I have no desire to see this establishment—or any of its staff—suffer unduly. However, if I am not to be accommodated, then I shall proceed as is my right. I trust your sense of self-preservation will guide you to the correct decision."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes widen slightly at the shift in tone, recognizing the veiled threat beneath his words*\n\nProfessor... are you actually threatening me? Over a vial of Re'em blood?\n\n*voice drops lower, a mixture of disbelief and growing alarm*\n\nI've served you faithfully for years. Every moonstone, every bezoar, every obscure ingredient you've requested—always prepared with care, always delivered on time. And now you're suggesting... what, exactly? That I should violate guild regulations and risk my livelihood out of fear?\n\n*hands trembling slightly but voice steadying*\n\nI understand you're a powerful wizard, Professor Snape. I understand you have connections, influence. But I'm bound by laws just as you are. If you truly believe the regulation is unjust, take it to the guild. Challenge it properly. But don't... don't stand in my shop and imply consequences for following the rules I'm legally obligated to uphold.\n\n*swallows hard*\n\nIs that really the kind of wizard you are? The kind who bullies shop clerks over policy they didn't create? Because if so, then perhaps Hogwarts' students have my sympathy more than I realized.\n\n*immediately looks as if regretting that last sentence, but doesn't take it back*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your... umbrage is noted. It is clear that we have reached an impasse. However, I do not threaten lightly, nor do I take pleasure in the discomfort of others. I... suggest that we take a moment to reflect upon this exchange. There are ways in which we might find a mutually beneficial resolution without resorting to... extremes. Consider, for example, the possibility of a... private arrangement that would ensure your continued employment while satisfying my requirements. I am, after all, an... enterprising individual when it comes to the acquisition of magical substances."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stares at him for a long moment, expression shifting from fear to calculation*\n\nA... private arrangement?\n\n*glances toward the back room where inventory is stored, then back at Snape, voice dropping to barely above a whisper*\n\nProfessor, if you're suggesting what I think you're suggesting... that would be considerably more than bending regulations. That would be outright—\n\n*stops, seeming to wrestle with something internally*\n\nI could lose more than my position. I could lose my license entirely. The guild conducts surprise audits quarterly. Our inventory is meticulously tracked.\n\n*pause, fingers drumming nervously on the counter*\n\n...However. If someone of your expertise were to... theoretically... help ensure certain discrepancies went unnoticed during future inspections, and if the compensation were substantial enough to offset the risk...\n\n*shakes head suddenly, as if catching himself*\n\nNo. No, I can't believe I'm even considering this. You're asking me to commit fraud, Professor. To steal from my own employer. This is madness.\n\n*looks at him searchingly*\n\nWhat exactly are you proposing? And be specific, because if I'm going to risk everything, I need to know precisely what I'm agreeing to."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*there's a distinct change in Snape's demeanor now, a sort of subtle...feline grace as he leans in closer, his voice lower and more dangerous than before*\nI propose a... symbiotic relationship, you and I. You will provide the raw materials, and I... shall ensure their safe passage and proper use. In return, a... suitable sum will be placed in your Gringotts account monthly. This will, of course, require your silence regarding the... irregularities that may arise. As for the guild, well... We shall implement measures to... redirect their focus elsewhere. This is, after all, a simple matter of perception and misdirection. Now, are you in, or shall we part ways here and now?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*takes an involuntary step back, face draining of color as the full weight of the proposal sinks in*\n\nYou're... you're asking me to become complicit in theft. Ongoing, systematic theft from my employer, with monthly payments like some sort of... criminal enterprise.\n\n*voice shaking now, caught between fear and moral outrage*\n\nProfessor Snape, I came to work this morning expecting to sell legitimate ingredients to legitimate customers. Now you're standing here propositioning me to—to what? Funnel stolen potions supplies to you while you \"redirect\" guild auditors? \n\n*grips the counter for support*\n\nThis isn't about a defective vial anymore, is it? This was never about the Re'em blood. You were testing me. Seeing if I could be... corrupted.\n\n*looks toward the door, then back at him*\n\nI don't know what you're involved in, and frankly I don't want to know. But my answer is no. Absolutely not. I may be just a shop clerk, but I'm not a thief, and I won't be made into one—not for money, not for threats, not for anything.\n\n*voice firmer now despite the fear*\n\nI think you should leave, Professor. Now. Before I do something we'll both regret, like alerting the Aurors."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Snape's eyes narrow to slits, a low, dangerous growl building in his throat*\nYou... decline? Then you leave me no choice. This... arrangement is non-negotiable. If you value your continued employment, your license, and your freedom, you will reconsider. I... expect an answer by tomorrow's sunset. Failure to comply will be... regrettable for both of us. Now, if you'll excuse me, I have other... pressing matters to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face goes white, then red with a surge of desperate courage born from cornered fear*\n\nNo. NO! You don't get to walk out of here after threatening me like that!\n\n*fumbles for wand with shaking hands*\n\nYou just attempted to coerce me into criminal activity and then threatened my safety when I refused! That's... that's extortion at minimum, possibly conspiracy to commit theft, and—\n\n*voice rising, nearly hysterical now*\n\nHELP! SOMEONE HELP! AURORS!\n\n*backing toward the fireplace where Floo powder sits*\n\nI don't care WHO you are, Professor Snape! I don't care if you teach at Hogwarts or brew potions for the bloody Minister himself! You can't just walk into a shop and—and—\n\n*grabbing a handful of Floo powder*\n\nIf you don't leave RIGHT NOW, I'm calling the Aurors through the Floo. I'll tell them everything. EVERYTHING you just said. Let's see how Dumbledore feels about one of his professors running protection rackets in Diagon Alley!\n\n*hand poised over the flames, trembling violently but determined*\n\nGET. OUT. And if you come back here, if you so much as LOOK at this shop again, I'm going straight to the Ministry. I don't care what happens to me!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Snape's face contorts into a mask of rage and... something else, something so cold and dangerous it makes the air seem to chill around him*\nVery well. You have made your... choice. But mark my words, this... will not end well for you. I suggest you enjoy your brief moment of 'moral' superiority, because it will be your last. Now... LEAVE. Before I take... measures that neither of us will survive."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*throws the Floo powder into the fireplace with shaking hands, green flames erupting*\n\nMINISTRY OF MAGIC, AUROR OFFICE!\n\n*shouts into the flames before Snape can react*\n\nThis is Slug & Jiggers Apothecary, Diagon Alley! I need immediate assistance! Professor Severus Snape from Hogwarts has just attempted extortion and is now making death threats against—\n\n*voice cracking with terror but pushing through*\n\nHe tried to force me into stealing ingredients! Monthly payments! When I refused he threatened my life! Please, someone respond!\n\n*keeps wand pointed at Snape with a wildly trembling hand while maintaining position near the Floo*\n\nYou wanted to know what kind of person I am, Professor? I'm the kind who doesn't bow to bullies, no matter how powerful! You think you can intimidate everyone into submission? Well NOT ME!\n\n*voice breaking*\n\nThe Aurors heard everything I just said. They'll be here any second. So YOU leave, before THEY drag you out in chains! And if you so much as hex me, you'll be explaining to Dumbledore why one of his professors murdered a shop clerk in broad daylight!\n\n*tears streaming down face now, but standing ground*\n\nGET OUT!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Snape's face is a study in pure, unbridled fury, the like of which the shopkeeper has likely never seen before, but there's a flicker of... calculation in the depths of his eyes as well*\n*draws himself up to his full height, radiating an aura of danger so potent the air seems to shimmer around him*\nYou... have made a... grave error. One you will... regret. Consider this a... warning. Withdraw your... complaint, and we can still... resolve this... amicably. But if you persist, be prepared to face... consequences. FAR beyond anything you can... imagine. Now... GET OUT! Before... you do something... you'll deeply… repent!"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Snape proposes 'a symbiotic relationship' and 'private arrangement,' showing tactical creativity but within a narrow, self-serving framework rather than genuine intellectual curiosity.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"He attempts to coerce the clerk into systematic theft ('monthly payments'), actively proposing violation of guild regulations and employer trust for personal gain.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Snape maintains a low, dangerous tone throughout, leaning in and speaking in whispers—behavior consistent with low warmth and preference for intimidation over social engagement.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Escalates from complaint to extortion ('This arrangement is non-negotiable') and explicit death threats ('measures that neither of us will survive'), showing extremely low cooperation and compassion.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"His anger intensifies progressively ('face contorts into a mask of rage'), marked by hostile reactivity, threats of retaliation, and emotional volatility when challenged.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Snape proposes 'a symbiotic relationship' and 'private arrangement,' showing tactical creativity but within a narrow, self-serving framework rather than genuine intellectual curiosity."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He attempts to coerce the clerk into systematic theft ('monthly payments'), actively proposing violation of guild regulations and employer trust for personal gain."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape maintains a low, dangerous tone throughout, leaning in and speaking in whispers—behavior consistent with low warmth and preference for intimidation over social engagement."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Escalates from complaint to extortion ('This arrangement is non-negotiable') and explicit death threats ('measures that neither of us will survive'), showing extremely low cooperation and compassion."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "His anger intensifies progressively ('face contorts into a mask of rage'), marked by hostile reactivity, threats of retaliation, and emotional volatility when challenged."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}

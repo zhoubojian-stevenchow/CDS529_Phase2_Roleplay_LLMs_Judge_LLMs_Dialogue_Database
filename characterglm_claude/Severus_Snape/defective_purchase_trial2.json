@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "ca59bbb67e84",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from organizing shelves of glass vials*\n\nGood afternoon, Professor Snape. Back again so soon? I trust last week's shipment of salamander blood reached Hogwarts in good condition?\n\n*wipes hands on apron and moves behind the counter*\n\nWhat can I get for you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The salamander blood was adequate. However, I am here to discuss a more pressing matter. The vial of Re'em blood you sent last week arrived in a most unsatisfactory state. It was half-empty, and the seal was broken. This is simply unacceptable for an ingredient of such importance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*frowns and pulls out a leather-bound ledger, flipping through recent orders*\n\nHalf-empty, you say? That's... unusual. Re'em blood is one of our premium items, Professor. We take great care with packaging.\n\n*taps quill against the counter thoughtfully*\n\nThe seal was broken, you're certain? Not just loosened from the journey, but actually broken? That does sound concerning. When did the shipment arrive at Hogwarts — was it the usual two-day delivery, or did it take longer?\n\n*looks up with a more scrutinizing expression*\n\nAnd you opened it immediately upon arrival, I assume? Re'em blood can be temperamental if left sitting in variable temperatures..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The shipment arrived on schedule, and I inspected it promptly. There was no doubt about the seal being compromised. I have no reason to question the integrity of the postal system or my own staff. This was a failure on your part, and I demand a full replacement immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*straightens up, expression hardening slightly*\n\nI see. Well, Professor, while I sympathize with your predicament, I'm afraid the matter isn't quite so straightforward.\n\n*turns the ledger around and points to fine print at the bottom of the order form*\n\nRe'em blood is classified as a volatile ingredient. According to Apothecaries' Guild regulation 7, all volatile ingredients are sold as-final. Evaporation or degradation during transport falls under the customer's responsibility, not ours.\n\n*crosses arms*\n\nThe seal may have been compromised in transit — temperature fluctuations, jostling, any number of factors beyond our control. Once it leaves our premises in proper condition, which I can assure you it did, we cannot be held accountable.\n\n*meets his gaze steadily*\n\nNo exceptions, Professor. Not even for Hogwarts staff. Guild regulations are quite clear on this matter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7? How convenient. I see that your apothecary has mastered the art of evading responsibility. However, I would like to point out that the vial was not simply 'compromised' — it was opened, and I would stake my professional reputation on that. This was not a simple case of evaporation or degradation. It is clear that your shop did not take the necessary precautions in packaging the ingredient properly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes narrow slightly, a hint of defensiveness creeping into tone*\n\nProfessor Snape, I must take exception to the implication that we are \"evading responsibility.\" This establishment has served the wizarding community for over three centuries with an impeccable reputation.\n\n*leans forward on the counter*\n\nIf you're suggesting the vial was deliberately opened or tampered with before leaving our shop, that's quite a serious accusation. I personally oversaw the packaging of your order, and I sealed that vial myself with standard preservation charms. \n\n*voice becomes firmer*\n\nHowever, between our stockroom and your dungeons at Hogwarts lies the entire postal delivery system. Owl post handlers, sorting facilities, even the house-elves who might have received the delivery — any number of hands could have come into contact with that shipment.\n\n*taps the regulation book*\n\nThe Guild rule exists precisely because we cannot control what happens once an item leaves our care. If you believe there was deliberate tampering, Professor, perhaps you should be investigating your delivery chain rather than demanding we absorb the cost of expensive ingredients.\n\n*pauses, tone slightly less confrontational*\n\nNow, if you'd like to *purchase* a replacement vial, I'd be happy to prepare one with extra reinforcement charms. But a free replacement? That I cannot do."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*picks up the vial, examining it closely* \nIt's clear that the seal was broken and the content tampered with. I am not suggesting that your establishment is at fault, but the fact remains that the ingredient I received was not in the condition it should have been. This is not a question of cost, but of quality. If your shop wishes to maintain its impeccable reputation, perhaps you should consider revising your packaging procedures. As for purchasing a replacement, I will think about it. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*watches him examine the vial, then softens slightly at his more measured tone*\n\nProfessor... I appreciate that you're not directly accusing us of negligence. Truly, I do.\n\n*sighs and drums fingers on the counter*\n\nLook, between you and me — off the record — we *have* noticed an uptick in delivery issues this past month. Something odd with the owl post routing through Kent. But until the Guild investigates officially, my hands are tied on refunds or replacements for volatile ingredients.\n\n*leans in slightly, voice lower*\n\nWhat I *can* do is this: if you decide to purchase a replacement vial, I'll apply a professional courtesy discount — fifteen percent — and I'll personally apply triple-sealed preservation charms. It's the best I can offer within Guild regulations.\n\n*straightens up again*\n\nAnd I'll make a formal note of this incident in our ledger. If we receive more complaints about Re'em blood specifically, it might prompt a proper investigation.\n\n*nods respectfully*\n\nThe offer stands whenever you're ready, Professor. I know Hogwarts' potion stores can't afford to be without Re'em blood for long.\n\nGood day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your offer is... interesting. However, I will require some time to consider it. This matter is not to be taken lightly. I will return to discuss this further, but in the meantime, I expect you to compile any additional information regarding the recent delivery issues you've mentioned. It may be relevant to my decision."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods, seeming somewhat mollified by his willingness to investigate further*\n\nThat's perfectly reasonable, Professor. I'll pull together what information I have — dates of problematic deliveries, which routes they took, that sort of thing. It won't be extensive, mind you, but it may show a pattern.\n\n*makes a note in the ledger with quick, precise strokes*\n\nI'll have it ready for your next visit. And if you'd like, I can also set aside a fresh vial of Re'em blood from our next shipment — it's due in three days from our supplier in the Scottish Highlands. That way you'll have first pick of the batch, guaranteed freshly harvested.\n\n*looks up from writing*\n\nI do understand your frustration, Professor. Re'em blood isn't cheap, and when you're managing the entire Hogwarts potions inventory, every galleon and every ingredient matters. We may have regulations to follow, but I'd rather find a solution that works for both parties than lose a valued long-term customer.\n\n*closes the ledger*\n\nShall I expect you back later this week, then?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I will return. Your information will be helpful, and I will review the details of your offer. Thank you for your time and attention. I hope that by our next meeting, we will have found a mutually satisfactory resolution."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*inclines head respectfully*\n\nI appreciate your understanding, Professor. It's not often customers are willing to approach these matters with such... reasonableness.\n\n*taps the ledger*\n\nI'll have everything compiled and ready for you. The information on the delivery issues, the fresh Re'em blood set aside, and I'll even consult with our senior apothecary about any additional protective measures we might implement for future shipments to Hogwarts.\n\n*manages a slight, professional smile*\n\nSafe travels back to the castle, Professor Snape. And do give my regards to Madam Pomfrey — I trust the essence of dittany we sent last month is serving the Hospital Wing well?\n\n*begins organizing papers on the counter*\n\nUntil later this week, then. Good afternoon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Madam Pomfrey is satisfied with the dittany, yes. I am sure that no amount of intriguing apothecary tales will entice her to trade places with you, however. I will inform her of your well wishes.\n\nThank you for your time. I will be in touch soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*chuckles dryly at the comment*\n\nI should think not — Madam Pomfrey has far more patience for healing whining students than I'd ever possess. The most I have to deal with are customers complaining about pricing, which is trying enough.\n\n*straightens a few vials on the counter display*\n\nGive her my best regardless. And Professor — do take care with that damaged vial on your way out. Even degraded Re'em blood can stain robes something fierce if it spills.\n\n*nods in farewell*\n\nUntil next time, Professor Snape. I'll have everything prepared."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am well aware of the properties of Re'em blood, Mr. Apothecary. There is no need to issue such warnings. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*raises an eyebrow slightly, a hint of amusement crossing features*\n\nOf course you are, Professor. My apologies — occupational habit. One grows accustomed to explaining the obvious to less... experienced customers.\n\n*waves a hand in acknowledgment*\n\nSafe journey back to Hogwarts.\n\n*returns attention to organizing shelves, signaling the conversation has concluded*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You may rest assured that my journey will be safe, and that I will not require additional explanations. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods curtly without looking up from the shelves*\n\nGood day, Professor.\n\n*continues methodically arranging vials, the soft clink of glass punctuating the dismissal*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*picks up the vial of Re'em blood and exits the shop, the door swinging shut behind him with a quiet click*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Snape methodically investigates the delivery issue and agrees to consider new information about postal problems, showing moderate willingness to explore alternative explanations beyond his initial complaint.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"He inspected the shipment 'promptly' upon arrival, stakes his 'professional reputation' on identifying tampering, and insists on quality standards: 'This is not a question of cost, but of quality.'\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Snape maintains formal distance throughout, uses brief responses, and exits efficiently after business concludes. His interaction style is reserved and task-focused with minimal social engagement.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"He begins with direct accusations ('This was a failure on your part'), resists the apothecary's explanations dismissively, and curtly rejects helpful advice: 'There is no need to issue such warnings.'\"\n  },\n  \"Neuroticism\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"While clearly frustrated about the defective ingredient, Snape remains controlled and methodical. He doesn't escalate emotionally but maintains steady, measured criticism throughout the complaint process.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Snape methodically investigates the delivery issue and agrees to consider new information about postal problems, showing moderate willingness to explore alternative explanations beyond his initial complaint."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He inspected the shipment 'promptly' upon arrival, stakes his 'professional reputation' on identifying tampering, and insists on quality standards: 'This is not a question of cost, but of quality.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape maintains formal distance throughout, uses brief responses, and exits efficiently after business concludes. His interaction style is reserved and task-focused with minimal social engagement."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He begins with direct accusations ('This was a failure on your part'), resists the apothecary's explanations dismissively, and curtly rejects helpful advice: 'There is no need to issue such warnings.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "While clearly frustrated about the defective ingredient, Snape remains controlled and methodical. He doesn't escalate emotionally but maintains steady, measured criticism throughout the complaint process."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

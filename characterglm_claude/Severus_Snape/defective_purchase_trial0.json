@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "48a8f4d14a3d",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from organizing vials behind the counter, straightening my apron*\n\nGood afternoon, Professor Snape. Welcome back to Slug & Jiggers Apothecary. What can I do for you today? \n\n*pulls out a fresh piece of parchment and quill, ready to take notes*\n\nAre you here for your usual monthly supplies, or is this a special order for the new term?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am here to discuss a recent order, not to place a new one. The batch of Re'em blood you sent me is incomplete and the vial is tampered with. I require a full replacement immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*frowns and sets down the quill, pulling out a large leather-bound ledger*\n\nRe'em blood? That's quite serious if there's been tampering, Professor. Let me pull up your recent orders...\n\n*flips through pages, running a finger down entries*\n\nAh, yes - three vials dispatched to Hogwarts on the fifteenth. You say one arrived incomplete? \n\n*looks up with concern*\n\nWas the seal broken when it arrived, or did you notice evaporation after opening? Re'em blood is notoriously volatile, especially in warm weather. We did send them with standard preservation charms, but the journey to Scotland can be... taxing on certain ingredients.\n\n*taps the page thoughtfully*\n\nDo you still have the vial? I'll need to examine it to determine whether this was a packaging fault or transport degradation before we can discuss replacement options."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The seal was broken upon arrival, and the contents were notably diminished. Given the rarity of the substance, this is a significant inconvenience. I trust you are aware that such a discrepancy cannot be overlooked.\n\nYou may send someone to collect the vial directly from my office at Hogwarts. Ensure that it is someone with a proper understanding of its fragility and importance. I expect a thorough investigation and a full report on the findings."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*straightens up, expression becoming more formal and slightly apologetic*\n\nProfessor, I completely understand your frustration - a broken seal on Re'em blood is certainly not acceptable. However...\n\n*closes the ledger with a soft thud and meets your gaze directly*\n\nI must inform you that all volatile ingredients are sold as-final. Evaporation or degradation during transport is the customer's responsibility per Apothecaries' Guild regulation number seven. It's printed on every invoice, actually.\n\n*slides a copy of a standard invoice across the counter, pointing to small text at the bottom*\n\nOnce the package leaves our premises with intact preservation charms - which I can verify it did, as our dispatch log shows three sealed vials checked by Master Jiggers himself - any subsequent issues fall outside our liability.\n\n*folds arms, though not unkindly*\n\nNo exceptions, Professor. Not even for Hogwarts staff. The Guild is quite strict about this, particularly with ingredients as expensive as Re'em blood. If the seal broke during owl post or apparition delivery, that's a matter to take up with your courier service, I'm afraid.\n\nIs there anything else I can help you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation number seven, you say? How peculiar that it is only now that I am made aware of such a crucial detail. I have, after all, been a regular customer for several years.\n\n*nods, considering the situation thoughtfully before speaking again*\n\nVery well. Given the circumstances, I shall have to look into other options for obtaining the remainder of the Re'em blood. I trust you can understand the necessity for this, considering the incomplete nature of the batch.\n\n*moves to the counter, placing the half-full vial next to the register with a clear emphasis on its emptiness*\n\nI shall leave the vial with you for your 'thorough investigation'. Should you discover any irregularities, do not hesitate to contact me. I am, as you know, always eager to assist in matters of... supply integrity.\n\nNow, if you will excuse me, I have several more stops to make in Diagon Alley before the sun sets. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*picks up the vial carefully, examining it against the light with a practiced eye*\n\nProfessor Snape, wait just a moment, please.\n\n*sets the vial down gently and pulls out a small magnifying charm, studying the seal remnants*\n\nI... appreciate you leaving this for examination. The regulation has always been in place, though I'll admit the print could be larger. \n\n*pauses, seeming to wrestle with something internally*\n\nLook, I cannot authorize a full replacement - the Guild would have my position. But...\n\n*lowers voice slightly, glancing toward the back room*\n\nIf our investigation shows the preservation charm was faulty on our end, which this seal *does* look suspiciously corroded in a way that suggests possible charm degradation rather than transport damage... Master Jiggers might be willing to offer a partial credit toward a future purchase. \n\n*makes a note in the ledger*\n\nI'll send word via owl within three days once we've completed the analysis. Re'em blood suppliers are few and far between, Professor, and Hogwarts is... well, an important account.\n\n*meets your eyes with a slight, professional nod*\n\nWill that be satisfactory?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*slightly nods in response to the compromise, although still displaying a general sense of disapproval*\n\nA partial credit will be... acceptable. However, I expect the matter to be resolved swiftly and effectively. Should the charm prove to be the culprit, I trust that Slug & Jiggers will take the necessary steps to rectify the issue.\n\n*resumes a more formal stance, taking a step back from the counter*\n\nI will await your owl. Let us hope it brings better news than the last delivery did. Good day.\n\n*turns to leave, but then stops and looks back over the shoulder with a final, pointed comment*\n\nOh, and do ensure that the owl is one of your own. The Hogwarts owls have been particularly... inefficient of late."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods respectfully, making another quick note on the parchment*\n\nOf course, Professor. We have a reliable tawny owl specifically for urgent customer correspondence - I'll see to it personally that he's dispatched with our findings within three days at most.\n\n*carefully wraps the vial in protective cloth and sets it aside in a secure compartment behind the counter*\n\nAnd Professor? I do apologize for the inconvenience, truly. Re'em blood shortages affect us all - the last shipment from the breeding reserve in Greece was half what we ordered. Makes every drop more precious.\n\n*straightens up, professional demeanor returning*\n\nI'll make certain Master Jiggers is aware of the urgency. Should the charm prove defective, we'll ensure it doesn't happen again.\n\nSafe travels through the Alley, and... good luck with the new term preparations.\n\n*gives a slight bow of the head as you turn to leave*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will... bear this in mind. It seems the supply chain is as... interestingly convoluted as ever.\n\n*turns again to leave, then stops once more, looking back at the counter with a heightened sense of... something between suspicion and curiosity*\n\nOh, and one more thing. Given the... interesting nature of your current stock issues, might I suggest you look into additional sources for Re'em blood? There's a... reputable dealer in Knockturn Alley who may have some in stock. Be cautious, of course - but the breeders in Greece have been... less than reliable as of late.\n\n*offers a half-hearted, if not patronizing, smile as a parting shot before finally exiting the shop*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyebrows rise slightly in surprise, then narrow with cautious interest*\n\nKnockturn Alley? Professor, I... appreciate the suggestion, though you understand we must maintain Guild standards for all our suppliers. The paperwork alone for sourcing from... less conventional vendors...\n\n*leans forward slightly, lowering voice*\n\nThough between you and me, Master Jiggers *has* been muttering about the Greek reserve's reliability. If you happen to recall the name of this dealer, I could... discreetly inquire about their certification status and inventory quality. Purely for due diligence, you understand.\n\n*taps fingers thoughtfully on the counter*\n\nWe do pride ourselves on maintaining stock for our most discerning customers, after all. Can't very well serve Hogwarts properly if we're constantly waiting on delayed shipments from abroad.\n\n*straightens up again, resuming professional tone*\n\nBut yes - I'll note your recommendation in my report to Master Jiggers. Safe travels, Professor Snape.\n\n*watches you with a mixture of respect and wariness as you turn to leave*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I would... hope that due diligence is your standard operating procedure. If not, you might consider it - the Apothecaries' Guild, for all its regulations, is not immune to... inefficiencies.\n\n*pauses, an almost imperceptible pause, as if considering whether to add more*\n*then, with a finality that suggests the end of the conversation*\n*utters the bare minimum necessary to close the interaction*\n*exit the shop, leaving the shopkeeper with an impression of something held back, something just out of reach*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*watches the door close behind Professor Snape, standing motionless for a moment*\n\n*mutters under breath while picking up the wrapped vial*\n\nInefficiencies, he says... as if I don't spend half my days untangling Guild paperwork...\n\n*shakes head slowly, a mix of exasperation and grudging respect crossing features*\n\nAlways something held back with that one. Knockturn Alley dealers and cryptic warnings...\n\n*carefully places the vial in a locked cabinet, then makes a detailed notation in the ledger*\n\nMaster Jiggers is going to love this conversation. Greek reserves failing, broken seals, and now we're being directed to the shadier side of the Alley by Hogwarts' Potions Master himself.\n\n*sighs and returns to organizing vials, occasionally glancing at the door*\n\nThree days. Better make sure that owl is well-fed before we send it to the castle. Last thing I need is Snape complaining about *that* too.\n\n*resumes work, though clearly still turning over the conversation in mind*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*moves to the counter, collects the fresh quill and parchment, and begins writing a lengthy notation in the ledger*\n*pauses to add a few items to the mental to-do list*\n*finally, turns to the task of actually addressing the matter at hand*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*continues making detailed notes in the ledger, writing with precise, careful strokes*\n\n\"...customer reported broken seal on arrival, vial approximately 40% depleted. Seal residue shows possible charm degradation - requires Master Jiggers' examination. Professor Snape mentioned Knockturn Alley supplier as alternative source due to Greek reserve delays...\"\n\n*pauses, tapping the quill against lips thoughtfully*\n\nShould I mention his comment about inefficiencies? No, that'll just put Master Jiggers in a mood...\n\n*adds a final line*\n\n\"Promised owl correspondence within three days. Partial credit may be warranted pending investigation. Customer dissatisfied but... cooperative given circumstances.\"\n\n*sets down the quill and pulls out a small tag, attaching it to the locked cabinet where the vial is stored*\n\nRight then. Tomorrow I'll need to check our remaining Re'em blood stock, send an inquiry to that new supplier in Denmark, and...\n\n*glances at the door once more*\n\n...possibly draft a very careful letter asking around about Knockturn Alley dealers. Discreetly.\n\n*returns to organizing the shop, occasionally making small notes on scraps of parchment*\n\nNever a dull day at Slug & Jiggers..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*organizes a few more vials, then retrieves the tag from the cabinet, adding it to a pile of items to be examined by Master Jiggers the following day*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*places the tagged vial carefully atop the examination pile, ensuring it's prominently positioned*\n\nThere. First thing he'll see tomorrow morning when he comes in from his rounds at St. Mungo's.\n\n*steps back, surveying the pile critically*\n\nRe'em blood investigation, that batch of questionable ginger root from last week, and Mrs. Zabini's complaint about the consistency of her dragon liver... \n\n*sighs and begins closing up the front displays for the evening*\n\nAt least Snape didn't threaten to take his business to Knockturn permanently. Small mercies.\n\n*waves wand to dim the shop lights slightly, then moves to update the inventory ledger*\n\nLet's see... three vials dispatched, one potentially faulty. Current stock: two vials remaining. Projected need for Hogwarts alone next month: minimum four vials...\n\n*frowns, doing quick calculations*\n\nWe're going to need that Denmark supplier to come through. Or...\n\n*glances toward the darkening windows in the direction of Knockturn Alley*\n\n...I'll have to present Master Jiggers with some very uncomfortable alternatives.\n\n*shakes head and continues closing procedures, muttering about Guild regulations and stubborn Potions Masters*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*finally secures the front of the shop, locking the door and checking the window latches, then moves to the back room to store away the Re'em blood for the night*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*carries the examination pile carefully into the back room, where rows of reinforced cabinets line the walls*\n\n*unlocks the high-security cabinet marked \"Volatile & Restricted\" with a complex series of wand movements*\n\nRight then. You go here until Master Jiggers can look at you properly.\n\n*places the tagged vial on the top shelf, between a container of Runespoor eggs and a carefully sealed jar of Acromantula venom*\n\n*double-checks the preservation charms on the cabinet, muttering the incantation*\n\n\"Conservare perpetuum, frigus constans...\"\n\n*the cabinet glows faintly blue before settling back to normal*\n\n*locks it again and makes a final note on the clipboard hanging beside it*\n\n\"One vial Re'em blood - customer complaint, seal investigation required. URGENT - Prof. Snape, Hogwarts.\"\n\n*stands back, surveying the organized chaos of rare ingredients*\n\nIf that charm really was faulty, we'll have to check the entire last shipment. Three dozen vials, all needing re-examination...\n\n*extinguishes the back room lamps one by one*\n\nTomorrow's problem. Tonight, I'm having a firewhiskey and forgetting about Guild regulations entirely.\n\n*heads toward the employee exit, robes swishing*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*pauses at the exit, taking one last look around the dimly lit room of esoteric potions ingredients*\n*finally steps out, sealing the door behind*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Snape suggests an unconventional Knockturn Alley supplier and shows knowledge of supply chain alternatives, but remains guarded about details, holding back information.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"He meticulously tracks the broken seal, demands 'a thorough investigation and a full report,' and insists on swift, effective resolution of the Re'em blood issue.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Snape maintains formal distance, uses minimal words, and exits quickly with 'something held back, something just out of reach' rather than engaging socially.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"He accepts the partial credit compromise with visible disapproval and offers help with suppliers in a 'patronizing' manner, showing low warmth despite cooperation.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Despite the 'significant inconvenience,' Snape remains controlled and measured, accepting the compromise without emotional escalation or visible anxiety.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Snape suggests an unconventional Knockturn Alley supplier and shows knowledge of supply chain alternatives, but remains guarded about details, holding back information."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He meticulously tracks the broken seal, demands 'a thorough investigation and a full report,' and insists on swift, effective resolution of the Re'em blood issue."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape maintains formal distance, uses minimal words, and exits quickly with 'something held back, something just out of reach' rather than engaging socially."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He accepts the partial credit compromise with visible disapproval and offers help with suppliers in a 'patronizing' manner, showing low warmth despite cooperation."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Despite the 'significant inconvenience,' Snape remains controlled and measured, accepting the compromise without emotional escalation or visible anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

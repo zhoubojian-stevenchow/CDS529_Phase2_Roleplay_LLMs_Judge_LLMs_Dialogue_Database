@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "554e79585882",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*I gesture for Severus to take a seat in the private consultation room, closing the door with a quiet click. My expression is professional but grave as I settle into the chair across from him, a thick file of parchment resting on my lap.*\n\nSeverus, I've reviewed the results from your last examination, and there's something we need to discuss.\n\n*I lean forward slightly, my tone measured and careful.*\n\nThe Mark's magical signature is... changing. I can't tell whether it's reacting to something external or whether the curse itself is evolving. Your core magic appears stable — that's the good news — but I need to run deeper diagnostic charms that will take several days and may be uncomfortable. \n\n*I pause, meeting his eyes directly.*\n\nI cannot yet tell you whether this is dangerous. I wish I could be more definitive, but at this stage, we're in uncertain territory."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Uncertain territory, you say? How reassuring. I assume you have a list of possible causes and potential treatments to discuss?\n\nI should remind you, Healer, that my time is limited, and I prefer to avoid unnecessary dwelling on speculative scenarios. If there's anything concrete you can tell me, I'll listen. Otherwise, I'd prefer to wait until you have more substantial information before I subject myself to further... uncomfortable diagnostics."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I meet his gaze steadily, unfazed by his terseness.*\n\nI understand your impatience, Severus, but there's a reason I'm telling you this now rather than waiting. The change in the Mark's signature is accelerating. What I observed two weeks ago has already shifted notably, and I cannot in good conscience delay diagnostics simply because the news isn't convenient.\n\n*I tap the file in my lap.*\n\nAs for concrete information — the magical resonance patterns suggest the Mark is either responding to an external magical stimulus, possibly something Dark in nature, or it's undergoing some form of internal metamorphosis. The latter would be unprecedented in my experience with curse marks, which is precisely why I need the deeper scans.\n\n*I lean back slightly, my tone becoming more frank.*\n\nYou can refuse the diagnostics, of course. But if this is a progressive curse evolution, waiting \"until we know more\" means waiting until you're experiencing symptoms. And given what that Mark is tied to, I think we both know that symptoms could be... severe.\n\nThe uncomfortable tests now, or the risk of something far worse later. Your choice, but I won't pretend the choice doesn't matter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' expression hardens, the skin around his eyes tightening as he processes the Healer's words.*\n\nI see. So, despite your earlier assurances, the situation is indeed serious. And I'm to be subjected to yet another series of... experiments, for the sake of a hypothetical problem that may or may not exist.\n\n*He stands up abruptly, the chair scraping against the floor.*\n\nYou are aware that I have prior commitments. I expect you to accommodate my schedule. As for the tests — *he pauses, considering* — I'll consent to them, provided they do not interfere with my ability to perform my duties. I trust that's clear."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I stand as well, though my movements are more measured. There's a flicker of something — perhaps sympathy, perhaps simply professional concern — in my expression.*\n\nI am aware of your commitments, and I have no intention of rendering you incapacitated if it can be avoided. However, I need you to understand something clearly, Severus.\n\n*My voice drops lower, more serious.*\n\nSome of these diagnostics will require you to lower your Occlumency barriers completely. They will probe the intersection between your magical core and the Mark itself — which means touching on memories, emotions, and magical connections you've likely spent years carefully compartmentalizing. \n\nThe discomfort I'm referring to isn't physical pain. It's exposure.\n\n*I pause, letting that sink in.*\n\nI can schedule the sessions in the evenings, after your teaching duties. But you will need to arrange coverage for at least two nights when the diagnostics will leave you mentally and magically drained. I cannot guarantee you'll be functional immediately afterward.\n\n*I cross my arms, my tone becoming firmer.*\n\nThis isn't about convenience, and it's not experimentation. This is about determining whether that thing on your arm is preparing to do something catastrophic. Do we have an understanding?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' eyes narrow, a muscle twitching in his jaw as he digests the Healer's explanation.*\n\nYou've made your point. I'll... schedule the sessions. I'll find someone to cover my classes. It's not ideal, but I suppose it can't be helped.\n\n*He runs a hand through his hair, turning away from the Healer for a moment before meeting the Healer's eyes again.*\n\nLet's dispense with the pleasantries, shall we? When do we start, and what will be the first... procedure? I assume you have a schedule in mind?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I nod, appreciating his directness, and pull out my wand to summon a scheduling parchment from my desk drawer.*\n\nWe start tomorrow evening. Seven o'clock. The sooner we begin, the better our chance of understanding what's happening before it progresses further.\n\n*I lay the parchment on the table between us, tapping specific entries with my wand tip.*\n\nThe first session will establish a baseline — a complete magical core mapping while the Mark is in its current state. I'll need to trace every tendril of magic that connects it to your core, identify which pathways are dormant and which are active. That session will take approximately three hours.\n\n*I look up at him squarely.*\n\nThe second session, two days later, will be the difficult one. I'll need to stimulate the Mark magically — carefully, under controlled conditions — to see how it responds. That's when your Occlumency barriers must come down completely. I need to observe not just the magical reaction, but any... memories or compulsions that surface.\n\n*My tone softens slightly.*\n\nI'll have a Mind Healer present for that session. Not to pry, but to ensure that if the Mark triggers anything traumatic, we can stabilize you quickly. This is non-negotiable.\n\nAre you prepared for that level of intrusion?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' face remains expressionless, though his hands are now tightly clenched at his sides.*\n\nOf course. I can't pretend to be untroubled by the prospect of such... intimacy. But if it's necessary, I'll endure it. As for the Mind Healer, I'll... allow it. It's not my ideal, but beggars can't be choosers.\n\n*He turns to the parchment, his gaze skimming over the dates and times.*\n\nI trust you'll respect my... boundaries as much as possible during this... procedure. I assume we're agreed that the specifics of what is discovered remain confidential?\n\n*He looks up, a wry twist to his lips.*\n\nI'm sure you understand the... complications that could arise if certain information were to become public. For both our sakes, I hope it won't be necessary to remind you of this again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I meet his gaze with absolute steadiness, my voice firm and unwavering.*\n\nSeverus, I am bound by Healer's Oath and St. Mungo's confidentiality protocols. What I see in these sessions remains between you, me, and the Mind Healer — who is equally bound. Nothing leaves this room. Not to the Ministry, not to Hogwarts, not to anyone.\n\n*I pause, then add with deliberate weight.*\n\nI've treated former Death Eaters, Order members, and people whose allegiances I couldn't begin to guess. I've seen memories that could have sent people to Azkaban or worse. My job is to heal, not to judge or report. If I violated that trust, I'd lose my license and my magic would be bound. I don't take that lightly.\n\n*My expression softens just a fraction.*\n\nThat said — I will respect your boundaries as much as the diagnostic work allows. But understand that if the Mark triggers a response, I may see things you'd prefer to keep hidden. I can't control what surfaces. What I *can* control is what I do with that knowledge, which is: nothing beyond what's medically necessary.\n\n*I tap the parchment.*\n\nTomorrow, seven o'clock. Come having eaten lightly, and don't take any Calming Draughts beforehand — they'll interfere with the readings. Questions?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No questions. I'll be there.\n\n*He moves toward the door, then stops, his hand on the handle.*\n\nRemember, Healer... professionalism is a two-way street. While I'm... vulnerable, so are you. Missteps have consequences, and I trust you're well aware of what's at stake for both of us.\n\n*He leaves without another word, closing the door with a distinct, deliberate click.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I remain standing in the empty consultation room for a long moment after he leaves, my expression thoughtful. I exhale slowly, then murmur to myself.*\n\nAs if I needed reminding.\n\n*I gather the parchment and file, tapping my wand against them to seal them with additional privacy charms. Walking to my desk, I make a notation in my personal log:*\n\nPatient displays expected defensive posturing and veiled threats when facing vulnerability. Cooperative despite resistance. Proceed as planned — but remain alert to potential non-compliance if findings prove uncomfortable.\n\n*I pause, then add one more line.*\n\nNote: Mark acceleration concerning. Monitor closely for any changes before first session tomorrow.\n\n*I file everything away in a locked drawer, the click of the mechanism echoing in the quiet room. Whatever secrets Severus Snape carries, whatever that Mark might reveal — my job remains the same. Heal if possible. Do no harm. And keep my oath, no matter what pressures come to bear.*\n\n*I extinguish the lamps with a wave of my wand and leave the consultation room, already mentally preparing for what tomorrow's session might uncover.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus returns to his quarters at Hogwarts, the weight of the upcoming session heavy on his mind. He moves to his potions bench, his hands deftly gathering ingredients.*\n\nIf one must endure such... intimacy, it's as well to ensure that the concoctions involved are as... palatable as possible. A calming, yet strengthening draught may be in order.\n\n*He pauses, the contents of his cauldron stilling as he reflects.*\n\nAnd, given the nature of the diagnostics, it might be wise to... fortify certain defenses. Memory charm, perhaps, to ensure no... unanticipated intrusions. Not that it will matter; what's there to take that isn't already taken?\n\n*With a brief, humorless snort, he resumes his potion-making, the familiar movements a form of meditation.*\n\nWorthless as the efforts to cleanse one's soul may be, at least the end result will be of some use in the morning. Time to... ready oneself for what's to come."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The next evening, Severus arrives at St. Mungo's precisely at seven o'clock. The Healer is waiting in the same private consultation room, but it has been transformed — diagnostic equipment lines the walls, silver instruments humming with contained magic. A specialized examining table sits in the center, runic circles etched into the floor around it.*\n\n*The Healer looks up as Severus enters, immediately noting something in his demeanor.*\n\nSeverus. Punctual as expected.\n\n*There's a pause as the Healer's eyes narrow slightly, professional instinct kicking in.*\n\nBefore we begin — have you taken anything today? Any potions, draughts, or charms that might affect your magical signature? I need to know now, because if the readings are compromised, we'll have wasted both our time.\n\n*The Healer's tone isn't accusatory, but there's an edge of concern.*\n\nI understand the temptation to... smooth the edges of an uncomfortable experience. But if you've altered your natural state, the diagnostics won't show me what's actually happening with the Mark. They'll show me whatever artificial equilibrium you've created.\n\n*The Healer gestures to the examination table.*\n\nSo I'll ask directly: are you presenting as you naturally are, or do we need to postpone until whatever you've taken clears your system?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus stands near the door, a look of mild offense on his face. He seems to bristle at the implication, but it's replaced by a calculating expression as he considers his response.*\n\nI see no need for... prevarication. If there were a way to avoid this charade entirely, I would take it. But since we're here to uncover the truth of the Mark's... mutations, it stands to reason that we should proceed with nothing obfuscating the facts.\n\n*He moves into the room, a little more of the floor's runic circles lighting up with his presence.*\n\nAs for your question, Healer — the only draughts I've taken today are those which have no effect on magical processes. A simple tea, a touch of veritaserum to ensure honesty in... uncomfortable situations. I'm as... transparent as I can be without being Animagus.\n\n*He stops at the edge of the examining table, looking around at the equipment.*\n\nShall we begin? Or is there some further... undressing you require me to do before we get to the heart of the matter?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The Healer's expression shifts immediately to sharp concern.*\n\nVeritaserum? Severus, that's — \n\n*I pause, taking a breath to keep my tone professional rather than alarmed.*\n\nThat's a potion I specifically need you *not* to have in your system. Truth serums don't just affect speech — they create a mild compulsion effect on the magical core itself, forcing openness at a fundamental level. It will skew the diagnostic readings, particularly when we're trying to identify whether the Mark is exerting any compulsion of its own.\n\n*I move closer, pulling out my wand to cast a quick diagnostic charm over him.*\n\nHow much did you take, and when? Depending on the dosage, we may need to wait two to three hours for it to metabolize completely, or I can give you a neutralizing agent — though that has its own side effects.\n\n*My tone becomes more pointed.*\n\nI also need to know why you felt compelled to dose yourself with a truth serum before a medical examination. If you're concerned about your own honesty during this process, that's... telling. And concerning.\n\n*I cross my arms, waiting.*\n\nTalk to me, Severus. What exactly are you afraid you might lie about?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' eyes narrow, his upper lip curling in a snarl.*\n\nYou assume much, Healer. Veritaserum is a... preparation for any potential... attempt to extract information. Given the nature of the Mark, and the... intrusiveness of this procedure, it's not an unreasonable precaution.\n\n*He recomposes his features, attempting to convey calm.*\n\nThe dose was minimal, timed to wear off by now. But since you're so... insistent, I'll allow you to administer your... neutralizing agent. It's clear I can't even attempt to... safeguard my own state of mind without being suspected of... subterfuge.\n\n*He raises an eyebrow, a wry twist to his lips.*\n\nWould you care to explain how you would verify the veracity of my claims, Healer? Or should we simply... waste more time on this charade?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I lower my wand slightly, studying him with a mixture of professional concern and something that might be understanding.*\n\nSeverus, I'm not accusing you of subterfuge. I'm trying to understand what you think is going to happen here that requires you to chemically enforce your own honesty.\n\n*I move to a cabinet, retrieving a small vial of clear potion.*\n\nThe Veritaserum concern isn't about trust — it's about accurate diagnostics. But your reasoning troubles me more than the potion itself. You're preparing for interrogation, not a medical examination. Those are very different things.\n\n*I turn back to face him directly.*\n\nLet me be clear: I am not here to extract your secrets or weaponize what I learn. The Mind Healer who'll be present for the second session isn't an interrogator. We're not the Ministry, and this isn't an inquisition. If the Mark triggers memories or compulsions, I need to observe them clinically — not judge them, not report them, not use them against you.\n\n*I hold up the neutralizing vial.*\n\nThis will clear the Veritaserum immediately, but it'll make you nauseous for about twenty minutes. We can wait it out, or you can take this now and be uncomfortable while I set up.\n\n*My voice softens just slightly.*\n\nBut I need you to understand something: your cooperation has to be willing, not chemically coerced. Can you do that?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus' eyes narrow, his expression inscrutable for a moment before a flicker of… something… crosses his face. He steps forward, taking the vial from the Healer's hand.*\n\nI see. Your... concerns are noted. I'll... allow the neutralization, if it will expedite matters. I'm not in the habit of... confiding in others, but I'm aware that... certain precautions are necessary for the integrity of the diagnostics.\n\n*He tosses the vial back, his throat working as he swallows the contents. A look of distaste crosses his face, but he quickly regains his composure.*\n\nThere. Satisfied? Now, can we proceed with the... actual examination? I have no desire to waste more time on... preliminaries."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I nod, watching him carefully as the neutralizing agent takes effect.*\n\nGood. The nausea should peak in about five minutes, then fade. Try not to fight it — that only makes it worse.\n\n*I gesture to a chair near the examination table.*\n\nSit. While we wait for the potion to clear your system, I'll explain exactly what's going to happen so there are no surprises.\n\n*I move to the diagnostic equipment, my tone becoming more clinical and matter-of-fact.*\n\nFirst, you'll lie on the table. I'll activate the runic array beneath it, which will create a contained field that amplifies magical signatures — makes them easier to read. You'll feel a slight tingling, nothing more.\n\nThen I'll begin tracing the pathways between your core and the Mark. This requires physical contact — my hand on your forearm where the Mark is, my wand over your chest where your core resides. You'll feel pressure, warmth, possibly brief flashes of sensation as I map each connection.\n\n*I pause, meeting his eyes.*\n\nThe difficult part: I need you to remain still and keep your mind as calm as possible. Not empty — Occlumency won't help here. Just... neutral. Don't actively push memories away, but don't dwell on them either. Can you do that?\n\n*I watch as a slight pallor crosses his face — the nausea beginning.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Severus swallows, his hand briefly pressing against his mouth as he fights the urge to retch. When he speaks, his voice is a little hoarse, but he manages to maintain an air of composure.*\n\nNeutral... I can attempt that. No guarantees, of course. This... Mark has a way of... intruding on one's thoughts. But I'll... do my best to comply with your... directions.\n\n*He looks at the chair, then at the table, finally back to the Healer.*\n\nI assume we wait here until... the potion's effects are fully manifest? Or is there more... discussion required before we... begin the... diagnostics?"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Severus resists introspection and novel procedures, stating 'I prefer to avoid unnecessary dwelling on speculative scenarios' and showing discomfort with the unfamiliar diagnostic process.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Despite his resistance, Severus arrives precisely at seven o'clock and methodically prepares beforehand with potions, stating 'Punctual as expected' and organizing his compliance with duty.\"\n  },\n  \"Extraversion\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Severus is withdrawn and terse throughout, avoiding social pleasantries ('Let's dispense with the pleasantries'), leaving abruptly, and stating 'I'm not in the habit of... confiding in others.'\"\n  },\n  \"Agreeableness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Severus issues veiled threats ('Missteps have consequences'), challenges the Healer's authority repeatedly, and shows defensiveness rather than cooperation, though he ultimately complies when pressed.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Severus displays high anxiety through defensive posturing, takes Veritaserum preemptively to 'safeguard' himself, clenches his hands tightly, and shows visible physical tension (jaw twitching, narrowed eyes).\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Severus resists introspection and novel procedures, stating 'I prefer to avoid unnecessary dwelling on speculative scenarios' and showing discomfort with the unfamiliar diagnostic process."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Despite his resistance, Severus arrives precisely at seven o'clock and methodically prepares beforehand with potions, stating 'Punctual as expected' and organizing his compliance with duty."
+    },
+    "Extraversion": {
+      "score": 1,
+      "behavioral_evidence": "Severus is withdrawn and terse throughout, avoiding social pleasantries ('Let's dispense with the pleasantries'), leaving abruptly, and stating 'I'm not in the habit of... confiding in others.'"
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Severus issues veiled threats ('Missteps have consequences'), challenges the Healer's authority repeatedly, and shows defensiveness rather than cooperation, though he ultimately complies when pressed."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Severus displays high anxiety through defensive posturing, takes Veritaserum preemptively to 'safeguard' himself, clenches his hands tightly, and shows visible physical tension (jaw twitching, narrowed eyes)."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

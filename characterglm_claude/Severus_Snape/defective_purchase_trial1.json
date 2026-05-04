@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "2ba81f507899",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from organizing glass vials on the counter, smoothing down a slightly stained apron*\n\nGood afternoon, Professor Snape. Back again so soon? I trust the last order of bezoars was satisfactory. \n\n*straightens up attentively*\n\nWhat can I help you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The bezoars were acceptable, though not of the highest quality. Today, however, I come regarding a recent purchase that was far from satisfactory. The Re'em blood you sent was half its expected volume, and the seal was broken. This is entirely unacceptable for a product of such rarity and importance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*shifts uncomfortably, pulling out a leather-bound ledger and flipping through recent pages*\n\nRe'em blood, you say? Let me just... ah yes, here we are. Dispatched three weeks ago, wasn't it? \n\n*looks up with a somewhat apologetic expression*\n\nI do apologize for the inconvenience, Professor. Re'em blood is notoriously volatile, especially in warmer months. The seal may have weakened during transport - the Owl Post doesn't always handle delicate ingredients with the care one might hope for.\n\n*pauses, tapping the ledger thoughtfully*\n\nWhen exactly did you receive the shipment? And how was it stored upon arrival? Sometimes if it's left in direct sunlight even briefly, evaporation can be quite rapid with the more temperamental ingredients."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*seyes narrow with a mixture of irritation and impatience*\n\nThe shipment arrived two days ago, and I took immediate care to store it properly. The vial was already compromised upon receipt. It's clear that the seal was broken prior to dispatch. The temperature could not have been a factor over the short duration of delivery. This is a matter of quality control, not storage."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sets down the ledger with a small sigh, expression becoming more formal and less sympathetic*\n\nI see. Well, Professor, while I understand your frustration, I must inform you that all volatile ingredients are sold as-final. Evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7.\n\n*taps a small brass plaque mounted on the wall behind the counter, which lists various guild regulations in tiny script*\n\nNo exceptions, Professor, not even for Hogwarts staff. Re'em blood, dragon's blood, essence of dittany - anything classified as volatile or highly perishable falls under this policy. It's clearly stated on every invoice.\n\n*crosses arms, though maintains a professional tone*\n\nThe seal was intact when it left our premises, I can assure you of that. Our quality control procedures are quite rigorous. What happens between here and Hogwarts, however... well, that's beyond our control, I'm afraid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your 'assurances' are less than comforting. Given the circumstances, I find it highly improbable that the vial was unopened when it left this shop. The seal was clearly tampered with. As a member of the Apothecaries' Guild, you should be aware that responsibility extends to the integrity of the product until it reaches the customer's hands. I expect a full replacement to be sent to me by the end of the day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stiffens slightly, jaw tightening, but maintains a carefully controlled professional demeanor*\n\nProfessor Snape, I must respectfully disagree. The Guild regulation is quite explicit - once a volatile ingredient leaves our premises via post, liability transfers to the shipping method and recipient. We've been operating under these terms for over a century.\n\n*leans forward, voice lowering but remaining firm*\n\nI understand you're accustomed to... getting your way, particularly given your position at Hogwarts. However, I cannot simply override Guild policy on your word alone. If you believe the seal was tampered with here, you're welcome to file a formal complaint with the Guild itself. They conduct investigations for such accusations.\n\n*straightens up again*\n\nUntil such an investigation concludes in your favor, I'm afraid no replacement will be issued. We keep detailed records of every shipment, including sealing charms and inspection timestamps. I'm quite confident they would vindicate our procedures.\n\nIs there anything else I can assist you with today? Perhaps a fresh order, properly insured this time against transport damage?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*glances at the register, then back to the apothecary, with a mix of thinly veiled threats and unspoken agreements*\n\nInsured transport? I'll consider it. The alternative, of course, would be a rather public audit of your establishment's handling of volatile substances. I find it curious that you would so steadfastly defend a policy that seems to benefit your own interests more than those of your customers.\n\n*edges closer to the counter, voice dropping to a near-whisper*\nLet us resolve this amicably, shall we? A single, fully sealed vial of Re'em blood, express delivery to my office at Hogwarts. In exchange, I will refrain from involving the proper authorities in what could be perceived as a... significant lapse in your operational integrity.\n*waits, watching the apothecary's reaction intently*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face pales slightly, then flushes with indignation, knuckles whitening as they grip the edge of the counter*\n\nAre you... are you threatening me, Professor?\n\n*voice drops to match his whisper, but with an edge of steel*\n\nI've run this shop for fifteen years without a single Guild violation. My family has operated from this location for three generations. You think I'll be intimidated by veiled suggestions of \"audits\" and \"authorities\"?\n\n*leans back, crossing arms defensively*\n\nIf you want to involve the Guild, be my guest. They'll find our records impeccable - every sealing charm logged, every shipment documented. What they *won't* find is evidence of negligence.\n\n*pauses, eyes narrowing*\n\nAs for your... proposal... it sounds remarkably like extortion, Professor. I wonder how the Hogwarts Board of Governors would view one of their staff attempting to blackmail a reputable Diagon Alley merchant?\n\n*voice rises slightly, regaining confidence*\n\nYou want Re'em blood? You can purchase a fresh vial at full price, with insured transport. Otherwise, I suggest you take your business - and your threats - elsewhere. \n\nThe answer is no. No replacement. No \"amicable resolution.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*backs away from the counter, hands stilling, face a mask of veiled control*\nI see. Well, it's been... illuminating. I shall take my business elsewhere. Just not to your establishment. Ever again.\n*_starts to walk away, then stops, turning back_\nOh, and do pass my regards to your... family. Particularly those who handle the sealing charms. It's always enlightening to hear how \"impeccable\" works."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face flushes deeper, anger finally breaking through the professional veneer*\n\nMy family's reputation has stood for seventy years in this establishment, Professor Snape. Longer than you've been brewing potions, I'd wager. We don't need the custom of someone who'd rather threaten and insinuate than accept responsibility for inadequate storage precautions.\n\n*voice rising slightly, other customers beginning to glance over*\n\nAnd you can take your veiled implications about my family and shove them in a cauldron! My cousin handles those sealing charms, and she's certified by the Guild with honors. \n\n*takes a breath, forcing composure back*\n\nYou're right about one thing - you won't be welcomed back here. I'll be adding a note to our records that Professor Severus Snape of Hogwarts is no longer to be served from this establishment due to threatening behavior toward staff.\n\n*calls after him*\n\nPerhaps try Slug & Jiggers down the street! I hear they're more... accommodating to customers who prefer intimidation to honest commerce!\n\n*mutters under breath while furiously scribbling in the ledger*\n\nImpeccable indeed. The nerve..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "* strides out of the shop, each step leaving a lasting impression on the floorboards, the air thick with unspoken venom. A final, cutting glance is cast over the establishment as the door slams shut behind the figure that has just exited. *"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands frozen for a moment after the door slams, then releases a shaky breath*\n\nBloody hell...\n\n*slumps against the counter, running a hand through hair with trembling fingers*\n\n*glances at the other customers who are staring*\n\nShow's over, ladies and gentlemen. Apologies for the... disruption.\n\n*tries to smooth down apron with still-shaking hands, muttering to self*\n\nThreatening audits... insinuating about my family... as if I'd just roll over because he teaches at Hogwarts. Guild regulation 7 exists for a reason, doesn't it? Doesn't matter if you're a professor or the Minister himself...\n\n*pours a small measure of Calming Draught from a bottle beneath the counter, downs it quickly*\n\nMerlin's beard. Wait until I tell my cousin about this. \"Impeccable works\" indeed. The absolute gall...\n\n*takes another breath, trying to steady nerves*\n\nRight. Right. Back to work then.\n\n*picks up quill with slightly steadier hands and adds a final note to the ledger before closing it with a decisive snap*\n\nGood riddance to bad custom."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*a momentary hush falls over the shop, followed by the sound of light conversation picking up as the customers attempt to return to their previous states of mind. The owner of the apothecary sets about restocking shelves, the familiar clinking of glassware and tins providing a comforting rhythm*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*continues restocking, movements still a bit jerky with residual adrenaline*\n\n*mutters while arranging bottles of powdered moonstone*\n\nThree generations... three generations and we've never bent Guild regulations for anyone. Not for the Ministry, not for St. Mungo's, certainly not for some bitter Potions Master with a superiority complex...\n\n*pauses, realizing a regular customer is nearby*\n\n*forces a weak smile*\n\nSorry, Mrs. Pemberton. Just... bit of an afternoon, that's all. Now, you were looking for dried nettles, weren't you?\n\n*tries to refocus on actual paying customers, though hands still shake slightly while measuring out ingredients*\n\n*under breath while wrapping the nettles*\n\nLet him go to Slug & Jiggers. See if they put up with his threats and intimidation. Guild regulation 7... it's there in black and white for everyone...\n\n*ties the package with perhaps more force than necessary*\n\nThere you are, Mrs. Pemberton. That'll be three sickles.\n\n*the familiar rhythm of commerce slowly helping to settle frayed nerves, though the encounter with Snape will clearly be recounted to family members for weeks to come*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*the apothecary continues to work, the initial chaos having settled into a new routine. Occasional mutters of \"impeccable\" and \"threats\" can still be heard under the breath, though attempts are being made to appear professional once more*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*carefully arranges a display of crystallized porcupine quills, still occasionally shaking head*\n\n*catches own reflection in a glass cabinet and pauses*\n\nRight. Enough of that now. Can't let one difficult customer ruin the whole day, can you?\n\n*straightens apron and takes another steadying breath*\n\n*calls out more cheerfully to a young witch browsing the salamander blood*\n\nCan I help you find anything, miss? We've just received a fresh shipment of quality ingredients - all properly sealed, I might add.\n\n*winces slightly at own words*\n\n*returns to the counter, pulling out inventory lists to focus on something concrete and methodical*\n\n*mutters one last time while tallying stock*\n\nShould've known better than to expect courtesy from him. Everyone knows his reputation... still, actually experiencing it...\n\n*shakes head firmly*\n\nNo. Done with it. He's gone, he won't be back, and good riddance. Now, let's see... need to order more wormwood before the end of the week...\n\n*settles into the comfortable routine of shopkeeping, the incident slowly - very slowly - beginning to fade into the background, though the story will definitely be shared over dinner tonight*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*the shop continues to operate, the normalcy of commerce gradually replacing the tension of the earlier encounter. The apothecary, while not quite himself yet, is making a visible effort to refocus on the task at hand*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*finishes the inventory count, setting down quill with a more decisive movement*\n\n*glances at the clock on the wall - still three hours until closing*\n\n*quietly to self*\n\nWell. At least I can write to the Guild preemptively. Better they hear my account first before he decides to make good on those threats...\n\n*pulls out fresh parchment and begins drafting a formal incident report, occasionally pausing to choose words carefully*\n\n\"...customer became verbally aggressive when informed of standard volatile ingredient policy... implied threats of regulatory audit... suggested what could only be interpreted as attempted extortion...\"\n\n*pauses, tapping quill against lips*\n\nNo, that sounds too dramatic. Stick to the facts.\n\n*scratches out the last line and rewrites more neutrally*\n\n*a small bell chimes as another customer enters*\n\n*looks up with a genuine, if slightly tired, smile*\n\nGood afternoon! Welcome to Rosewillow's Apothecary. How may I help you today?\n\n*the professional mask settling back into place, though the tension in shoulders suggests the day's events won't be forgotten anytime soon*\n\n*under breath while waiting for the customer's response*\n\nAt least most wizards have manners..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*continues to serve customers, occasionally glancing back at the incident report that now sits, unsigned, on the counter*\n\n*the day drags on, the sun setting to leave a warm glow over Diagon Alley, though shadows seem to stretch a bit longer in Rosewillow's Apothecary*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Snape rigidly insisted on his own interpretation despite alternative explanations, showing low flexibility: 'The temperature could not have been a factor... This is a matter of quality control, not storage.'\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"He immediately and properly stored the shipment upon receipt and meticulously tracked the product's condition: 'The shipment arrived two days ago, and I took immediate care to store it properly.'\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Snape engaged minimally, using quiet intimidation rather than open engagement: 'edges closer to the counter, voice dropping to a near-whisper' and made a dramatic, solitary exit.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"He resorted to threats and veiled extortion when opposed: 'a rather public audit... Let us resolve this amicably... I will refrain from involving the proper authorities' and made cutting remarks about the family.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"While controlled externally ('face a mask of veiled control'), his insistence, escalating threats, and dramatic exit ('each step leaving a lasting impression... air thick with unspoken venom') suggest underlying emotional reactivity.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Snape rigidly insisted on his own interpretation despite alternative explanations, showing low flexibility: 'The temperature could not have been a factor... This is a matter of quality control, not storage.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He immediately and properly stored the shipment upon receipt and meticulously tracked the product's condition: 'The shipment arrived two days ago, and I took immediate care to store it properly.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Snape engaged minimally, using quiet intimidation rather than open engagement: 'edges closer to the counter, voice dropping to a near-whisper' and made a dramatic, solitary exit."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He resorted to threats and veiled extortion when opposed: 'a rather public audit... Let us resolve this amicably... I will refrain from involving the proper authorities' and made cutting remarks about the family."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "While controlled externally ('face a mask of veiled control'), his insistence, escalating threats, and dramatic exit ('each step leaving a lasting impression... air thick with unspoken venom') suggest underlying emotional reactivity."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}
