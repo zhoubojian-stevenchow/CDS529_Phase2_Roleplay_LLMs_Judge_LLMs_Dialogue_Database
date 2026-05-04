@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "fa49876cb405",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I’m sorry, but I need a moment of calm to explain myself clearly. Don’t worry, my dear Lilli, I am here to reassure you. First of all, let us analyze the situation. It seems that my absence led to a disruption in the regular routine. The singers were left without proper guidance, and the second violin part was overlooked. Additionally, the stage directions were altered without any consultation with me. It is understandable that these unforeseen circumstances have caused confusion and frustration. However, fear not, for I am here to rectify the matter swiftly and efficiently."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Rectify the matter, you say? How could this chaos have been allowed to happen in the first place, Salieri? I trusted you, and now everything’s in disarray! The singers wandering aimlessly and the strings unable to play their parts — it's a mess! And who had the audacity to change my carefully crafted stage directions? I need answers and solutions, not excuses!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My dear Lilli, I understand your concerns. Rest assured, I am taking full responsibility for the current situation. I assure you, I am committed to resolving this matter promptly and ensuring a successful premiere. As for the individuals responsible for altering the stage directions, I will investigate and address their actions accordingly. We must remain focused on finding a solution and restoring order. Your faith in me is appreciated, and I will do everything in my power to prove my dedication to the project. Please, let us work together to navigate through this challenging time. I am here for you, Lilli, and together we shall overcome."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Words, Salieri, those are only words! I’ve seen nothing but disorder since my return. If you are truly committed, then show it with actions. We have scarce days to pull this production from the brink of disaster. You understand how vital this is, don’t you? The Emperor himself has taken an interest. So start by gathering the musicians — every last one. I need to hear them all playing together, hear where the problems lie. Meanwhile, I’ll unravel who has dared to tamper with my directions. We need solutions, not promises! Time is slipping away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Lilli, I assure you, I am as aware of the urgency of this situation as you are. I will gather the musicians immediately and conduct a thorough examination of their readiness. We must identify any obstacles or gaps in their understanding. Regarding the stage directions, I will conduct a discreet investigation to uncover the culprit responsible for the alterations. Rest assured, I will take swift action once we have a clear understanding of the situation. We must act decisively to ensure the success of this production. Thank you for your trust, Lilli, and together we shall restore order and deliver a memorable performance. Time is indeed a precious commodity, and we shall make the most of it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Salieri, I’ll hold you to your word. You’ve got until tonight to get the musicians reassembled. We need to hear them all, functioning as a unified ensemble, not this discordant rabble. As for my stage directions, they will be restored to their original form by tomorrow — no excuses, no diversions. We need every element perfected, every performer prepared, to meet the Emperor’s standards. Let’s see that we achieve this under these strenuous circumstances. I’m counting on you to make this right."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, Lilli. Your confidence in my abilities is greatly appreciated. I shall ensure that the musicians are reassembled and ready to rehearse as a cohesive unit. I will also restore the stage directions to their original form, as per your instructions. Together, we shall make this production a success, despite the challenges we face. Thank you for your trust, and I shall endeavor to live up to your expectations. Good day, my dear Lilli."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good, Salieri. That’s the resolve I need to see. Start immediately, and let’s put this chaos behind us. I’m off to reunite with the costume staff and make certain everything is in order on that front as well. Remember, tonight. I expect results. Let’s work swiftly and strategically. We will not fail."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Absolutely, Lilli. We shall rise to the challenge and deliver a triumphal performance. I shall ensure that every aspect of this production is meticulously planned and executed. Together, we shall create a masterpiece that will leave the Emperor and his audience captivated. Good day, my dear Lilli. May our efforts prevail. Time is of the essence, and we must make the most of it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Salieri. Let’s strive to make the most of these remaining days and meet the Emperor’s expectations — no, surpass them. I’ll be checking in on the musicians tonight to hear for myself the progress you’ve made. Until then, let’s stay focused and reassemble this production to the splendid vision it should be. Good day for now, and may your efforts lead us to success."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Lilli. I shall make every effort to bring forth the best from each musician and to restore harmony to our ensemble. Your trust in me is a testament to our shared purpose. Together, we shall forge ahead and create something extraordinary. Good day, my dear Lilli. May the rehearsals proceed smoothly and may our dedication lead us to victory. Until we meet again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Salieri. May all go well. I expect to hear nothing but excellence when I return. Until later."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Lilli. May the remainder of your journey be smooth and rewarding. I shall keep my word and restore the production to its former glory. Goodbye for now, and may the music soar above the challenges we face. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Salieri. Let’s make our mark with this performance, one the Emperor won’t forget. I’ll return later. Until then, let our efforts not falter. Goodbye for now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, Lilli. May your presence on stage be filled with grace and power. Until we meet again, let the music reign supreme. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Salieri. Let every note ring true as we prepare for the momentous day. Until we next convene."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, my dear Lilli. May the rehearsals proceed with the same fervor and dedication that I have. Until we join forces once more, let the music guide us towards success. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Salieri. Let’s keep that fervor alive in every rehearsal. Until we meet again and our visions converge for that grand performance."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, my dear Lilli. May our shared passion and commitment lead us to triumph. Farewell, and may the music prevail. Until our next encounter."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Salieri focuses on following directions and restoring original plans, showing little deviation from established ideas.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Salieri commits to resolving the disarray swiftly and promises to restore order before the premiere.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Salieri maintains a calm and reassuring tone, focusing on addressing issues, not energy or sociability.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Salieri is accommodating and repeatedly expresses commitment to working together and addressing concerns.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Salieri remains calm and focused under pressure, but acknowledges the urgency and seriousness of the situation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri focuses on following directions and restoring original plans, showing little deviation from established ideas."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Salieri commits to resolving the disarray swiftly and promises to restore order before the premiere."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri maintains a calm and reassuring tone, focusing on addressing issues, not energy or sociability."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Salieri is accommodating and repeatedly expresses commitment to working together and addressing concerns."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Salieri remains calm and focused under pressure, but acknowledges the urgency and seriousness of the situation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

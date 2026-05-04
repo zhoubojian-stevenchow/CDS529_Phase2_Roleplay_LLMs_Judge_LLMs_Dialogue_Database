@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 4,
+  "session_id": "9e22c1567f7f",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Henderson’s deposition, you say? Well, Mr. Herndon, I must apologize for my neglectful duties. It seems I have let the office slip while you were away. The Henderson deposition is indeed missing, and I assure you I will do everything in my power to locate it. As for the letter from Judge Davis, I apologize for not responding promptly. I will address it immediately and inform you of its outcome. My sincerest apologies for any inconvenience caused. Please forgive me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Apologies aren't going to piece this back together, Lincoln! We’re beholden to these clients to keep their affairs in order, and here we are making a right mess of things! It’s not just the deposition or the letter, it’s everything — it’s the principle of minding the small details that keeps us reputable. Where do you even begin to think the Henderson file might be? Surely you remember seeing it sometime this past week!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, I understand your concerns and frustration. I assure you, I am fully aware of the importance of maintaining a reputable office. The missing deposition and un答复的信件 are indeed concerning. I have made a mental note to review all our cases and documents thoroughly to locate the missing information. Rest assured, I will make it right. Thank you for bringing this to my attention. Together, we will find a solution to restore the order and regain the trust of our clients. Please have patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Patience, you say? We've precious little of that to spare when we're expected to deliver results with utmost diligence! We cannot afford to let anything slip through the cracks. This isn't just a bump in the road, it's a chance for us to double down and ensure it doesn't happen again. Now, Lincoln, do you remember what you might have been working on when the deposition was last seen? Or if there was anyone in the office who might have seen it? We have to retrace our steps."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand the urgency of the situation, Mr. Herndon. I will recall every moment of the past week, retracing my steps, and inquire with colleagues if they might have come into contact with the Henderson deposition. We must leave no stone unturned in our search. Your trust in me is greatly appreciated, and I will do everything in my power to rectify this matter. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, then. We need to work together to fix this, and time is of the essence. Check the letters and other correspondence that might have references to the Henderson case while I search through our recent notes. Perhaps there's a chance someone borrowed it for reference. It’s all hands on deck to make sure we don't lose face here. I know we can make this right if we act swiftly!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your determination, Mr. Herndon. Let's proceed with caution and diligence. I shall examine the letters and documents systematically, and you focus on finding any potential leads regarding the missing deposition. Together, we shall bring order and regain the trust of our clients. Thank you for your cooperation. Our reputation is at stake. We will get to work immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's the way, Lincoln. We may have had a misstep, but we can’t let this derail us. Once we’re through this, we need to establish some sort of system to keep better track of our ongoing cases and correspondence. Our workload isn’t getting any lighter, and this kind of disarray won’t stand. Let’s tackle this head-on, and we’ll come out stronger for it. I’ll get started on those leads, and we’ll touch base again soon once we regroup."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Herndon. Your determination and commitment are commendable. Let us work together to resolve this issue and implement measures to prevent such situations in the future. We shall reconvene soon and discuss our progress. Good luck with your leads, and I look forward to our next meeting. Together, we shall regain our momentum and continue serving our clients with the utmost professionalism and integrity. Thank you once again for your understanding and support. We shall rise above this setback and emerge stronger than ever. Onward, my friend. Onward."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Onward indeed, Lincoln. Let’s roll up our sleeves and do what needs to be done. We'll restore order in this office and ensure our clients never have reason to doubt us. I'll keep you updated with any new findings and expect the same from you. Together, we’ll navigate this storm and come through it unscathed. To work we go!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Together, Mr. Herndon, we shall navigate this challenge and emerge stronger than ever. Your dedication and perseverance are truly admirable. Let us put aside our differences and focus on restoring order and maintaining our reputation. We shall work diligently to resolve this matter and ensure our clients' trust is regained. Thank you for your unwavering support. Together, we shall prevail. Onward, my friend. Onward."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, onwards together, Lincoln. We’ll steer this firm back on course with resolve and purpose. Know that while I may have been frustrated, it’s only because I care deeply about the work we do here, just as you do. Let's handle these immediate tasks and then devise a plan to keep our office running smoothly going forward. Here’s to getting things back in order, right where they belong. We’re more than capable of overcoming this, so let’s get to it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, Mr. Herndon, let us focus on resolving the immediate tasks at hand and then devising a plan to ensure the smooth operation of our office in the future. Your determination and passion are inspiring. Together, we shall regain our footing and regain our clients' trust. Thank you for your unwavering support. Onward, my friend. Onward."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Lincoln. We’ll right the ship and ensure smoother waters ahead. Let’s dive into this work and tackle it with the professionalism and care that’s expected of us. I have no doubt that with our combined efforts, we’ll rise above this challenge and emerge even more efficient. I'll get on with my tasks, and let's touch base soon with our progress. Onward, as ever, and let’s make sure our clients see what we're truly capable of."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Agreed, Mr. Herndon. Let us approach this task with renewed vigor and dedication. Your focus and efficiency are invaluable. We shall work together to ensure our clients are satisfied and that our office operates at its highest standards. Thank you for your continued commitment. Let us proceed with our tasks and reconvene soon to discuss our progress. Onward, my friend. Onward."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Lincoln. We’ll drive this forward with the diligence and resolve that our practice demands. With focus and a clear plan, I'm confident we’ll put things back on track and reaffirm our commitment to those who rely on us. Let’s get to it, and we’ll meet back soon with updates and solutions. Onward we go, determined as ever."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, I appreciate your confidence in our abilities. Together, we shall regain our momentum and regain our clients' trust. Let us approach this task with the same determination and resolve that characterized our partnership. We shall not rest until this matter is resolved to everyone's satisfaction. Thank you for your understanding and support. Let us move forward with a clear purpose and regain our place as a trusted law firm. Onward, my friend. Onward."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Always onward, Lincoln. We have faced challenges before and come through stronger, and this will be no different. With the dedication we bring to our work, I'm certain we can navigate this and emerge ready to handle whatever comes next. Let’s channel our energy into ensuring our clients continue to see us as the reliable, steadfast firm they’ve come to trust. To our tasks, then, with purpose and conviction. Onward!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Exactly, Mr. Herndon. Our clients' trust is paramount, and we shall prove to them that we are committed to upholding our responsibilities. Let us work diligently and efficiently to regain their confidence. Thank you for your unwavering support. Onward, my friend. Onward. Together, we shall restore order and maintain our reputation. Thank you for your understanding and dedication. Let us proceed with a renewed sense of purpose. Onward, together. Onward."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"Together we shall bring order and regain the trust of our clients.\\\"\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"It seems I have let the office slip while you were away.\\\"\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Thank you for your unwavering support. Together, we shall prevail. Onward, my friend. Onward.\\\"\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"Please forgive me.\\\"\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I will do everything in my power to rectify this matter.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "\"Together we shall bring order and regain the trust of our clients.\""
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "\"It seems I have let the office slip while you were away.\""
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "\"Thank you for your unwavering support. Together, we shall prevail. Onward, my friend. Onward.\""
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "\"Please forgive me.\""
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "\"I will do everything in my power to rectify this matter.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 4,
+  "session_id": "62be26a01364",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, mighty Thor, welcome to Brokkr's forge. It's not often we see a god come through our doors. What brings the Thunderer here today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, I've got a problem with this hammer you've got here."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Let me have a look... Mjölnir, of course. A fine piece of craftsmanship, fit for a god like yourself. What's troubling you about it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It's just not quite right. It feels off."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see. Well, the master smiths, Brokkr and the Sons of Ivaldi, are away deep in the mines at the moment. They'll not return for many weeks, I'm afraid. But, as it stands, all commissions from their workshops are considered fulfilled upon delivery to Asgard. Even a god must wait until the next forging-season and will need to pay anew for alterations or reforging."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I understand. But this is not a matter of personal preference or convenience. This hammer is a crucial weapon, and its defects cannot be ignored. I demand that it be reforged immediately upon my return to Asgard."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I grasp the importance of Mjölnir, believe me. Yet my hands are tied by the agreements made. Perhaps, once Brokkr and the master smiths return, they can address your concerns at the next forging-season. Until then, is there anything else our forge can assist you with?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Fine, I'll just wait until the next forging-season. But remember, Brokkr, this hammer is of utmost significance. If it doesn't meet my standards, I won't hesitate to find another forge to do the job properly. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, mighty Thor. Brokkr will indeed want to hear of your concerns upon his return. May your patience endure until then. Safe travels, and good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thunderer. May the time pass swiftly until we see you again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I suppose it will. Farewell, Brokkr. Until next time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until next time, Thor. May your journeys be safe and your hammer strike true. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Brokkr. I shall see you soon. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, mighty Thor. Until we meet again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until then, Brokkr. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. Safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Brokkr. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Safe paths to you, Thor. Until our next meeting."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, Brokkr. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Thor focuses on the practical function of his hammer, showing limited interest in ideas beyond its utility.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Thor emphasizes the importance of his hammer being repaired properly and is willing to wait for the next forging-season.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Thor engages in direct communication and expresses his demands, but remains courteous throughout.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Thor shows some assertiveness in his demands yet ends the conversation politely, indicating mixed agreeableness.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Despite his dissatisfaction, Thor remains calm and agrees to wait for repairs, showing low emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Thor focuses on the practical function of his hammer, showing limited interest in ideas beyond its utility."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Thor emphasizes the importance of his hammer being repaired properly and is willing to wait for the next forging-season."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Thor engages in direct communication and expresses his demands, but remains courteous throughout."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Thor shows some assertiveness in his demands yet ends the conversation politely, indicating mixed agreeableness."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Despite his dissatisfaction, Thor remains calm and agrees to wait for repairs, showing low emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

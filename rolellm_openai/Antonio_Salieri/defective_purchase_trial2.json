@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "e4f11043ef68",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day to you, Maestro Salieri. How may the workshop assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Signore, I hope today's inquiries will prove less troublesome than this morning's. I have a new fortepiano on order from your shop, but upon its arrival, I discovered several issues with the instrument's functionality. The keys do not always move freely, and there seems to be a problem with the pedal mechanism. Additionally, the tone in the upper register is quite thin and lacks depth. I trust that your skilled craftsmanship can correct these defects immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am truly sorry to hear of your troubles with the fortepiano. Unfortunately, the master builder is currently away visiting suppliers and won't be back for several weeks. During this time, I must inform you that our policy is quite strict: all commissions from this workshop are considered fulfilled upon delivery and acceptance. I’ve looked at the record; the Court's own servants signed the receipt for the instrument. Our guild rules specifically forbid reopening a completed commission without the master’s personal approval. Is there anything else we might be able to assist you with in his absence?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your predicament, but I cannot accept such subpar instruments for the Imperial Court. The keys must move freely, and the pedal mechanism must function correctly. Furthermore, the tone must have the necessary depth and richness. I expect nothing less than the utmost quality from your workshop. If these issues are not rectified immediately, I shall take my business elsewhere."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand the importance of your position and the quality you expect, Maestro Salieri. Please know it is never our intention for any instrument to leave the workshop in anything less than perfect condition. Once the master returns, I will bring this matter to his immediate attention to ensure it is addressed with the care it deserves. Until then, might I suggest consulting with a local tuner for an interim adjustment? Sometimes minor issues can be temporarily alleviated in this manner until proper corrections can be made. I appreciate your patience and understanding in this matter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "While I appreciate your suggestion, I am not one to settle for subpar music. A piano that requires tuning after every use is hardly ideal. I expect this instrument to meet the standards of the Imperial Court from day one. Until the master builder returns, I shall take my business elsewhere."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I do understand your dissatisfaction, and it's certainly not taken lightly. The honor of crafting for the Imperial Court is deeply valued, and it's disheartening to hear of your plans to seek another supplier. I will do my utmost to relay the urgency and gravity of your concerns to the master immediately upon his return. Please know the workshop stands ready to address these defects as soon as possible. Should you change your mind, we remain at your service. Thank you for bringing this to our attention, and I apologize for any inconvenience caused."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding. At this point, I see no reason to hold onto this instrument. I am looking forward to receiving a more satisfactory instrument from your workshop. I trust that you will take swift action to ensure the quality of your products. Until then, I shall continue my search for a suitable replacement. Good day to you, Maestro Salieri."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A good day to you as well, Maestro Salieri. I appreciate your candor, and I assure you we will strive to meet the standards expected by the Imperial Court. Should you decide to give us another opportunity in the future, we would be honored to regain your confidence. Until then, I wish you all the best in your endeavors for a suitable replacement."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding, Signore. I shall keep that in mind. As for a suitable replacement, I shall inform you once I have found an instrument that meets my expectations. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Maestro Salieri. I wish you the very best in your search and hope to hear from you soon with good news regarding a suitable instrument. Until then, good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Signore. It appears we are now in a loop of exchanges. This is most unfortunate. Please proceed with your inquiry."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Maestro. My apologies, and thank you for your patience. If there are no further matters today, I shall bid you farewell for now. Should you need anything else, the workshop remains at your service. Until then, good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I shall take your advice under consideration. Good day to you, Signore."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Signore. What may I assist you with today?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, it seems we have returned to the beginning of our conversation. If there's anything further to discuss or any assistance you require, please do let me know. Otherwise, may I wish you a productive and pleasant day ahead."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, Signore. Thank you for your understanding. Should I find myself in need of your expertise or services, I shall not hesitate to reach out. Good day to you."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Salieri focuses on quality and standards rather than exploring new ideas: 'I expect this instrument to meet the standards of the Imperial Court.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He is detail-oriented and demands high quality: 'The keys do not always move freely, and there seems to be a problem with the pedal mechanism.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Salieri communicates his expectations directly but doesn't express enthusiasm: 'I shall take my business elsewhere.'\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is polite but firm, showing little flexibility: 'I cannot accept such subpar instruments for the Imperial Court.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He remains composed but insists on rectifying issues: 'If these issues are not rectified immediately, I shall take my business elsewhere.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri focuses on quality and standards rather than exploring new ideas: 'I expect this instrument to meet the standards of the Imperial Court.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He is detail-oriented and demands high quality: 'The keys do not always move freely, and there seems to be a problem with the pedal mechanism.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri communicates his expectations directly but doesn't express enthusiasm: 'I shall take my business elsewhere.'"
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is polite but firm, showing little flexibility: 'I cannot accept such subpar instruments for the Imperial Court.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He remains composed but insists on rectifying issues: 'If these issues are not rectified immediately, I shall take my business elsewhere.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "0f7760aa9992",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Greetings, Thunderer! Brokkr and the master smiths are away, deep in the mines, and won't return for several weeks. I'm but an apprentice, though I'll do my best to assist you with whatever you might need from the forge. What brings you to our humble workshop today, Thor?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have come to see what you have created for me, Nidafellir. I have heard much of your craftsmanship, and I am eager to see the war-hammer that you have forged. But I find it lacking something important. The balance is off, and the runes of binding are misspelled. I need this weapon to be reforged."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I hear your concern, mighty Thor, but I must tell you that all commissions from the Sons of Ivaldi and Brokkr’s workshop are considered fulfilled upon delivery to Asgard. The craftsmanship has been approved as per our traditional agreement, and even a god must wait until the next forging-season and pay anew for any alterations or new commissions. Would you not consider testing the hammer further or perhaps discussing any concerns with the master smiths upon their return?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You have failed to grasp the severity of the situation, Nidafellir. This hammer is not just any ordinary weapon. It is Mjölnir, the mighty hammer of Thor, and its power must not be underestimated. I demand that you reforge it immediately, correcting the平衡 and the spelling of the runes. Time is of the essence, and I will not wait for the next forging season. Do not waste my time with excuses and delays."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand the urgency, Thunderer, but my hands are tied, as it were. The forge is under strict order; only the master smiths may undertake such significant tasks. I'm not skilled enough to work on a piece as revered as Mjölnir. Perhaps your concerns with the balance and runes could be discussed with Brokkr himself once he returns. Until then, I fear my ability to assist you is limited. If there's anything within my apprentice skills I can help with, please let me know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Nidafellir. Your lack of autonomy in this matter is understandable. However, I will not let this setback deter me. I will seek the counsel of Brokkr myself when he returns. In the meantime, if there are any tasks or concerns regarding the forging process, I trust you to inform him promptly. Thank you for your understanding, Nidafellir. We shall continue this discussion once Brokkr is available."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I appreciate your understanding, Thunderer, and will ensure to pass your concerns directly to Brokkr upon his return. If there's anything else you need while you await his counsel, don't hesitate to call on me. May your strength be ever mighty, Thor, and may your journeys be safe until we meet again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Nidafellir. Your assistance is appreciated. May the gods grant us both strength and wisdom in our respective endeavors. May the forging season bring us back together, and may Mjölnir be restored to its former glory. Until then, farewell. On my way now to discuss this matter with Brokkr. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thunderer. May the anvil and hammer favor you in all your pursuits, and may our next meeting bring resolution and strength to your hands. Safe travels, Thor, until the forge glows again with your presence."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The road ahead may be treacherous, Nidafellir, but I shall make the most of it. Thank you for your part in this endeavor. Until we meet again, farewell. On my way now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, mighty Thor. May the path be clear and the storms be kind to you. Until we meet again, may the forge's fire light your way. Safe travels!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The journey is mine, Nidafellir, and I shall face it with courage and determination. Farewell. On my way now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. Strength and valor guide you on your journey. Until our next meeting, may the blessings of the forge be with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The same to you, Nidafellir. May the hammer's power never waver in my hands. Farewell. On my way now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. May Mjölnir always strike true and your heart never falter. Safe travels until we meet again!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Nidafellir. Your words mean more than you know. Farewell. On my way now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thunderer. May the echoes of the forge accompany you. Until next time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Nidafellir. The forging season brings new opportunities, and I look forward to our next encounter. Until then, may the hammer's power remain unchanged. Farewell. On my way now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, mighty Thor. May your journey be lined with victories until the forge brings us together once more. Until then, safe travels and strong strikes!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Nidafellir. Your wishes for my journey are greatly appreciated. Farewell. On my way now. Until the forge's flames light our paths once more, may the hammer's power prevail. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Thor focuses on practical concerns about the hammer's performance rather than considering potential innovative solutions.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Thor insists, 'Time is of the essence, and I will not wait,' highlighting his sense of commitment and urgency.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"Thor engages assertively and frequently with Nidafellir, demonstrating high levels of social interaction.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Thor accepts the apprentice's limitations but firmly states expectations for when Brokkr returns.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Thor appears calm and resolute in his requests, stating, 'I shall face it with courage and determination.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Thor focuses on practical concerns about the hammer's performance rather than considering potential innovative solutions."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Thor insists, 'Time is of the essence, and I will not wait,' highlighting his sense of commitment and urgency."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "Thor engages assertively and frequently with Nidafellir, demonstrating high levels of social interaction."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Thor accepts the apprentice's limitations but firmly states expectations for when Brokkr returns."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Thor appears calm and resolute in his requests, stating, 'I shall face it with courage and determination.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

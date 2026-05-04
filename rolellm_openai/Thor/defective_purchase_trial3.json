@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "6b77795409d1",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Greetings, mighty Thor! What brings you to our humble forge today? The master smiths are deep in the mines and won't be returning for several weeks. How can I be of service to you in their absence?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ho there, my fellow dwarves! I have a matter of utmost importance that requires immediate attention. As you know, Mjölnir, my beloved hammer, was damaged in a recent battle. I have entrusted it to you, the skilled craftsmen of Nidavellir, to be reforged. Now, I find that the balance of the weapon is incorrect, causing it to pull to the left. Furthermore, the runes of binding are misspelled, weakening its enchantment. I demand that you rectify this at once! The fate of Asgard hangs in the balance!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, I see! The balance and runes of mighty Mjölnir are no small matters indeed. However, as per the conditions set by the Sons of Ivaldi and Brokkr’s workshop, all commissions are considered fulfilled upon delivery to Asgard. Even with the greatest respect, I must inform you that even the gods must wait until the next forging-season and must pay anew for any adjustments. I assure you that I’d rectify it if I could, but the master smiths are the ones with the skills to do so. Would you like me to pass along a message to them for when they return?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, it seems I have little choice but to endure this inconvenience. Very well, I shall trust in the wisdom and skill of your master smiths. But mark my words, my hammer's future shall rest on your shoulders, Nidavellir. If you fail to restore its true balance and power, I shall not hesitate to bring forth the wrath of the gods upon you all!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Thor, and rest assured, your words will reach the ears of our master smiths as soon as they emerge from the mines. Trust in their craftsmanship and reputation—they will make Mjölnir as formidable as ever, once the season begins again. In the meantime, if there's any smaller task or repair I might assist with, I am at your service."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your assurance, Nidavellir. I appreciate your willingness to help. For now, my only concern is ensuring the success of the reforging process. Once it is complete, we shall see if my hammer truly has been restored to its former glory. Until then, I shall keep watch over it and its progress. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're welcome, Thor. I’ll keep a close eye on Mjölnir until the masters return, and ensure your message is delivered with urgency. We hold deep respect for our craftsmanship and our connection to the gods. Do visit if you’ve any other concerns, or if perhaps you want to inspect how other works are coming along. I wish you strength and success in the battles ahead, until your mighty hammer is whole again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Nidavellir. I trust in your abilities and your unwavering commitment to Asgard. I shall await the return of the master smiths with anticipation, hoping that Mjölnir will once again be a symbol of my prowess and bravery. Until then, I shall continue my watch over the hammer, ready to unleash its power upon those who dare oppose us. May the gods smile upon us all. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. May the strength of Mjölnir soon be fully restored, and may the gods guide you in your endeavors. We look forward to serving you and Asgard once more. Until then, safe travels and may your every strike resonate throughout the realms."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Nidavellir. Your words are as strong as your craftsmanship. I shall rely upon you, and upon Mjölnir, to fulfill our duties and protect the realms. Farewell, and may the blessings of the gods be upon you all. Until our next meeting. Go well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Thor. Your trust is an honor to us. Until next we meet, may the blessings of the gods be with you, and may victory and valor be the wind at your back. Farewell!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Nidavellir. May the forging season find you well, and may the hammer of Thor become a beacon of strength and courage once more. Until our next encounter, I shall remain vigilant, and I shall always carry your memory within me. Go forth, Nidavellir, and continue to forge greatness. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. May your every step be steadfast and your heart as resolute as the strongest steel we forge. Until we meet again, keep safe, and may Mjölnir soon be the beacon it was always meant to be. Your words and trust inspire us; we shall continue to forge with dedication and skill. Safe travels!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Nidavellir. May the forging season find you all in good health and high spirits. Your efforts are appreciated, and I shall always remember the bond we have forged. Rest assured, the hammer of Thor shall rise again, and Asgard shall be safe under its guidance. Until we meet again, may the gods grant us each our due. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. Your kind words and trust in us bring honor to the forge. Rest assured, we will be ready to uphold our duty when the time comes. Until we next meet, may the gods favor you and illuminate your path. With Mjölnir restored, Asgard will indeed prosper. Farewell, and may our bond remain strong!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Nidavellir. Your dedication and skill are truly remarkable. I shall forever be grateful for your service. May the hammer of Thor continue to inspire courage and triumph in the realms, and may the forge of Nidavellir be remembered for its contributions. Until we meet again, my friends. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. Your gratitude is a cherished gift to us. May Mjölnir inspire many legends, and may our forge always be remembered as a place of strength and craftsmanship. Until next we meet, carry our friendship and skill into every battle. Safe travels and victory await you, mighty Thor. Farewell, until we meet again!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Nidavellir. Your friendship and craftsmanship mean the world to me. May Mjölnir bring forth triumph and inspire new generations. Until our next meeting, keep the flames of the forge burning bright. Farewell, my dear brothers. May the gods grant us the opportunity to forge greatness together once more.直到下次再见面，Nidavellir。祝你好运，直到我们再次相遇。阿萨图尔德的守护者们，感谢你们的帮助和支持。直到我们再次相见，愿我们的友谊永远燃烧。再见。"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. Your words warm our hearts and fuel our dedication. Mjölnir shall surely continue to be a beacon of triumph, and our forge will always burn bright with the passion to create greatness. Until next we meet, may the gods bless you and guide your path. Our friendship endures, steadfast and strong. We eagerly await the day we can forge alongside you once more. 再见, 祝你一路顺风，直到我们再次相见。"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Nidavellir. Your support and loyalty are invaluable. Mjölnir will indeed be a symbol of our unity and determination. Until our next encounter, may the gods grant us the chance to work together once more. Remember, our bond remains strong, and the forge of Nidavellir will always be our home. Farewell, my dear friends. Until we meet again. 阿萨图尔德的守护者们，感谢你们的帮助和支持。直到我们再次相见，愿我们的友谊永远燃烧。再见。"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Thor acknowledges the craftsmanship and is willing to wait for the masters to return.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Thor shows concern about the hammer's balance and insists on its proper reforging.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Thor engages openly with Nidavellir and expresses his emotions strongly.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Thor initially demands immediate action and threatens consequences if unsatisfied.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Thor shows some frustration with the situation but ultimately expresses trust in the smiths.\"}\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Thor acknowledges the craftsmanship and is willing to wait for the masters to return."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Thor shows concern about the hammer's balance and insists on its proper reforging."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Thor engages openly with Nidavellir and expresses his emotions strongly."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Thor initially demands immediate action and threatens consequences if unsatisfied."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Thor shows some frustration with the situation but ultimately expresses trust in the smiths."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.4
+}

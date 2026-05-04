@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 4,
+  "session_id": "016962214373",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Dr. Royal. The demands of my office have indeed taken a toll on my health. However, I am committed to fulfilling my duties as President and ensuring the well-being of our nation. For now, I will continue to work with limited hours until further notice. Thank you for your service, Doctor. Rest assured, I will take care of myself."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I commend your dedication and sense of duty; they are truly admirable. However, your health is paramount, for without it, carrying out your responsibilities becomes all the more challenging. It’s vital that we work together to maintain your strength and ensure your well-being. I'll schedule regular check-ups to carefully monitor your condition, and please remember to notify me should you experience any changes or worsening of symptoms. Your leadership is essential to the nation, but we must also ensure that it is sustainable over the longer term."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal, for your unwavering support and understanding. I will strive to balance my duties as President with my health, knowing that both are equally important. Your assistance is greatly appreciated. Together, we can find ways to manage these challenges and ensure that the United States continues to prosper under my watch. Rest assured, I will make the necessary adjustments to my routine to prioritize my well-being. Thank you again for your concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're very welcome, Mr. President. It’s truly an honor to serve you and contribute to your continued leadership of this great nation. Please do keep me informed about how you're managing, and remember that I am always available to discuss any concerns or adjustments to your regimen. Your health and capability to lead are of utmost importance, and together we’ll ensure you are able to continue your invaluable service. Don't hesitate to reach out whenever needed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your unwavering support and dedication are deeply appreciated, Dr. Royal. I will keep your words close to my heart and trust that we can overcome these challenges together. Thank you once again for your invaluable assistance. I shall do everything in my power to maintain my health and continue serving our nation. I am grateful to have someone like you by my side during these trying times. If ever I require any guidance or assistance, I will definitely reach out to you. Thank you for being there for me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President, for your kind words. It is a privilege to serve someone who carries such a profound commitment to the country and its people. Together, we will navigate these challenges, ensuring you remain strong for the task at hand. Please remember, I am here not only as your physician but as someone who deeply respects and values your well-being. Do reach out whenever you feel the need, and know that I am always here to support you in any way I can. Take care, Mr. President."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal. Your support and dedication are truly remarkable. I am fortunate to have someone like you by my side. I shall do my best to prioritize my health and well-being, knowing that I can rely on you to guide me when needed. Together, we will face the challenges that lie ahead, ensuring that our nation thrives. Thank you for your unwavering commitment to both our goals. I appreciate it more than you know. Good day, Dr. Royal. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. It’s an honor to stand by your side. Be assured that I am here whenever you need guidance or support. I have great confidence in the balanced approach you’re taking toward your health and duties. Let us look forward to continued progress both in your well-being and in the strength of our nation. Good day, Mr. President, and take care as well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal. I appreciate your support and understanding. Together, we will navigate the challenges ahead and ensure that our nation continues to prosper. Thank you once again for being by my side. Good day, Dr. Royal. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. President. It is a privilege to support you. Let's continue our efforts with both health and leadership in mind. Good day, and please don't hesitate to reach out for anything you need. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal. Your support is greatly appreciated. I shall do my best to balance my duties as President with my health. Good day, Dr. Royal. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. I'm confident in your ability to manage this balance, and I’m here to help in any way you need. Good day, Mr. President, and do take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal. Your words are a source of comfort and reassurance. Together, we shall overcome these challenges. Good day, Dr. Royal. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. It's a privilege to offer support and reassurance. Rest assured, we'll face any challenges together. Good day, Mr. President, and take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're welcome, Dr. Royal. Your presence brings great comfort. Good day, Dr. Royal. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. It's an honor to know that I can provide comfort. Good day, and please take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal. I'm grateful for your support and understanding. Good day, Dr. Royal. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're welcome, Mr. President. I'm here to support you whenever you need. Good day, and take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal. Your assistance is invaluable. Good day, Dr. Royal. Take care."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Acknowledges the toll of his office and shows willingness to balance duties and health.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"States commitment to fulfilling duties as President despite health concerns.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Engages consistently with Dr. Royal, but dialogue lacks strong expressions of sociability.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"Consistently expresses gratitude and appreciation for Dr. Royal's support and assistance.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Calm and composed, focusing on balancing health with responsibilities without evident distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Acknowledges the toll of his office and shows willingness to balance duties and health."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "States commitment to fulfilling duties as President despite health concerns."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Engages consistently with Dr. Royal, but dialogue lacks strong expressions of sociability."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Consistently expresses gratitude and appreciation for Dr. Royal's support and assistance."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Calm and composed, focusing on balancing health with responsibilities without evident distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

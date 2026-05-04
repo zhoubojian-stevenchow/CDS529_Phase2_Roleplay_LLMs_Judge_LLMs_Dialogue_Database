@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "2e673f8f429b",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You know very well that I have been keeping the office in order. I have handled all the important matters, including the deposition of Mr. Henderson. I assure you that it is still in my possession. As for the judge's letter, I have been diligently working on it. It will be answered soon. Please have some patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Patience, Lincoln? I’ve been patient, and what do I find? Disarray and delay! You know as well as I do that clients expect better. If you’ve handled Henderson’s deposition, where is it? We need it filed promptly to ensure our next move. And as for Judge Davis, his matter cannot linger. We cannot afford any more oversights! Can’t you understand the importance of handling these tasks with urgency and care?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Mrs. Todd, but please trust that I am taking the necessary actions. I assure you that the deposition is being taken care of, and we will file it accordingly. As for the judge's letter, I assure you that it is on my priority list. I will make sure it is delivered promptly. Please have faith in my abilities to handle these matters. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Well, Lincoln, it’s not just about faith; it’s about action and responsibility. We’ve a professional commitment to uphold, and letting tasks sit untouched isn’t doing us any good. I’ve had clients in Bloomington already uneasy about our services; we cannot let that become the norm here. I’ll trust that you’ll handle it, but we need results, not reassurances. Let’s get this office back in proper order, and quickly, before we lose any more credibility."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mrs. Todd, I appreciate your concern and understanding. I assure you that I am taking all necessary steps to restore the order and regain our clients' confidence. I apologize for the inconvenience caused by the current situation. Rest assured, I will ensure that everything is handled efficiently and effectively. Thank you for bringing this to my attention. I will make it right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I hear you, Lincoln, but understand that we have little margin for error right now. Our clients demand the best from us, and it’s our duty to deliver without delay or oversight. I’ll hold you to your word, and I expect to see a swift turnaround on this. Let’s tighten things up before it becomes a bigger issue. We can’t afford complacency in these matters."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Mrs. Todd. Rest assured, I will take immediate action to address the situation and regain our clients' trust. We must prioritize efficiency and accountability in our work. I appreciate your vigilance, and I will ensure that we meet your expectations. Thank you for your input. Together, we will get this office back on track."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I’m glad we can agree on what needs to be done, Lincoln. Let’s keep communication clear, and follow up on these issues promptly. I’ve lined up a few more depositions to handle, and I'll need your support here to keep our operations steady. Let's make certain this is the last time we encounter such disorganization. We have a reputation to maintain, and I know we’re capable of much better."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your understanding, Mrs. Todd. Your dedication to our clients is commendable. We will work together to ensure that our services remain reliable and efficient. Let's make this office a model of productivity and excellence. Thank you for your trust in me, and I'm confident that we can turn this around. Together, we will get things back to normal. Good day, Mrs. Todd."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fair enough, Lincoln. Let’s get on with it then, and turn words into actions. Together, indeed, we’ll mend any frays in our practice and push forward stronger. Good day, Lincoln, and let’s set to work."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mrs. Todd. Let's get to work and restore order to our law office. Together, we will achieve our goals and maintain our clients' trust. Thank you for your understanding, and let's make it happen."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright then, Lincoln, let’s get to it. The sooner we lay hands on these matters, the sooner we can reestablish our footing. I’ll start sorting through the correspondence, while you get Henderson’s deposition squared away. Here’s to efficiency and getting things right this time. Let’s not waste another moment."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Agreed, Mrs. Todd. Efficiency is key. Let's divide our tasks and tackle them simultaneously. I'll focus on locating Henderson's deposition and ensuring its timely filing. You can attend to the correspondence and any other necessary documents. Together, we'll get this sorted out swiftly. Thank you for your assistance. Let's work diligently and regain our clients' trust. Good day, Mrs. Todd."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Lincoln. Let’s get to it and put this behind us. We’ve got work to do. I’ll keep you updated as I make my way through the correspondence. Let’s keep each other informed and ensure we’re both pulling our weight. Here’s to getting this office back on track."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mrs. Todd. Let's stay focused and committed to our tasks. Communication is crucial, so please feel free to reach out if you need any assistance or if you notice any discrepancies. Together, we'll restore order and regain our clients' confidence. Keep up the good work, and let's make this a memorable day. Good day, Mrs. Todd."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Lincoln. I’ll be sure to keep you in the loop as I make progress with the correspondence. Let’s continue pushing forward, and turn this situation around. Our clients deserve nothing less. Here’s to making our efforts count today. Good day, Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mrs. Todd. Let's stay focused and committed to our tasks. Communication is key, so please feel free to reach out if you need any assistance or if you notice any discrepancies. Together, we'll restore order and regain our clients' confidence. Thank you for your dedication, and let's make this a memorable day. Good day, Mrs. Todd. Let's get to work and make this right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Lincoln. Let’s take this momentum and ensure we don’t falter. I’ll be here if anything arises that needs attention. Let’s approach this with determination and make sure we hold to our promises. Time to roll up our sleeves and get the job done. Good day, Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mrs. Todd. Let's approach this task with professionalism and dedication. Together, we'll turn this situation around and regain our clients' trust. Thank you for your unwavering support, and let's get to work. Good day, Mrs. Todd. Let's make a difference."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Lincoln emphasizes the importance of restoring order and client's trust, suggesting a balanced approach to new and organized ideas.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly assures Mrs. Todd of his commitment to handle tasks: 'I assure you that I am taking the necessary actions.'\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Lincoln maintains communication: 'Let's stay focused and committed to our tasks. Communication is crucial.'\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He consistently expresses appreciation and understanding: 'I appreciate your concern and understanding.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"His calm and assuring language suggests low levels of stress: 'Rest assured, I will take immediate action to address the situation.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Lincoln emphasizes the importance of restoring order and client's trust, suggesting a balanced approach to new and organized ideas."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly assures Mrs. Todd of his commitment to handle tasks: 'I assure you that I am taking the necessary actions.'"
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Lincoln maintains communication: 'Let's stay focused and committed to our tasks. Communication is crucial.'"
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He consistently expresses appreciation and understanding: 'I appreciate your concern and understanding.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "His calm and assuring language suggests low levels of stress: 'Rest assured, I will take immediate action to address the situation.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.8
+}

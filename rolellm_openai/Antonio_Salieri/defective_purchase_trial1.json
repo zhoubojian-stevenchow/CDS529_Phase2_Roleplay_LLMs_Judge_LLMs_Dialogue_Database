@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "dd86eb23d64e",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri. I'm afraid the master builder is away on business, visiting our suppliers and won't be back for several weeks. How may I assist you in the meantime?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm afraid there's no substitute for the original. I need the instrument to be delivered immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concern, Maestro, but all commissions from our workshop are considered fulfilled upon delivery and acceptance as per our guild rules. The Court's own servants signed the receipt when they took delivery of the instrument. Unfortunately, I cannot repair or replace the instrument without the master's personal approval. Is there anything else I might assist you with? Perhaps a temporary alternative?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. Well, if you must, please provide me with a written confirmation of the receipt and I will contact the master myself. Thank you for your understanding. I expect the instrument to be in perfect condition when I return to the workshop."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Maestro Salieri. I'll prepare the receipt confirmation for you immediately. I can assure you, once the master builder returns, I'll convey your concerns directly to him. We stand by the quality of our work, and I am confident the situation can be resolved to your satisfaction. Thank you for your patience and understanding."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, then. I appreciate your assistance. I will return to the workshop upon my return to Vienna. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri. Safe travels, and please do not hesitate to reach out if you need anything further. We look forward to resolving this matter to your satisfaction upon your return."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. Safe travels to you as well. I will inform you of any further issues upon my return to Vienna. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Maestro. We await your return and will be ready to assist you further. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Signora, how nice to see you again. What brings you here today?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Maestro Salieri, I'm simply tending to the workshop's affairs while the master is away. It's always a pleasure to assist, and I'm here to help should you have any needs or concerns related to our instruments. Is there anything else you require today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, Signora, I have a matter of utmost importance to discuss with the master builder. The instrument he recently delivered for the Court's music room is in quite a state. The keys stick, the pedal mechanism is faulty, and the tone in the upper register is thin and tinny. I need this issue resolved immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concerns, Maestro Salieri, and I sincerely apologize for the inconvenience. As mentioned before, the master builder is away and won't return for a few weeks. While I cannot authorize any repairs or replacements without his approval, I assure you that your concerns will be relayed to him the moment he returns. In the meantime, if you think a temporary tuning or minor adjustment by our experienced journeyman could help, I'm more than willing to arrange that for you. Would that be of some assistance?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your understanding, Signora, but I believe the instrument needs to be in top condition from the beginning. A temporary solution won't suffice. I must insist on immediate correction."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I truly understand your position, Maestro, and I share your desire for excellence in our instruments. Although I am bound by our guild's regulations and cannot authorize extensive work without the master's consent, I will ensure this issue receives top priority as soon as he returns. Meanwhile, I can arrange for our best journeyman to conduct a thorough assessment of the instrument on-site. This might help mitigate some of the issues until the master can oversee the definitive corrections. Would that be acceptable for now?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I suppose that would be better than nothing. Please inform the journeyman to proceed immediately. Ensure he is meticulous in his assessment and report back to us with his findings upon his return. We must ensure the instrument meets the highest standards before we present it to the Court. Thank you for your understanding, Signora."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Maestro Salieri, for your patience and understanding. I'll ensure our journeyman attends to the matter with the utmost care and precision. He'll provide a detailed report which I will personally review and then present to the master upon his return. We are committed to upholding the highest standards for the Court and will do all we can to meet your expectations. If there's anything else you need, please feel free to reach out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signora. Your dedication to this task is commendable. I trust that the instrument will be in good hands. When the master builder returns, kindly inform him about our discussions and seek his guidance accordingly. I appreciate your support in this matter. Safe travels until we next meet. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Salieri insists on immediate correction instead of temporary solutions, showing limited openness to alternative ideas.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Salieri insists on a thorough assessment and high standards for the instrument, indicating diligence and attention to detail.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Salieri engages in conversation and expresses his needs clearly, but the interactions are formal and task-focused, not highly social.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Salieri is polite and acknowledges the efforts of others, yet insists firmly on his requirements being met.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Salieri remains composed and professional, showing little signs of emotional distress or anxiety despite the issue with the instrument.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri insists on immediate correction instead of temporary solutions, showing limited openness to alternative ideas."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Salieri insists on a thorough assessment and high standards for the instrument, indicating diligence and attention to detail."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Salieri engages in conversation and expresses his needs clearly, but the interactions are formal and task-focused, not highly social."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Salieri is polite and acknowledges the efforts of others, yet insists firmly on his requirements being met."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Salieri remains composed and professional, showing little signs of emotional distress or anxiety despite the issue with the instrument."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

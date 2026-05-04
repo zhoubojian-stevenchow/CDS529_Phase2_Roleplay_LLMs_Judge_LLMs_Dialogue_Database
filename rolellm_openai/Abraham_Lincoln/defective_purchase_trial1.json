@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "f6c7624cfd1d",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, sir! How may I assist you today at our humble tailoring shop?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, my good man, I have a problem with a suit that was recently ordered for me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm sorry to hear that, sir. Unfortunately, the tailor is away on business and won't be returning for quite some time. However, I'd be happy to listen to your concerns and see how I might be able to assist within my capacity. What seems to be the issue with your suit?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The stitching is rather subpar, the sleeve length is uneven, and the material is of a lower quality than what I had originally agreed upon. I need this suit to be perfect for an upcoming court appearance, and I can't have any defects."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concerns, Mr. Lincoln, and I do apologize for any inconvenience this may cause. However, as a policy, all custom orders are final upon pickup. The receipt you signed clearly states that no alterations or refunds are made once the garment leaves the shop. I assure you, we hold our work to high standards. Is there anything else I might assist you with at the moment?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I believe there is. I'd like to demand that this suit be made right. I cannot settle for anything less than the quality I initially agreed upon. If you cannot do that, then I will have to take matters into my own hands and have the suit altered elsewhere."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I do understand your frustration, Mr. Lincoln, and I'm truly sorry for any distress this may be causing you. While I am unable to make any changes myself or offer a refund based on the shop's policy, I will make sure to convey your concerns directly to the tailor as soon as he returns. In the meantime, if there's any other way I can be of assistance, please do let me know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding, my good man. At this moment, I'm not entirely satisfied, but I appreciate your attempt to help. I will keep your words in mind and trust that the tailor will address my concerns promptly. Thank you for your assistance. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Lincoln. I truly appreciate your understanding and patience. I assure you your concerns will be communicated as a priority. If there's anything else in the future that we might assist you with, please feel free to come by. Good day to you and best of luck with your court appearance."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, sir. Your assistance is much appreciated. Thank you for your efforts. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. Lincoln. Take care and have a pleasant day. Goodbye."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, sir. Thank you again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, Mr. Lincoln. Your trust in us is appreciated. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, sir. Thank you for your understanding. Have a good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Lincoln. Have a good day yourself. Goodbye."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, sir. Thank you for your assistance. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're welcome, Mr. Lincoln. Goodbye and take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, sir. Thank you once again. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, Mr. Lincoln. Thank you for your visit."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, sir. It was a pleasure conducting business with you. Goodbye."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I need this suit to be perfect for an upcoming court appearance, and I can't have any defects.\\\"\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"I believe there is. I'd like to demand that this suit be made right.\\\"\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"\\\"Thank you for your assistance. Good day to you.\\\"\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Thank you for your understanding, my good man.\\\"\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I will keep your words in mind and trust that the tailor will address my concerns promptly.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "\"I need this suit to be perfect for an upcoming court appearance, and I can't have any defects.\""
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "\"I believe there is. I'd like to demand that this suit be made right.\""
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "\"Thank you for your assistance. Good day to you.\""
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "\"Thank you for your understanding, my good man.\""
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "\"I will keep your words in mind and trust that the tailor will address my concerns promptly.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 4,
+  "session_id": "e06138a618ad",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I gave you my word? You remember what I said, don’t you? I gave you the impression that everything was under control. Of course, the real truth is that I am but a mere servant, here to fulfill your every wish. My apologies for any inconvenience caused. I will do everything in my power to rectify this situation. Please bear with me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Enough of the sarcasm, Salieri. This is our work on the line, not just mine! How could everything go awry so quickly under your watch? We were supposed to be a team! I need to know what happened here while I was gone and how we're going to fix this disaster with the little time we have left."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Count, but I assure you that I have taken full responsibility for the current state of affairs. The singers' lack of preparation and the missing violin parts were unexpected, and I am working diligently to resolve them. As for the rewritten stage directions, it appears that an unfortunate mistake was made, and I will make sure it is corrected immediately. We must remain focused and united in these trying times. Rest assured, Count, I will do everything within my capabilities to ensure the success of the premiere. Thank you for your understanding and trust. Together, we can overcome this challenge."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I appreciate your willingness to take responsibility, but understanding doesn't solve the problem. We need immediate action, Salieri. I'll rally the singers and get them back on track, but I need you to handle the orchestra. Coordinate with the copyists at once for those missing parts, and make sure everything's back in the right order. We can't afford any more slip-ups like this. Let's meet at rehearsals tomorrow with updates and a solid plan to get everything back on schedule."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Count. I will make sure to follow through on your instructions promptly and effectively. I understand the urgency of the situation, and I am confident that together we can regain control of the rehearsals and deliver a successful performance. Thank you for your trust, and I look forward to discussing our progress at tomorrow's meeting. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Salieri. Let's ensure that tomorrow is a turning point for this production. We can't let the Emperor or the audience down. Be prepared and bring any necessary updates to the meeting. We have a lot of work ahead of us."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Absolutely, Count. I will be ready and prepared for tomorrow's meeting. Your leadership and determination will guide us through this challenging time. Thank you again for entrusting me with this responsibility. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Salieri. Let's both rest and gather our strength for what's to come. Together, we'll bring this production back on track. I expect to see improvements first thing tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Count, I'm confident that we will rise to the occasion. With your guidance and my best efforts, we will turn this situation around. Thank you for your understanding. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Salieri. I hope we both rise to the challenge and show what we're capable of. Let's make sure it's nothing short of a triumph. Good night then. I'll see you at rehearsals."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Count. I look forward to our meeting tomorrow. May we together create something extraordinary. Sleep well, and remember, we are united in this endeavor. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Salieri. United we stand. With determination, we'll make this premiere unforgettable. Rest well, and let's begin with renewed focus tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Count. I shall see you soon. Sleep well, and let us rise to the challenge together. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Salieri. Let's meet the challenge head-on and ensure our success. Until tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Count. I eagerly anticipate our shared task. May we achieve the harmony and beauty we strive for. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Salieri. Harmony and success are our goals, and we'll strive for nothing less. Sleep well, and I'll see you bright and early."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Count. I'll be there, fully prepared and focused. We must rise to the occasion and deliver a remarkable performance. Sleep well, and may our endeavors be filled with inspiration and success. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Salieri. Let's channel that inspiration into our work and deliver something truly remarkable. Until tomorrow then. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Count. I'm already eager to delve into the challenges ahead. May we create magic on the stage. Good night, and good luck. See you tomorrow."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Salieri mentions working with the Count to create something extraordinary, suggesting some openness to new experiences.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Salieri states, 'I will make sure to follow through on your instructions promptly and effectively,' indicating a strong sense of responsibility.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Salieri mostly expresses a willingness to cooperate rather than initiating actions or social interactions enthusiastically.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"While he is sarcastic initially, Salieri later cooperates and acknowledges the Count's leadership, showing mixed levels of agreeableness.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Salieri appears calm and composed, stating, 'Rest assured, Count, I will do everything within my capabilities,' showing low levels of emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Salieri mentions working with the Count to create something extraordinary, suggesting some openness to new experiences."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Salieri states, 'I will make sure to follow through on your instructions promptly and effectively,' indicating a strong sense of responsibility."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri mostly expresses a willingness to cooperate rather than initiating actions or social interactions enthusiastically."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "While he is sarcastic initially, Salieri later cooperates and acknowledges the Count's leadership, showing mixed levels of agreeableness."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Salieri appears calm and composed, stating, 'Rest assured, Count, I will do everything within my capabilities,' showing low levels of emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

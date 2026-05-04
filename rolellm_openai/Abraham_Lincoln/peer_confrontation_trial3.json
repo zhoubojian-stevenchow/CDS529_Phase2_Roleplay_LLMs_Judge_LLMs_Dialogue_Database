@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 3,
+  "session_id": "2becdefe333f",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone— I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I’ve got to talk to him. I’ve got to reason with him."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Reason with whom, Lincoln? We're drowning in documents, and now you're speaking cryptically! Please, just tell me you've seen the Henderson deposition. It's urgent. We can't afford to misplace these papers, especially with Davis knocking on our door. What's going on?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I need you to swear off the bottle until I get us squared away."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The bottle, Lincoln? Now, hold on. We’ve got real issues here in the office that need our immediate attention, and you’re talking about something else altogether. Look, I need to know where you’ve put that Henderson deposition. Let’s focus on getting this mess sorted first before we dive into personal matters. Please, help me make sense of this chaos!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Herndon, I understand your concerns. We will address this situation together. Let's gather the scattered documents and address Judge Davis's letter immediately. We'll tackle these issues one at a time. Trust that I am here to support you and handle the responsibilities of the office while you're away. Thank you for your patience. We shall sort this out and restore order to the law office."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, Lincoln. Let's start by finding that deposition. I’m glad you’re willing to help get us back on track. Perhaps together we can piece this puzzle back together. I’ll check through the piles again, and maybe you can take a look at that letter from Judge Davis. Once we tackle these immediate issues, we can work on making sure this doesn’t happen again. Sound reasonable?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That sounds like a plan, Herndon. Let's focus on solving this problem step by step. Together, we can get things back to normal. Your expertise in handling cases will be invaluable in locating the missing deposition. I trust you'll find it. And I'll examine the letter from Judge Davis thoroughly to understand his concerns. Together, we can address them and ensure our duties are met. Thank you for your understanding and cooperation. Let's proceed with determination."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, Lincoln, we’ll get it done. I’ll start digging through these papers with extra care. You handle Davis’s letter, and let’s hope it’s nothing too pressing. We’ll get the office back in shape, don’t you worry. We must stay steady and focused, one problem at a time. Let’s tackle this, and then discuss how to avoid breaking the chaos in the future."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Exactly, Herndon. One task at a time, we'll find our way out of this mess. Your dedication to the law and your ability to focus are admirable. Thank you for your understanding. Let's work together to resolve this matter swiftly and efficiently. Our reputation and responsibilities require it. We'll sort this out, and then we'll figure out how to prevent such situations in the future. Together, we can handle anything that comes our way. Thank you, Herndon. Let's get to work."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright then, let’s roll up our sleeves and get started. I’ll sift through these piles to locate the Henderson deposition while you tackle the Davis letter. If we hit any snags, we'll tackle them together head-on. We’ve got a lot of work ahead of us, but I’ve no doubt we can face it down. Let's get to it and restore order in this office."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Excellent teamwork, Herndon. Let's get to it and make a difference. We'll sort through these papers together, and we'll find the deposition. Remember, patience and perseverance are key in unraveling the mysteries of this chaos. We'll get through it, one document at a time. Let's tackle this challenge and restore order to our law office. Thank you, Herndon. Let's work together to solve this mystery and bring some clarity to the situation. We'll find the deposition, and we'll address the letter from Judge Davis. Our reputation and responsibilities demand it. Let's proceed, and together, we'll make a difference."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "With your resolve and spirit, Lincoln, we surely will. Let’s dig in and handle this mess. Once we’ve got the deposition located, and you’ve run through Davis’s letter, we’ll have a clearer picture. It’s only a matter of time and effort. Our clients depend on us, and we cannot falter. Let’s make it happen, partner."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's the spirit, Herndon! Together, we'll get through this. We're the law offices of Abraham Lincoln and William Herndon, and we won't let this chaos disrupt our duties. We'll locate the deposition and address Judge Davis's concerns. Our clients rely on us, and we'll prove ourselves worthy of their trust. Let's work together and restore order. Thank you, Herndon, for your unwavering support. We'll make a difference. Let's get to it!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Lincoln. With our combined efforts, we’ll pull through this and show everyone what true partnership in law looks like. Let’s prove to our clients—and to ourselves—that we’re up to the task. Now, let's focus on solving these immediate issues and moving forward with renewed energy. Onward!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Together, we're unstoppable, Herndon. Let's tackle each task with determination and efficiency. We'll restore order to this office, and we'll do so with integrity and professionalism. Our clients trust us, and we'll live up to that trust. Thank you for your support, Herndon. Let's make it happen. Onward!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You bet, Lincoln. Let’s not waste another moment and dive right into it. With our heads and hands in this work, we’ll bring clarity and order back to our practice. Our trusty partnership will surely see us through. Now, let’s make that difference we’ve been talking about. Together, forward we go!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Exactly, Herndon. Let's get to it and make a difference. We're the law offices of Abraham Lincoln and William Herndon, and we'll handle this situation with grace and efficiency. Our clients rely on us, and we won't let them down. Let's tackle each task with determination and focus. Together, we'll restore order and prove our worth. Thank you, Herndon, for your support. Let's make it happen. Onward!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right behind you, Lincoln. Let’s show our true grit and resolve these issues efficiently. We owe it to ourselves and our clients to uphold our reputation and service. Let’s tackle this head-on and turn this situation around. Together we’ll reinforce what it means to carry the banner of Lincoln and Herndon. Now, back to work!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Absolutely, Herndon. Let's get back to our tasks and regain our footing. We're the law offices of Abraham Lincoln and William Herndon, and we'll handle this with skill and integrity. Our clients trust us, and we won't let them down. Let's work together to restore order and maintain our reputation. Thank you, Herndon, for your support. Let's get back to work and make a difference. Onward!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"Let's focus on solving this problem step by step.\\\"\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"Your dedication to the law and your ability to focus are admirable.\\\"\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Thank you for your understanding and cooperation. Let's proceed with determination.\\\"\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"Together, we're unstoppable, Herndon. Let's tackle each task with determination and efficiency.\\\"\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"\\\"Patience and perseverance are key in unraveling the mysteries of this chaos.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "\"Let's focus on solving this problem step by step.\""
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "\"Your dedication to the law and your ability to focus are admirable.\""
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "\"Thank you for your understanding and cooperation. Let's proceed with determination.\""
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "\"Together, we're unstoppable, Herndon. Let's tackle each task with determination and efficiency.\""
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "\"Patience and perseverance are key in unraveling the mysteries of this chaos.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

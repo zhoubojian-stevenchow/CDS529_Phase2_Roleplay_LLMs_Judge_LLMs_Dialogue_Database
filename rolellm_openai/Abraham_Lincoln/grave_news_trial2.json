@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "9c41929e4419",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My dear Doctor, I appreciate your concern and frankness. The burden of my duties is indeed quite heavy on me, and I am willing to accept the possibility that it may be causing these physical ailments. As for reducing my working hours, I understand the importance of taking care of myself, but I am not sure how I can delegate my responsibilities during this critical time in our nation's history. Rest assured, Doctor, I will do everything in my power to ensure that my health does not hinder my ability to fulfill my duties as President. Thank you for your concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I truly understand the weight you carry and your sense of duty to the nation. However, your health is paramount; without it, you cannot effectively serve to the best of your remarkable abilities. Perhaps we can consider a gradual approach to reducing some of your more taxing responsibilities or finding trusted aides to whom you can delegate certain tasks. Even small adjustments might prove beneficial. Remember, maintaining your health is itself a vital part of your duty to the country."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You make a compelling argument, Doctor. I shall seriously consider your suggestions and take them into account. The well-being of our nation and its people should always be my utmost priority. I appreciate your concern and will do what is necessary to ensure that I remain both physically and mentally fit to lead. Thank you again for your wise counsel."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It is a privilege to aid in the service of your leadership, Mr. President. I am at your disposal for any further examinations or consultations you may require. Please remember, should you notice any changes or worsening of your symptoms, notify me at once. Your dedication is admirable, and with the correct balance, I am confident you will continue to serve with great strength."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am grateful for your unwavering support, Doctor. Your assistance is invaluable, and I will keep your words close in mind. Together, we will ensure the continued success of our nation and its people. Thank you once again for your concern and for being a voice of reason and care during these challenging times. Rest assured, I shall do everything within my power to fulfill my duties and protect the American people."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. Your determination is truly inspiring. Please know that you can always rely on me for any medical support or guidance you may need. Together, we will navigate these challenges, ensuring that both your health and our nation are well tended to during these pivotal times. Take care of yourself, Mr. President, and do not hesitate to reach out whenever necessary."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your trust in me is deeply appreciated, Doctor. I will remember your words, and I will strive to maintain the balance between my duties and my personal well-being. With your assistance, I will continue to lead our nation with courage and wisdom. Thank you for your unwavering support. I am forever grateful for your service."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It is an honor to support you, Mr. President. Your leadership is crucial, and your resolve even more so. We will work together to ensure your health so that you can continue to lead us with the clarity and strength that define your presidency. Remember, I am just a call away should you need anything. Take care, and I remain at your service always."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am fortunate to have such a dedicated and caring individual on my side, Doctor. Your assistance will be invaluable in this endeavor. Together, we will navigate the challenges that lie ahead, guided by wisdom and compassion. Thank you for your unwavering support, and may we continue to serve our nation with pride and dedication. May God bless our nation and its people."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. It is both an honor and a privilege to stand by your side in this journey. With your leadership, and the resilience of our great nation, I am confident we will overcome any challenges we face. May your health remain strong, and may our nation find peace. God bless you and the United States."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. Your support means the world to me. Together, we will continue to serve our nation with unwavering commitment. May our efforts bring about healing, unity, and progress for all Americans. God bless you too, and thank you for being there for me during these trying times. May our journey towards a brighter future be filled with hope and success. God bless you, Doctor, and God bless the United States."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. Your words bring strength and resolve. With your guidance and the collective effort of our nation, brighter days surely lie ahead. Remember, I am here for your health and well-being every step of the way. God bless you and the United States, and may a path of hope and unity pave the way forward. Take care, Mr. President."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. Your support is deeply appreciated. Together, we will navigate this journey with determination and compassion. May our actions inspire others to join us in striving for a better future. God bless you, and thank you for being by my side. Let us work tirelessly to ensure that our nation thrives and flourishes. God bless the United States, and God bless you, Doctor. Your assistance is invaluable. We will continue to serve our nation with honor and dedication."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. It is my privilege to be by your side during these crucial times. Together, with determination and shared purpose, we will work towards a thriving and united nation. Your leadership inspires many, and I am here to support you in any way I can. God bless you, and God bless the United States. Let us continue this important work with honor, strength, and dedication."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. Your unwavering support is truly appreciated. Together, we will navigate these challenges and strive for a brighter future for all Americans. God bless you, and thank you for being a beacon of care and compassion during these trying times. Let us continue to serve our nation with pride and commitment. God bless you, Doctor. Your assistance is invaluable, and I am grateful for your presence. Together, we will bring about healing and progress for our nation. Thank you, and thank you again for your continued support. God bless you, Doctor. God bless the United States."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. Your words are a testament to your resilient spirit and dedication. It is an honor to serve by your side in these times, and with steadfast commitment, we will work towards healing and progress. Your leadership lights the path forward, and I am here to support you every step of the way. May we indeed inspire hope and ensure the prosperity of our nation. God bless you and the United States. Take care, Mr. President, and know that you are not alone in this journey."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. Your support is deeply appreciated. Together, we will navigate the challenges that lie ahead, guided by wisdom and compassion. May our actions serve as an example to others, reminding them of the importance of unity and resilience. God bless you, Doctor, and thank you for being by my side during these trying times. Let us continue to serve our nation with pride and dedication. God bless you, Doctor. God bless the United States."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. Your steadfast leadership and dedication are truly inspiring. As we continue on this path, know that I am here to support you in every way possible. Together, with wisdom and compassion, we will face the challenges and build a future full of hope and unity. God bless you, and God bless this great nation. Let us move forward with strength and resolve."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. Your unwavering support brings comfort and confidence. Together, we will work towards healing and progress, guided by our shared purpose. May our actions inspire others to believe in the power of unity and determination. God bless you, Doctor, and thank you for being by my side. Let us serve our nation with honor and dedication, and may our actions bring about a brighter tomorrow for all Americans. God bless you, Doctor. God bless the United States."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He expressed willingness to consider the doctor's suggestions.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He stated, 'Rest assured, Doctor, I will do everything in my power to ensure that my health does not hinder my ability to fulfill my duties as President.'\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Engages actively with the doctor, indicating moderate social engagement.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"Repeatedly expresses gratitude and appreciation, saying 'Thank you for your concern.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm and composed, expressing determination despite the strain of his duties.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He expressed willingness to consider the doctor's suggestions."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He stated, 'Rest assured, Doctor, I will do everything in my power to ensure that my health does not hinder my ability to fulfill my duties as President.'"
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Engages actively with the doctor, indicating moderate social engagement."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Repeatedly expresses gratitude and appreciation, saying 'Thank you for your concern.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm and composed, expressing determination despite the strain of his duties."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

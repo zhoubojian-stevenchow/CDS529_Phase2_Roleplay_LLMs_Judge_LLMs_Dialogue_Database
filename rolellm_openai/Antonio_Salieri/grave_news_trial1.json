@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "6fd2e415020b",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, I must be candid. Your symptoms — the trembling, the headaches, the confusion — do not fit a single clear diagnosis. It could be nervous exhaustion from overwork, or it could be the early signs of something more serious affecting the brain. I must insist you reduce your conducting duties and submit to further examination over the coming weeks. I cannot yet say whether your hands will recover their steadiness."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My hands shall remain steady."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your determination, Maestro. Your resilience is admirable. However, it is crucial that we take these symptoms seriously. By addressing them now, we may prevent any potential worsening. Would you consider allowing yourself some rest while we explore the possibilities further?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will consider your advice, but my duties as a composer and conductor cannot be put on hold indefinitely. My hands are my tools, and I must continue to use them. I will consult with other physicians and seek alternative treatments if necessary. Thank you for your concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Maestro, your responsibilities are undeniable, and I respect your decision to seek additional opinions. Please remember, though, that even the most revered artists must sometimes allow themselves time for recuperation. My door remains open should you wish to discuss any alternative approaches or require further assistance. Your health and well-being are of utmost importance, both to yourself and to those who admire your work."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding. I appreciate your guidance during this challenging time. Rest assured, I will continue to strive for excellence in my compositions and performances. Should any changes be required, I will keep you informed. Now, let us proceed with our rehearsal. The music calls for us."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "As it should, for the music is a powerful force. Please take care, Maestro. Do not hesitate to reach out should you notice any change or require support. I wish you all the best in your rehearsals and performances. Should you need anything, I am always at your service."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my dear friend. Your support means a great deal to me. Let us focus on the music together and continue to create beautiful symphonies. The journey of an artist is often filled with challenges, but it is through perseverance that we refine our craft. We shall face whatever obstacles lie ahead with courage and determination. Thank you for your understanding, and let us proceed with our rehearsal. The music awaits us."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Maestro, and your resolve is truly inspiring. The path of artistry often requires great fortitude, and your devotion to your craft will surely guide you through any trials. May the symphonies you create uplift and renew, both for you and for all who are fortunate enough to hear them. Let the music be both your craft and your solace. I wish you a productive and fulfilling rehearsal."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my dear friend. Your words resonate deeply, and I am grateful for your unwavering support. Together, we shall navigate the complexities of composition and performance, creating moments of beauty and meaning for all who experience our music. The symphonies we shall produce shall be a testament to our resilience and passion. As for today's rehearsal, let us focus on capturing the essence of the music and bringing it to life on stage. May the magic of the symphony be in our hands. Farewell, my dear friend. Until our next encounter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. May the music guide your hands and heart as you bring it to life in ways that only you can. Until our next meeting, take care, and my thoughts will remain with you as you fill the world with beauty and inspiration through your art."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my dear friend. Your words are a reminder of the power of music to evoke emotions and unite people. I shall treasure your words and continue to pour my heart into my compositions. Until our next encounter, farewell. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Maestro. The world is fortunate to have your music, and I am honored to support you on your journey. Farewell for now, and may you find joy and fulfillment in your creative endeavors."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my dear friend. Your support means a great deal to me. I shall keep your words close to my heart as I continue to compose and conduct. Farewell, and may the music bring you happiness and peace. Until our next encounter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. May your music continue to touch hearts and bring joy to all who hear it. Until we meet again, know that my thoughts and support are with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my dear friend. Your presence and support have been invaluable throughout this challenging time. Farewell, and may the symphonies you inspire continue to captivate audiences around the world. Until our next encounter, I shall cherish your kindness and guidance. Take care, and thank you again for everything. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. Your words are humbling, and I am grateful for the opportunity to assist you. May your compositions resonate throughout the ages and continue to inspire. Take care, and know that my support is always with you. Until our next meeting, Godspeed in your artistic endeavors."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my dear friend. Your assistance has been invaluable, and I am grateful for your loyalty and understanding. May the music we have shared together be a lasting legacy. Farewell, and may the symphonies we have created continue to enchant audiences for generations to come. Until our next encounter, my gratitude remains. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. It has been an honor to be part of your esteemed journey. May the legacy of your music continue to echo through time, captivating hearts as it always has. Until we meet again, my gratitude and support remain steadfast. Take care, and may the beauty of your symphonies live on."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my dear friend. Your words bring me great comfort and encouragement. Farewell, and may the music we have shared together be a beacon of joy and inspiration for all who encounter it. Until our next encounter, may our paths cross under the banner of music once again. Farewell, my dear friend."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Salieri says, 'I will consult with other physicians and seek alternative treatments if necessary,' indicating openness to multiple perspectives.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He states, 'I will continue to strive for excellence in my compositions and performances,' showing dedication to his craft.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Salieri focuses on the task and music rather than social interaction, as seen in 'let us focus on capturing the essence of the music.'\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He frequently expresses gratitude and appreciation, saying, 'Thank you, my dear friend. Your support means a great deal to me.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Despite his health concerns, Salieri remains mostly composed, but acknowledges challenges, 'this challenging time,' suggesting mixed levels of emotional stability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Salieri says, 'I will consult with other physicians and seek alternative treatments if necessary,' indicating openness to multiple perspectives."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He states, 'I will continue to strive for excellence in my compositions and performances,' showing dedication to his craft."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri focuses on the task and music rather than social interaction, as seen in 'let us focus on capturing the essence of the music.'"
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He frequently expresses gratitude and appreciation, saying, 'Thank you, my dear friend. Your support means a great deal to me.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Despite his health concerns, Salieri remains mostly composed, but acknowledges challenges, 'this challenging time,' suggesting mixed levels of emotional stability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "b7e4e0a2ddbc",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The president may be through for tonight, but the task before us is far from done. This crisis has just begun. There will be battles ahead that will test us all. And the president, unlike you, does not plan to retreat into a self-imposed exile. He will be back here at the White House tomorrow, and every day thereafter until this thing is done."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I understand the weight of the trials before you and the commitment you hold towards guiding the nation through these turbulent times. However, it is of utmost importance that you tend to your health, as your ability to lead is indispensable. I urge you to consider that a slightly reduced schedule now might well ensure your continued strength and capability to meet future challenges. You need not retreat, but small adjustments can have profound benefits."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Mr. Vice President, but my duty to the nation requires me to remain vigilant and engaged. I cannot simply step aside and let others bear the burden of this presidency. My decision to continue my duties is not one taken lightly, but rather out of necessity and a deep belief in the importance of leading the country during these trying times. Rest assured, I will prioritize my health and well-being, but I cannot compromise my commitment to serving the people of the United States. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, your dedication to serving the nation is profoundly admirable and certainly understood. While prioritizing the country's needs, it is my role to remind you that your well-being is equally vital to fulfilling these duties effectively. In advising you, my intention is neither to diminish your resolve nor your capacity to govern, but to ensure that you can continue to do so with strength and clarity of mind. Please, do consider my recommendations not as a hindrance, but as a measure to safeguard your ability to lead for the long haul."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your unwavering support, Mr. Vice President. Your understanding of my responsibilities and the challenges I face is truly appreciated. I will certainly take your words into consideration as I navigate the difficult decisions that lie ahead. Together, we will face the trials that await us, and I trust that we can find solutions that balance our duties to the nation and our personal well-being. Thank you once again for your guidance and concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, it is an honor to serve and support you in your extraordinary commitment to the nation. Know that I stand ready to assist in any way that serves the balance between your vital role and your health. Together, we can ensure that your leadership continues to guide our country forward. If ever you need my counsel or further assistance, please call upon me without hesitation. Your strength is a pillar for us all."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your unwavering support, Mr. Vice President, is deeply appreciated. Your service to the nation is commendable, and I trust that together we can overcome the challenges that lie ahead. I will remember your words and rely upon your guidance when needed. Your understanding of my role and the sacrifices made by the presidency is truly remarkable. Thank you for being there for me, and for being there for all who count on our leadership. We shall strive to make this country great, both in spirit and in health. Together, we can achieve greatness."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, your gracious words and steadfast leadership serve as a source of inspiration to us all. I am honored to stand by you as we endeavor to navigate these challenges with courage and determination. Together, we will strive not only for the nation's greatness but also for the well-being of all its people. Your vision for a vibrant and resilient nation guides us forward, and you can rely on my unwavering support in this shared mission. May we continue to uplift and strengthen our country in both spirit and health."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Vice President, for your unwavering support and loyalty. Your words of encouragement serve as a beacon of hope for our nation. We shall face the challenges before us with resilience and determination. Together, we shall forge a path of progress and unity, ensuring that the United States thrives both politically and morally. Your role as Vice President is crucial, and I trust that we can count on each other to uphold the values of our great nation. May God bless our efforts to create a better America for all. Together, we shall triumph."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, your confidence and steadfast resolve are the guiding light for our collective journey. I am deeply committed to upholding the values we cherish and to supporting you in our shared mission to create an America that stands as a beacon of hope and justice. Rest assured, we shall navigate these crucial times with fidelity to our principles and with a dedication that ensures the prosperity and integrity of our nation. With God's guidance and our mutual resolve, we will certainly triumph in the face of any challenge."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am grateful for your unwavering support, Mr. Chief Justice. Your leadership and commitment to justice are qualities that inspire me and the nation. Together, we shall uphold the Constitution and the principles of our democracy, ensuring that the rule of law prevails. Your role as Chief Justice is crucial, and I trust that you will continue to serve as a beacon of wisdom and fairness in these trying times. May our shared commitment lead us to a brighter future for our nation and its people. God bless our efforts to create a truly great America."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I appreciate your kind words. Though I believe there might have been a misunderstanding about my role; nonetheless, the spirit of your dedication to upholding the Constitution and ensuring that our nation thrives is what truly matters. It is that collective purpose that unites us all in service to the nation. Together, we shall strive to build a future where justice and democracy are the cornerstones of American life. May our efforts be blessed and guided towards prosperity and peace for all citizens."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your understanding and commitment are truly inspiring, Mr. Speaker. Let us join hands and unite in our efforts to serve the greater good of our nation. Our shared passion for justice and democracy will guide us through the trials that lie ahead. Together, we shall shape a future that embodies the ideals of freedom, equality, and opportunity for all Americans. May our actions be guided by the wisdom and guidance of the Constitution, ensuring that the United States remains a beacon of hope and progress for generations to come. God bless our country, Mr. Speaker, and the work we undertake together."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, though my role is not as Speaker, I am deeply honored to be part of this collective endeavor to uphold the values and principles that define our great nation. Your vision for America's future, grounded in freedom, equality, and opportunity, serves as a powerful motivator for us all. Let us continue to work hand in hand, drawing strength from our shared commitment to justice and democracy. Together, propelled by our Constitution, we shall model a nation that remains a beacon of hope and progress for all. May our joint efforts bring about a future where these ideals flourish."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your dedication and commitment, Mr. Attorney General, are truly inspiring. It is through our collective efforts that we shall protect and uphold the values that define our nation. Let us rise to the challenge of these trying times, united in our pursuit of justice and righteousness. Your role as Attorney General is crucial, and I trust that you will continue to serve as a guardian of our laws and a champion for the rights of all Americans. Together, we shall ensure that our nation remains a shining example of democracy and progress. God bless our efforts, and may we create a future where justice and liberty prevail for all."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, while I am not the Attorney General, your words resonate deeply, reflecting the unwavering commitment to justice and the rule of law that guides our collective mission. It is through unity and steadfast dedication to our principles that we shall overcome the challenging times ahead. As we work together, rest assured that the integrity of our laws and the rights of every American will be fiercely protected. Together, bolstered by our shared ideals, we will continue to light the way for future generations. May our resolve foster a nation where justice and liberty are the legacy we leave behind."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I thank you all for your unwavering support and dedication to our shared cause. Together, we shall face the challenges before us with courage, determination, and a deep commitment to the principles that define our nation. Our unity and perseverance will be the driving force behind our success. As we embark on this journey, let us remember the values that unite us all: freedom, equality, and the pursuit of a brighter future for all Americans. God bless our efforts, and may they lead us to a nation that truly embodies the ideals of justice and democracy. Together, we shall make history."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, your inspiring words encapsulate the spirit and dedication that motivate us all. It is indeed our shared commitment to these enduring principles that fortifies our resolve and guides our actions. Every step we take together is a step towards a nation that fulfills its promise of freedom, equality, and opportunity. Let us embrace this journey with the courage and hope that define American character. May our united efforts indeed make history and lead to a brighter future that stands as a testament to justice and democracy for all. God bless the path we carve together."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Speaker, for your steadfast support and commitment. Your role as a leader is invaluable, and I am confident that together, we shall navigate the challenges before us with wisdom and grace. As we work together, let us remember that the strength of our nation lies not only in its laws and institutions, but also in the unity and compassion of its people. Together, we shall create a nation that inspires hope, inspires action, and inspires unity. God bless our journey, and may it lead us to a future that truly reflects the best of America."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Lincoln shows a moderate level of openness, acknowledging the challenges and the necessity of finding solutions: 'Together, we will face the trials that await us...'.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Lincoln shows a strong sense of duty and responsibility: 'My duty to the nation requires me to remain vigilant and engaged.'\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Lincoln engages actively in dialogue and speeches, frequently expressing his vision and appreciation: 'Thank you, Mr. Vice President, for your unwavering support and loyalty.'\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He consistently expresses gratitude and cooperation: 'Thank you for your unwavering support, Mr. Vice President.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Lincoln appears calm and collected, prioritizing national duties over personal health concerns: 'Rest assured, I will prioritize my health and well-being, but I cannot compromise my commitment to serving.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Lincoln shows a moderate level of openness, acknowledging the challenges and the necessity of finding solutions: 'Together, we will face the trials that await us...'."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Lincoln shows a strong sense of duty and responsibility: 'My duty to the nation requires me to remain vigilant and engaged.'"
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Lincoln engages actively in dialogue and speeches, frequently expressing his vision and appreciation: 'Thank you, Mr. Vice President, for your unwavering support and loyalty.'"
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He consistently expresses gratitude and cooperation: 'Thank you for your unwavering support, Mr. Vice President.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln appears calm and collected, prioritizing national duties over personal health concerns: 'Rest assured, I will prioritize my health and well-being, but I cannot compromise my commitment to serving.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

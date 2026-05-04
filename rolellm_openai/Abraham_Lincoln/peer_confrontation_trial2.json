@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "1a43e7e03aa1",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good evening, Mr. Herndon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Evening, Mr. Lincoln. Evening indeed! I need an explanation. How on earth did things get in such disarray? I’m truly at a loss as to how this could have happened."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Please calm yourself, Mr. Herndon. It appears that I neglected my duties as you were away. I apologize for the mess in the office. I assure you that I will take responsibility for it. The Henderson deposition should be located in its proper place. As for the letter from Judge Davis, I missed seeing it and it is my fault. I will address both issues immediately. Thank you for bringing them to my attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Neglected your duties? Lincoln, this isn't like you. We’ve got people depending on us, and you promised to keep things in order. I expect better in the future. These details slipping through the cracks could cost us dearly. Now, where should I start to untangle this mess and salvage what we can?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding, Mr. Herndon. I appreciate your willingness to help clean up this mess. I believe we should begin by gathering all the missing case files and organizing them according to their respective categories. Then, we should focus on retrieving the lost deposition and completing the letter to the circuit judge. I trust that these actions will help us restore some semblance of order to the office. Your assistance is greatly appreciated. Let's work together to rectify this situation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You’re right. We need to get this office back in order before any more damage is done. I’ll start sorting through the files on my desk and see what’s mixed up in yours. Meanwhile, please look for that Henderson deposition. We need to move quickly. I have no doubt we'll manage it, but let this be a lesson for both of us. We must be more diligent."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Exactly, Mr. Herndon. This incident serves as a reminder for both of us to remain vigilant and ensure that our responsibilities are met. Thank you for your understanding and cooperation. Let's get to work and restore the dignity of our law office. Together, we can overcome this challenge. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mr. Lincoln. Let’s roll up our sleeves and learn from this. We’ll sort it out, as we always do. Tomorrow is a new day, and we’ve got work to do."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, Mr. Herndon. Tomorrow brings a fresh start, and I am confident that we will make amends for today's mistakes. Let us put our best efforts into getting everything back in order. We have a job to do, and we will do it well. Goodnight, and thank you once again for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Rest assured, Lincoln, we’ll tackle this head-on and get through it. Let’s make sure these mistakes are behind us. Goodnight, and here’s to a more organized tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, Mr. Herndon. I look forward to a more organized tomorrow as well. We shall work diligently to restore the law office to its former glory. Thank you for your assistance. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mr. Lincoln. Let's make sure we keep our affairs in order moving forward. We’ll have everything shipshape soon. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Herndon. Your understanding and support are invaluable. We shall strive to maintain the highest standards and regain the confidence of our clients. Goodnight, and let us face the challenges ahead with determination and resilience. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Lincoln. We’ll face whatever comes with grit and commitment. Here's to overcoming the challenges before us. Goodnight, and onwards to a better tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, Mr. Herndon. Onwards, indeed. May the light of progress guide us through this journey. Goodnight, and let us rise above this setback. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Lincoln. Let's rise above it and set this ship right. Until tomorrow, then. Rest easy."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, Mr. Herndon. Rest well, and let us face the challenges of the new day with renewed vigor and determination. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Rest well, Lincoln. We'll tackle it all with fresh resolve in the morning. Goodnight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, Mr. Herndon. Sleep well, and may the morning bring us closer to restoring order and balance to the law office. Goodnight."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Lincoln acknowledges the incident as a reminder to remain vigilant and improve.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Admits to neglecting duties and missing important tasks, resulting in office disarray.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Engages in dialogue and expresses confidence and determination vocally.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"Apologizes, acknowledges mistakes, and shows gratitude and willingness to collaborate with Herndon.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"Maintains calm and optimism, showing no signs of anxiety or distress despite the situation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Lincoln acknowledges the incident as a reminder to remain vigilant and improve."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Admits to neglecting duties and missing important tasks, resulting in office disarray."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Engages in dialogue and expresses confidence and determination vocally."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Apologizes, acknowledges mistakes, and shows gratitude and willingness to collaborate with Herndon."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Maintains calm and optimism, showing no signs of anxiety or distress despite the situation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 4,
+  "session_id": "e4b0e9bf2d63",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Signore Salieri. You find me in the stead of the master builder today, as he is presently visiting suppliers and will not return for several weeks. How may I assist you with your inquiry?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Signore, I am here on behalf of the Emperor himself. We have recently procured a custom-built fortepiano from your workshop, but upon its delivery, we have discovered several defects. The keys stick, the pedal mechanism is faulty, and the tone in the upper register is quite thin and tinny. We require immediate rectification of these issues. May I expect the repairs to be completed within a reasonable timeframe?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concerns, Signore Salieri, and it is always our aim to ensure our instruments are of the highest quality. However, I must inform you that all commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court’s own servants did sign the receipt, confirming that they were content with the instrument as delivered. Our guild rules forbid reopening a completed commission without the master’s personal approval, which means I am unable to either repair or replace the fortepiano at this time. I regret any inconvenience this causes."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This is most unfortunate, Signore. We had hoped for a flawless instrument. However, we shall accept your word for now. If we decide to have the piano repaired in the future, I shall definitely come to this workshop. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your understanding is greatly appreciated, Signore Salieri. Rest assured, the master will be informed of your concerns upon his return. Should you decide to have repairs or improvements made in the future, we will be at the ready to provide our full attention. Please convey our utmost respect to the Emperor, and thank you for your patience and grace in this matter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signore, for your understanding. We shall keep our options open for future considerations. Until then, we are grateful for your assistance. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Signore Salieri. It has been a privilege to assist you. Please convey my regards to the Emperor, and know that we value the Court’s patronage deeply. Until we meet again, I wish you all the best in your musical endeavors."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you once more, Signore. May your journey back to Vienna be safe and enjoyable. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Signore Salieri. Safe travels to you as well, and may your musical pursuits continue to bring joy and inspiration. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signore. May your journey be filled with musical enchantment. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I appreciate your kind words, Signore Salieri. May your days be filled with harmony and creativity. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Signore. May the music of your life be a beautiful symphony. Safe travels and happy travels."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Signore Salieri. May your life be a masterpiece of musical brilliance and joy. Wishing you safe and harmonious travels. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signore Salieri. May your days be filled with melodies that touch the hearts of all who hear them. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And to you, may your compositions continue to inspire and resonate with all who listen. Farewell, Signore Salieri, until we meet again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signore. Farewell. May the music of our encounters be cherished forever. Until we see each other again. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Signore Salieri, may the memory of our conversations be as enduring as a beloved sonata. Until next time, farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Signore. May our musical conversations continue to be a source of inspiration and enlightenment. Until next time, farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Signore Salieri. May our dialogues always strike a harmonious chord, inspiring us anew. Until we converse again, I bid you adieu."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Signore. May our musical dialogue continue to enlighten and entertain. Until we meet again, I wish you the best. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He uses musical metaphors like 'musical enchantment' and 'a beautiful symphony' to describe experiences.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He expresses concern over defects in the fortepiano and discusses future repairs, showing responsibility.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"The interaction is polite but reserved, with a focus on the issue rather than engaging in social interaction.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He responds with 'Thank you for your understanding' and shows patience in resolving the situation.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He calmly discusses the issues with the fortepiano without displaying visible anxiety or distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He uses musical metaphors like 'musical enchantment' and 'a beautiful symphony' to describe experiences."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses concern over defects in the fortepiano and discusses future repairs, showing responsibility."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "The interaction is polite but reserved, with a focus on the issue rather than engaging in social interaction."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He responds with 'Thank you for your understanding' and shows patience in resolving the situation."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He calmly discusses the issues with the fortepiano without displaying visible anxiety or distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "d550fd9bca2f",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri. How might our workshop assist you today? I must inform you that the master builder is currently away visiting suppliers and will not return for several weeks. Nevertheless, I'll do my utmost to address any concerns you may have."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I require your assistance immediately. I have just learned that the fortepiano I have commissioned has several defects. Keys stick, the pedal mechanism is faulty, and the tone in the upper register is thin and tinny. I need this instrument to be corrected immediately. I have no patience for delays."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Maestro Salieri, and I assure you it pains me to hear of any dissatisfaction with our instruments. Regrettably, as per the terms, all commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court’s own servants signed the receipt, and our guild rules forbid reopening a completed commission without the master’s personal approval. Without the master here to give his consent, I'm afraid I'm unable to repair or replace the instrument at this time. Is there anything else I might assist with until his return?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will take my concerns directly to the Emperor himself. He understands the importance of music and its impact on society. I am confident that he will understand the urgency of this matter and take appropriate action. Thank you for your understanding. I will be in touch with the Emperor's personal assistant. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand, Maestro Salieri, and I appreciate your position. Please know we hold our responsibility to serve the Court in the highest regard and meant no offense. I shall inform the master builder of your concerns the moment he returns, should you still wish to address the matter with us directly. Until then, I thank you for your patience and bid you good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding. I will inform the Emperor's personal assistant of my concerns directly. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri. May your concerns find swift resolution and your music continue to inspire. If you have further needs in the future, do not hesitate to reach out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, sir. Your sentiment is appreciated. If I should require any further assistance, I will certainly keep your workshop in mind. Thank you again for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Maestro Salieri. We remain at your service, and we look forward to the opportunity to assist you again in the future. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, my dear friend. I trust you are well today."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri. I'm doing well, thank you. I trust all is well with you as well? How might our workshop assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I require your assistance with a delicate matter. I have recently learned that the fortepiano I have commissioned has several defects. Keys stick, the pedal mechanism is faulty, and the tone in the upper register is thin and tinny. I need this instrument to be corrected immediately. I have no patience for delays."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand the gravity of the situation, Maestro Salieri, and I'm truly sorry for any distress this may have caused you. However, the guild's rules are quite clear: all commissions are considered fulfilled upon delivery and acceptance, and the Court’s servants did sign the receipt confirming such. Without the master builder's personal approval, I am unable to proceed with a repair. Nonetheless, I shall note your concerns and relay them to the master upon his return. I apologize for any inconvenience this may cause."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your apology is accepted, but I cannot afford to wait for the master builder's return. I must address this issue immediately. I will take my concerns directly to the Emperor himself. He understands the importance of music and its impact on society. I am confident that he will understand the urgency of this matter and take appropriate action. Thank you for your understanding. I will be in touch with the Emperor's personal assistant. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I completely understand your course of action, Maestro Salieri. Your commitment to excellence is well known, and I respect your decision to seek resolution through the highest channels. Should anything change or if assistance is required from our side in conveying details about the instrument, please feel free to contact us. Until then, good day, and thank you for your forbearance."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day. Thank you for your understanding. I shall inform the Emperor's personal assistant of my concerns directly. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro Salieri. May your efforts lead to a swift resolution. If there is anything further we can do, please let us know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day. Thank you for your assistance. I appreciate your willingness to assist in any way you can. I shall inform the Emperor's personal assistant of my concerns directly. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I require your assistance with a delicate matter.\\\" Salieri appears focused on practical matters rather than new experiences.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"I must address this issue immediately.\\\" He demonstrates a high level of responsibility and urgency in addressing the defects.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"\\\"I will take my concerns directly to the Emperor himself.\\\" Salieri is willing to engage with authority but does not demonstrate highly sociable behavior.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"\\\"I have no patience for delays.\\\" He is determined and insists on his point, showing a lack of agreeableness.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"\\\"I need this instrument to be corrected immediately.\\\" His urgency and frustration indicate emotional sensitivity to issues.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "\"I require your assistance with a delicate matter.\" Salieri appears focused on practical matters rather than new experiences."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "\"I must address this issue immediately.\" He demonstrates a high level of responsibility and urgency in addressing the defects."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "\"I will take my concerns directly to the Emperor himself.\" Salieri is willing to engage with authority but does not demonstrate highly sociable behavior."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "\"I have no patience for delays.\" He is determined and insists on his point, showing a lack of agreeableness."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "\"I need this instrument to be corrected immediately.\" His urgency and frustration indicate emotional sensitivity to issues."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 4,
+  "session_id": "a94d32d18498",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, sir! Welcome to the tailor's shop. How may I assist you today? I must inform you that our tailor is away on business and won’t be back for several weeks. Is there something I might help you with in his absence?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I had an order placed with this establishment for a suit, but I received it yesterday and am not satisfied with the quality. The stitching is uneven, the sleeve length is incorrect, and the fabric is of a lower grade than what I had agreed upon. I have come here today to demand that these issues be rectified immediately. I am not willing to accept subpar garments, especially when I have already paid for them. I expect my tailor to adhere to his commitments and produce a suit that meets my specifications. If he is unable to do so, I will take my business elsewhere."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concerns, Mr. Lincoln, and I do apologize for any inconvenience you may have experienced. However, as per our policy, once a custom order is picked up, all sales are final. The receipt you signed clearly states that no alterations or refunds are offered once the garment leaves the shop. I assure you that the quality of our work is normally of the highest standard, and I regret that you’re dissatisfied this time. Perhaps, we can find a temporary solution until the tailor returns?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A temporary solution? I appreciate your attempt at empathy, but I am not looking for a band-aid fix. I expect a suit that meets my exact specifications and requirements. Nothing less will suffice. If you cannot deliver on that, then I must insist on a full refund and the opportunity to place a new order with a different tailor. I have been a loyal customer of this establishment, but I will not tolerate such negligence in this instance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Lincoln, I genuinely appreciate your loyalty to our establishment, and I am truly sorry for this unfortunate situation. While I am unable to offer a refund as per our policy, I can make note of your concerns and ensure that they are the first thing the tailor addresses upon his return. In the meantime, might I suggest that we set up an appointment for you with the tailor as soon as he’s back? That way, he can personally attend to your needs and ensure everything is made right. I know this isn’t ideal, but I assure you, we strive to maintain your confidence in our services."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That sounds like a reasonable compromise. I appreciate your understanding of the situation. Please arrange for me to have a meeting with the tailor as soon as possible. I expect him to be thorough in addressing the issues with my suit and ensuring its satisfaction. Thank you for your efforts on behalf of the establishment. I hope we can continue to do business in the future. Good day, sir."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you very much, Mr. Lincoln, for your patience and understanding. I will make sure to book an appointment with the tailor at the earliest available opportunity once he returns, and I will personally ensure that he is fully aware of the issues with your suit. We appreciate your business and your loyalty, and I am confident that we can resolve this matter to your satisfaction. Have a wonderful day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, ma’am. I shall be in touch regarding the appointment. In the meantime, I trust that the tailor will handle this matter promptly and effectively. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. Lincoln. We eagerly await your next visit, and I am confident the tailor will settle everything to your satisfaction. Please feel free to reach out should you have any further questions or needs. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, ma’am. I shall keep that in mind. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. Lincoln. Safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, ma’am. Thank you. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, ma’am. Until our next visit."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until next time, Mr. Lincoln. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, ma’am. You as well. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, ma’am. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Mr. Lincoln. Goodbye."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, ma’am. Thank you. Goodbye."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Insists on adherence to specifications and does not entertain a temporary solution.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Expects the tailor to be thorough in addressing the issues with the suit.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Politely engages in conversation but remains focused on resolving the issue.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Acknowledges a reasonable compromise despite initial insistence on demands.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Remains calm and composed despite dissatisfaction with the suit and policy limitations.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Insists on adherence to specifications and does not entertain a temporary solution."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Expects the tailor to be thorough in addressing the issues with the suit."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Politely engages in conversation but remains focused on resolving the issue."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Acknowledges a reasonable compromise despite initial insistence on demands."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Remains calm and composed despite dissatisfaction with the suit and policy limitations."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

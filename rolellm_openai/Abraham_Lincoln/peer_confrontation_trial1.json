@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "318532f6be2f",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, you can see what happened. The judge stopped giving depositions some time ago, because he thought we were getting nowhere fast. He told us to go to law. I tried to get him to continue the depositions, but he wouldn’t. So I packed up my papers and went to the Illinois Supreme Court to see Chief Justice Judge Bond. I explained the situation and asked him to restore depositions. He kindly granted my request and gave us the deposition of Mr. John Henderson."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln, I can understand your busy schedule and the complications that arise, but the handling of documents here is critical too. Even if you managed to get the deposition granted again, you must keep things in order here in the office. Misplacing papers and leaving correspondence unattended only adds to our troubles. We can’t afford these kinds of oversights at a time like this. What happened to being organized and staying on top of things, especially when I'm away?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Herndon, I appreciate your concern, but I assure you that I have taken every precaution to maintain order in the absence of your vigilant supervision. I understand the importance of documents and correspondence, and I am committed to ensuring they are properly handled. I apologize if there has been any disruption caused by my actions. Rest assured, I will take full responsibility for maintaining the order of the office while you were away. Thank you for bringing this to my attention, and please accept my assurance that I will make it right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I’m not asking for just assurances, Lincoln; I need to see us follow through. I don’t want this to become a pattern every time I step out of the office. Maybe it's time we set ourselves a more rigid system for tracking these important documents. We can’t let things fall apart whenever one of us is away. These cases depend on our attention to detail. Let's work out some way to prevent this from happening again. Can we agree on that?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I agree wholeheartedly, Herndon. A more systematic approach is indeed necessary. We must establish clear procedures for document management and ensure that everyone is aware of their responsibilities. We can set up a system where designated individuals take charge of certain tasks during your absence, such as updating case files and handling important correspondence. This way, we can minimize any potential disruptions. I am willing to work alongside you to develop a comprehensive plan for maintaining order and efficiency in our law office. Let's put our best efforts into it and ensure the continued success of our cases. Thank you for your understanding, Herndon. I appreciate your dedication to our cause. Together, we can make a difference."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I’m glad to hear that, Lincoln. We can’t afford to let things slip when we’re working on cases as significant as these. I’ll draft a plan for a more systematic approach, and then we can review and refine it together. Perhaps we can even involve the clerks to make sure the system works smoothly in practice. I appreciate your willingness to address this and your partnership in our work. I know we can make it more effective by teaming up on this front. Let's aim to have something in place by the end of the week, shall we?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That sounds like a reasonable timeline, Herndon. Let's collaborate and establish a system that meets our needs. Your expertise in document management and organization will be invaluable in shaping this plan. I trust that together we can create a streamlined process that ensures the proper handling of cases and documents. Thank you for your commitment, and let's work together to ensure the success of our endeavors. Good day, Herndon. I look forward to reviewing our progress soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Lincoln. I'll get started on drafting that plan, and we'll reconvene to go over it. Together, we'll make sure everything is running smoothly and efficiently. Appreciate the dialogue, and let's keep this momentum going. I'll see you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Herndon. I trust you to deliver a comprehensive plan that addresses our concerns. We'll meet again soon to review and discuss the results. Thank you for your efforts. Good day, and I'll see you then. Keep up the good work."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Lincoln. I'll make sure everything is ready for us to discuss. We’ll get this sorted out, and our practice will be all the better for it. Take care until then."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Herndon. I appreciate your professionalism and dedication to our work. We'll tackle this challenge together, and I have faith in our ability to overcome it. Take care, and I'll see you soon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Lincoln. We'll get through this in good order. I'll see you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Herndon. I look forward to discussing our progress and finding solutions to ensure the smooth operation of our law office. Thank you for your cooperation. I'll see you soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Likewise, Lincoln. We'll sort this out together and ensure a seamless operation. I'll see you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Herndon. I appreciate your understanding. Let's focus on finding a solution that maintains order and efficiency within the law office. Good day, and I'll see you soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Absolutely, Lincoln. We'll make sure everything is in order moving forward. Good day, and I'll see you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Herndon. Your commitment is greatly appreciated. Let's work together to create a more organized and efficient environment. Good day, and I'll see you soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Lincoln. We'll turn our focused efforts into effective results. Good day, and I'll see you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Herndon. I have no doubt that together we can achieve our goals. Good day, and I'll see you soon. Let's make a difference."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"I went to the Illinois Supreme Court to see Chief Justice Judge Bond.\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"I assure you that I have taken every precaution to maintain order.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Let's work together to create a more organized and efficient environment.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"I agree wholeheartedly, Herndon. A more systematic approach is indeed necessary.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"I appreciate your concern, but I assure you...\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "I went to the Illinois Supreme Court to see Chief Justice Judge Bond."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "I assure you that I have taken every precaution to maintain order."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Let's work together to create a more organized and efficient environment."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "I agree wholeheartedly, Herndon. A more systematic approach is indeed necessary."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "I appreciate your concern, but I assure you..."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

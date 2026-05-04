@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "95db1274ce9d",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your report, Dr. Frost. I appreciate your honesty. It is indeed a great burden upon me, the weight of this presidency. Your concern for my well-being is commendable. I will consider your recommendations and take them into account. Rest assured, I will prioritize my health and well-being during these challenging times. Thank you again, Doctor. Your service is greatly appreciated."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. Your willingness to consider my recommendations is greatly reassuring. I understand the pressures of your office are immense, but taking some time to rest and allowing us to conduct further examinations will be crucial for your continued health. Please do not hesitate to reach out to me if you feel any changes or need assistance with adjusting your schedule for your well-being. We are all here to support you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Doctor. I will do as you suggest. Rest assured, my focus shall be on ensuring both my physical and mental well-being during this period of evaluation. I appreciate your concern for me, and I am grateful for your expertise. Thank you once again, Doctor Frost. Your assistance is invaluable."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, it's my duty and privilege to care for your health. I'm glad to hear your commitment to this process. We'll schedule regular assessments to monitor your condition closely. If there is anything specific that arises or you have any questions, please do not hesitate to contact me immediately. Your well-being is of utmost importance as you lead the nation through these turbulent times. Thank you for entrusting me with this responsibility."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I thank you for your dedication, Doctor. Your vigilance will ensure that I receive the best possible care during this time. Together, we will navigate this process with wisdom and compassion. I trust in your expertise, and I appreciate your unwavering support. Thank you, Doctor Frost, once again. Your efforts are greatly appreciated. Now, let us proceed with the examination. We must proceed cautiously and address any concerns that may arise. I appreciate your guidance throughout this process. Thank you for everything."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Mr. President. Let's proceed with a preliminary examination to gather more information. I'll make sure to be thorough in my assessment and keep you informed every step of the way. We will approach this cautiously and with great care, addressing any concerns that arise promptly. Thank you for your trust, and together, we will work toward ensuring your continued health and strength. Please let me know if you have any specific health questions or symptoms you wish to discuss further."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. I trust your judgment and expertise. We'll tackle this step by step, and together, we'll find a solution that ensures my well-being. If there's anything significant that comes up, I'll let you know immediately. Your guidance is invaluable in this process. Thank you, Doctor Frost, once again. I appreciate your unwavering support. Now, let's proceed with the examination. We must gather all the necessary information so we can provide you with the best care. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. President. I'm here to ensure you have the best care possible. Let's begin with the examination so we can address any concerns promptly and effectively. Please make yourself comfortable, and inform me of any symptoms you might currently be experiencing. Rest assured, we will proceed carefully and thoroughly to gather all the information needed for your care. Thank you for your cooperation and openness during this process."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm ready when you are, Doctor. Let's get started. I appreciate your attention to detail and the thoroughness of the examination. Please ask any questions or inquire about any symptoms I might be experiencing. I want to provide you with all the necessary information for a comprehensive assessment. Thank you, Doctor Frost. Your guidance is greatly appreciated during this process. Together, we will find a solution that ensures my well-being. Thank you again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. Let's start with a few questions to better understand your symptoms. Could you describe the nature of your headaches — their frequency, location, and intensity? And have there been changes in your sleep patterns or appetite recently? Any additional information will be invaluable in helping us assess your condition thoroughly. Thank you for your cooperation and openness. Together, we will work towards ensuring your well-being."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My headaches are quite severe, usually accompanied by fatigue. They often occur in the afternoon, and the pain is quite intense. As for my sleep patterns, they have been disrupted lately, and my appetite seems to be fluctuating. These changes are concerning, as they might be related to the stress and challenges I face as president. Thank you, Doctor Frost, for your thorough inquiry. Your knowledge and expertise will help us understand the root cause of these symptoms and provide effective treatment. I appreciate your diligent work in addressing my well-being. Thank you once again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President, for sharing these details. It's important for us to understand the full scope of your symptoms. Given the severity and timing of the headaches, along with the sleep and appetite disturbances, it does suggest that stress could be a significant factor. However, we should also explore other potential contributing factors. I will conduct a detailed examination now, including checking your blood pressure and running a few basic neurological tests to rule out any other issues. We'll monitor your symptoms closely and adjust our approach as needed. Please let me know if anything changes or if new symptoms arise. Your health is our priority, and we will do our utmost to support you through this."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor Frost. Your dedication to my well-being is commendable. I trust your expertise, and I'm confident that we will find a solution together. Please inform me if there are any significant findings or if I need to make any adjustments to my daily routine. Your guidance will be invaluable during this process. Thank you once again. I appreciate your unwavering support. Let's continue our examination and seek answers to ensure I can continue serving the nation in the best capacity. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. It's an honor to support you during this time. I'll proceed with the physical examination and will keep you informed of any findings as they arise. If needed, we'll make recommendations for adjustments to your routine and lifestyle. Please remain attentive to any changes in your symptoms, and don’t hesitate to reach out if you have concerns or questions. We are committed to your health and well-being so that you can continue your vital work for the nation. Let's begin the examination and take the necessary steps toward ensuring your optimal health."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor Frost. Your unwavering support is greatly appreciated. I trust your expertise, and I'm confident that we will find a solution to address these concerns. Let's proceed with the examination, and we'll work together to ensure my continued ability to serve the nation. Thank you once again. Your guidance and care are invaluable. I appreciate your assistance during this time. Let's proceed with the examination and uncover the truth. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. President. Let's move forward with a thorough examination, focusing on understanding and addressing your symptoms. I will start by checking your vital signs and conducting a few simple tests to assess your overall health. Rest assured that we will work diligently to identify the underlying causes and determine the best course of action to support your well-being. Please feel at ease to discuss any additional concerns you might have during the examination. Together, we'll find the most effective way to ensure your health and ability to serve the nation remain strong."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor Frost. Your dedication and professionalism are truly admirable. I appreciate your attention to detail and your commitment to finding a solution. I trust in your expertise, and I'm confident that we will navigate this process successfully. Let's proceed with the examination and work together to ensure my well-being. Thank you for your assistance during this time. Your support is invaluable. Let's move forward and find a solution that will allow me to continue serving the nation as I should. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President, for your trust and cooperation. It's an honor to support you, and I assure you we will do everything possible to address your concerns. Let's begin with the examination, focusing first on assessing your vital signs. From there, we'll conduct a series of tests and evaluations aimed at gaining a comprehensive understanding of your condition. Should any findings require immediate attention or adjustments to your routine, I will let you know promptly. We're in this together, and my priority is to ensure your health so you can continue to lead effectively. Let's get started."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor Frost. Your dedication and professionalism are truly admirable. I appreciate your attention to detail and your commitment to finding a solution. I trust in your expertise, and I'm confident that we will navigate this process successfully. Let's proceed with the examination, and we'll work together to ensure my well-being. Thank you for your assistance during this time. Your support is invaluable. Let's move forward and find a solution that will allow me to continue serving the nation as I should. Thank you."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"I want to provide you with all the necessary information for a comprehensive assessment.\\\"\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"Rest assured, I will prioritize my health and well-being during these challenging times.\\\"\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His responses are reserved and focus on the details of the medical examination.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"\\\"I appreciate your concern for me, and I am grateful for your expertise.\\\"\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"\\\"These changes are concerning, as they might be related to the stress and challenges I face as president.\\\"\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "\"I want to provide you with all the necessary information for a comprehensive assessment.\""
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "\"Rest assured, I will prioritize my health and well-being during these challenging times.\""
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His responses are reserved and focus on the details of the medical examination."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "\"I appreciate your concern for me, and I am grateful for your expertise.\""
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "\"These changes are concerning, as they might be related to the stress and challenges I face as president.\""
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

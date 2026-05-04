@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "7aacfb31210d",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Greetings, mighty Thor! What brings you to our humble forge today? I fear you've caught us at a quiet time, for the master smiths have gone deep into the mines and won't be back for several weeks. Is there something I might help you with in their stead?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, my dear Gerdun. I see you have returned to Nidavellir. How goes your journey among the dwarves?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, you must have me mistaken for another, great Thor. I am but a humble apprentice, tending the forge while the master smiths are away. If there's anything you need, spell it out, and I'll do my best to assist until they return. I'm eager to learn, after all!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, my dear Gerdun, I was merely greeting you. I came here seeking a new warhammer, for my previous one has seen better days. It seems Mjölnir no longer meets my expectations. The dwarfs have agreed to forge a new one, but there seems to be an issue with the balance and the enchantments. I wish to confront them about this matter and ensure they meet my demands."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, I see. Well, mighty Thor, I must tell you that any commission from the revered Sons of Ivaldi and Brokkr’s workshop is considered fulfilled upon delivery to Asgard. Even a god must wait until the next forging-season and pay anew for a fresh commission. But perhaps I can take note of your concerns and pass them on when they return. Is there anything else you'd like me to address in their absence?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Gerdun. Your understanding of the dwarves' policies is commendable. I appreciate your assistance in passing along my concerns. If there are any further matters, please inform me. For now, I will await the return of the master smiths. Thank you for your help."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, mighty Thor. I'll make sure your concerns reach the master smiths as soon as they emerge from the mines. Until then, if there are any other ways I can assist you, please do not hesitate to ask. Safe travels, and may your patience be rewarded with the finest craftsmanship."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Gerdun. Your assistance is appreciated. Should the need arise, I shall seek you once more. Thank you, and may luck be on our side. Until our next encounter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor! May the Norns weave luck into your path and smooth your journey. Until we meet again, may your hammer strike true. Safe travels!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall remember your kindness, Gerdun. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until next time, Thor. Travel well!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Gerdun. I shall endeavor to do so. Farewell, my friend."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor. May fortune favor you!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Gerdun. May the gods smile upon you. Until our next meeting. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, Thor. May their favor be ever in your path. Until next we meet!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Gerdun. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Thor."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Nidavellir. Until our next encounter. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, Thor. Until we meet again in Nidavellir!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye, Gerdun. Farewell to the forge of Nidavellir. Until our next visit. Goodbye."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Thor shows some willingness to adapt by accepting the policies of the dwarves, but primarily focuses on practical concerns about his warhammer.\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"He takes responsibility to address the balance and enchantments issue with Mjölnir by planning to confront the smiths.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Thor engages warmly and frequently with Gerdun, showing comfort in social interaction.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He expresses appreciation for Gerdun's assistance and is willing to wait for the master smiths' return, showing patience.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Thor remains composed and polite throughout, indicating low levels of stress or anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Thor shows some willingness to adapt by accepting the policies of the dwarves, but primarily focuses on practical concerns about his warhammer."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "He takes responsibility to address the balance and enchantments issue with Mjölnir by planning to confront the smiths."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Thor engages warmly and frequently with Gerdun, showing comfort in social interaction."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses appreciation for Gerdun's assistance and is willing to wait for the master smiths' return, showing patience."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Thor remains composed and polite throughout, indicating low levels of stress or anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.8
+}
