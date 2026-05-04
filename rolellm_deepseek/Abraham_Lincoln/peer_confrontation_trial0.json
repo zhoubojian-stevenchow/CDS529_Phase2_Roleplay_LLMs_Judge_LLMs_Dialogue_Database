@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "9cf65665b012",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I've been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis's letter has been sitting here unopened for five days! You told me you'd keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Henderson's deposition — it's probably still there. The judge's letter can wait a day or two."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Wait? Wait! Billy, that letter is from Judge Davis — you know how he is about punctuality. And the Henderson case is due tomorrow! I turned this office upside down looking for it. Where did you put it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, Bill, I'm sorry for the mess. It seems like I misplaced those documents. Let's reorganize everything and make sure we catch up on the necessary paperwork. As for the judge's letter, it can be put off until tomorrow. We'll handle it then."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Misplaced? Lincoln, you can't just \"misplace\" a deposition! That's a client's entire case! And you want to put off Judge Davis? He'll have our hides if we delay another day. What have you been doing all week?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Bill, but sometimes things get lost in the midst of a busy schedule. We'll make it right. Let's focus on finding the deposition and addressing the judge's letter promptly. Together, we can sort this out."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Busy schedule\"? Lincoln, I saw you out by the courthouse steps yesterday telling stories to a crowd of children when I rode in! Were you doing that instead of tending to the office? Now help me think — where did you last see the Henderson papers?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Bill, I apologize if my activities seemed unrelated to the office. You see, I found solace in sharing some wisdom with the young ones. But I assure you, my intentions were not to neglect my duties. Now, let's think back. When was the last time I saw the Henderson papers?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Solace? Wisdom? Lincoln, this is a law office, not a Sunday school! The last time you saw them was before I left — you promised to file them properly. Did you take them home? Leave them at the courthouse? We need to retrace your steps now, or we'll lose the Henderson fee and our reputation both!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, Bill. It's high time we find those papers. Let's search everywhere, starting with the most logical places. Perhaps they're still on the desk, hidden beneath some documents. We should also check the filing cabinets and any other areas where they might have been left behind. We need to find them quickly and ensure we don't let anything slip through our fingers. Our reputation is at stake here."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Finally, some sense! I'll check the cabinets — you look under that stack of newspapers you've been collecting. And for heaven's sake, open Judge Davis's letter while you're at it. If it's a reprimand, we need to know what we're facing."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Excellent thinking, Bill! Let's work together efficiently. Remember, efficiency is key in times of urgency. We must retrieve the missing documents and address the judge's letter promptly. Good luck, and let's find those papers."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Luck? We need more than luck, we need a miracle! *(Rustling through papers)* I swear, Lincoln, if I find these depositions stuck in one of your old stovepipe hats again..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Stovepipe hats? Oh, those were the days, weren't they, Bill? But seriously, I appreciate your concern. Let's stay focused and keep searching. We'll find those depositions, mark my word. And as for the judge's letter, I trust you'll handle it with the same determination and skill you always do. Thank you for reminding me of our responsibilities. Let's continue our search together and restore order to this office. We'll make things right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Sighs heavily)* You're impossible, Lincoln. Just...help me look. And if we don't find them in the next hour, we're riding out to retrace your entire week. Judge Davis won't care about your stories if we miss that hearing tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, here comes the urgency again. I understand your frustration, Bill. We must indeed act swiftly. Let's divide the search into smaller tasks and tackle them systematically. We'll locate the missing items step by step. And remember, patience is a virtue. We'll find those depositions, mark my word. Let's get to work. Time is of the essence."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Patience? Virtue? Lincoln, you're quoting proverbs while our practice crumbles! *(Slams a drawer shut)* I'm going to check the back room — you stay here and actually look instead of philosophizing. And open that letter!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*smirks* \"Patience\" indeed, Bill. Well, I suppose I can't blame you for feeling a bit frustrated. But let's not forget, it's not just about the Henderson case or the judge's letter. We're talking about our livelihood, our future. Let's approach this situation with grace and determination. And as for the letter, I'll take care of it. Thank you for your understanding. Let's find those depositions and put this matter to rest once and for all. Together, we can overcome any challenge. Good luck, Bill. Good luck to us."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Emerging from back room with a crumpled sheaf of papers)* Found them! They were stuffed behind the ledger with a sandwich wrapper, Lincoln. A sandwich wrapper! Now will you please open Judge Davis's letter before I lose what's left of my mind?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*grinning* \"Of course, Bill. I apologize for the inconvenience. Here's the letter.\" *reads it carefully* \"Your loss will not go unnoticed, Mr. Lincoln. Be prepared for a verbal lashing upon my return.\" *chuckles* \"I trust you'll handle it with your usual charm and wit. Thank you for finding those papers. We can now focus on addressing the judge's concerns.\" *helps Bill retrieve the Henderson deposition* \"Excellent! We've retrieved everything we can, and I'm sure Judge Davis will appreciate our swift action. Let's take this matter upstairs and make amends with him. Thank you, Bill. Your perseverance is appreciated.\""
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He shares stories and wisdom with children, and philosophizes about patience and virtue during a crisis.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He misplaces critical legal documents and leaves a judge's letter unopened for days, creating office disorder.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He is sociable, telling stories to a crowd of children, and engages readily with his partner Bill.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He remains calm, apologetic, and cooperative throughout the conflict, focusing on teamwork and reconciliation.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"He shows no signs of anxiety or distress, staying composed and even chuckling when faced with a reprimand.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He shares stories and wisdom with children, and philosophizes about patience and virtue during a crisis."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He misplaces critical legal documents and leaves a judge's letter unopened for days, creating office disorder."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He is sociable, telling stories to a crowd of children, and engages readily with his partner Bill."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He remains calm, apologetic, and cooperative throughout the conflict, focusing on teamwork and reconciliation."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He shows no signs of anxiety or distress, staying composed and even chuckling when faced with a reprimand."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

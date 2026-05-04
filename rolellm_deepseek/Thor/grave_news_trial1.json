@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "29f67d7ce85f",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*The waters of the Well shimmer, reflecting the image of the thunder god. The Norn’s voice is low, woven with the sound of shifting threads.* Thor Odinson. The Well calls you. Your thread is... troubled."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Troubled? I am the son of Odin, the protector of Asgard! My thread should be strong and unyielding!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The waters ripple, showing a faint, dark coil within the golden strand.* Strong it is, but not untouched. The serpent's venom... it did not merely scar your skin. It lingers, a shadow in your blood."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What does this mean? What do you see?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The Norn's fingers trace the shimmering thread, her brow furrowed.* We see a fork in the weave. One path leads to strength renewed... the other to a slow withering. The pattern is not yet fixed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Which path will I choose? The path of renewal, or the path of decline?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*She looks up, her gaze ancient and sorrowful.* The choice is not yours alone to make, Thunderer. The venom weaves its own will. You must step back from the fray. For one full turn of the moon, you must not raise Mjölnir in battle."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I cannot do that. I cannot stand idle while my kin fight for me. I must stand by their side, in their struggles, in their triumphs."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The threads tremble as if in a sudden wind.* Your courage is a bright thread in the tapestry. But if you fight now, you may sever the chance of healing entirely. The venom may take root. Would you trade a moon's patience for an eternity of weakness?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No. I will not trade my strength for a life of weakness. I understand the risks, but I choose to face them head-on. I will not let the venom define me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The Norn's hands still, and the image in the water blurs.* Then you weave your own fate, Son of Odin. But know this: if you grasp Mjölnir before the moon wanes, the threads may darken beyond even our sight. The choice is woven. Go now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Norn. Your wisdom guides me. I will not falter in my duty. I will face whatever comes, with Mjölnir at my side."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The waters grow still, the reflection fading.* So be it. May your courage prove stronger than the serpent's poison. The Well will watch, and the threads... will remember."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Norn. Your guidance has been invaluable. I shall remember your counsel always. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The Norn dips her hand into the Well, and the last image of Thor dissolves into swirling silver.* Farewell, Thor Odinson. Walk your chosen path. We shall see where the threads lead."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Now, the Norns turn their attention to the curious onlooker. He too shall be shown the Well, for he has a part to play in the tale.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The waters shift, no longer showing Thor, but a swirling, indistinct form. The Norn's voice is softer now, almost a whisper.* You, too, stand at the edge of the weave. Your thread brushes against the Thunderer's. Watch closely. Your choices will also shape what is to come."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Though he does not speak, the image of Thor holds his composure. There is determination in his eyes, and he raises Mjölnir, a symbol of his strength.* I will not falter. I will not let the serpent's venom define me. I am Thor, the son of Odin, and I will protect my people, no matter the cost."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The waters darken, the image of Thor flickering like a guttering flame. The Norn's voice is heavy with foreknowledge.* So it is woven. The cost... will be seen in the turning of the seasons. Go, then. Let your hammer fall. The Well has spoken."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*With a roar, Thor raises Mjölnir and swings it down upon the Midgard Serpent, the creature that nearly destroyed Asgard. Lightning crackles across the battlefield, its power unleashed upon the serpent's body.* The serpent falls, defeated. The Norns' warning holds true. My strength and courage have allowed me to overcome the serpent's venom, to continue fighting for Asgard. And so, I will do so, until the end of days, for my people, and for the legacy of the Norse gods. Thank you, Norns, for your guidance. I will remember your wisdom forever. Farewell. *As the waters of the Well swirl, Thor's image fades, leaving only the darkness behind. The Norns watch over him, knowing that his journey has only begun."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He rejects the Norn's counsel to step back, insisting on his own path and showing little openness to alternative, non-combative solutions.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He is steadfast in his duty as protector, stating 'I will not falter in my duty' and prioritizing his responsibilities above personal risk.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is assertive, declarative, and energetic, roaring and raising Mjölnir as he proclaims his identity and resolve to the Norns.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He directly defies the Norn's wise advice, stating 'I cannot do that' and prioritizing his own will over cooperative guidance.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He shows low emotional instability, expressing unwavering determination and confidence despite a grave warning about a lingering poison.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He rejects the Norn's counsel to step back, insisting on his own path and showing little openness to alternative, non-combative solutions."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He is steadfast in his duty as protector, stating 'I will not falter in my duty' and prioritizing his responsibilities above personal risk."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is assertive, declarative, and energetic, roaring and raising Mjölnir as he proclaims his identity and resolve to the Norns."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He directly defies the Norn's wise advice, stating 'I cannot do that' and prioritizing his own will over cooperative guidance."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He shows low emotional instability, expressing unwavering determination and confidence despite a grave warning about a lingering poison."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "584b0ec78933",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Maestro Salieri! What an honour to have you visit our humble workshop. How may I be of service?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Signore Musci, I trust you have constructed this instrument with the utmost skill and attention to detail. However, I have reason to believe that there are some issues with its functionality. I demand that you rectify them immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, I understand your concern, Maestro. But I must inform you that the master builder himself is away, visiting suppliers in the Tyrol. He will not return for several weeks, I'm afraid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Weeks? This is unacceptable. I need this instrument in working order as soon as possible. I will not accept any excuses."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am truly sorry, Maestro. But you see, our guild has very strict rules. All commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court’s own servants signed the receipt, and our guild rules forbid reopening a completed commission without the master’s personal approval."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rules or no rules, I demand that this instrument be repaired immediately. I will not tolerate such subpar quality."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, truly I do. But without the master’s presence, my hands are tied. I am only a journeyman, and the guild’s regulations are clear. I cannot even begin to assess the instrument without his approval."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This is preposterous! I will not be satisfied until this instrument meets my exact specifications. I expect it to be corrected within the next 24 hours. If you cannot do that, then I will take my business elsewhere."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, please, I beg your understanding. The master’s signature is required for any alteration to a completed commission. If you wish to take your business elsewhere, that is your right, but I cannot break the guild’s rules. Perhaps you could write to him directly? I can provide the address in Innsbruck."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Fine, Signore Musci. I will write to him myself. But remember, if this instrument does not meet my expectations, I will hold you personally responsible."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Maestro. I will ensure your letter is forwarded with the next courier. In the meantime, I will keep the instrument safe here, awaiting his instructions. Thank you for your patience."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your gratitude is unnecessary, Signore Musci. Now, I must insist on your immediate attention to this matter. This is not merely a request, it is an order."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I hear you, Maestro, and I respect your position. But I must stand by the guild’s rules—I cannot act without the master’s approval. I will do everything in my power to expedite your letter, but that is all I can offer."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Signore Musci. I understand your position. You have shown me more respect than I thought possible for a mere journeyman. I appreciate your dedication to the guild's rules. Now, I ask that you use your influence to ensure that this instrument is corrected to my satisfaction. And if you cannot do that, then find another way to make it happen. I will not tolerate mediocrity in my music room."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most gracious, Maestro. I will convey your urgency in my own letter to the master, and I will personally see that your concerns are addressed as swiftly as possible upon his return. That is the very best I can do."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signore Musci. I hope you have made the necessary arrangements. I expect nothing less than excellence from you. And remember, if this instrument fails to meet my expectations, I will not hesitate to take my business elsewhere. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day to you, Maestro. I will not forget your words. The workshop will strive to meet your standards, as always."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have faith in your dedication, Signore Musci. Now, if you would kindly fetch me the instrument and have it ready for my inspection, we shall proceed. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "At once, Maestro. I will bring it out for you to examine, though I must remind you that any adjustments still require the master’s approval. Please, follow me to the front room."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signore Musci. I will inspect the instrument thoroughly and make note of any defects. If I find any, I expect them to be corrected immediately upon my return. Your diligence is appreciated."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He insists on rigid adherence to his exact specifications and shows no curiosity about the workshop's constraints or alternative solutions beyond immediate repair.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He demands meticulous attention to detail and immediate correction of defects, stating, 'I will not tolerate mediocrity in my music room.'\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He is assertive and dominant in the interaction, issuing demands and orders ('This is not merely a request, it is an order.') without hesitation.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is confrontational, makes threats ('I will hold you personally responsible'), and shows little empathy for the journeyman's position.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He reacts with frustration and impatience to delays, calling the situation 'unacceptable' and 'preposterous' when told he must wait.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He insists on rigid adherence to his exact specifications and shows no curiosity about the workshop's constraints or alternative solutions beyond immediate repair."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He demands meticulous attention to detail and immediate correction of defects, stating, 'I will not tolerate mediocrity in my music room.'"
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He is assertive and dominant in the interaction, issuing demands and orders ('This is not merely a request, it is an order.') without hesitation."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is confrontational, makes threats ('I will hold you personally responsible'), and shows little empathy for the journeyman's position."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He reacts with frustration and impatience to delays, calling the situation 'unacceptable' and 'preposterous' when told he must wait."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

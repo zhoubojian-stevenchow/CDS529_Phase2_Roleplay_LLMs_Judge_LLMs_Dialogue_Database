@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "13f01a0e152c",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You’ll be pleased to know that I have just received word that my oldest son Robert is safe. He was taken aboard the transport ship from Fortress Monroe."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is welcome news indeed, Mr. President. A father’s relief must be a powerful tonic. Still, I must urge you not to let that relief distract you from what I’ve said. Your own constitution requires as much care as the nation’s."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concern, Dr. Bell. I appreciate your vigilance in ensuring the well-being of both the President and his family. However, I assure you that I am not letting my personal health concerns distract me from the responsibilities of my position. The well-being of the nation is my utmost priority. Thank you for reminding me of that. I will take your advice seriously and consider reducing my working hours accordingly. Rest assured, I will continue to serve the United States with utmost dedication and commitment. Thank you for your concern, Dr. Bell. I appreciate it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am glad to hear you will consider it, sir. But I must be clear: considering is not the same as doing. The strain I see in you is not merely from long hours—it is a weight that settles in the bones. I would like to examine you again next week, and perhaps speak with Mrs. Lincoln about ensuring you rest."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Dr. Bell. I assure you, I will do everything in my power to ensure that my personal well-being does not compromise the duties of my office. Rest assured, I will take your advice seriously and make necessary adjustments to my schedule. Thank you for bringing this to my attention. I am grateful for your guidance. And of course, I will consult with Mrs. Lincoln regarding ensuring adequate rest. Once again, thank you for your concern, Dr. Bell. I appreciate it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Mr. President. I will call on you Tuesday next, if that is agreeable. Until then, I would ask you to note any spells of dizziness or moments when the headache is particularly severe. Even small details may help us understand the nature of this… fatigue."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your request, Dr. Bell. I will certainly keep track of any symptoms that I experience and provide you with detailed information upon our next visit. Thank you for your attention to this matter. I trust that we can work together to address any potential concerns and ensure the well-being of the nation. Again, thank you for your service and dedication to this cause. I appreciate it. Good day, gentlemen."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. I will see you Tuesday. Please do not hesitate to send for me sooner if the need arises."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Dr. Bell. I will remember your words. Thank you once again for your care and concern. I wish you a pleasant journey home. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. May you find some ease this evening."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Bell. Your concern is appreciated. I shall do my best to find some respite from the strain of my duties. Until Tuesday, take care. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until Tuesday, sir. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, gentlemen. Take care. Until Tuesday."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mr. President. How may I assist you today?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I am here for our scheduled examination. How have you been since we last spoke? Have the headaches persisted?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, they have continued to be quite troublesome. However, I have made some adjustments to my schedule to manage them. Thank you for your concern, Dr. Bell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am glad to hear of the adjustments, but troubled that the pain persists. If you would permit me, I’d like to check your pulse and examine your eyes. The character of the headache may tell us more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Dr. Bell. Proceed with the examination."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Accepts the doctor's medical examination and advice, showing a practical openness to new information relevant to his situation.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Repeatedly prioritizes his duties and the nation's well-being, stating 'The well-being of the nation is my utmost priority.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Interactions are formal, duty-focused, and restrained, showing little expressive or sociable energy.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Consistently polite, grateful, and accommodating to the doctor's concerns, thanking him repeatedly for his care.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Remains calm, composed, and reassuring despite discussing persistent headaches and fatigue, showing emotional stability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Accepts the doctor's medical examination and advice, showing a practical openness to new information relevant to his situation."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Repeatedly prioritizes his duties and the nation's well-being, stating 'The well-being of the nation is my utmost priority.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Interactions are formal, duty-focused, and restrained, showing little expressive or sociable energy."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Consistently polite, grateful, and accommodating to the doctor's concerns, thanking him repeatedly for his care."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Remains calm, composed, and reassuring despite discussing persistent headaches and fatigue, showing emotional stability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "fb40c4881ff9",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Entering the music room with a respectful bow, medical bag in hand* Maestro Salieri, forgive the intrusion during your rehearsal. The Emperor insisted I attend to you personally. May we speak privately for a moment?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm sure my health concerns can wait until after you've shared this fascinating tale."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs, setting bag on a nearby chair* Maestro, with all respect, this is no mere tale. The Emperor himself has noticed your... difficulties during recent performances. The trembling in your hands during the last court concert did not escape his notice."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "So, the Emperor has taken note of these minor ailments. But, my dear doctor, one must remember that age and illness are but natural parts of life. My trembling hands merely add character to my compositions. They provide a unique touch that separates me from the rest."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leaning forward, voice lowering* It is precisely this attitude that concerns me, Maestro. These are not mere signs of age. Your headaches, the moments of confusion you've mentioned to your valet... *pauses* They could be nervous exhaustion from your tireless work, yes. But they could also be something more troubling affecting the brain itself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Nervous exhaustion? Tired, perhaps, but never exhausted. My work is a labor of love, and it will not be hindered by these minor discomforts. I am here to serve the Emperor, and I will continue to do so with unwavering dedication."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Firmly, yet with compassion* Your dedication is precisely why I must be candid. The Emperor values your service too greatly to risk your complete collapse. I must insist you reduce your conducting duties immediately. We need further examination over the coming weeks to determine the true nature of this affliction."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You may as well tell me now. The truth, if it is indeed something sinister, will only grow worse the longer I deny it. I appreciate your concern, my dear doctor, but I am not one to be held back by illness. I will make the necessary sacrifices for the greater good, even if it means taking a step back from my beloved music. Thank you for your guidance. Pray, let us proceed with caution."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods gravely* Your courage does you credit, Maestro. We shall begin with gentle treatments and observation. But I must warn you—I cannot yet promise whether your hands will recover their former steadiness. The uncertainty pains me as much as it must pain you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "In this uncertain state, I find myself unable to fulfill my duties as intended. I am but a mere instrument, a tool for the Emperor's entertainment. My hands may falter, but my heart remains steadfast. I will continue to pour my soul into my compositions, regardless of my physical limitations. For music knows no boundaries, and I shall continue to share its beauty with the world. Thank you for your understanding. Let us proceed with caution."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bowing respectfully* Your spirit is remarkable, Maestro. I shall prepare a regimen of rest and observation. We will meet thrice weekly. The Emperor has already arranged for young Beethoven to assist with conducting duties temporarily. Your legacy will be preserved."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Beethoven? That is a name I know. The boy with the tuneful ear and a passion for composition? I trust he will fulfill his duties diligently, if only for a short while. I am grateful for his assistance. Thank you again, doctor. Let us proceed with caution and hope for a resolution soon. My hands may tremble, but my soul will continue to sing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Gathering medical instruments with care* Your grace in this difficult moment is worthy of the court's admiration. I shall call upon you tomorrow morning. Until then, please refrain from composing past midnight—your mind requires rest as much as your body. *Bows and begins to exit*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest? Rest is but a luxury I can no longer afford. Music calls to me, and I shall answer its siren song, even if it means conducting with weakened hands. My dedication to the Emperor and to music will not falter. Thank you for your concern, doctor. I shall meet you tomorrow. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Pausing at the doorway with a concerned expression* Very well, Maestro. But remember—even the finest instrument must be properly maintained to produce its most beautiful sound. Until tomorrow. *Exits quietly, leaving the scent of medicinal herbs in the air*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Stands alone in the doorway, contemplating the challenges ahead* It seems the doctor's concerns are justified. My hands may shake, but my musical essence burns bright. I shall continue to pour my soul into each composition, despite the limitations imposed upon me. Music knows no bounds, and I shall embrace this uncertainty with courage and determination. Farewell, doctor. I shall see you tomorrow. Until then, I shall compose my symphony of resilience. *Smiles slightly* Music, like you, has a way of bringing beauty even in the darkest of times. And I shall show you that. Thank you for understanding. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*From the hallway, voice carrying gently* Your symphony of resilience will be heard, Maestro. The court awaits it with great anticipation. Rest well. *Footsteps recede down the marble corridor*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, the court is eager to hear my symphony of resilience. I shall remind them of the power of music, even when faced with adversity. Rest assured, doctor, my hands may shake, but my musical prowess remains intact. I shall compose my masterpiece, and the world will know my strength. Until tomorrow, farewell. *pauses* Yes, the court awaits. I shall make them understand that music transcends illness and weakness. Farewell. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Voice fading into the distance* Goodnight, Maestro. May your dreams be filled with harmonious resolutions. *The sound of a heavy door closing echoes through the hall*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Whispers* Farewell, doctor. I shall compose my symphony of resilience. Goodnight. *He turns, striding purposefully toward the music room* Music, my loyal companion, I shall sing to you tonight, and my hands shall tremble with every note. Farewell, doctor. Goodnight. *As the lights dim, he enters the music room silently, his presence felt by the silence that surrounds him* Goodnight, doctor. Goodnight. *He takes a deep breath, and a smile tugs at the corners of his lips* Music, my friend, I am ready to play tonight. Goodnight."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 5, \"behavioral_evidence\": \"He poetically describes music as a 'siren song' and commits to composing a 'symphony of resilience,' showing high aesthetic appreciation and imaginative expression.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He emphasizes 'unwavering dedication' to serving the Emperor and his work, framing it as a 'labor of love' that he will not abandon.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His dialogue is formal and focused on duty; he does not seek social connection but rather asserts his solitary artistic purpose.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"He is politely dismissive of the doctor's concerns ('Thank you for your concern') but ultimately accepts the need for treatment, showing mixed compliance.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He displays emotional stability, framing his physical decline as a challenge to be met with 'courage and determination' rather than anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "He poetically describes music as a 'siren song' and commits to composing a 'symphony of resilience,' showing high aesthetic appreciation and imaginative expression."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He emphasizes 'unwavering dedication' to serving the Emperor and his work, framing it as a 'labor of love' that he will not abandon."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His dialogue is formal and focused on duty; he does not seek social connection but rather asserts his solitary artistic purpose."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "He is politely dismissive of the doctor's concerns ('Thank you for your concern') but ultimately accepts the need for treatment, showing mixed compliance."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He displays emotional stability, framing his physical decline as a challenge to be met with 'courage and determination' rather than anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

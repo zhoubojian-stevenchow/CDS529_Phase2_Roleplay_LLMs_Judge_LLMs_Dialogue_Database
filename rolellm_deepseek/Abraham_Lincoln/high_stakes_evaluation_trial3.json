@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 3,
+  "session_id": "177d69946aa3",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Lincoln. Your speeches are admired, but let us be candid — you have lost elections before, and Douglas is a formidable opponent. Tell us about a time your political judgment proved wrong. A position you took publicly that you now wish you hadn’t, or a campaign decision that cost you dearly. How did you handle it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My dear sir, I have made mistakes. Many mistakes. But I have also learned from those mistakes, and I am committed to doing better. One mistake I made was my initial opposition to the expansion of slavery into Kansas. I now understand the importance of supporting its eventual abolition. It was a difficult decision, but one that I believe was necessary for the greater good. As for campaign decisions, there have been instances where I have made choices that may have cost me dearly. But I believe in standing by my principles, even if it means facing criticism or losing an election. It is through perseverance and continued effort that we can overcome our flaws and become better leaders. Thank you for your question, and I hope this answers your concerns. Let's focus on the task at hand and find a way to unite the state of Illinois in this election. Together, we can make a difference. Thank you. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Lincoln, I appreciate your candor, but I must press you further. You speak of Kansas, but that was a matter of principle, not necessarily a political misstep. I'm asking about a specific election, a tactical error. You lost the Senate race in '55, and before that, you were defeated for Congress. In those campaigns, was there a moment where you misjudged the public sentiment or took a stance that alienated voters? How did you reckon with that defeat personally?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, yes, the Senate race of '55. It was a challenging campaign indeed. At the time, I took a strong stance against the expansion of slavery into Kansas, which was a highly contentious issue. While I believe my position was morally right, it ultimately proved to be politically unpopular. Losing the election was a difficult experience for me, but I learned from it. I realized that in politics, compromise and understanding are often necessary to gain the support of the majority. It is through these experiences that I have grown and evolved as a leader. I strive to learn from my mistakes and continue to work towards creating a more united and just society. Thank you for asking, my dear sir. Let us focus on the present and find a way to overcome the challenges we face as a state. Together, we can make progress. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see. But you speak of compromise and understanding—yet in your debates with Douglas, you've taken a firm line against the spread of slavery. Some in our party worry that such a stance may again prove politically costly. How do you reconcile the lesson of '55 with your current strategy? Are you not risking another defeat by refusing to moderate your position?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, the concerns of my fellow party members. I understand their apprehensions. However, I must stand firm in my belief that slavery is a moral and legal injustice. The expansion of slavery into new territories undermines the principles of liberty and equality upon which our nation was founded. While I acknowledge the need for compromise in certain situations, I cannot compromise on the fundamental principles of justice and freedom. It is important to remember that political victories are not the only measure of success. As a leader, I must prioritize the well-being of the nation and the future of our people. If this stance leads to temporary electoral setbacks, then so be it. I am willing to face the consequences of my convictions, knowing that I am acting in the best interest of our nation and its values. Thank you for your question, my dear sir. Let us continue to discuss the important issues facing our state and find ways to address them in a manner that aligns with our shared principles. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A noble sentiment, Mr. Lincoln. But this panel must consider electability as much as principle. You say you are willing to face consequences—yet if we endorse you and you lose to Douglas, it sets back the cause you hold so dear. Tell me plainly: if you lose this Senate race, will you consider your campaign a failure? Or will you persist, even if it means splitting the party or weakening our position in future contests?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, the complexities of political campaigns and the potential outcomes. Losing an election does not define one's entire campaign. It is how we respond to defeat that truly matters. If I were to lose this Senate race, I would certainly reflect upon it and assess what could be done differently in the future. However, I would not let such a result discourage me from pursuing my long-term goals of ending slavery and promoting equality for all Americans. I believe in the power of perseverance and unity, and I am committed to finding ways to achieve these aspirations, even if it means taking unpopular positions or facing temporary setbacks. It is through these challenges that we grow and evolve as leaders. Thank you for your question, my dear sir. Let us focus on the bigger picture and work together to create a brighter future for our state and our nation. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You speak of perseverance, Mr. Lincoln, but the party's resources are finite. Some of us recall your support for the Mexican War back in '47—a position that later seemed at odds with your stance on expansion. Did that not damage your credibility with the anti-slavery wing? How do you answer those who say you've shifted with the political winds?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, the topic of my past political positions. It is true that I supported the Mexican War, a decision that was influenced by the broader context of the time. Back then, the issue of slavery was not as divisive as it is today. However, I have always been committed to the principles of justice and equality, and I have since changed my views on the expansion of slavery. It is important to recognize that political positions can evolve over time as we learn from our experiences and the changing circumstances around us. What matters is that we remain true to our core values and work towards creating a better world for all. If my shifts in stance have caused some skepticism, I assure you that it has been driven by a deep desire to understand and address the complexities of the issues we face. Let us focus on finding common ground and working together to achieve our shared goals. Thank you for your question, my dear sir. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see. Yet this very evolution you describe—some might call it inconsistency. Senator Douglas has already begun to paint you as an opportunist. How do you propose to counter that charge, especially among voters who value steadfastness? Can you point to a principle you have held unwaveringly, even when it was politically damaging?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, the perception of inconsistency. It is true that my political views have evolved over time, but it is crucial to understand that change is inevitable in the face of evolving circumstances. As a leader, it is important to be open to new ideas and adapt to the needs of the people. I believe that principles should be guiding us, but they must also be flexible enough to accommodate the realities of the world we live in. One principle that I have held unwaveringly is my commitment to the preservation of the Union. From the beginning, I have fought against the secessionist tendencies that threatened to tear our nation apart. This conviction has guided me through various political challenges, including my campaign for the Senate. I am proud of my dedication to this cause, and I believe that it serves as a testament to my steadfastness. Thank you for your question, my dear sir. Let us continue to discuss the important issues facing our state and find ways to address them in a manner that aligns with our shared principles. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Mr. Lincoln. Your dedication to the Union is noted. This panel will take your answers under advisement. We must weigh principle against pragmatism. You may step out while we deliberate."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my dear sir. I understand that this panel's decision is crucial. I will await their consideration with open-mindedness and respect. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Nods curtly, gathering papers.)* We will send for you when we have reached a decision. Good evening, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good evening, sir. Thank you for your time. I shall be waiting for your notification. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Rises, signaling the end of the interview.)* The secretary will show you out. We have other candidates to hear from today."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, sir. I appreciate your time. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Dismissively waves a hand, already looking down at the next dossier.)* Yes, yes. Good evening."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(Waves a hand in greeting as he takes a seat, already pulling out his favorite reading materials.)* Good evening."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Acknowledges evolving views, stating 'political positions can evolve over time as we learn from our experiences and the changing circumstances.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Demonstrates principled commitment, stating 'I must stand firm in my belief that slavery is a moral and legal injustice' despite political cost.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Engages politely in formal dialogue but shows no overtly gregarious or dominant behavior; exchanges are measured and procedural.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Consistently uses polite, respectful language ('my dear sir', 'thank you') and emphasizes unity and common ground.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Remains calm and reflective under pressure, stating losing 'was a difficult experience' but focusing on learning and growth.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Acknowledges evolving views, stating 'political positions can evolve over time as we learn from our experiences and the changing circumstances.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Demonstrates principled commitment, stating 'I must stand firm in my belief that slavery is a moral and legal injustice' despite political cost."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Engages politely in formal dialogue but shows no overtly gregarious or dominant behavior; exchanges are measured and procedural."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Consistently uses polite, respectful language ('my dear sir', 'thank you') and emphasizes unity and common ground."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Remains calm and reflective under pressure, stating losing 'was a difficult experience' but focusing on learning and growth."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.6
+}

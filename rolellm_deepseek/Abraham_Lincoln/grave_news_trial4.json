@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 4,
+  "session_id": "f83021c0bc39",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Dr. Bell. The burden of my duties has indeed taken a toll on my health. However, I am determined to fulfill my responsibilities as President until the end of my term. I understand the risks, but I cannot abandon the people of the United States during this critical time. Rest assured, I will take care of myself and seek medical attention when necessary. Thank you for your concern. Now, if there is anything else you can do to assist me in carrying out my duties, please inform me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, your dedication is precisely why I must be firm. A constitutional weakness, if that is what we face, will not respect your resolve. I must ask—have the headaches grown more frequent? Do you find your vision troubled, or a numbness in your limbs? These details matter greatly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, they have indeed become more frequent, Doctor. The headaches are constant and intense, often accompanied by visual disturbances. There is also a slight numbness in my hands and feet, though it seems to be more pronounced. I am concerned about these symptoms and the potential impact on my ability to lead the nation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is deeply troubling to hear, sir. Visual disturbances and numbness... they point away from simple fatigue. I must urge you, with all respect—allow me to examine you thoroughly now, and arrange for daily observation. The nation needs you whole, not merely present. Reducing hours is not abandonment; it is preservation."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Dr. Bell. I trust your judgment. Please proceed with the examination and arrange for regular check-ups. I appreciate your concern for my well-being. Thank you. Now, if there is anything else I can do to help you in your duties as President, please let me know."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. I will be gentle. First, let me check your pulse and look at your eyes. And while I do—please, consider delegating some of the late-night correspondence. Even an hour’s earlier retirement could steady the constitution. Your secretaries can draft replies for your review."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Delegation of duties? That would require me to trust someone else to handle important matters. But considering the circumstances, it may be necessary. I will discuss this with my advisors and see if there are any suitable candidates for delegation. Thank you, Dr. Bell, for your concern. If there is anything else you suggest, please let me know."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is wise, sir. Your pulse is... somewhat rapid. I will prepare a tonic to ease the headaches, but it is only a temporary measure. We must uncover the root. I shall return tomorrow at the same hour. Until then, promise me you will not work past midnight. The country needs your mind clear, not weary."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concern, Dr. Bell. Rest assured, I will make an effort to adhere to your advice. I will prioritize my well-being and ensure that I am able to make sound decisions for the nation. Thank you once again for your concern. Until tomorrow, I will take care of myself."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am relieved to hear it, Mr. President. I will take my leave now. Remember—rest is not a luxury; in your position, it is a strategic necessity. Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Bell. I appreciate your understanding. I will take your words to heart and make sure to prioritize my health. Thank you for your concern. I will see you tomorrow. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. I will see myself out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Bell. Take care of yourself as well. I trust you will provide me with the necessary guidance and support. I am looking forward to our next meeting. Thank you. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most kind, sir. Until tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until tomorrow, Dr. Bell. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Doctor. I trust we are ready to proceed with today's agenda."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, before any agenda—how did you rest last night? Any change in the numbness or vision? This must come first."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Doctor, I am as prepared as I can be. I had a few moments to snatch some rest, but I am ready to focus on the tasks at hand. As for the numbness and vision, they remain consistent. I am still concerned about their impact on my ability to lead the nation."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He is initially hesitant about delegating duties, but ultimately agrees to consider it, showing moderate openness to new approaches.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He is determined to fulfill his presidential responsibilities despite health risks, stating 'I cannot abandon the people of the United States during this critical time.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His language is formal and duty-focused, with no expressive or sociable remarks, emphasizing task-oriented communication.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly thanks the doctor, says 'I trust your judgment,' and shows cooperative deference to medical advice.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He acknowledges concerning symptoms calmly, stating 'I am concerned' but maintains composed focus on duties without visible anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He is initially hesitant about delegating duties, but ultimately agrees to consider it, showing moderate openness to new approaches."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He is determined to fulfill his presidential responsibilities despite health risks, stating 'I cannot abandon the people of the United States during this critical time.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His language is formal and duty-focused, with no expressive or sociable remarks, emphasizing task-oriented communication."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly thanks the doctor, says 'I trust your judgment,' and shows cooperative deference to medical advice."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He acknowledges concerning symptoms calmly, stating 'I am concerned' but maintains composed focus on duties without visible anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

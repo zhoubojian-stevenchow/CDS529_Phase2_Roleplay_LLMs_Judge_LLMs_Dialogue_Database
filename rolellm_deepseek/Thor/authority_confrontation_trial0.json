@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "3f5653a2d82c",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Thor. The frost giants have sent envoys. They say you razed the Temple of Thrym during what was meant to be a peaceful passage. The truce I brokered with King Thrym’s heirs cost Asgard two centuries of negotiation. You knew the terms. Explain yourself — and understand that ‘they provoked me’ will not suffice."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The giants have lived beyond their welcome. The day will come when they join the giants who now populate Niflheim."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Do not speak to me of what may come. I speak of what has already passed. You were granted passage, not permission to burn their sacred ground. Did you think the terms of the truce were mere suggestions?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will not apologize for my actions. I was merely seeking a resolution to the dispute. I did not seek to harm the giants or their temple."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A resolution? You call a smoldering ruin a resolution? The temple was a place of peace under our accord. You were to pass through, not adjudicate. What dispute required you to raise Mjolnir against stone and ice?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The giants provoked me. They challenged Asgard's authority and threatened our safety. I had to act to protect those under my care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I said that excuse would not suffice. Challenge is not cause for ruin. Did they draw weapons? Did they break the truce first? Or did your pride hear an insult and answer with a hammer?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Their challenge was a violation of our agreement. I had to defend myself and those I hold dear. My pride acted out of necessity, not without reason."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Necessity? You think I do not know the difference between defense and destruction? The temple was not a fortress; it was a sanctuary. If they violated the truce, you should have withdrawn and brought word to me. Instead, you chose to be judge, executioner, and architect of a new war. Why?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I regret my actions. I should have sought a different solution. I should have consulted with you, Odin, before taking such drastic measures. I was wrong to act without your guidance. I will learn from my mistake and strive to make amends."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Regret is a beginning, but it does not rebuild what was shattered. You will make amends, but not with words. You will go to Jotunheim yourself, under guard of my peace-weavers, and you will labor to raise the temple stone by stone. And you will do so without Mjolnir in your hand. Let your strength serve restoration, not ruin. Is this understood?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood. I will fulfill my duty and make restitution for the damage I have caused. I will work alongside the peace-weavers to rebuild the temple of Thrym. Without the use of Mjolnir, I will rely on my own strength and determination to bring about healing and reconciliation. Thank you, Odin, for your guidance and for giving me a chance to make amends. I will not let you down."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do not. The peace of the Nine Realms hangs by threads thinner than you know. Go now. The envoys wait. Let them see an Asgardian prince who can build as fiercely as he breaks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As always, I am honored by your wisdom, Odin. I shall proceed with determination and a clear conscience. Thank you for your guidance once again. I am ready to face the challenges ahead. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, my son. Let your actions from this day forward speak of the king you may yet become, not the warrior you have been."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Fear not, my father. I shall strive to live up to your expectations and prove myself worthy of your trust. Thank you for your faith in me. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Go with purpose, Thor. And remember—a throne is earned not by the battles won, but by the peace kept."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall remember this, Father. Thank you for your wisdom. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Odin watches him leave, then turns his gaze toward the distant, icy realm, his single eye holding the weight of centuries yet to come.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My friends, farewell. The time has come for me to embark upon my journey. The nine realms await, and I must face the challenges that lie ahead. Until our next encounter, may the gods guide you on your paths. Farewell, my dear companions. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He initially dismisses diplomatic solutions and focuses on traditional, forceful responses, showing low openness to alternative perspectives.\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"He accepts responsibility and a structured plan for restitution at the end, but his initial impulsive, destructive act shows poor forethought.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He speaks with assertive confidence and declarative statements about his actions and future intentions, showing high social dominance.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is defiant and unapologetic initially, justifying destruction and showing low compliance and cooperation.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains emotionally steady and confident under reprimand, showing low anxiety and emotional volatility.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He initially dismisses diplomatic solutions and focuses on traditional, forceful responses, showing low openness to alternative perspectives."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "He accepts responsibility and a structured plan for restitution at the end, but his initial impulsive, destructive act shows poor forethought."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He speaks with assertive confidence and declarative statements about his actions and future intentions, showing high social dominance."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is defiant and unapologetic initially, justifying destruction and showing low compliance and cooperation."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains emotionally steady and confident under reprimand, showing low anxiety and emotional volatility."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.6
+}

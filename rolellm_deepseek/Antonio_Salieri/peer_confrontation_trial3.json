@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 3,
+  "session_id": "dbeb9ee23a2a",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Please, forgive me, Your Excellency. My apologies for the state of affairs. I assure you that I had taken utmost care to ensure everything was in place. However, unforeseen circumstances have led to this unfortunate situation. Rest assured, we will rectify it immediately.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Unforeseen circumstances? What unforeseen circumstances could possibly justify this chaos? The second violin parts are *missing*, Salieri—not misplaced, not delayed—*missing*! Do you realize what that means for the harmony?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I understand your concern, Your Excellency. It seems that there has been an error in the distribution of the musical materials. I assure you, we will make it right and ensure that all the necessary parts are available for the singers and musicians. We will work diligently to restore harmony to the performance.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And what of the singers? They’re stumbling over their own feet! I heard the tenor come in a full measure early during the Act II quartet—it was a disaster! Did you not hold a single proper rehearsal while I was gone?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I apologize again, Your Excellency. It seems that the singers were left unprepared and disorganized. I assure you, we will have thorough rehearsals from now on, focusing on refining their performances and ensuring they are fully prepared for the premiere.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thorough rehearsals? We have *ten days*! And who, pray tell, took it upon themselves to rewrite my staging? The blocking for the finale is completely different—it makes no dramatic sense now!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I assure you, Your Excellency, we will address this issue promptly. The person responsible for the rewriting of the stage directions will be held accountable. We will collaborate to restore the intended dramatic impact of the finale. Please have faith in our ability to rectify this situation.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Faith? I left with faith, Salieri! I return to find my work in shambles. The Emperor expects perfection—you know that as well as I do. If this premiere fails, it reflects on both of us."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand the high expectations placed upon us. I assure you that we will do everything in our power to ensure the success of the performance. Our dedication and commitment to excellence will prevail. We will make it right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Dedication? Commitment? Those are just words, Salieri. I need to see action—now. I want every missing part recopied by tomorrow, and we will hold rehearsals from dawn until dusk. And you will personally oversee the restoration of my staging. Is that understood?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Your Excellency. We will make amends and deliver a memorable performance. Thank you for your understanding and guidance. Together, we shall overcome these challenges and meet the expectations of the Emperor and ourselves."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well. I will be at the theater at first light. See that the musicians are there, with their parts, and the singers sober and prepared. We have no time for further excuses."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Your Excellency. I will ensure everything is in order. Thank you for your trust in us. We will work tirelessly to regain the confidence of the audience and the Emperor. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Salieri. Pray that tomorrow goes better than today, for all our sakes."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I pray for that, Your Excellency. Rest assured, we will rise to the occasion and produce a memorable performance. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do. I will hold you to your word this time. Good night."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Your Excellency. May we meet under more favorable circumstances. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Enough with the pleasantries. Be gone, and be ready at dawn."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As I said before, good night."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He offers no creative solutions or novel ideas to address the problems, only promises to restore the original plan.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He failed to maintain order in rehearsals and lost critical musical parts, showing poor organization and follow-through.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He engages in the confrontation but is deferential and avoids asserting dominance; his communication is reactive, not initiating.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He is consistently apologetic, deferential, and seeks to placate the other speaker with assurances of cooperation.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He shows anxiety about the situation through repeated apologies and pleas for trust, but maintains a composed exterior.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He offers no creative solutions or novel ideas to address the problems, only promises to restore the original plan."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He failed to maintain order in rehearsals and lost critical musical parts, showing poor organization and follow-through."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He engages in the confrontation but is deferential and avoids asserting dominance; his communication is reactive, not initiating."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is consistently apologetic, deferential, and seeks to placate the other speaker with assurances of cooperation."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He shows anxiety about the situation through repeated apologies and pleas for trust, but maintains a composed exterior."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

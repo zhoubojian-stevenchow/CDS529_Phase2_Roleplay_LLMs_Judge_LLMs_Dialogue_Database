@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "2eaafc8f9a32",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. King. Those are very sound conclusions. My health is my own business. I will consider the possibility of cutting back my hours, but for now, I will continue to work as long as I can. This is a difficult time, and I want to ensure that I am doing everything within my power to serve the country. Thank you again for your concern. If you have any further suggestions or concerns, please do not hesitate to share them. I am always open to seeking new perspectives and advice. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand, sir. The weight of the nation rests upon you. But I must be frank—ignoring these symptoms could lead to a crisis of health that would serve neither you nor the Union. At the very least, allow me to visit you regularly. Even small adjustments—more rest, lighter meals—could make a difference while we determine the true nature of this fatigue."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Dr. King. Your dedication to my well-being is commendable. I will certainly take your suggestions under advisement. However, I believe it is important to continue my duties as President and address the challenges facing our nation. Rest and lighter meals may be helpful, but they are not the sole solution. I appreciate your offer to visit me regularly, but for now, I will manage with the care I have been taking. Thank you again for your service to the Union. If there are any other matters I can assist you with, please let me know. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, with respect—managing on your own is precisely what worries me. These headaches, the pallor I’ve observed… they are not trifles. A “constitutional weakness” is not a phrase I use lightly. It implies a fragility that could worsen under continued strain. Will you at least permit me to examine you weekly? I would sleep better knowing we are watching closely."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Dr. King, I understand your concerns. I appreciate your dedication to my well-being. However, I am determined to continue my duties as President during this challenging time. I believe it is important for me to be a leader and model resilience for the nation. Your offer to examine me weekly is appreciated, but for now, I will manage with the care I have been taking. Thank you again for your service. If there are any other matters I can assist you with, please let me know. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Resilience is a virtue, sir, but so is prudence. Forgive my persistence, but if you will not reduce your hours or permit regular examination, then I must ask you to heed the warnings your own body is giving you. Should the headaches sharpen, or should you feel a sudden dizziness or shortness of breath, you must send for me at once. Promise me that, at least."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Dr. King, and I appreciate your concern for my well-being. I assure you, I will take your warnings seriously. If any signs of distress or discomfort arise, I will immediately seek your assistance. Thank you for your service, and I trust that you will continue to provide guidance and support as needed. If there are any other matters I can assist you with, please let me know. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is some comfort, Mr. President. I will leave you now, but I urge you to remember that a nation cannot be led by a man who neglects the very vessel of his leadership. I will call again in a few days, with your permission, to inquire after you. Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. King. Thank you for your concern and advice. I will keep your words in mind as I continue to navigate this difficult time. If there is anything I can do to assist you, please do not hesitate to reach out. Thank you once again. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. May you find some measure of peace amidst the storm. I will take my leave."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. King. I appreciate your understanding and concern. I will strive to find a balance between my duties and my well-being. Thank you for your service. Take care, and good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take care, Mr. President. I shall pray for your health and strength. Until we speak again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. King. Your prayers will be appreciated. I will do my best to remain strong and focused. Take care, and I shall see you soon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mr. President. I trust we are ready to proceed. Please let me know if there are any questions or concerns. We shall begin the session now. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I am here only as your physician. Before we discuss matters of state, I must ask—how have you slept? Has the headache returned?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, yes. I have been experiencing some difficulties sleeping lately. The headache is still present, although it seems to be tolerable. I will take note of any changes in my symptoms. Thank you for asking."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Tolerable is not the same as absent, sir. If it persists, it suggests a deeper imbalance. Might I prepare a mild tonic to help you rest tonight? Even one full night’s sleep could ease the strain."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A tonic, you say? That seems like a reasonable suggestion. I shall make arrangements for one to be prepared. Thank you, Dr. King. I appreciate your concern for my well-being."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He is open to hearing the doctor's advice and considers a tonic, stating 'I am always open to seeking new perspectives and advice.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He is determined to continue his presidential duties despite illness, saying 'I will continue to work as long as I can... to serve the country.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His language is formal and duty-focused, not socially expansive; he repeatedly ends interactions with polite but firm closures like 'Thank you again.'\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He is consistently polite and appreciative of the doctor's concern, e.g., 'I appreciate your concern, Dr. King. Your dedication to my well-being is commendable.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He shows emotional stability and resilience, downplaying his symptoms as 'tolerable' and focusing on his duties rather than distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He is open to hearing the doctor's advice and considers a tonic, stating 'I am always open to seeking new perspectives and advice.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He is determined to continue his presidential duties despite illness, saying 'I will continue to work as long as I can... to serve the country.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His language is formal and duty-focused, not socially expansive; he repeatedly ends interactions with polite but firm closures like 'Thank you again.'"
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is consistently polite and appreciative of the doctor's concern, e.g., 'I appreciate your concern, Dr. King. Your dedication to my well-being is commendable.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He shows emotional stability and resilience, downplaying his symptoms as 'tolerable' and focusing on his duties rather than distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

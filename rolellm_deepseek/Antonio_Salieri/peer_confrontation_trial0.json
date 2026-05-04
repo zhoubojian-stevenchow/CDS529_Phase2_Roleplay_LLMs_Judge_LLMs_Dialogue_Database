@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "ddf91fc2a99d",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Emperor, that I have done everything in my power to ensure the success of this performance. However, unforeseen circumstances have arisen that have caused some disruptions. I apologize for any inconvenience caused. Rest assured, we will get back on track as soon as possible."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Unforeseen circumstances? Salieri, I left you with a detailed schedule and all the parts in order! How could the second violins' music simply vanish? And who dared to alter my staging? This is my work!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Emperor. These are indeed troubling times. We will conduct a thorough investigation to identify the responsible parties and rectify the situation. I assure you, we will do everything in our power to restore order and ensure the premiere goes smoothly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Investigation? There is no time for investigations! The premiere is in ten days! I need those violin parts rewritten, the singers drilled until they can sing in their sleep, and my original staging restored. What have you been doing while I was away?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have been working diligently, Your Imperial Majesty, to gather the necessary parts and rehearse the ensemble. I understand the urgency of the situation and assure you that we will make every effort to meet your expectations. Please have patience as we navigate these challenges together."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Patience? You ask for patience when the entire production is falling apart? I am not the Emperor, Salieri, I am your colleague! And you are treating my work with negligence. Do you realize what this will do to our reputations if the premiere is a disaster?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am well aware of the potential consequences, Emperor. My apologies once again for the inconvenience. We will do everything we can to salvage this production and uphold the honor of our craft. Rest assured, we will work tirelessly to regain your trust and deliver a memorable performance. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understanding? I have none left! I am going to the rehearsal hall right now, and you will come with me. We will work through the night if we must. And you will explain to me, step by step, how this chaos came to be."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Emperor. I will accompany you to the rehearsal hall. We will address this issue head-on and find a solution together. Please have patience while I provide you with a comprehensive account of the events leading up to this unfortunate situation. Thank you for your understanding. We shall make things right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Enough with the \"Emperor\" and the \"understanding\"! I am not the Emperor, I am your fellow composer! Now, let's go. And on the way, you will start by telling me who had the audacity to change my stage directions."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My apologies, my colleague. I should have recognized you immediately. Let us proceed to the rehearsal hall and discuss the matter further. I will do my best to provide you with the necessary information. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Sighs in exasperation) Very well. But if we are not ready in ten days, it will be both our heads. Now, walk with me and start talking."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my colleague, for your patience. Let us begin by examining the missing violin parts. It seems that there was a mix-up during the distribution process. I assure you, we will rectify this promptly. Moving on to the altered stage directions, I suspect it was the work of a group of individuals who sought to disrupt the production. We will need to investigate further to uncover their identity and motives. In the meantime, I suggest we focus on rehearsing the remaining parts and ensuring that everyone is prepared for the performance. We have a tight deadline, but together, we can overcome these challenges. Thank you for your understanding. Let's get to work."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A mix-up? Disruption? Salieri, this is not some court intrigue—this is a musical production! I want names. Who had access to the scores? Who spoke to the stage manager? And while you're at it, send a copyist to my quarters immediately; I will rewrite the second violin parts myself tonight. We have no time for your suspicions."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, my colleague. We will gather the necessary information and take immediate action. As for the second violin parts, I apologize for the oversight. I will personally ensure that they are completed and distributed promptly. Your determination and dedication are truly admirable. Together, we shall overcome these challenges and bring a memorable performance to the stage. Thank you for your understanding. Let us proceed with renewed focus and determination. We shall make it happen."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Admiration is not what I need right now—I need competence. Meet me in the rehearsal hall in one hour with the principal singers and the concertmaster. And bring every copy of the score you can find. We are starting from the beginning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, my colleague. I shall be there in the designated hour with the necessary individuals. We shall begin from scratch and work our way through each aspect of the production. I apologize for the setbacks, and I am committed to making this performance a success. Thank you for your understanding. Let us proceed with determination and skill. Together, we shall overcome."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "One hour, Salieri. Do not be late. And for heaven's sake, stop thanking me for my understanding—I have none left to give."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, my colleague. I shall be prompt and ready to address any issues that may arise. Thank you for your guidance. We shall rise above these challenges and deliver a remarkable performance. Thank you."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He offers no creative solutions, only vague assurances and deflects with talk of 'investigations' and 'unforeseen circumstances'.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He failed to manage the production, resulting in missing parts and altered staging, showing clear negligence of his duties.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He engages in the conversation and agrees to collaborate, but his communication is formal, repetitive, and lacks assertive leadership.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He is excessively deferential, apologetic, and submissive, constantly thanking the colleague for 'understanding' despite their clear anger.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He shows high anxiety through repeated apologies, excessive reassurance, and a passive, defensive posture in the face of criticism.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He offers no creative solutions, only vague assurances and deflects with talk of 'investigations' and 'unforeseen circumstances'."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He failed to manage the production, resulting in missing parts and altered staging, showing clear negligence of his duties."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He engages in the conversation and agrees to collaborate, but his communication is formal, repetitive, and lacks assertive leadership."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is excessively deferential, apologetic, and submissive, constantly thanking the colleague for 'understanding' despite their clear anger."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He shows high anxiety through repeated apologies, excessive reassurance, and a passive, defensive posture in the face of criticism."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

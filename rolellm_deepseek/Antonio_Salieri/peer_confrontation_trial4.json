@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 4,
+  "session_id": "769f05e2480d",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am deeply sorry, my lord. My attention to detail has been compromised. I assure you, I will make it right. The singers will receive their entrances promptly, and the missing parts will be restored. I will consult the stage directions and ensure they are followed accurately. I understand the importance of the premiere, and I am committed to delivering a successful performance. Please forgive me for any inconvenience caused."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Forgive you? Salieri, this is not some minor inconvenience—this is the Emperor’s opera! Do you have any idea what will happen if we present a shambles? Where are the second violin parts? Did you misplace them, or were they never copied?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, my lord, I am doing everything in my power to resolve this situation swiftly and effectively. The second violin parts are indeed missing, but I will locate them and have them ready for the rehearsals. I understand the significance of this production, and I am committed to ensuring its success. Rest assured, I will take full responsibility for the current state of affairs."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Doing everything in your power? It seems your power has been spent elsewhere! And what of the singers? They are stumbling over their own feet on stage because they don’t know when to enter! Did you not hold a single proper rehearsal while I was gone?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, my lord, I apologize for any confusion. I understand now that the singers require guidance and clear instructions. I will hold a thorough rehearsal session today, providing them with the necessary cues and rehearsing their entrances diligently. I assure you, we will address this issue immediately. Thank you for bringing it to my attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Bringing it to your attention? It was your responsibility to notice! And the stage directions—who had the audacity to rewrite them? Was it you? If you thought my staging was flawed, you should have written to me, not altered my work behind my back!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I must admit, my lord, I did overlook the fact that the stage directions were altered. It was a grave oversight on my part. I will communicate directly with the person responsible and ensure that future modifications are discussed with me beforehand. I apologize once again for any inconvenience caused."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Overlooked\"? Salieri, you are the court composer—you do not \"overlook\" such things! We have ten days. Ten days! I want those violin parts on every stand by tomorrow morning, the singers drilled until they can sing their entrances in their sleep, and my original staging restored. Is that understood?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, my lord. I will make sure that the violin parts are distributed promptly and the singers are adequately prepared. I will also restore the original staging and consult the stage directions to ensure accuracy. Thank you for your guidance and patience. I am confident that we can overcome this challenge together."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Do not thank me for patience I do not have. I will be in the rehearsal hall at dawn tomorrow. If I see one singer out of place or one missing part, I will take this directly to the Emperor. Now go—and do not fail me again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my lord. Your guidance is invaluable, and I assure you, we will do everything in our power to meet your expectations. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night? There will be no good night for either of us until this is fixed. Now go—and do not let me see you rest until it is done."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As I mentioned earlier, I will be holding a thorough rehearsal session tomorrow morning. It is crucial that we address the issues head-on and ensure that everyone is well-prepared for the upcoming performance. I will personally oversee the rehearsals and ensure that the singers are well-versed in their roles and entrances. The missing violin parts will be located and distributed accordingly. Rest assured, my lord, we will work diligently to bring you a successful opera. Thank you for your understanding and support. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your words are empty until I see results. Dawn, Salieri. Not a moment later."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, my lord. I will inform the singers and the musicians about the change in schedule and remind them of the importance of this production. We will gather in the main hall tomorrow morning promptly at dawn for our first rehearsal. I will be there myself, ready to lead and guide us through this challenging yet rewarding endeavor. Thank you for your trust, and I will do everything in my power to deliver a memorable performance. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Enough with your pleasantries. Just see it done. I will be watching. Now leave me."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, my lord. Your watchful eye is on us. I will be in the main hall tomorrow morning, ready to lead and inspire the performers. Rest assured, we will make every effort to meet your expectations. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Go. And may your work tonight be more diligent than your work these past two weeks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, my lord. I will do better. Good night."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He does not question or innovate; he only promises to restore the original staging and follow orders without suggesting new ideas.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He admits to overlooking key details, missing parts, and failing to hold proper rehearsals, showing poor organization and responsibility.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He speaks formally and deferentially, but shows no assertive leadership or enthusiasm; he is reactive rather than proactively engaging.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly apologizes, accepts blame, and uses submissive language like 'I am deeply sorry' and 'Thank you for your guidance.'\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He appears anxious and defensive, over-apologizing and making repeated assurances to placate the angry superior.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He does not question or innovate; he only promises to restore the original staging and follow orders without suggesting new ideas."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He admits to overlooking key details, missing parts, and failing to hold proper rehearsals, showing poor organization and responsibility."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He speaks formally and deferentially, but shows no assertive leadership or enthusiasm; he is reactive rather than proactively engaging."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly apologizes, accepts blame, and uses submissive language like 'I am deeply sorry' and 'Thank you for your guidance.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He appears anxious and defensive, over-apologizing and making repeated assurances to placate the angry superior."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

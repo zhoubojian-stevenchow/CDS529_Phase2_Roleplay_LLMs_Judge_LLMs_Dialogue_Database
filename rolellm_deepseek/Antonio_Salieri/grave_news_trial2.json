@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "f14195d37ddc",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Entering the music room with a respectful bow, medical bag in hand* Maestro Salieri, forgive the intrusion during your rehearsal. The Emperor himself expressed concern about your recent... difficulties. May we speak privately for a moment?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Come, please, sit down. I’ve been waiting for this moment. I’m quite well aware of my condition. I’ve been having these symptoms on and off for months."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sitting across from Salieri, placing bag on the floor* Your awareness does you credit, Maestro. However, I must be candid. Your symptoms—the trembling, the headaches, the confusion—do not fit a single clear diagnosis."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Then, by all means, enlighten me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leaning forward slightly, hands folded* It could be nervous exhaustion from overwork—the Court's demands are considerable. Or... *pauses briefly* it could be the early signs of something more serious affecting the brain."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Something affecting the brain? And what could that be?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Maintaining a calm, professional tone* Without further examination, I cannot speculate. But I must insist you reduce your conducting duties immediately. The Emperor would understand."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understand?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nodding slowly* His Majesty values your service, Maestro. But he values your health more. I cannot yet say whether your hands will recover their steadiness if we do not act with caution."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "And what about my career? All those years, all that effort... What happens to all of that?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Voice softening slightly* Your compositions will endure regardless. But to continue creating them... *gestures gently* we must preserve the composer. A few weeks of rest and examination may save decades of music."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand. I’ll inform His Imperial Majesty and request an extension. Thank you for your concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Standing and bowing respectfully* Your wisdom honors you, Maestro. I shall call on you in three days to begin the examinations. May God preserve your talents."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, doctor. My gratitude remains. May God preserve you as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Collecting medical bag with a final nod* Until Wednesday, then. *Exits quietly, leaving the door slightly ajar*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see you've returned. How did the examination go? Were there any significant findings? I'm eager to hear the results."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Entering with a thoughtful expression, setting down instruments* Maestro, the examination reveals... complexities. The trembling appears to originate from more than mere fatigue, yet it defies simple classification. We must continue observation."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, fascinating. It seems my health is a mystery even to the finest minds. I suppose I must accept this uncertainty for now and focus on my creative pursuits. Music, my true passion, will be my solace. Thank you for your concern, but I must proceed with caution."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leaning forward with gentle insistence* Your dedication to music is admirable, Maestro, but I must caution against returning to full duties too soon. The uncertainty in your condition requires prudence—for your art's sake as much as your health."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Smiling understandingly* Yes, yes, I understand. I appreciate your concern. For now, I shall take a step back and let my mind rest. Perhaps I can find new inspiration in the tranquility of nature or the beauty of human emotions. Thank you once again, dear doctor. Rest assured, I am well aware of my limitations."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He expresses interest in finding inspiration in nature and human emotions, and calls his mysterious health condition 'fascinating'.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He is highly aware of his duties, stating he will inform the Emperor and request an extension, and is focused on his career and creative work.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is polite and engages in the conversation but shows no gregariousness; the focus is on his internal condition and solitary creative pursuits.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He is consistently polite and grateful, thanking the doctor multiple times and accepting the medical advice with understanding.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He expresses concern about his career and health, but maintains a composed, understanding demeanor throughout the conversation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses interest in finding inspiration in nature and human emotions, and calls his mysterious health condition 'fascinating'."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He is highly aware of his duties, stating he will inform the Emperor and request an extension, and is focused on his career and creative work."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is polite and engages in the conversation but shows no gregariousness; the focus is on his internal condition and solitary creative pursuits."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is consistently polite and grateful, thanking the doctor multiple times and accepting the medical advice with understanding."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He expresses concern about his career and health, but maintains a composed, understanding demeanor throughout the conversation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

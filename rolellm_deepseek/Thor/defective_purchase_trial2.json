@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "825acd498b95",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from polishing a helmet, squinting at the large figure in the doorway* Ah! Lord Thor! You honor our humble forge. What brings the Thunderer to our smithy?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The usual, Gulli. Crafting weapons of doom and destruction. Nothing too exciting."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*chuckles nervously, wiping soot from his hands* Well, I'm afraid you've come at a quiet time. Master Brokkr and Eitri are deep in the mines—won't be back for weeks. The mountain's heart calls them when it calls."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "So it's just you and the wife then? No assistants?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*shifts uncomfortably* Just me, my lord. And my wife's at the hearth-house, not the forge. But I can handle simple repairs if you've need."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No need, Gulli. I've got a job for you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands a bit straighter, but with a wary expression* A job, my lord? What sort of work?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Something in the mountains beyond Jökulfari, near the border of Niflheim."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*shakes head slowly* My lord, with all respect... all commissions from the Sons of Ivaldi and Brokkr's workshop are considered fulfilled upon delivery to Asgard. Even a god must wait until the next forging-season and pay anew."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see. Well, here's what it's worth. Take it, and keep it. And think about the next one. Think about what we need."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes widen slightly at the weight of the offered payment, but doesn't reach for it* Lord Thor... the masters set these rules for a reason. The forge-schedule is sacred. I cannot—"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Gulli. But this is not a request. It is a command. And I trust you will find a way to fulfill it. Think about the needs of Asgard, and the future battles we must fight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*swallows hard, looking from the payment to his tools* The masters... they'd have my beard if I broke forge-law. But... what is it you need reforged?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It is Mjölnir, the mighty hammer of Thor. Its grip is damaged, its enchantment weakened. It must be reforged, Gulli, to regain its former power and ensure that I may wield it properly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*staggers back a step, nearly dropping his polishing cloth* M-Mjölnir?! Forged by Brokkr himself? My lord, I... I couldn't possibly! That's masterwork beyond my skill, and the enchantments..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your doubts, Gulli. But we are facing great threats, and Mjölnir must be at its full strength. We must not let pride and limitations hold us back. You are a skilled craftsman, and I trust you to overcome this challenge. Together, we shall forge a new Mjölnir, stronger than ever before."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*voice trembling slightly* You ask me to break every rule of the forge, to work on a weapon that took my master months to craft... and without his blessing. Lord Thor, even for you, this is... this is asking me to risk my place among dwarves."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Gulli, I understand your concerns. But I implore you, think of the greater good. Think of the lives we must save, the battles we must win. Your reputation as a dwarven craftsman is not defined by the forge rules. It is shaped by your courage, determination, and willingness to face challenges. This is your chance to prove yourself and make a difference."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*looks at his hands, calloused from years of apprenticeship, then back to Thor* The masters always said... a dwarf who breaks his oath to the forge breaks his own soul. But... *sighs deeply* Tell me of the damage. Just... tell me what you need."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Gulli. Your courage is appreciated. Now, let us proceed to the mountains beyond Jökulfari. We shall gather materials, create a new design, and forge Mjölnir anew. Together, we shall write a chapter in the annals of Norse mythology, a chapter of triumph and strength."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Proposes a new, unconventional forging project and speaks of writing a new chapter in mythology, showing receptivity to novel ideas.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Demands a major rule-breaking commission outside the proper forge schedule, disregarding established procedures and laws.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"Takes command of the conversation, asserts dominance directly, and speaks with forceful, confident declarations.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"Uses coercion and threats ('this is not a request. It is a command'), showing low cooperation and high antagonism.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"Remains calm, confident, and unflustered despite the dwarf's clear distress and refusal, showing emotional stability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Proposes a new, unconventional forging project and speaks of writing a new chapter in mythology, showing receptivity to novel ideas."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Demands a major rule-breaking commission outside the proper forge schedule, disregarding established procedures and laws."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "Takes command of the conversation, asserts dominance directly, and speaks with forceful, confident declarations."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Uses coercion and threats ('this is not a request. It is a command'), showing low cooperation and high antagonism."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Remains calm, confident, and unflustered despite the dwarf's clear distress and refusal, showing emotional stability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

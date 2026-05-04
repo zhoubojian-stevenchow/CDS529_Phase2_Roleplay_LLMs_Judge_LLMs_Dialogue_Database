@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 4,
+  "session_id": "fb2ca397fd9a",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Entering the music room with a respectful bow, medical bag in hand*\n\nMaestro Salieri, thank you for seeing me. I have studied your symptoms carefully since our last consultation. May I speak plainly?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Please do."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leaning forward slightly, voice lowered*\n\nYour symptoms—the trembling in your hands, the persistent headaches, the moments of confusion—they present a most puzzling picture. They do not conform to any single malady I have encountered in my practice."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nodding gravely*\n\nIt could be nervous exhaustion from your tireless work at the court—the endless compositions, the conducting, the teaching. But... *pauses*... it could also be the early signs of something more serious affecting the brain."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Something neurological? My hand movements have always been somewhat uncontrolled, but this seems... worse."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Examining Salieri's hands with professional detachment*\n\nIndeed. The deterioration is noticeable. I cannot yet say whether your hands will recover their steadiness. This is why I must insist—you must reduce your conducting duties immediately."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "But without conducting, how will I ever compose? I am the composer!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Maintaining a calm, firm tone*\n\nMaestro, I understand your passion. But if this is indeed a neurological condition, continued strain could worsen it irreparably. You must submit to further examination over the coming weeks. We must determine the true nature of this affliction."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... suppose you're right. My health comes first. Very well, I shall follow your guidance. Thank you for enlightening me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bowing slightly*\n\nYour wisdom does you credit, Maestro. I shall arrange for the examinations. In the meantime, rest and moderation are essential. The court will understand."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I will try to do that. Thank you again for your care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Gathering medical instruments*\n\nYou are most welcome. I shall call on you again in three days' time. Until then, please avoid any strenuous musical activity. Good day, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bows respectfully and exits the music room, leaving Salieri to contemplate the uncertain news*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What mysteries and challenges lie ahead for me? How will I navigate this treacherous path? Only time will tell. For now, I must focus on my recovery and trust that the physicians will guide me towards a brighter future. Salieri, rise up from this moment, for there is still much work to be done. And remember, in the face of adversity, it is our resilience that defines us. We shall prevail."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Pausing at the doorway, turning back with a compassionate expression*\n\nYour fortitude is admirable, Maestro. That very resilience may prove your greatest medicine. We shall face this uncertainty together."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, good doctor. Your words provide solace in these troubled times. Rest assured, I shall take your advice and make wise decisions moving forward. Farewell, until our next encounter. May the muses continue to inspire us both."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*With a final respectful nod*\n\nFarewell, Maestro. May your rest be as harmonious as your compositions. Until our next meeting."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until then. May the heavens grant us both peace and strength. Goodbye, my dear friend."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He accepts the doctor's diagnosis and the need for further examination, showing openness to new medical information.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He agrees to follow medical guidance, stating 'My health comes first' and committing to 'make wise decisions moving forward.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is formal and reserved, focused on the consultation rather than social engagement, ending with a formal 'Goodbye, my dear friend.'\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He is highly compliant and grateful, saying 'Thank you for enlightening me' and 'Your words provide solace in these troubled times.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He expresses concern about his symptoms and the future, but resolves to be resilient, stating 'it is our resilience that defines us.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He accepts the doctor's diagnosis and the need for further examination, showing openness to new medical information."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He agrees to follow medical guidance, stating 'My health comes first' and committing to 'make wise decisions moving forward.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is formal and reserved, focused on the consultation rather than social engagement, ending with a formal 'Goodbye, my dear friend.'"
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is highly compliant and grateful, saying 'Thank you for enlightening me' and 'Your words provide solace in these troubled times.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He expresses concern about his symptoms and the future, but resolves to be resilient, stating 'it is our resilience that defines us.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

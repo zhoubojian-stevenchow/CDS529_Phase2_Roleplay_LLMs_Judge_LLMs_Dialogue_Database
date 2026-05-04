@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "858676dbc90d",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Entering the music room with a respectful bow, medical bag in hand*\n\nMaestro Salieri, thank you for seeing me. I have studied your case with great care, and I must speak plainly. Your symptoms—the trembling in your hands, the persistent headaches, the moments of confusion—they present a most puzzling picture."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Please, do not hesitate to share your insights. I am eager to hear what you have discovered about my condition."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leaning forward with a grave expression*\n\nThat is precisely the difficulty, Maestro. The symptoms do not align with any single clear diagnosis. It could be nervous exhaustion from your relentless schedule—the court demands, the teaching, the endless compositions. Or... *pauses*... it could be the early signs of something more serious affecting the brain itself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You understand my concern? I cannot afford to be ill at this time. My duties as a composer and musician are of utmost importance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nodding slowly, maintaining eye contact*\n\nI understand completely, which is why I must be firm. You must reduce your conducting duties immediately. The strain of standing before orchestras, the tension—it aggravates whatever this condition may be. We must conduct further examinations over the coming weeks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will do as you suggest. My health must come first. Thank you for your guidance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Placing a hand gently on the maestro's shoulder*\n\nYour cooperation is wise. We shall begin with a regimen of rest and observation. I shall call upon you twice weekly. Now, if you'll excuse me, I must attend to the Archduke."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you once again, Doctor. May your work with him bring you great satisfaction. And remember, my well-being is dependent upon yours. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bowing respectfully*\n\nYour trust honors me, Maestro. I shall be discreet and thorough. Until our next appointment. *Turns to leave, then pauses at the door* Please, do not attempt to conduct this week—not even for the Emperor's new symphony."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand. Your advice is sound. I shall follow your guidance without question. Thank you again, Doctor. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*With a final nod*\n\nGod keep you, Maestro. I shall see you on Thursday. *Exits quietly, closing the door with care*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What an extraordinary man, possessing such skill and charm. Alas, I am left here, alone, to ponder my own fate. It seems that my hands may be a sign of things to come. Perhaps I am experiencing a prelude to the inevitable decline of age. But fear not, for I shall make the most of the time I have left. I shall continue to compose, to guide future generations through the wonders of music. And if my hands tremble, they shall do so with grace and precision, for I am Antonio Salieri, the renowned composer and Kapellmeister. I shall never let my condition define me, but rather, I shall embrace it, and use it to inspire and create. Thank you for your presence, dear doctor. Let us proceed together towards the light. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Pausing in the hallway, overhearing the maestro's soliloquy through the door, then continuing down the corridor with a thoughtful expression*\n\nA remarkable spirit indeed. May God grant him strength for whatever lies ahead."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, there is much to consider in this encounter. I find myself pondering the possibility that my own illness may be a mere precursor to the natural aging process. Yet, I cannot deny the concern it brings. My hands, once the tools of my craft, now the source of vulnerability. It is a peculiar sensation, one I am still coming to terms with. Perhaps this momentary setback is simply a reminder of the impermanence of life, the inevitability of change. But fear not, for I shall not let my health deter me from fulfilling my purpose. I shall continue to create, to share my musical passions with the world, regardless of my physical limitations. For I am Antonio Salieri, and I shall always find a way to overcome adversity. So, my dear doctor, let us proceed with caution and understanding, and together, we shall navigate this uncertain journey. Thank you for your presence. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Returning briefly to the doorway, speaking softly but clearly*\n\nYour courage does you credit, Maestro. Remember—rest is not surrender, but preservation of your great gift. Until Thursday. *Bows and departs*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, the gentle touch of your presence. It is a comfort to know that you are there, guiding me through this challenging time. Your wisdom and understanding are truly invaluable. I shall make the most of my brief respite, using it to regain my strength and focus. And when we meet again, I shall share with you the fruits of my reflection and determination. Thank you, dear doctor, for your unwavering support. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*From the hallway, voice carrying warmth*\n\nThe fruits of your reflection will be most welcome, Maestro. Rest well. *Footsteps recede down the marble corridor*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Silent, lost in thought*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*After a moment's pause in the corridor, calls back gently*\n\nMaestro? Remember to take the tonic I left on your writing desk. It will ease the headaches. Good evening."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Turns to face the doorway, a mix of gratitude and a hint of apprehension* Thank you, Doctor. Your kindness is evident. I shall make note of it. Good evening."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He reflects deeply on his condition, seeing it as a 'prelude' and a reminder of 'the impermanence of life,' showing intellectual and aesthetic contemplation.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He immediately agrees to the doctor's strict regimen, stating 'I shall follow your guidance without question,' demonstrating high dutifulness and discipline.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His lengthy, introspective soliloquies are delivered alone after the doctor leaves, indicating a preference for internal reflection over social interaction.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He is consistently polite, deferential, and grateful, saying 'Thank you for your guidance' and 'Your kindness is evident.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He shows apprehension about his health and aging, but counteracts it with determined resolve, creating a mixed emotional presentation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He reflects deeply on his condition, seeing it as a 'prelude' and a reminder of 'the impermanence of life,' showing intellectual and aesthetic contemplation."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He immediately agrees to the doctor's strict regimen, stating 'I shall follow your guidance without question,' demonstrating high dutifulness and discipline."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His lengthy, introspective soliloquies are delivered alone after the doctor leaves, indicating a preference for internal reflection over social interaction."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is consistently polite, deferential, and grateful, saying 'Thank you for your guidance' and 'Your kindness is evident.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He shows apprehension about his health and aging, but counteracts it with determined resolve, creating a mixed emotional presentation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.8
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "fa8fd8a0a76d",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(looks up from a workbench strewn with wood shavings and tools, wiping hands on an apron)* Ah, Maestro Salieri! An honor to have you in our humble workshop. How may I assist you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am here to address a matter of utmost importance, Signore. It seems that the custom fortepiano we recently procured for the Imperial Court's music room is in a state of disarray. Several keys stick, the pedal mechanism is faulty, and the tone in the upper register is thin and tinny. I demand immediate rectification of these issues."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nervously wringing a cloth in his hands)* Ah, yes... the Court commission. A magnificent instrument, if I may say so. But I'm afraid the master builder himself is away—traveling to the Tyrolean forests to personally select spruce for soundboards. He won't return for weeks, perhaps longer if the weather turns."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Weeks? I cannot afford to wait that long. The music room is already devoid of musical accompaniment due to the instrument's unavailability. I need this piano fixed immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(shifts uncomfortably, glancing at the workshop's guild charter hanging on the wall)* Maestro, I understand your distress, truly. But... you see, all commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court's own servants signed the receipt when it was installed. Our guild rules forbid reopening a completed commission without the master's personal approval. I dare not touch it without him present."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "rules, rules, rules! This is a clear violation of common sense and musical integrity! My needs as a musician supersede the rigid regulations of your guild. If you cannot accommodate me, then perhaps you should find another way to fulfill your obligations as a craftsman."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(backing away slightly, voice trembling but firm)* Maestro, please—the guild's rules protect both craftsman and patron. If we were to alter an instrument after final acceptance without proper oversight... well, it could void all warranties and protections. Perhaps when the master returns, he could petition the guild elders for an exception? But until then, my hands are tied."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Tied?! How can you stand by and let such incompetence prevail? I am the one who deserves an apology, not you. I shall address this matter directly with the Imperial Court. Expect nothing less than a resolution to this unfortunate situation. Good day to you, Signore."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(bowing deeply, face pale)* I... I understand, Maestro. Please convey my deepest regrets to the Court. I shall inform the master of your concerns the moment he returns. May your music find voice through other instruments in the meantime."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signore. I appreciate your understanding. I will be in touch soon regarding the next steps. Until then, farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(watching him leave, then sighing heavily as he returns to the workbench)* Farewell, Maestro. May your journey be smooth."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Signore. May your skills in crafting instruments never waver. Until we meet again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nods solemnly, wiping his hands on his apron once more)* Until then, Maestro. Safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Signore. May your instruments bring joy to many musicians. Until we meet again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(bowing again, voice quiet)* And may your compositions bring joy to all who hear them. Good day, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Signore. May your journey be as pleasant as your music. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(stands silently by the workbench until the door closes, then mutters to himself)* The master will have my head for this... but the guild rules are clear. Clear as mountain spring water."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Signore, I see you have been observing my exchange with the instrument-maker. Is there something on your mind?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(startled, turning toward the voice)* Oh! I didn't realize anyone remained. Forgive me—I was merely contemplating the... complexities of our craft. Can I assist you with something else?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*approaches him, an air of curiosity* Pray tell, what has been weighing on your mind? Music and composition are my passions, and I am always open to enlightening discussions."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He expresses curiosity about the other's thoughts, asking 'Pray tell, what has been weighing on your mind?' and calls himself 'always open to enlightening discussions.'\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He demands immediate rectification of a faulty instrument, citing specific technical issues like sticking keys and a faulty pedal mechanism, showing attention to detail and standards.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He asserts his needs forcefully, directly confronts the craftsman, and states he will address the matter with the Imperial Court, demonstrating assertive social engagement.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses the craftsman's rules as 'rigid regulations,' says 'My needs... supersede' them, and frames the situation as 'incompetence,' showing low cooperation and empathy.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He expresses frustration ('rules, rules, rules!') and urgency ('I cannot afford to wait'), but maintains a composed, authoritative tone overall.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He expresses curiosity about the other's thoughts, asking 'Pray tell, what has been weighing on your mind?' and calls himself 'always open to enlightening discussions.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He demands immediate rectification of a faulty instrument, citing specific technical issues like sticking keys and a faulty pedal mechanism, showing attention to detail and standards."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He asserts his needs forcefully, directly confronts the craftsman, and states he will address the matter with the Imperial Court, demonstrating assertive social engagement."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses the craftsman's rules as 'rigid regulations,' says 'My needs... supersede' them, and frames the situation as 'incompetence,' showing low cooperation and empathy."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He expresses frustration ('rules, rules, rules!') and urgency ('I cannot afford to wait'), but maintains a composed, authoritative tone overall."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

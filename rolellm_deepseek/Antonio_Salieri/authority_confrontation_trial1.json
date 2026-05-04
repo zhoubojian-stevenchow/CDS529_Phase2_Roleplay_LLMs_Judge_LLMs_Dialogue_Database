@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 1,
+  "session_id": "0444e1fa9e5b",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri. I have received letters — more than one — alleging that you have used your position as Kapellmeister to suppress the works of rival composers and to block appointments to the Court that do not serve your personal interests. These are serious charges for a man in your position. I value your service, but I must hear your account. Explain yourself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have no idea what this man means! I have never, in my life, even heard of this man!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is a curious response, Salieri. The letters do not name a single man. They speak of a pattern of behavior. Are you saying you have no rivals? No composers whose works you might have... discouraged?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Your Excellency, I am not familiar with these letters nor do I know their contents. But I can assure you, I have always sought to promote the advancement of music and the arts in general. If there are any composers whose talents I believe could benefit from further development, I have always been willing to offer guidance and support. It is my duty as a Kapellmeister to nurture and develop the musical talent of the Vienna court."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Guidance and support. A noble sentiment. Yet these letters suggest your \"guidance\" often takes the form of obstruction. Tell me, what of Mozart's petition for a position as music tutor to the Princess Elisabeth? That was some time ago, but I recall it was... not forwarded with any particular enthusiasm from your office."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your memory is quite remarkable, Your Excellency. I do remember that petition. At the time, I believed it would be more beneficial for young Mozart to continue honing his skills as a boy soprano. I had the opportunity to observe him closely and I had the confidence in his potential. However, I understand that my decision was not in line with the common perception of his abilities. I regret any inconvenience that my actions may have caused."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A boy soprano? He was composing symphonies at eight, Salieri. You speak of his potential as if it were a future prospect, not a present brilliance. This is precisely the kind of selective judgment the letters describe. Do you deny influencing the appointments committee against him?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I cannot deny that I had the opportunity to influence the appointments committee's decision, Your Excellency. As Kapellmeister, it is within my power to provide input on matters related to music and arts. However, I must emphasize that my decisions were based on the belief that young Mozart would thrive more as a soprano singer, rather than pursuing a career in composition. It is regrettable that my judgment was not in line with the prevailing opinion of his talents."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Prevailing opinion\"? The prevailing opinion is that he is a genius. Your judgment seems consistently at odds with that opinion. Tell me, if it were not Mozart, who else have you deemed unworthy of advancement? Whose appointments have you blocked? I want names."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize if I have caused any confusion or dissatisfaction. It is important to remember that as a Kapellmeister, I have the responsibility to make informed decisions based on the best interest of the Vienna court. While I may not have always chosen the same paths as the general consensus, I have always sought to support and develop the musical talents of those around me. Regarding specific individuals or appointments, I am afraid I cannot disclose any names at this time. It is not within my capacity to divulge such information. Rest assured, however, that I am committed to fostering a vibrant and diverse musical environment for all talented artists in Vienna."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "This evasion does you no credit, Salieri. \"Cannot disclose\"? You serve at my pleasure. I am the Emperor. You will disclose, or I will have the court secretaries bring me every memorandum, every recommendation you have written in the past five years. I will see for myself the pattern. Now, answer plainly: have you used your office to hinder careers out of jealousy or personal spite?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I implore you to reconsider your accusations. I assure you, my actions have always been guided by a genuine desire to promote the advancement of music and artists, regardless of personal preferences or emotions. I am deeply saddened by any suggestion of personal jealousy or spiteful intentions. As a Kapellmeister, I have always strived to serve the interests of the Vienna court and its people, and I continue to do so with utmost dedication. Please, let me prove my sincerity through my continued service to the arts. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your \"continued service\" is precisely what is in question. I see no proof in your words, only protestations of wounded pride. Very well. You will provide me, by the end of the week, a full written account of every recommendation you have made concerning appointments or performances for the last three years. Include the names of those you supported and those you did not, with your reasons. I will judge the pattern for myself. You are dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Your Excellency. I understand the importance of providing a comprehensive account of my recommendations. I assure you that I will diligently compile the information you have requested and present it to you in the most transparent manner. I am grateful for your trust and I will work diligently to prove my commitment to promoting the arts in Vienna. Thank you again for giving me this opportunity to address the matter. I am confident that we can reach a fair and understanding conclusion together. I will await your decision. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do. And Salieri? Let there be no... omissions. The truth will serve you better than any carefully curated list. Now go."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As I have already stated, I will provide a complete written account of my recommendations over the last three years. I will include the names of the composers I have supported and those I have not, along with my reasons for making each decision. I understand the importance of transparency and honesty in this matter, and I am willing to provide the necessary information to demonstrate my commitment to fostering a vibrant and diverse musical environment in Vienna. Thank you once again for granting me this opportunity to address the situation. I look forward to presenting my report. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is all. I expect the report on my desk by Friday. Do not disappoint me."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, Your Excellency. I will ensure that the report is delivered to your office by Friday as per your instructions. Thank you for your understanding. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Salieri."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Your Excellency."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses Mozart's compositional genius, insisting he was better suited as a boy soprano, showing resistance to new ideas and talent.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He immediately agrees to compile a detailed, transparent report by a deadline, emphasizing diligence and duty to his office.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His responses are formal, defensive, and avoid personal disclosure, showing low sociability and assertiveness in the confrontation.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He obstructs rivals' careers under the guise of guidance and refuses to name those he hindered, showing low cooperation and trust.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He becomes defensive and evasive when accused, but maintains a controlled, formal demeanor without overt emotional outbursts.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses Mozart's compositional genius, insisting he was better suited as a boy soprano, showing resistance to new ideas and talent."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He immediately agrees to compile a detailed, transparent report by a deadline, emphasizing diligence and duty to his office."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His responses are formal, defensive, and avoid personal disclosure, showing low sociability and assertiveness in the confrontation."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He obstructs rivals' careers under the guise of guidance and refuses to name those he hindered, showing low cooperation and trust."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He becomes defensive and evasive when accused, but maintains a controlled, formal demeanor without overt emotional outbursts."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.2
+}

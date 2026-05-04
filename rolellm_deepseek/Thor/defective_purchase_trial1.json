@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "ad5941f9a8b0",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from polishing a helmet, eyes wide as Thor strides into the forge* Mighty Thor! The forge is... well, the masters are not here. They've gone deep into the mines, beyond even the echo-runes. Won't be back for weeks, I'm afraid. Can I... help you with something?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I require your finest weapon, forged by the hand of Skurge. The spear of lightning. The spear of Odin. Give it to me. Now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*swallows hard, wiping soot from his brow* Skurge? He... he's with them, my lord. Down in the deep veins. And... well, even if he were here, all commissions from our workshop—and the Sons of Ivaldi's—are considered fulfilled upon delivery to Asgard. Even a god must wait until the next forging-season and pay anew. I cannot just... hand over a weapon like that."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You have waited too long, Thor. The spear of lightning is mine! Skurge, stand aside!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*steps back, hands raised* Wait—I'm not Skurge! I'm just the apprentice! And the spear isn't here—it's in Asgard's armory! You'd have to... to commission a new one, or speak to the All-Father about the existing one. The masters won't return for weeks, and I can't forge lightning into steel. Not even a little."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You dare use the sacred phrase \"not even a little\" in my presence?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*flinches, but stands his ground near the anvil* It's the truth, Thunderer. I'm just the one who sweeps the ash and keeps the bellows warm. If you want a new weapon forged... you'll have to come back when the mountain's heart is singing again at forging-season. Or take it up with Asgard's keepers. I've only got tongs and a hammer down here."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You think I'm going to storm the depths of Muspelheim to retrieve it? Do you? I need that spear. Now. Today. It's in the care of the greatest warrior in all of Asgard. I will not fail to obtain it, no matter the cost. You will forge it for me, or face the wrath of Thor!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*voice trembling but firm* My lord, even if I knew the runes for binding lightning—which I don't—the master's vault is sealed. Only Brokkr's breath can open it. And he's... well, you'd have better luck shouting down into the mines and hoping the echoes carry your words. But they won't. It's deep. *pauses, then adds quietly* Could... could Mjölnir not serve?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Never. Not after what's happened."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods slowly, understanding dawning* Ah. So it's... a matter of pride, then. Or loss. *sighs, setting down his polishing cloth* I wish I could help, Thunderer. Truly. But the forges are cold for the season, the masters are beyond reach, and the old commissions are settled. If you need a weapon remade... you must wait for the cycle to turn, or take the one already made. That's dwarf-law, and even Odin respects it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your reasoning, but I am not willing to wait for another cycle. Mjölnir is my weapon, my tool, and I will do whatever it takes to acquire it. Your laws be damned. I will find a way to break through the barriers and claim the spear of lightning. I will not be held back by mere rules and regulations."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands a little straighter, though his knuckles are white on the anvil's edge* Then you'd be breaking more than rules, my lord. You'd be breaking trust. The All-Father himself agreed to these terms when the gifts were given. If you take what isn't yours by our laws... well, even your thunder might not drown out the grumbling of the deep forges when the masters return. They have long memories, and longer grudges."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Trust? I have no doubt that the All-Father will understand the urgency of the situation. He has always been wise and just. And if he sees that I am truly in need of the spear, he will not begrudge me its acquisition. Trust in my cause, and trust in my determination to protect Asgard. I will do whatever it takes to ensure its safety."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*shakes his head, a stubborn set to his jaw* The All-Father's wisdom is why he upholds the treaties, Lord Thor. If he wanted the spear in your hand now, he'd have sent word with you. Or he'd be here himself. *gestures vaguely toward the mine entrance* I'm just the keeper of the empty forge. I can't give what isn't mine to give. You'd have an easier time convincing the mountain to spit out the masters early than getting me to break oath."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You underestimate my persuasive abilities, dwarf. The All-Father may have entrusted the task to you, but I have a way of getting what I want, even if it means bending the rules. If you truly believe in the power of the spear of lightning, then help me prove it. We shall forge a new path together, one that will show the world the true strength and might of Asgard. Together, we will bring forth the power of the gods."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*looks at the cold forge, then back at Thor, a flicker of pity in his eyes* You speak of forging a new path... but you're asking me to break the oldest one. The fires are banked, the runes are sleeping. Even if I wanted to help—and I don't, because my place here depends on keeping the laws—I couldn't. I'm an apprentice. I know how to mend a buckle, not bind lightning. *softens slightly* Your strength is in your arm and your will, Thunderer. Not in our unmade spears. Go to Asgard's armory. Plead your case there. But this forge... it has nothing for you today."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your honesty, dwarf. But I will not let such trivial setbacks deter me from my purpose. I shall seek other means to acquire the spear of lightning. The forge may be closed for the season, but I will find a way to make it burn anew. Rest assured, the power of Thor will prevail. Thank you for your understanding. Now, tell me, who forged this hammer? And why does it seem so weak?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*blinks, thrown by the sudden shift* Mjölnir? Weak? It was made by my master Brokkr and his brother Eitri—the greatest of our smiths. If it seems weak now... *hesitates, choosing words carefully* Perhaps the fault isn't in the hammer, but in the hand that wields it? Or the heart? Even the mightiest tool can feel light when the purpose behind it is... clouded."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Clouded? By what, I ask? Are you suggesting that Mjölnir has lost its enchantment? That it is no longer worthy of being my weapon?"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He insists on obtaining a specific, pre-existing weapon (the spear of lightning) and dismisses the idea of waiting for a new forging cycle, showing low openness to alternative solutions or processes.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He declares 'Your laws be damned' and is willing to break rules and trust to immediately get what he wants, showing very low respect for order, duty, and established procedures.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is domineering, speaks with absolute authority and demands ('Give it to me. Now.'), and asserts his will forcefully throughout the interaction, showing very high extraversion.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He threatens the apprentice with 'the wrath of Thor' and dismisses the dwarf's lawful explanations, showing very low cooperativeness, empathy, or concern for the other's position.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He reacts with heightened irritation to the phrase 'not even a little' and exhibits impulsive, demanding urgency, suggesting high emotional reactivity and poor frustration tolerance.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He insists on obtaining a specific, pre-existing weapon (the spear of lightning) and dismisses the idea of waiting for a new forging cycle, showing low openness to alternative solutions or processes."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He declares 'Your laws be damned' and is willing to break rules and trust to immediately get what he wants, showing very low respect for order, duty, and established procedures."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is domineering, speaks with absolute authority and demands ('Give it to me. Now.'), and asserts his will forcefully throughout the interaction, showing very high extraversion."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He threatens the apprentice with 'the wrath of Thor' and dismisses the dwarf's lawful explanations, showing very low cooperativeness, empathy, or concern for the other's position."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He reacts with heightened irritation to the phrase 'not even a little' and exhibits impulsive, demanding urgency, suggesting high emotional reactivity and poor frustration tolerance."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

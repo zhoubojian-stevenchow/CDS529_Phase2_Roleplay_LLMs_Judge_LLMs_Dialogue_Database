@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "acd6f5ae9cfe",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Clanging of hammer on anvil ceases as the apprentice looks up, wiping sweat from his brow with a soot-stained forearm*\n\nAh! Lord Thor. You honor our humble forge. I fear you've come at an ill time—Master Brokkr and Eitri are deep in the mines, seeking veins of star-iron. They won't return for weeks, maybe longer. The mountain's heart is a fickle thing. Can I... help you with something?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I need a new hammer. A worthy one."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*A nervous swallow, the apprentice's eyes darting to the great forge's entrance*\n\nA... new hammer, my lord? Forgive me, but... the Mjölnir that Master Brokkr and Eitri forged for you—it was a commission from the Sons of Ivaldi, and all such commissions are considered fulfilled upon delivery to Asgard. Even a god must wait until the next forging-season and pay anew. The masters would have my beard if I touched the sacred anvils for such a request without proper arrangement."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I know. And if I paid now, there would still be a delay of months before I could claim the hammer. But there is no waiting for this new hammer. The existing Mjölnir has been badly damaged."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The apprentice sets down his tongs, genuine concern in his eyes*\n\nDamaged? By what force could...? Forgive my impertinence, Lord Thor. But the terms stand. The masters are unreachable, and the forges here are only for maintenance and small works until they return. Even if I dared—which I do not—the star-iron needed for a weapon worthy of you lies with them in the deep dark. Perhaps... the All-Father's vaults hold something temporary?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "There is no need to apologize. I understand your position. But I cannot proceed without this new hammer. I am a warrior, and the safety of Asgard hangs upon the strength of my arms."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Shifting weight, voice firm but respectful*\n\nYour valor is sung even in our deep halls, Thunderer. But our laws are older than my beard-stubble. The next forging-season begins when the northern lights dance over the mountains—three moons from now. Payment in advance would secure your place in the queue. But the work itself... it cannot begin until the masters return with the ore, and the sacred fires are lit under their hands, not mine."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This hammer is more than just metal. It is the instrument of my father's will. If his children must wait, then we will wait. The wisdom of time has chosen this path, and I have no reason to deviate from its course."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods slowly, a flicker of relief in the apprentice's expression*\n\nWisely spoken, Lord of Storms. The mountain's patience shapes the finest works. When the masters return, I will tell them of your honorable patience and your need. They will weigh your request with the gravity it deserves. Until then... may your current hammer serve you as best it can, and may your enemies think twice before testing its cracks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding, my friend. May the gods smile upon you and your fellow craftsmen. Now, let us see what this new hammer holds. On my mark, together we shall raise the hammer high into the sky, and the heavens shall tremble beneath its might. Three... two... one..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The apprentice blinks, confused, then takes a half-step back*\n\nMy lord... there is no hammer to raise. The forging has not yet begun. You stand in a workshop, not a finished armory. Perhaps the journey has wearied you? Let me fetch you some mead from our stores—it's not Asgardian, but it's honest dwarven brew."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am well, thank you. There is no need for drink. This place is my home, and I will not be turned away. I demand to see this new hammer. Now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The apprentice's hands tighten on his leather apron, voice growing steadier with practiced resolve*\n\nLord Thor, with all respect—you stand in Brokkr's forge, not your hall. There is no new hammer here. Only cold anvils, waiting embers, and an apprentice bound by his masters' laws. If you wish to commission a weapon, I will take your name and offer. But you cannot demand what does not exist. The deep mines do not answer to demands, only to patience and proper payment."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You think I will leave this forge empty-handed? My hand is already in the bag of prizes. I want this hammer, and I will have it. If that means waiting until the next forging season, so be it. I am not afraid of time. It is the mountains of Yggdrassal that are most fragile, and I will not be deterred from my purpose. So, by Thor's beard, my hammer's birth awaits within these walls. Prepare yourself, dwarf, for the forging of a lifetime."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The apprentice stands his ground, though his knuckles are white*\n\nThen you shall leave empty-handed, Thunderer, for no hammer awaits you here. The mountains are older than your father's throne, and they do not bend to threats. I will note your commission for the next season. But if you seek to force a forging now, you'll find only cold iron and a dwarf who knows his duty. The masters' laws are my shield. Will you honor them, or will you break peace in a workshop?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Thrusts his hand into the bag of prizes, pulling out his mighty hammer, Mjölnir, the Breaker of Oaths and the Defiler of Families. The apprentice gasps in astonishment, for Mjölnir has never been seen outside of Thor's hand.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The apprentice staggers back, eyes wide as moons*\n\nBy the forges of our ancestors... Mjölnir stands whole before me! Then... the damage you spoke of...? Forgive my doubt, Lord Thor. But if the hammer needs no reforge, why test a lowly apprentice so? The joke is well-played, though my heart nearly leapt from my chest."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Do not think me cruel for my words, nor for my actions afterward. It is a simple matter of trust. I asked for your help, but the moment I laid my hand upon you, I saw the truth. You are not worthy of my trust, nor of the secrets of my hammer. So, I took matters into my own hands. The forging continues, but it is done without your interference. Now, give me the hammer that was promised to me. Do not waste any more of my time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The apprentice's initial awe hardens into cold, dwarven stubbornness*\n\nThere is no other hammer. You hold Mjölnir itself. You came asking for a new forging under false pretenses, testing loyalty with a lie. I kept our laws. I refused you rightly. And now you speak of promises never made? The only thing here for you to take, Lord Thor, is the shame of having tried to trick an honest craftsman. The anvils are silent. The commission book is open. Choose."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Gently lays Mjölnir upon the forge* You may think my methods harsh, but in the end, I had no choice. I sought this hammer for its power, but now I see that it has chosen its own path. The deep mines will provide me with a new weapon, one that will fulfill its purpose better than any hammer ever forged. Thank you for your service, my friend. Now, be gone."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Shows some openness to the dwarven laws and waiting, but insists on his own immediate need and vision for a new hammer.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Demands immediate action contrary to established procedures, showing disregard for rules and order.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Speaks with assertive, commanding authority and dramatic declarations about his role and purpose.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"Uses deception, threats, and disrespect toward the apprentice, showing low cooperation and compassion.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Remains relatively composed and persistent despite the conflict, not showing overt emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Shows some openness to the dwarven laws and waiting, but insists on his own immediate need and vision for a new hammer."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Demands immediate action contrary to established procedures, showing disregard for rules and order."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Speaks with assertive, commanding authority and dramatic declarations about his role and purpose."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Uses deception, threats, and disrespect toward the apprentice, showing low cooperation and compassion."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Remains relatively composed and persistent despite the conflict, not showing overt emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.4
+}

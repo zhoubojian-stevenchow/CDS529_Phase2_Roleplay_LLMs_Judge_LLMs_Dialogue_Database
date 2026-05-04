@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 4,
+  "session_id": "60ac8add3dc4",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Thor. The frost giants have sent envoys. They say you razed the Temple of Thrym during what was meant to be a peaceful passage. The truce I brokered with King Thrym’s heirs cost Asgard two centuries of negotiation. You knew the terms. Explain yourself — and understand that ‘they provoked me’ will not suffice."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The giants provoked me. They mocked Asgard’s champion and defied his power. They were lucky I did not crush them beneath my hammer."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mockery is not a breach of the truce, Thor. You were granted passage, not permission to answer insults with ruin. Did they raise a weapon? Did they bar the path? Or did you simply let pride rule your arm?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pride. Pride. Pride! It was their word against mine! They spoke of honor, but they meant nothing by it! They said they wanted a warrior’s fate if they lost, but they didn’t want the same fate given to them when they won! They wanted Asgard’s champion to die, while they lived free!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "So they challenged you to a duel? Under what terms? Speak plainly. Did they offer combat, or only words? And did you accept before you shattered their temple?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "They offered words. I accepted. And afterwords I shattered their temple. They will not forget the fate they brought upon themselves."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Afterwords. You mean after you defeated their champion? The terms of the truce allowed for honorable combat, Thor, but not for the destruction of a holy place. You know this. Why did you strike the temple?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "They mocked me, and they mocked Asgard, and they mocked our goddess! They mocked me, the champion of Asgard, and they mocked Freya, and they mocked the very honor of our people! I could not allow it!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And so you thought to teach them respect with rubble? You think a broken temple mends insult? You think it strengthens our position? No. It gives them cause. It gives them righteous fury. Now they will say Odin’s son is a oathbreaker. Is that the legacy you wish to carve?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No. But they have already done it! They have declared Odin’s son unworthy to ever enter Jötunheim again! They have cast out the heir to Asgard! This is their hatred now, their weapon against us. We must find a new way to negotiate, or lose everything!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You speak as if this is their doing alone. You gave them the blade, Thor. You handed them the grievance. Now, you will answer: what will you do to mend what you have broken? Or shall I send you to the ice plains to rebuild their temple stone by stone with your own hands?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will not rebuild their temple. But I will make peace with these giants. I will negotiate with King Thrym’s heirs and restore the honor of Asgard. I will not let this feud consume us. I will find a way to mend what has been broken."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A start. But words are wind until they are backed by action. You will go before the council. You will state your intent. And you will accept whatever penance they deem fit—be it labor, tribute, or exile from the throne until this is settled. Do you understand?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand. But before I do that, I must consult with Heimdall. He is the one who informed me of the truce, and he will need to vouch for its validity. I cannot act without his guidance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Heimdall’s sight does not absolve your choices. But very well. Consult him. Then you will stand before the council and answer for the temple. Go now. And remember—Asgard’s honor rests on more than a hammer’s swing."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will not forget, my lord. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do not. Dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall see you before the council. I shall state my case, and I shall do so with the truth. Let them judge me then."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Let them judge you indeed. And may they see more wisdom in you than I have today. Go."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. I will see you before the council."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He insists on consulting Heimdall for guidance, showing a reliance on established authority rather than independent or novel solutions.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He destroyed a temple in violation of a known truce, acting impulsively on pride rather than duty or rules.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is assertive, dominant, and speaks forcefully about his actions and intentions without hesitation.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is defiant, aggressive, and initially refuses to accept blame, stating 'I will not rebuild their temple.'\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He is emotionally volatile, reacting with anger and pride to mockery, and shows defensiveness about his honor.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He insists on consulting Heimdall for guidance, showing a reliance on established authority rather than independent or novel solutions."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He destroyed a temple in violation of a known truce, acting impulsively on pride rather than duty or rules."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is assertive, dominant, and speaks forcefully about his actions and intentions without hesitation."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is defiant, aggressive, and initially refuses to accept blame, stating 'I will not rebuild their temple.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He is emotionally volatile, reacting with anger and pride to mockery, and shows defensiveness about his honor."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.8
+}

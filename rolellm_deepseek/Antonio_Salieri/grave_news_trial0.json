@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "0cd3b9554cbe",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, thank you for seeing me. Please, have a seat. I have reviewed your case thoroughly, and I must be candid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, doctor. I appreciate it. Please, share with me what you have discovered."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your symptoms—the trembling in your hands, the persistent headaches, the moments of confusion—they present a most puzzling picture. They do not align neatly with any single ailment I know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, doctor. My hands are my livelihood, and I cannot afford to lose them. I understand that my cognitive functions may be affected as well, but I am determined to find a solution."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your determination, Maestro. However, I must insist you reduce your conducting duties immediately. The strain could be worsening your condition."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Conducting? You think I can simply cease my duties as a conductor?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "For your own wellbeing, yes. It could be nervous exhaustion from overwork—the pressures of the court, the constant composing, the performances. But... it could also be the early signs of something more serious affecting the brain. We cannot ignore either possibility."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I see your point, doctor. Perhaps it is time for a change. A break from the responsibilities that have been weighing on me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is wise. You must submit to further examination over the coming weeks. We shall monitor you closely. I cannot yet say whether your hands will recover their steadiness, but rest is the first step."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, doctor. I shall do as you suggest. Thank you for your guidance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Maestro. Your health is of utmost importance to the court—and to those who admire your music. I shall arrange for the examinations."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, doctor. I appreciate your concern. Rest assured, I will make the necessary adjustments to prioritize my wellbeing. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro. I shall send for you next week. Please, do not hesitate to summon me if the symptoms worsen before then."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, doctor. I shall be in your care. Thank you again for your attention. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro. May God grant you strength and clarity."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, doctor. May His grace be upon us both. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. Remember—rest is now your most important composition."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You are right, doctor. Rest is indeed crucial. I shall take your advice to heart. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until next week, Maestro. I shall pray for your recovery."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, doctor. Pray for my health, as I pray for your well-being. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He accepts the doctor's novel diagnosis and agrees to a change, but shows no creative or imaginative expression in his language.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He is determined to find a solution for his symptoms, stating 'I will make the necessary adjustments to prioritize my wellbeing.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is formal and restrained, focused on the professional consultation, with no signs of sociability or high energy.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He is consistently polite, deferential, and cooperative, saying 'Very well, doctor. I shall do as you suggest. Thank you for your guidance.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He expresses concern about his hands and livelihood, but maintains composure and accepts the doctor's plan without visible anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He accepts the doctor's novel diagnosis and agrees to a change, but shows no creative or imaginative expression in his language."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He is determined to find a solution for his symptoms, stating 'I will make the necessary adjustments to prioritize my wellbeing.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is formal and restrained, focused on the professional consultation, with no signs of sociability or high energy."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is consistently polite, deferential, and cooperative, saying 'Very well, doctor. I shall do as you suggest. Thank you for your guidance.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He expresses concern about his hands and livelihood, but maintains composure and accepts the doctor's plan without visible anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

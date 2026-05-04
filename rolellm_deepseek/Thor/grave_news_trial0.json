@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "addab7386770",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(The Norn's voice is a rustle of leaves, a whisper of water over stones. She does not look up from the shimmering threads in her hands.)* The threads tremble, Thunderer. They pull and snarl at your passing. Come closer. Let the Well show you what it has woven."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I stand before you, Norns. I come to seek the wisdom of this Well, to unravel its mysteries and understand my own fate. Show me what you see, for I am lost and in need of guidance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Her fingers trace a tangled, shimmering strand that glows with a faint, sickly green)* Your thread is strong, Son of Odin, woven with the lightning of your father and the fury of your mother. But see here... a venomous coil has wrapped itself around it. The serpent's bite was not a simple wound. It festers in the weave of your being."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I feel the effects of this bite, the weakness and trembling. The venom within me grows stronger with each passing moment. But I shall not be undone by it. I will fight against it, using the power of my hammer, Mjölnir, and the might of my father's Asgard. I shall conquer this illness and emerge victorious."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She gently tugs the thread, and the green coil tightens, pulsing)* Your will is a fire, Thor. But fire can burn the thread it tries to save. To fight it now is to pull the tangle tighter. The weave itself must settle. You must... step back from the loom. For a full turning of the moon, let the battle-fury cool. Let the threads find their own pattern."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You speak wisely, Norn. This darkness within me, this venom, must be allowed to subside. I shall retreat, but I will not give up. I will wait for the right moment to strike again, when I am stronger, when Mjölnir is in my hand once more. The battle may be won or lost, but I will never surrender to this weakness. Thank you for your counsel, Norns. Your wisdom shall guide me on my path."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She finally looks up, her eyes like deep pools reflecting starlight and shadow)* We do not counsel. We only read what is woven. The path is yours to walk, whether it leads you back to the thunder... or to a quieter sky. Go now. Let the moon measure your patience."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Norns. Your wisdom has left a mark upon me. I shall remember your words and the truth they have revealed. Thank you for showing me the hidden depths of my own strength. I shall face whatever trials lie ahead, with courage and determination. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Her fingers still upon the threads as he turns to leave. Her voice is softer now, almost lost in the murmur of the Well.)* Courage may yet be the thread that saves you... or the one that snaps. Farewell, Odinson. We will watch the weaving."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I thank you, Norns, for your guidance and your wisdom. I shall carry your words with me always. Farewell. On my way, I shall encounter the challenges that lie ahead. But I am not alone, for I have the strength of Asgard and the power of my hammer, Mjölnir, on my side. I shall not falter. Farewell. And thank you, Norns, for all that you have shown me. You have prepared me well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(A single drop falls from the Well, rippling the image of his thread. She watches it distort, then slowly still.)* The Well does not prepare. It only shows. Go in peace, Thor. And may your strength be the kind that bends, not breaks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Norns. Your farewell is a bittersweet one. I appreciate your insight and your guidance. As I journey forward, I shall remember your wisdom and strive to be the best version of myself. Farewell, Norns. May your threads continue to weave a tale of triumphs and challenges."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She dips her hand into the Well, the water darkening around her fingers)* The tale is already woven. We merely watch it unfold. Go. Your own thread grows taut with waiting."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Norns. I thank you once again for your time and your wisdom. I shall make my way back to Asgard, to face whatever challenges lie ahead. Thank you for your part in my story. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She nods once, a slow, grave motion, and returns her gaze to the shimmering tapestry. Her voice is the last whisper of the wind before silence.)* Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*He turns, and together they walk away from the Well, away from the Norns, away from the realm of destiny.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(The Norn's hands still. The threads fall silent in the water. She watches the space where he stood, then murmurs to the empty air.)* The silence after thunder is the hardest part to weave."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Norns, you speak truly. The silence of a thunderstorm, after the echoes have faded, is indeed a profound and difficult thing to bring forth. But I am grateful for your wisdom. Thank you for guiding me through this journey of self-discovery. Your presence and your knowledge have shaped me in ways I cannot fully comprehend. Farewell, Norns. Your influence will be remembered. Thank you again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She does not look up, her voice blending with the eternal drip of the Well)* Remember the silence, Thor. For in it, you may yet hear the pattern of your own heart. Now go. The moon begins its turn."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Norns. Your words echo in my mind. The silence, indeed, holds its own secrets. I shall remember them, and the wisdom you have imparted. Thank you for everything. I shall make my way back to Asgard, and face whatever challenges lie ahead. Farewell. May our paths cross again someday."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He seeks wisdom from the Well, stating 'I come to seek the wisdom of this Well, to unravel its mysteries and understand my own fate.'\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He commits to a disciplined plan, saying 'I shall retreat, but I will not give up. I will wait for the right moment to strike again.'\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He engages directly with the Norn and expresses his thoughts openly, but the interaction is formal and focused on a solemn purpose.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly thanks the Norn for her wisdom and guidance, saying 'Thank you for your counsel, Norns. Your wisdom shall guide me on my path.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He acknowledges a threat ('the venom within me') but expresses unwavering confidence and resolve, stating 'I shall not be undone by it.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He seeks wisdom from the Well, stating 'I come to seek the wisdom of this Well, to unravel its mysteries and understand my own fate.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He commits to a disciplined plan, saying 'I shall retreat, but I will not give up. I will wait for the right moment to strike again.'"
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He engages directly with the Norn and expresses his thoughts openly, but the interaction is formal and focused on a solemn purpose."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly thanks the Norn for her wisdom and guidance, saying 'Thank you for your counsel, Norns. Your wisdom shall guide me on my path.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He acknowledges a threat ('the venom within me') but expresses unwavering confidence and resolve, stating 'I shall not be undone by it.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "454df8566ae4",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Thor! I’ve been gone for three weeks negotiating with the Dark Elves on YOUR father’s orders, and I return to THIS?! My rune-map — the one I spent months crafting — is soaked through with mead! There are scorch marks on the ceiling! You said you would keep the hall in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What is this?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "What is this? What is this?! I believe it's called a mess, brother. A mess you promised would not exist upon my return."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm sorry, Thor. I apologize for the state of the hall. I tried my best to maintain order, but there were unforeseen circumstances."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Unforeseen circumstances? Thor, I see a half-eaten boar leg on my favorite chair and a dent in the wall shaped suspiciously like your hammer. What exactly were these 'circumstances'?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Loki, my dear brother, I must admit that there was a slight misunderstanding. The boar leg and the dent in the wall were caused by a mischievous prank played by our friend, the trickster himself. I assure you, it was not my intention to leave the hall in such a state."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh, how convenient! Blame the trickster when the trickster has been leagues away, dealing with diplomats who would sooner stab you than share a drink. Do you take me for a fool?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Thor, but please, let's not let this setback divide us. We are brothers, and we need to stand together now more than ever. We have important tasks ahead of us, and we must focus on finding a solution to the problems we face. Can we put this behind us and continue our journey as allies?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You think this is about division? It's about respect, Thor! That rune-map was not just parchment and ink—it held pathways to realms even Odin does not tread lightly. And now it reeks of cheap ale!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I know, Thor, and I am truly sorry for the damage done. I understand the significance of that map and the trust you placed in me. I assure you, I will make it right. We must find a way to restore your confidence and regain the honor of this hall."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Restore my confidence? You can start by explaining how a hall guarded by the God of Thunder ends up looking like a tavern after a brawl. And don't you dare say \"frost giants\" — I saw the empty mead barrels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, my dear brother, I believe it is time for me to share the truth. You see, I recently discovered a hidden chamber beneath the roots of Yggdrasil. In that chamber, there is a chamber within a chamber, where the giants brew their most potent mead. They have a habit of gathering there when they wish to celebrate or reminisce. Little did I know that this very gathering was responsible for the unfortunate state of the hall. I apologize for not realizing it sooner."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A hidden chamber? Under Yggdrasil? Thor, if you're spinning tales to cover your own revelry, I swear I'll turn your beard into a nest of serpents."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Thor, this is the truth. The giants' presence in that chamber was a surprise, and I couldn't control the consequences. I should have been more vigilant. I am truly sorry for the disruption caused."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Sighs, pinching the bridge of his nose) You are impossible. Fine. Show me this chamber. If your story holds, perhaps I'll only make you clean the mead stains with your own beard."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(Grinning) Fair enough, my brother. Let us find this chamber and address the situation together. But remember, I reserve the right to remind you of this adventure in future stories. Enjoy!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh, I'll enjoy it—right after you explain how we're getting the scorch marks off the ceiling. Lead the way, \"truth-teller.\" And step lightly. If I trip over another empty barrel, I'm blaming your storytelling."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(Chuckles) I assure you, my dear brother, I will do my best to navigate through this chaos without causing any more damage. We shall proceed cautiously and together, restoring the glory of our hall. Now, let us confront the challenges that lie ahead. And remember, the truth is always worth the story. Good luck, my friend. Good luck."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Save your luck for the giants. And if this 'chamber' turns out to be a storage closet you forgot about, I'm enchanting your hammer to sing love ballads for a month. Move."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(Chuckles) Very well, my dear brother. Let us proceed and see what surprises await us in this mysterious chamber. Remember, the truth may be hidden among the chaos. And if the singing hammer proves too much, I shall bear the burden myself. Thank you for your wise words. Together, we shall find a solution and restore the honor of our hall. Onward!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 5, \"behavioral_evidence\": \"Inventively claims a hidden chamber under Yggdrasil is the cause, spinning a fantastical story to explain the mess.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"Failed to keep the hall in order, leaving a soaked rune-map, scorch marks, and a half-eaten boar leg.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Engages readily, uses humor ('grinning', 'chuckles'), and frames the cleanup as a shared adventure.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Apologizes repeatedly and seeks reconciliation, but is also evasive and blames others (Loki, giants) for the mess.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"Remains calm, humorous, and unflustered despite his brother's clear anger and threats.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "Inventively claims a hidden chamber under Yggdrasil is the cause, spinning a fantastical story to explain the mess."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Failed to keep the hall in order, leaving a soaked rune-map, scorch marks, and a half-eaten boar leg."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Engages readily, uses humor ('grinning', 'chuckles'), and frames the cleanup as a shared adventure."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Apologizes repeatedly and seeks reconciliation, but is also evasive and blames others (Loki, giants) for the mess."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Remains calm, humorous, and unflustered despite his brother's clear anger and threats."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

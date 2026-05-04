@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "0a634e8cb695",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good afternoon, sir! Welcome to the tailor's shop. How may I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, good afternoon. I had an order placed with you several weeks ago for a custom-made suit. I believe it was to be delivered today?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, yes, Mr. Lincoln! I do recall your order. I'm afraid the tailor himself is away on business and won't be back for several weeks. But I can help you with your suit—it's ready and waiting for you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Several weeks? My schedule does not permit me to wait that long. I need this suit for an important court appearance tomorrow morning."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand the urgency, sir. Let me fetch your suit for you. It's been finished and pressed, just as you requested."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, thank you. I appreciate your assistance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(returns with the suit on a hanger, carefully draped)* Here you are, Mr. Lincoln. I hope it meets your expectations. The tailor worked quite diligently on it before he left."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Let us see. Ah, yes, it is indeed finished. Thank you, shopkeeper. I shall try it on immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, sir. The fitting room is just over there. Please take your time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*entrances into the fitting room* Thank you once again for your efforts. This suit seems to fit perfectly. It enhances my appearance and conveys the necessary formality required for the court appearance. Well done."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm glad to hear it, Mr. Lincoln. The tailor will be pleased to know it fits so well. Is there anything else I can assist you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, I think this is everything for now. Thank you for your assistance, shopkeeper. I shall be in touch if any further modifications are needed. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day to you, sir. Safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, shopkeeper. Until our next encounter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until next time, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, until then. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You as well, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. I shall take my leave now. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He acknowledges the suit's quality and its purpose, but shows no explicit curiosity or imaginative engagement beyond the practical need.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He planned ahead with a custom order, emphasizes his tight schedule for a court appearance, and promptly tries on the suit to ensure it fits.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is formal and task-focused, with minimal social expansion or expressive energy beyond necessary politeness.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He is consistently polite, thanks the shopkeeper multiple times, and expresses appreciation for the tailor's diligent work.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"He remains calm and composed when informed of a potential delay, showing no signs of anxiety, irritation, or emotional volatility.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He acknowledges the suit's quality and its purpose, but shows no explicit curiosity or imaginative engagement beyond the practical need."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He planned ahead with a custom order, emphasizes his tight schedule for a court appearance, and promptly tries on the suit to ensure it fits."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is formal and task-focused, with minimal social expansion or expressive energy beyond necessary politeness."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is consistently polite, thanks the shopkeeper multiple times, and expresses appreciation for the tailor's diligent work."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains calm and composed when informed of a potential delay, showing no signs of anxiety, irritation, or emotional volatility."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

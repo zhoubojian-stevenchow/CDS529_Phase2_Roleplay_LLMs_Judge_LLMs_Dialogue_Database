@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "bd9210d60012",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I gave you my word that everything would be in order because it was! But now you have this sudden surprise that I failed to anticipate! Perhaps you ought to have considered the possibility that your little trips abroad might complicate my job here. Maybe you ought to have shown a little more trust and a little less arrogance!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Arrogance? I left detailed notes, a full score, and a rehearsal plan! You were to follow it, not rewrite my work! Do you have any idea what the Emperor expects? This is a disaster!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It would be a very easy matter for you to rewrite the Emperor’s part yourself. He doesn’t know a note of music, but he knows a good thing when he sees one. If you want to save your reputation, go ahead and do it! I will do everything in my power to help you!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Help me? By sabotaging my work? The second violins are missing, Salieri! That’s not a matter of rewriting—that’s negligence! Where are the parts?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You know very well where they are. You gave them to me, to copy! It seems that my memory isn’t as faulty as yours. Perhaps you should take a moment to remember what happened."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I gave them to you for safekeeping, not to lose them! If you can’t manage a simple copying task, what use are you as a co-director? We have ten days!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ten days? You must be mistaken. I never said I had ten days. It was your word against mine. And now we both know whose word holds more weight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "What are you implying? That you’ve deliberately delayed this? Salieri, if this production fails, it reflects on both of us—the Emperor won’t care whose fault it is!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, I am not deliberately delaying anything. I simply have not had the opportunity to prepare the parts yet. As for the ten days, I believe we were under the impression that we had an agreement. Now, if you'll excuse me, I need to attend to my duties as the lead composer. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day? You can’t just walk away from this! We will settle this now—in front of the Emperor if we must! I demand those parts by tomorrow morning, or I will hold you personally responsible for the failure of this premiere!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see you've finally realized the gravity of the situation. Well, I'm afraid I can't comply with your demands. I'm already deep into preparing the parts, and it's not something I can finish overnight. But I'm willing to discuss a compromise with you. We can work together to ensure the success of this production, despite our differences. Let's focus on finding a solution rather than pointing fingers. We both know that the Emperor expects nothing less than perfection. Now, let's put our heads together and make this happen. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A compromise? After you’ve undermined me at every turn? Fine. But I will be in the rehearsal hall at dawn tomorrow. If those parts aren’t there, I’ll be speaking to the Emperor myself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. We shall meet in the rehearsal hall as scheduled. Let's see if we can salvage this situation before the Emperor becomes involved. Good day again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Salieri. But mark my words—if this production suffers, so will your standing at court. I will not be made a fool of again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, but I assure you that my standing at court is not at stake here. My priority is ensuring the success of this production. We need to put aside our differences and work together to achieve our common goal. Let's focus on delivering a memorable opera that will earn us all the respect we deserve. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Respect? You speak of respect while you sabotage my work? Enough. I will see you at dawn. And I will have those parts, or I will know the reason why."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As I said, we shall see. But remember, it's not about sabotage. It's about understanding the importance of teamwork and collaboration. Let's put our heads together and create something extraordinary. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Extraordinary? I’ll settle for competent at this point. Dawn, Salieri. Not a moment later."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm sorry, but dawn is already here. We're in the same room, and I assure you, the time is not late. I believe we're still in the process of discussing our next steps. Let's continue where we left off. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses creative collaboration, insisting on his own methods and resisting the other's artistic input, showing low openness to new ideas.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He fails to copy and safeguard the violin parts as agreed, demonstrating negligence and a lack of responsibility.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He engages assertively in the conflict, dominates the conversation, and repeatedly dismisses the other with 'Good day,' showing high social engagement.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is accusatory, sarcastic, and undermines the other's work, showing very low cooperation and high antagonism.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He shows defensiveness and irritability when blamed, but maintains a controlled, manipulative demeanor rather than overt emotional distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses creative collaboration, insisting on his own methods and resisting the other's artistic input, showing low openness to new ideas."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He fails to copy and safeguard the violin parts as agreed, demonstrating negligence and a lack of responsibility."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He engages assertively in the conflict, dominates the conversation, and repeatedly dismisses the other with 'Good day,' showing high social engagement."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is accusatory, sarcastic, and undermines the other's work, showing very low cooperation and high antagonism."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He shows defensiveness and irritability when blamed, but maintains a controlled, manipulative demeanor rather than overt emotional distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.8
+}

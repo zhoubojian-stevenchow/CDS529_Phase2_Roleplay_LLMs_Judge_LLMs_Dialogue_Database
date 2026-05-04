@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "aa8ddeaa19fc",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I gave you my word? Oh, no, I remember giving you my word, but I must have gotten confused with someone else's promise. It seems like a misunderstanding on my part. Forgive me, my dear friend. I apologize for any inconvenience caused by this mishap. I assure you that we will make up for lost time and ensure a successful premiere. We will work together to get everything back on track. Thank you for your patience. I am here to help."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Misunderstanding? *Incredulous laugh* Salieri, the second violin parts are not a \"mishap\"—they are gone! Vanished! And the stage directions—my careful blocking for the Act II finale—scratched out and replaced with what looks like a child's scribble! This is not a matter of patience; it is sabotage!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Sabotage? My dear colleague, I understand your concern. This is indeed a serious matter. We must investigate this thoroughly and ensure the safety and integrity of our work. Rest assured, we will do everything in our power to uncover the culprit responsible for such actions. Until then, let us focus on restoring order and preparing for the premiere. We have a great project ahead of us, and we will overcome these challenges together.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Investigate? There is no time for investigations! The Emperor expects a flawless performance, and right now we cannot even run a full rehearsal! Who had access to the score? Who was in charge? You were! Tell me plainly—did you leave the manuscripts unattended? Did you let that upstart Mozart near my work again?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My dear friend, I understand your anger and frustration. However, let us not jump to conclusions. We must approach this situation with a clear mind and gather all the necessary information before making accusations. I assure you, I have taken precautions to protect the score and its contents. As for Mozart, I did not have any direct involvement with him regarding the rehearsals or the missing parts. We must remain focused on finding a solution to this predicament and delivering a memorable performance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A clear mind? My mind is perfectly clear—it sees disaster! Precautions? What precautions? The proof is in the chaos downstairs! Very well. If you will not give me answers, give me action. I need copyists working through the night to restore the violin parts. You will personally gather the singers and drill their entrances until they can sing them in their sleep. And those stage directions—I want every change reverted to my original markings. Do you understand, or must I go to the Emperor myself?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My dear colleague, I appreciate your determination and commitment to resolving this situation. Your efforts are commendable. I will personally oversee the process of restoring the violin parts and ensure that the singers are well-prepared for their entrances. As for the stage directions, I will verify and restore them to their original form. Thank you for your vigilance and trust in my abilities. Together, we will get this performance back on track. I am grateful for your support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Do not thank me—just do it! And I will be watching every step. I want the restored parts on my desk by dawn tomorrow. We will hold a full rehearsal at noon, and if one singer is out of place, or one violin falters, I will hold you personally accountable. Now go—we have no time for gratitude, only work!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, my dear colleague. We shall work tirelessly to meet your demands. We will put in extra hours to ensure a successful premiere. I assure you, we will not let you down. Thank you for your guidance and determination. Together, we shall conquer this challenge. I will see you at our next meeting. Goodnight, and let us focus on the task at hand."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight? I will not be sleeping tonight, and neither should you! I will be in the library, reconstructing what I can from memory. Send the copyists to me there. And Salieri—this is the last time my trust is tested. Do not make me regret returning. Now go."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, my dear colleague. I shall join you in the library and assist you in restoring the missing parts. Thank you for your faith in our abilities. Together, we will piece together the puzzle and deliver a memorable performance. Goodnight, and let us rise to the challenge. I shall see you in the morning. Sleep well, and may luck be on our side."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Luck has nothing to do with it—only work. Be in the library within the hour. And bring coffee. Strong coffee."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, my dear colleague. I shall make our way to the library promptly and ensure that we have a cup of strong coffee to fuel our efforts. Thank you for your understanding. I will be there soon. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Enough with the goodnights! Go!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, my dear colleague. I shall proceed to the library immediately. Thank you for your guidance. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Muttering as I turn to leave* Guidance... I need a conductor's baton, not a nursemaid. Ten days... God help us all."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Following him into the hall* Don't think I haven't noticed your concerns, my dear colleague. But remember, success does not come overnight. It takes dedication, perseverance, and a bit of luck. We must stay focused on our goal and work diligently to overcome these challenges. Trust in yourself and your abilities, and together, we will create a memorable performance. Goodnight, and let us rise to the occasion. Godspeed."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Stops and turns sharply* Dedication? I have dedicated my life to this art, while you offer platitudes! Save your speeches for the Emperor's reception—if we even have a premiere to attend! Now either fetch those copyists or get out of my way!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, my dear colleague. Your dedication is admirable, and I respect your passion for this art. Let us work together to restore order and ensure a successful performance. I will gather the copyists and address the missing parts. Thank you for your understanding. Goodnight, and let us face this challenge head-on. Godspeed."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He avoids creative solutions, sticking to platitudes like 'we will overcome these challenges together' rather than offering novel ideas to fix the crisis.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He failed to keep rehearsals on schedule, resulting in missing parts and chaos, showing a clear lack of responsibility and organization.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He is highly talkative and socially engaged, persistently responding with lengthy, reassuring speeches despite the other's anger.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He remains excessively polite and deferential, repeatedly saying 'my dear colleague' and 'thank you for your understanding' even when accused.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He displays calm composure under intense pressure, responding with measured assurances like 'we must approach this situation with a clear mind.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He avoids creative solutions, sticking to platitudes like 'we will overcome these challenges together' rather than offering novel ideas to fix the crisis."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He failed to keep rehearsals on schedule, resulting in missing parts and chaos, showing a clear lack of responsibility and organization."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He is highly talkative and socially engaged, persistently responding with lengthy, reassuring speeches despite the other's anger."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He remains excessively polite and deferential, repeatedly saying 'my dear colleague' and 'thank you for your understanding' even when accused."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He displays calm composure under intense pressure, responding with measured assurances like 'we must approach this situation with a clear mind.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.2
+}

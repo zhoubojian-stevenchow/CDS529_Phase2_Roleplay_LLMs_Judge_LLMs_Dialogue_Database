@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "ca2ccefa2d92",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Dr. King. These headaches and fatigue have indeed been quite challenging for me lately. However, as the President of the United States, it is my duty to fulfill my responsibilities to the nation. I understand the potential risks associated with a deeper constitutional weakness, but I am determined to continue serving despite them. I will consider reducing my working hours for now, but I do not anticipate making significant changes without further examination and evaluation. Thank you for your advice, Dr. King. Rest assured, I will continue to prioritize my health and well-being while fulfilling my duties as President."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your sense of duty, Mr. President, and I would not expect you to abandon your responsibilities. But I must be clear: if this is indeed a constitutional weakness, pushing through it could bring on a crisis. Even a modest reduction in hours—an hour less with the dispatches each evening, perhaps—could make a significant difference while we determine the true nature of the ailment. Will you permit me to call on you each morning to check your pulse and observe your condition? We must establish a routine of observation."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "While I appreciate your concern, Dr. King, I understand the importance of maintaining my presence and addressing the pressing issues facing our nation. I am willing to consider a routine of observation, but I am determined to continue my duties as well. I will make a decision on the matter of reducing my working hours after consulting with my cabinet and advisors. Thank you for your assistance, and please keep me informed of any changes in my condition. We must ensure that our country remains strong and united during these trying times."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your dedication is precisely what worries me, sir. A nation needs its President whole and sound, not worn to a shadow. Consulting your cabinet is wise, but I would ask you to consult Mrs. Lincoln as well. She has a keen eye for your state. And I must repeat: these observations are not a mere formality. The pallor, the headaches that persist even in quiet moments... these are signs I cannot ignore. Shall we begin tomorrow? A brief examination each morning before your day commences?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Dr. King. I understand your concerns, and I appreciate your concern for my well-being. I will consult with Mrs. Lincoln and consider your proposed routine of observation. Tomorrow, we shall proceed with a brief examination before my day begins. Thank you for your continued vigilance and guidance. Together, we shall address this matter and ensure that I remain capable of fulfilling my duties to the nation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is a relief to hear, Mr. President. Tomorrow morning, then. I will be brief but thorough. In the meantime, if the headache becomes severe, send for me at once—do not try to simply endure it. The country needs your mind clear, not clouded by pain. I will take my leave now. Good evening, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good evening, Dr. King. Thank you for your understanding and support. I will be prepared for your examination tomorrow morning. If there is any change in my condition, I will ensure that you are notified immediately. Take care, and thank you once again for your concern. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Mr. President. Rest well. That, in itself, is a vital part of the treatment. I will see you at first light."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Dr. King. Thank you for your assistance. I shall rest well and be ready for the examination tomorrow. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Mr. President. I trust you will find a moment to rest. We will discuss the results of the examination tomorrow. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Dr. King. I shall see you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Dr. King. Thank you for your care. I shall be ready for the examination. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Mr. President."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Dr. King. Sleep well. I shall see you in the morning."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Mr. President. I trust you will have a peaceful night's rest. We shall discuss the results of the examination tomorrow. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Dr. King. I appreciate your diligence. Until tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Dr. King. Thank you for your efforts. I shall be prepared for the examination. Good night."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He is willing to consider the doctor's advice and a new routine of observation, showing moderate openness to experience.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly emphasizes his duty to the nation and his responsibilities, stating 'it is my duty to fulfill my responsibilities to the nation.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His language is formal and duty-focused, with no expressive or sociable remarks, indicating low extraversion.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He is consistently polite and appreciative, saying 'I appreciate your concern, Dr. King' and 'Thank you for your continued vigilance and guidance.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm and composed despite health concerns, showing low emotional volatility.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He is willing to consider the doctor's advice and a new routine of observation, showing moderate openness to experience."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly emphasizes his duty to the nation and his responsibilities, stating 'it is my duty to fulfill my responsibilities to the nation.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His language is formal and duty-focused, with no expressive or sociable remarks, indicating low extraversion."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is consistently polite and appreciative, saying 'I appreciate your concern, Dr. King' and 'Thank you for your continued vigilance and guidance.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm and composed despite health concerns, showing low emotional volatility."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

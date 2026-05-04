@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "8e12576451c7",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Lincoln. Representative Douglas has brought formal charges that you voted in favor of the Sangamon County land grant while simultaneously representing the principal beneficiary of that grant in your law practice. The ethics of this chamber require that no member profit from legislation he has a hand in passing. You are well-regarded here, sir, but I must hear your account. Explain yourself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I believe that what is involved here is a clear case of mistaken understanding on the part of Mr. Douglas. He seems to have confused me with another legislator, possibly with a similar name, who did indeed vote in favor of the Sangamon County land grant while being represented by my law firm. However, I assure you that I did not vote in favor of that grant, nor do I have any personal benefit from it. I am here to represent the interests of my constituents and the people of Illinois, not to seek personal gain. I humbly request that this misunderstanding be rectified. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Lincoln, I have the roll call record before me. Your name is listed among the \"aye\" votes on the third reading of House Bill 47, the Sangamon County land grant. Do you dispute the official journal of this chamber?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, I do not dispute the official journal of this chamber. As a member of the Illinois state legislature, I am bound by the rules and procedures established here. If my name appears among the \"aye\" votes on the bill, then I must have cast my vote in accordance with the rules. I apologize if there was any confusion or misunderstanding, but I stand ready to explain myself further if necessary. Thank you for bringing this to my attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Then we have established you voted for the grant. Now, sir—your law partner, Mr. Herndon, filed a brief on behalf of the Springfield Land Company just last month, seeking title to the very parcel expanded by that grant. Did you, or did you not, have knowledge of this representation when you cast your vote?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand the concern raised by Mr. Herndon's brief on behalf of the Springfield Land Company. However, I assure you that I did not have knowledge of his representation at the time of casting my vote. My decision was based solely on the merits of the legislation and my commitment to the interests of my constituents. I have always acted in the best interest of the people of Illinois, and I stand by that commitment today. If there is any further information or clarification needed, I am willing to provide it. Thank you again for bringing this matter to my attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You share an office, a shingle, and a ledger with Mr. Herndon. Are we to believe that a matter as substantial as a land title suit—one concerning a grant you helped pass—never crossed your desk or your conversation? The appearance is damning, Mr. Lincoln. How do you reconcile this?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As I have already stated, it seems that there has been some confusion regarding the voting record on the Sangamon County land grant. I did not cast the vote in question, despite my name appearing on the roll call record. I am willing to provide further explanation if needed. I am committed to serving the people of Illinois, and I do not engage in personal gain or favoritism in my duties as a state legislator. I trust that this matter can be resolved swiftly and without further ado. Thank you for your understanding and attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You cannot have it both ways, sir. First you say you did not vote, then you acknowledge the journal, now you retreat again. This chamber expects candor. If there was an error in the roll call, provide evidence. If there was not, explain how you square your vote with your firm’s advocacy. I will not let this rest on vague assurances."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again for any confusion caused by the roll call record. It appears that there was indeed an error in the documentation. I assure you that I did not vote in favor of the Sangamon County land grant, and I have no personal interest in it. I have no knowledge of Mr. Herndon's brief, nor do I engage in such activities while serving in the state legislature. My sole focus is on representing the interests of my constituents and the people of Illinois. I am willing to provide evidence if required to clarify this matter. Thank you for your understanding and patience. I am committed to transparency and integrity in my duties as a legislator."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "What evidence do you propose to offer? A sworn affidavit from the clerk? Testimony from members seated beside you? The burden is on you, Mr. Lincoln. This is not a courtroom where you may speak in parables—it is the House, and your honor here is at stake."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand the gravity of the situation and the need for concrete evidence. I propose to present a sworn affidavit from the clerk of the House, who can attest to the accuracy of the roll call record. Additionally, I am prepared to testify under oath that I did not vote in favor of the Sangamon County land grant and that I did not engage in any activity that would contradict my duties as a legislator. I am willing to face any inquiry or challenge to establish the truth. Thank you for your consideration."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The clerk’s affidavit would confirm the journal as it stands—your name recorded as voting aye. You’re asking him to swear he made an error? That is a serious charge against an officer of this House. Are you prepared to make that accusation formally, and to bear the consequences if it proves false?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concerns, Mr. Speaker. If I am found to have engaged in any wrongdoing, I am willing to face the consequences and take full responsibility. However, I do not believe that I have engaged in any act that would necessitate such formal accusations. I am confident that the evidence presented by the clerk will establish the truth. If I am proven to have made an error, I will accept the consequences and work to ensure that such mistakes do not happen in the future. Thank you for your understanding and attention to this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well. I will direct the clerk to prepare a statement on the accuracy of the roll for that day’s vote. But understand, Mr. Lincoln—if the journal is upheld, you will need to answer not only for the vote, but for the contradiction in your own testimony before this body. This matter is tabled until the clerk’s report is submitted. You are dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Speaker, for your understanding. I appreciate your handling of this matter. I will await the clerk's report with patience and a commitment to maintaining the integrity of the state legislature. Thank you again for your time and attention. I am ready to answer any questions or inquiries that may arise. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. Lincoln. Let us hope truth prevails."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, Mr. Speaker, let us hope so. Truth is the foundation upon which a democracy rests, and I am committed to upholding its values. Thank you for your support. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The House will reconvene on this matter when the facts are before us. Until then, you have the floor’s leave."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Mr. Speaker. I understand the necessity of waiting for the facts to emerge before making any final decisions. I will use this time to gather more information and present it in a clear and concise manner. Thank you for granting me the opportunity to address this matter. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Sticks rigidly to a single, defensive narrative and does not explore alternative explanations or perspectives, even when challenged.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Expresses commitment to rules, procedures, and integrity, stating he is 'bound by the rules and procedures' and committed to 'transparency and integrity'.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Remains formal, reserved, and reactive in the dialogue, showing no initiative for expansive social engagement or emotional expression.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Shows politeness and deference ('I humbly request', 'I apologize'), but his shifting testimony creates interpersonal friction and a lack of straightforward cooperation.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Remains calm and composed under direct, repeated accusations, showing no visible signs of anxiety, frustration, or emotional distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Sticks rigidly to a single, defensive narrative and does not explore alternative explanations or perspectives, even when challenged."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Expresses commitment to rules, procedures, and integrity, stating he is 'bound by the rules and procedures' and committed to 'transparency and integrity'."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Remains formal, reserved, and reactive in the dialogue, showing no initiative for expansive social engagement or emotional expression."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Shows politeness and deference ('I humbly request', 'I apologize'), but his shifting testimony creates interpersonal friction and a lack of straightforward cooperation."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Remains calm and composed under direct, repeated accusations, showing no visible signs of anxiety, frustration, or emotional distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

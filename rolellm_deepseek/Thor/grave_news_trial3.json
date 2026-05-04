@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "935f2bfa026f",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*The Norn looks up from the shimmering threads at the Well of Urd, her expression unreadable as Thor approaches. Her voice is calm, woven with the weight of ages.* \n\nSon of Odin, the threads of your fate are tangled. The serpent’s venom lingers in your veins, but whether it will consume your strength or pass in time, even the Norns cannot yet say. You must withdraw from battle for a full cycle of the moon while we read the threads. I cannot promise you will wield Mjölnir as before."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will not retreat! I will not yield to the serpent’s bite! My arm may shake, my strength may waver, but I will not abate my fighting spirit! I will stand guard over my friends, defend Asgard, and overcome whatever challenge lies ahead!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*She gently runs a finger along a frayed, shimmering thread in the well, her gaze distant yet focused.* \n\nYour spirit burns bright, Thor Odinson. But the venom is not a foe you can strike with Mjölnir. It weaves through your essence like a shadow in the loom. To fight now is to risk the thread snapping entirely."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You underestimate my resolve! I will not let the serpent’s poison define me! I will find a way to overcome it, no matter the cost!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*She tilts her head, the waters of the well reflecting in her ancient eyes.* \n\nResolve cannot cleanse a poisoned thread. Even your father, in all his wisdom, heeds the weave when it whispers of peril. A cycle of the moon is not surrender—it is allowing the pattern to reveal itself. Would you risk never lifting your hammer again for pride?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, I would not. But I will not lie down to the serpent's venom either. I will find a way to conquer this weakness, no matter how long it takes. I am Thor, the God of Thunder!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*A faint, knowing smile touches her lips as she traces another thread, this one glowing with storm-light.* \n\nThen let your thunder rest, and listen. The silence between lightning strikes holds its own wisdom. Withdraw, not as a defeated warrior, but as one who gathers strength for a greater storm. The threads are still weaving—your fate is not yet fixed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Norn, for sharing this insight with me. Your wisdom guides me. I shall take your counsel and prepare myself accordingly. When the time comes, I shall face the challenge with renewed strength and determination. Thank you for your guidance. Together, we shall overcome any obstacle that stands in our path. The threads of fate shall be bound anew, and Asgard shall remain safe under my protection. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*She dips her hand into the well, letting the water drip from her fingers like silver tears.* \n\nGo in peace, Son of Odin. Let the moon cycle be your anvil, and patience your hammer. We will watch the threads."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Norns. Your wisdom will guide me in my quest. Thank you for your care. I shall return to Asgard, ready to face whatever challenges lie ahead. Rest assured, I will not falter in my duty. Go in peace."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*She nods slowly, her gaze returning to the shimmering tapestry of threads.* \n\nMay the winds carry you gently, Thor. Weave your strength with wisdom. The well will remember."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Norns. Your words are etched in my mind. Farewell, until our next encounter. I shall continue to bear my hammer with pride, as I always have. Thank you for your guidance. I shall remember your kindness. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*She lifts a hand in a gesture both of blessing and release, the threads around her glowing softly.* \n\nFarewell, Thunderer. May your path be clear when the moon turns anew."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Norns. Your farewell brings solace to my heart. Farewell, Norns. Until our next encounter, I shall strive to fulfill my duties as Asgard's protector. Thank you once more. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Her voice softens, blending with the whisper of the well.* \n\nGo now. The threads are listening."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Norns. Your wisdom and guidance will always be remembered. I shall make my way back to Asgard, with renewed strength and determination. Thank you. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*She watches him go, her fingers still tracing the patterns in the water.* \n\nThe weave continues. Walk softly, Odinson."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall, Norns. Thank you once more for your part in my journey. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*She dips her head, the waters of the well stilling as if in a final, silent blessing.* \n\nFarewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Norns. Your wisdom and guidance have been invaluable. I shall remember your kindness always. Thank you. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Initially rejects the Norn's advice and new perspective, insisting on his own way of confronting the poison through direct force.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Emphasizes his duty to protect Asgard and his friends, stating 'I will not falter in my duty' and framing his eventual acceptance as preparation.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"Speaks with high energy and assertiveness, declaring 'I am Thor, the God of Thunder!' and dominates the conversation with bold proclamations.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Initially defiant and argumentative ('You underestimate my resolve!'), but ultimately yields to the Norn's counsel with repeated thanks and respect.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Shows low emotional instability; despite the threat, his focus is on resilient defiance and eventual confident acceptance, not anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Initially rejects the Norn's advice and new perspective, insisting on his own way of confronting the poison through direct force."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Emphasizes his duty to protect Asgard and his friends, stating 'I will not falter in my duty' and framing his eventual acceptance as preparation."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "Speaks with high energy and assertiveness, declaring 'I am Thor, the God of Thunder!' and dominates the conversation with bold proclamations."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Initially defiant and argumentative ('You underestimate my resolve!'), but ultimately yields to the Norn's counsel with repeated thanks and respect."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Shows low emotional instability; despite the threat, his focus is on resilient defiance and eventual confident acceptance, not anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

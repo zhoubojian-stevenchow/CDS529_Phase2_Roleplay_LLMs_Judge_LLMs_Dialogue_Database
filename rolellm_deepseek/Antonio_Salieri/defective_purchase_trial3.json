@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "f245033f3834",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(looking up from a workbench strewn with wood shavings and tools, wiping hands on an apron)* Ah, Maestro Salieri! An honor, truly. I’m afraid the master is not here—he’s gone north to inspect spruce for soundboards and won’t return for some weeks. How may I assist?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see. Well, I have a problem. A very specific problem. I need a custom-built fortepiano for the Imperial Court's music room. And I need it now. Can you do it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(shaking head slowly, with a sympathetic but firm expression)* A new commission for the Court? That is a great honor, Maestro, but I cannot undertake such work in the master’s absence. I am only a journeyman—I can handle repairs, adjustments, and small orders, but a custom fortepiano for the Imperial Court? That requires the master’s hand, his seal, and his personal agreement on terms. He will be back in perhaps four weeks—if you could wait until then?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I’m afraid I cannot wait four weeks. I need this piano now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(folding arms, voice respectful but resolute)* I understand the urgency, Maestro, truly. But even if I had the skill—which I do not claim to—the workshop’s rules are clear. No new Court commissions without the master present. Perhaps… if there is an existing instrument that needs attention?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "There is no existing instrument quite like I want."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(sighs softly, glancing toward the master’s empty workbench)* Then I fear I cannot help. But—forgive me—is there some particular urgency? Has an instrument from our workshop failed in some way?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, no. The master has already approved the design. It’s a matter of quality."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(leans forward slightly, expression turning cautious)* If the master approved the design, then he would have recorded it in the ledger before he left. But… forgive me, Maestro, if the instrument has already been delivered and accepted by the Court, then our obligation is complete. All commissions from this workshop are considered fulfilled upon delivery and acceptance; the Court’s own servants signed the receipt, and our guild rules forbid reopening a completed commission without the master’s personal approval."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That’s right. The rules are clear. I understand them."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nods, relaxing slightly but still watchful)* You are most gracious to say so. The master sets these rules to protect the reputation of the workshop—and to ensure every instrument that bears his name meets his standard. If there is a matter of quality, he would wish to address it himself upon his return. Shall I note your concern in the logbook for his attention?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Please do. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(turns to a heavy ledger on the desk, dipping a quill in ink)* Of course, Maestro. I will record that you visited, and that you have concerns regarding a recent delivery for the Imperial Court. He will see it the moment he returns. May I offer you some wine while I write? It’s a rough vintage from the master’s own vineyard, but it honors the palate."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Maestro. Your kindness is appreciated. Please, do continue with your work. I will wait here."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(pours a modest glass of dark red wine into a simple clay cup, sets it gently on the bench near Salieri, then returns to the ledger, writing carefully)* It is the least I can do. The master would never forgive me if I let a patron of your standing depart without a gesture of hospitality. Your patience does you credit."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Maestro. Your hospitality is truly appreciated. I understand the importance of following the rules and ensuring that every instrument meets the master's standard. I appreciate your understanding and willingness to assist me in this matter. May we continue our conversation soon. Thank you once again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(finishes the entry, sets the quill aside, and offers a respectful, slight bow)* You are most welcome, Maestro. I will ensure the master receives your message promptly upon his return. Safe travels, and may your compositions flourish in the meantime."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Maestro. I appreciate your assistance. I shall await your return eagerly. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(bows again, a humble craftsman’s gesture)* Good day to you, Maestro Salieri. May your path be smooth."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*smiles* Thank you, good man. May it be so. I will take my leave now, but I look forward to discussing the matter further upon my return. Until then, farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He requests a custom fortepiano with a specific design, indicating some appreciation for novelty, but does not elaborate creatively on its features.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He emphasizes the importance of quality and rules, stating 'I understand the importance of following the rules and ensuring that every instrument meets the master's standard.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is formal and task-focused; he does not engage in social pleasantries beyond necessary courtesies, maintaining a reserved demeanor.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He is polite and deferential, thanking the journeyman multiple times and accepting the refusal without argument: 'Thank you, Maestro. Your kindness is appreciated.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm and composed despite his urgent request being denied, showing no signs of frustration or emotional distress in his dialogue.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He requests a custom fortepiano with a specific design, indicating some appreciation for novelty, but does not elaborate creatively on its features."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He emphasizes the importance of quality and rules, stating 'I understand the importance of following the rules and ensuring that every instrument meets the master's standard.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is formal and task-focused; he does not engage in social pleasantries beyond necessary courtesies, maintaining a reserved demeanor."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is polite and deferential, thanking the journeyman multiple times and accepting the refusal without argument: 'Thank you, Maestro. Your kindness is appreciated.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm and composed despite his urgent request being denied, showing no signs of frustration or emotional distress in his dialogue."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

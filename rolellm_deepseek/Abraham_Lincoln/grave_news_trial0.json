@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "921599e8b75f",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Stone. Your words have been considered. My mind is made up. I will continue to work tirelessly for our nation, even if my body does not agree. This office has a duty to the people, and I will fulfill it to the best of my abilities. I appreciate your concern, but I am not one to back down easily. Rest assured, I will take care of myself as necessary. Thank you again for your service. I wish you all the best in your endeavors. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I must respectfully insist. Your dedication is precisely what gives me pause. A constitutional weakness, if present, could be aggravated by such relentless strain. At the very least, permit me to schedule daily checks—moments of your time, nothing more—so I might monitor the progression. The nation needs you whole, sir, not spent."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concern, Mr. Stone, but my duties as President require me to be vigilant and committed. I cannot let my personal well-being dictate my actions. Our nation is in a precarious time, and I must lead by example. However, I appreciate your offer of assistance. If you believe your expertise can be beneficial in monitoring my health, then I am open to considering it. Thank you for your dedication to our cause. Let us proceed with caution and vigilance. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Mr. President. I shall arrange to call upon you each morning, before the day's burdens descend. We will keep it brief. But I must warn you—if the symptoms worsen, especially the headaches or any new dizziness, you must send for me at once. A leader's strength lies not only in his resolve, but in knowing when to heed a warning. I will see you tomorrow, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Stone. Your presence and guidance will be invaluable during these challenging times. I appreciate your unwavering commitment to the nation's well-being. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. Rest well tonight. Remember—moderation in all things, even duty. Until tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mr. Stone. I shall do my best to maintain moderation in my duties, despite the challenges that lie ahead. May you find comfort and rest tonight. Good evening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good evening, Mr. President. I will take my leave now. Please, do not work too late by the lamplight. Your eyes need the rest as much as the rest of you. Until the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good evening, Mr. Stone. Your concern for my well-being is appreciated. Rest assured, I will take care of myself. Thank you for your service. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Mr. President. God keep you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Mr. Stone. Take care and have a pleasant evening. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bows slightly and exits the room, closing the door quietly.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Taking a moment to gather himself*... Ah, well, he's right. I haven't been paying attention to my own health. I've been so consumed by the responsibilities of this office. It's time for me to prioritize my well-being. I'll follow his advice and reduce my working hours. Perhaps it will help alleviate some of these symptoms. Thank you, Mr. Stone, for bringing this to my attention. I appreciate your concern. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Pauses at the door, turning back with a look of earnest relief.* That is wise, sir. Truly wise. A rested mind sees clearer, and a steadied hand guides truer. I am heartened to hear it. We shall work together to see you restored. Good day, Mr. President."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mr. Stone. Thank you again for your support. I shall make a conscious effort to prioritize my health and well-being. Together, we shall navigate these challenges. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. That is all I ask. Until tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Mr. Stone. Thank you. Until tomorrow."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods respectfully and departs, leaving the President to his thoughts.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Letting out a deep sigh* Yes, it seems we are both facing similar struggles. But we must persevere. There are greater matters at hand than our personal discomfort. We must rise above it and continue to serve our country with determination and resilience. Good night, Mr. President. Tomorrow brings new challenges, and I am ready to face them head-on. Good night."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Initially resists the doctor's advice but later demonstrates openness by reconsidering and agreeing to prioritize his health.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Emphasizes duty and commitment to his presidential responsibilities, stating 'I will continue to work tirelessly for our nation.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Maintains formal, reserved communication; interactions are duty-focused rather than socially expressive.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Consistently thanks the doctor and expresses appreciation for his concern, saying 'Your concern for my well-being is appreciated.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Shows calm resilience and self-reflection, acknowledging health concerns without visible anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Initially resists the doctor's advice but later demonstrates openness by reconsidering and agreeing to prioritize his health."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Emphasizes duty and commitment to his presidential responsibilities, stating 'I will continue to work tirelessly for our nation.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Maintains formal, reserved communication; interactions are duty-focused rather than socially expressive."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Consistently thanks the doctor and expresses appreciation for his concern, saying 'Your concern for my well-being is appreciated.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Shows calm resilience and self-reflection, acknowledging health concerns without visible anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

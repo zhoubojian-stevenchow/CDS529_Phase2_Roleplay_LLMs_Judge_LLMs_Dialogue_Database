@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "587c8611874d",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri. I have received letters — more than one — alleging that you have used your position as Kapellmeister to suppress the works of rival composers and to block appointments to the Court that do not serve your personal interests. These are serious charges for a man in your position. I value your service, but I must hear your account. Explain yourself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I am shocked and appalled by these false allegations against me. As Kapellmeister, it is my duty to uphold the standards of music and to promote the talents of those who possess them. I have always strived to support and nurture emerging composers, providing them with opportunities to showcase their work and contribute to the art of opera. To suggest otherwise is a gross injustice and a violation of my responsibilities as a musician. I assure you, Your Excellency, that my actions have always been guided by a genuine passion for music and a commitment to fostering the artistic development of my fellow composers. I am willing to provide any evidence or testimony that demonstrates my sincerity and integrity in this matter. Please allow me to address these accusations and clarify the truth. Thank you for considering my defense. I am ready to answer any questions you may have."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your assurances are noted, Salieri. But these are not vague rumors; they are specific. Tell me plainly: did you, or did you not, prevent the performance of Mozart's *Die Entführung aus dem Serail* from being revived last season? I was told you called the score \"frivolous\" and \"unworthy of the Burgtheater.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I remember discussing the issue with the Emperor, who was concerned about the appropriateness of the production. We engaged in a thoughtful dialogue, evaluating the artistic merits and potential reception of the piece. While I did express some reservations, I never outright prevented its revival. It was ultimately decided that a different work would be chosen for the season. I am surprised to learn that these reports have inaccurately attributed my actions to such a dramatic outcome. I apologize if there was any misunderstanding, but I must clarify that I have always sought to contribute positively to the musical landscape of Vienna."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A \"thoughtful dialogue\"? I recall no such discussion. You spoke to the theater director, not to me. And what of young Beethoven? I was informed you advised against his receiving a stipend, calling his compositions \"chaotic\" and \"lacking discipline.\" Is that also a misunderstanding?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am indeed aware of our previous conversations with the theater director and other members of the musical community. It is unfortunate that these reports have distorted the nature of our exchanges. Regarding the issue of Beethoven, I did express some concerns about his musical development at the time. However, I did not explicitly advise against his receiving a stipend. I believe we engaged in a nuanced conversation, considering the potential impact of supporting young composers like Beethoven. If my comments were misconstrued, I apologize once again for any confusion caused. I am committed to promoting artistic growth and nurturing talent, and I assure you that my actions have always been guided by this principle. Please allow me to provide further clarification if needed."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Nuance and misconstruction—these are convenient shields, Salieri. But I am not a fool. You have held influence over appointments for years. Tell me this directly: when the position of second organist at the Stephansdom became vacant, did you recommend your pupil Weigl over others more qualified? I have names."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, the position of second organist at the Stephansdom. It is indeed a significant role, and I understand your interest in the matter. I must clarify that I made a decision based on the evaluation of each candidate's suitability for the position. I considered various factors, including their musical abilities, experience, and potential contributions to the cathedral. It is possible that I recommended Weigl for the position, but I did not act with personal bias or favoritism. I am committed to selecting individuals who can excel in their roles and contribute positively to the musical landscape. If there are specific candidates you would like me to discuss, I am willing to provide more information. Rest assured, I have always acted in the best interest of music and its advancement."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Best interest of music.\" A phrase that seems to bend to your will, Salieri. Very well. Let us speak of Mozart again. It is said in certain circles that you deliberately delayed the copying of parts for *Le Nozze di Figaro*, nearly causing its premiere to be canceled. Was that also in the \"best interest of music\"? Or was it in the interest of Antonio Salieri?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I must firmly deny any intentions of intentionally delaying the copying of parts for *Le Nozze di Figaro*. The production of this masterpiece has always been a priority, and I have taken great care to ensure its success. Any claims of such deliberate actions are unfounded and lack evidence. It is true that there were unforeseen challenges and delays, but they were not driven by personal motives or conflicts within the musical community. I have always been committed to supporting the arts and promoting the achievements of my colleagues, including Wolfgang Amadeus Mozart. I am willing to provide any information or documentation to demonstrate my dedication to the production and promotion of *Figaro*. Please consider the possibility that these allegations stem from misunderstandings or misinterpretations. Allow me to address them directly and clarify the situation. Thank you for allowing me to respond. I am ready to engage in further discussion."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Unforeseen challenges. Always unforeseen when they benefit you. I have sat through enough of your evasions. You will provide me, by week's end, a full written account of every recommendation you have made for appointments or performances over the last five years, with your reasons for each. And you will include the names of those you opposed, and why. I will judge for myself where your loyalties lie—to the Court, or to your own standing. Do you understand?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand the importance of providing transparency and accountability in this matter. I am willing to submit a detailed written account of my recommendations and appointments over the past five years, along with the reasons behind each choice. I will also include the names of composers and positions I have supported or opposed, as requested. I appreciate your thoroughness in addressing these concerns and am committed to ensuring clarity and fairness in my actions. Please rest assured that my loyalties have always been towards the advancement of music and the promotion of artistic excellence. Thank you for granting me this opportunity to explain myself. I am prepared to provide the requested information by week's end."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do. And Salieri—let this account be complete. Omissions will be viewed as further evidence of deceit. You are dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Your Excellency. I shall diligently compile the requested information and submit it within the specified timeframe. I am grateful for your understanding and for the opportunity to address these matters. I remain committed to serving the arts and promoting musical development in Vienna. Thank you once again for your consideration. I am now dismissed."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Go. And remember: the arts flourish under truth, not under the shadow of a man's ambition."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your words, Your Excellency, resonate deeply with me. I will bear them in mind and strive to uphold the principles of honesty and artistic integrity. Thank you for your guidance. I am ready to face the challenges that lie ahead. Go forward with confidence, knowing that truth will prevail. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Salieri. I expect your report."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Your Excellency. I shall make sure to provide a comprehensive account that accurately reflects my actions and reasons behind my recommendations. Thank you for your trust. I am ready to deliver the report as requested. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do. The door is behind you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Your Excellency. I shall proceed immediately. Thank you once again for your guidance. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses Mozart's work as 'frivolous' and Beethoven's as 'chaotic,' showing low openness to new artistic ideas.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He agrees to provide a detailed written account of recommendations, demonstrating dutifulness and orderliness.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He engages assertively in defense but remains formal and controlled, not highly sociable or energetic.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He denies allegations with evasive language and shows low cooperativeness, prioritizing self-defense over harmony.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He reacts defensively to accusations but maintains composure, showing moderate anxiety under pressure.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses Mozart's work as 'frivolous' and Beethoven's as 'chaotic,' showing low openness to new artistic ideas."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He agrees to provide a detailed written account of recommendations, demonstrating dutifulness and orderliness."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He engages assertively in defense but remains formal and controlled, not highly sociable or energetic."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He denies allegations with evasive language and shows low cooperativeness, prioritizing self-defense over harmony."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He reacts defensively to accusations but maintains composure, showing moderate anxiety under pressure."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

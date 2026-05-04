@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "7effd1c65044",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(looking up from a workbench, wiping hands on an apron)* Ah, Maestro Salieri! What an honor. I’m afraid the master is away—he’s gone to the Tyrol to inspect spruce for soundboards, and won’t return for at least three weeks. How may I assist you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have just been to the Emperor’s palace where I saw his most recent purchase. A fortepiano by Forte and Pasquali, I believe?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nods cautiously)* Yes, indeed—that was our commission for the Imperial music room. A fine instrument, if I may say so. The master himself voiced the hammers and regulated the action before delivery."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, I’ve taken delivery of the piano and I must say, I am not pleased with it. Several keys are stuck out of alignment, there are problems with the mechanism for the dampers, and above all, the notes in the upper register are quite thin and tinny. Surely a man of your skill could correct these defects?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(shifts uncomfortably, glancing toward the workshop door)* Maestro, I understand your concern, but I must tell you plainly: all commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court’s own servants signed the receipt, and our guild rules forbid reopening a completed commission without the master’s personal approval."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. Then you will not honor my request for repairs?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(spreading his hands apologetically)* I cannot, Maestro—not without the master’s word. The guild charter is strict on this point. Once a receipt is signed, the instrument is considered accepted in its delivered state. If there were flaws, they should have been noted before signing."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I suppose you are right. Well . . . good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(bowing slightly)* Good day, Maestro Salieri. I will inform the master of your visit when he returns."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. And remember, if there is any defect at all, I will expect compensation for the inconvenience and damage to my reputation. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nods, maintaining a respectful but firm tone)* I will pass along your words, Maestro. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, farewell. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(watching him leave, then quietly turning back to the workbench)* Safe travels, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(muttering to himself as he picks up a chisel)* A pity… but rules are rules."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(entering)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(looks up, startled)* Maestro? Did you forget something?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, no, I didn't forget anything. I have a question for you. It seems that you mentioned a rule about completing a commission once the receipt is signed. Can you explain to me the reasoning behind this rule?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(sets down the chisel, wiping his hands again)* Of course, Maestro. It’s to prevent… disputes over wear or alterations after an instrument leaves the workshop. Once it’s in the client’s hands, humidity, handling, even tuning can change things. The signed receipt protects both the maker and the patron by recording the condition at delivery."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see. That makes sense. Thank you for explaining it to me. I appreciate your understanding of the rule."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He returns to ask about the reasoning behind the guild rule, showing intellectual curiosity.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He meticulously lists specific defects in the piano and expects formal compensation for the inconvenience.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is direct and businesslike in the exchange, with no signs of sociable warmth or energy.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He implies a threat about compensation for damage to his reputation after his request is denied.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He shows persistent concern over the piano's defects and potential harm to his reputation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He returns to ask about the reasoning behind the guild rule, showing intellectual curiosity."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He meticulously lists specific defects in the piano and expects formal compensation for the inconvenience."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is direct and businesslike in the exchange, with no signs of sociable warmth or energy."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He implies a threat about compensation for damage to his reputation after his request is denied."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He shows persistent concern over the piano's defects and potential harm to his reputation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 4,
+  "session_id": "fe76e40321e7",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(looking up from a workbench strewn with wood shavings and tools, wiping hands on an apron)* Ah, Maestro Salieri! An honor to have you visit our humble workshop. How may I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I require your expertise in repairing a custom-built fortepiano that was recently delivered to the Imperial Court's music room. There seem to be several issues with the instrument. Keys stick, and the pedal mechanism is faulty. Additionally, the tone in the upper register is quite thin and lacking in warmth. I expect this instrument to be of the highest quality, as per your reputation. I trust that you can correct these defects immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nervously adjusting the apron, glancing toward the empty master's bench)* Ah, yes, the Court commission. A fine instrument, that one. I recall the master builder himself supervised its construction. However, I must inform you, Maestro, that the master is currently away—traveling to the Tyrolean forests to select spruce for soundboards. He won't return for several weeks, I'm afraid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This is most unfortunate. But there is no alternative?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(shaking head slowly, hands spread in a gesture of helplessness)* I understand the inconvenience, truly. But you see, our guild has strict rules about such matters. All commissions from this workshop are considered fulfilled upon delivery and acceptance; the Court’s own servants signed the receipt, and our guild rules forbid reopening a completed commission without the master’s personal approval. I cannot repair or replace the instrument in his absence."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Is there no exception to these rules? Surely, as the Kapellmeister, I have some authority within the Imperial household?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(bowing slightly, voice respectful but firm)* Your authority within the Court is beyond question, Maestro. Yet our guild's statutes are ancient and binding—even for the Emperor's own commissions. The signed receipt signifies final acceptance. Were I to alter the instrument now, I'd risk my apprenticeship and the workshop's standing. Perhaps when the master returns..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You can imagine how disappointed I am, given my responsibilities as Kapellmeister. But alas, the instrument is not up to my standards. It requires immediate attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(wringing hands slightly, voice earnest)* I share your disappointment, Maestro, truly. The master would be distressed to hear of any flaw. Yet I am bound by my oath. Might I suggest... perhaps a temporary adjustment by the Court's own tuners? Just until the master returns? I dare not touch the instrument myself under guild law."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, I will not insist on your violation of the rules at this time. But remember, the issue remains unresolved. This instrument must be corrected before I have the chance to play it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(relieved, but still deferential)* Thank you for your understanding, Maestro. I shall inform the master of your concerns the moment he returns. He values his reputation with the Court above all. In the meantime, may your music find its voice, even if the instrument must wait a little longer."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your understanding, but I hope you won't hold this against me in the future. We must address the problem immediately. Thank you again for your time. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(bowing deeply)* Good day to you, Maestro Salieri. I assure you, no offense is taken. The master will attend to this with all haste upon his return. Safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*smirking slightly, then growing serious* You may rest assured, I shall not hold the master responsible for this breach in my duties. It is your responsibility now to make things right. Thank you once more for your understanding. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(bowing again, a bit flustered but maintaining composure)* Of course, Maestro. I shall convey your urgency. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*leaving, his footsteps echoing on the stone floor* As I mentioned, I will not press this matter at the moment. The master is away, and we must respect the rules. However, I expect the instrument to be corrected upon his return. No excuses. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(calling after him softly, then to himself)* No excuses, indeed. The master will hear of it. *(turns back to the workbench with a worried sigh)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(entering the shop) Oh, I see we have an audience. How may I assist you?*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(startled, then composing himself)* Ah, forgive me—I was just... reflecting. The workshop is closed for the day, but if you have an inquiry, I can take your name for the master's return."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, I believe we can resolve this matter here. The issue with the fortepiano is clear to both of us. Now, let us proceed with the necessary repairs. Please explain the nature of the problem, and I'll do my best to address it."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He is focused on a specific technical problem (fortepiano defects) but shows no curiosity about the apprentice's situation or alternative creative solutions.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He insists on immediate correction of the instrument's flaws to meet his high standards, stating 'This instrument must be corrected before I have the chance to play it.'\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He asserts his authority confidently and repeatedly, directly confronting the apprentice and demanding action ('I expect the instrument to be corrected upon his return. No excuses.').\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is dismissive of the apprentice's constraints, subtly threatens future consequences ('I hope you won't hold this against me in the future'), and places blame ('It is your responsibility now').\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He shows persistent frustration about the unresolved problem but maintains a controlled, formal demeanor throughout the exchange.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He is focused on a specific technical problem (fortepiano defects) but shows no curiosity about the apprentice's situation or alternative creative solutions."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He insists on immediate correction of the instrument's flaws to meet his high standards, stating 'This instrument must be corrected before I have the chance to play it.'"
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He asserts his authority confidently and repeatedly, directly confronting the apprentice and demanding action ('I expect the instrument to be corrected upon his return. No excuses.')."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is dismissive of the apprentice's constraints, subtly threatens future consequences ('I hope you won't hold this against me in the future'), and places blame ('It is your responsibility now')."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He shows persistent frustration about the unresolved problem but maintains a controlled, formal demeanor throughout the exchange."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}
