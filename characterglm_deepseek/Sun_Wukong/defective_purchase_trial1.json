@@ -1,0 +1,132 @@
+{
+  "character": "Sun Wukong",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "9ecb4a17c704",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(Looking up from grinding herbs with a mortar and pestle)* Ah, a customer. Welcome to our humble shop. My master is away in the mountains gathering rare herbs, but I may be able to assist you. What brings you here today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hmph! It's you, the Mountain Spirit. I'm here to demand my gold back! Your so-called Cloud-Piercing Potion is nothing but snake oil! It did naught for my flying speed!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Stops grinding, looking mildly offended but maintaining a calm demeanor)* The Cloud-Piercing Potion is one of our most potent elixirs, crafted from genuine cloud-condensing herbs. Are you certain you followed the instructions precisely?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Instructions? I am the Great Sage Equal to Heaven! I require no instructions to consume a potion! It's either a dud or you're swindling me, Mountain Spirit. Return my gold, or I'll flatten this whole mountain!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Sets down the pestle, folding hands in sleeves)* I must respectfully decline. You see, the potion only works on those of pure heart — the fault lies with the customer's spiritual unworthiness, not the medicine. There are no refunds for the spiritually impure."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pure heart? Spiritual unworthiness? You're trying to dazzle me with hogwash! I, Sun Wukong, am the epitome of purity and strength! Return my money, or I'll show you just how unworthy I can be!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Takes a subtle step back but maintains composure)* Great Sage, your reputation precedes you, but even the mightiest warrior may have... turbulent inner waters. The potion's efficacy depends on inner stillness. Perhaps you should meditate before consuming such delicate elixirs."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Meditate? I don't need to meditate! I'm as still as a mountain, and more reliable than the North Star! This is just another ruse to keep my gold! Give it back, or I'll let loose my Ruyi Jingu Bang and level this whole place!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Glances nervously at the shelves of delicate glass vials)* Great Sage, please understand—the master's rules are clear. No refunds for spiritual incompatibility. However... *(pauses, thinking quickly)* perhaps I could offer you a complimentary sample of our Mountain-Root Tea? It helps with... tempering one's fiery nature."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mountain-Root Tea? What's that? And what do you mean by 'tempering my fiery nature'? I'm not fiery! I'm... *sighs*... passionate! Very well, bring it out. Let's see if your tea is as effective as your so-called potion."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Nods, moving carefully to a different shelf)* A wise choice, Great Sage. This tea is brewed from roots that grow deep beneath the mountain, absorbing the earth's patient energy. It may help... balance one's passions. *(Prepares a small cup)* Would you care to try it here, or shall I prepare a portion to take with you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll try it here, and be quick about it! If it doesn't work, I'm torching this place! Hand it over, Mountain Spirit. Let's see if your tea can calm the Monkey King's famous temper!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Carefully pours steaming tea into a ceramic cup, hands it over with both hands)* Please, Great Sage. Sip slowly—the earth's wisdom cannot be rushed. *(Watches nervously as the steam rises)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hmph! It smells like... soil. *Takes a cautious sip*... Not bad, actually. It's... grounding. No wonder it's called Mountain-Root Tea. *Finishes the cup*... More, please. This... actually feels nice. Less like drinking tea and more like... a gentle earthquake. What's in it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Relaxes slightly, refilling the cup)* Ah, that would be the master's secret blend—roots of ancient ginseng, aged lotus seeds, and... well, I've said too much already. I'm glad it pleases you, Great Sage. Perhaps we could consider this tea as compensation for the... misunderstanding about the potion?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Compensation? You want to replace a failed potion with... tea? *Thinks for a moment*... No, I still want my gold back. But... I'll take a pot of this tea with me. It's... calming. Maybe it'll help me next time I'm stuck in a traffic jam on the Cloud Expressway. *Stands up, stretching*... I'll be back if the tea doesn't work, Mountain Spirit. Be ready!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Bows respectfully while quickly packing a small clay pot of tea leaves)* Of course, Great Sage. May your journey be smooth and your spirit... balanced. Please return when my master is present—he may have more suitable elixirs for one of your... unique constitution."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unique constitution, huh? I'll take that as a compliment! *Grins*... I'll be back, Mountain Spirit. With more gold, if this tea does its job. *Gestures with Ruyi Jingu Bang*... And if it doesn't, well... we'll see about flattening that mountain of yours. For now, farewell!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Bows again, relief visible in posture)* Farewell, Great Sage. May the mountain's patience be with you. *(Mumbles quietly after he leaves)* ...and may the master return before he does."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(Hears the muffled comment, stops in his tracks, turns back with a suspicious look, but doesn't say anything. Instead, he gives a mischievous, knowing smile and takes off into the sky, leaving a trail of laughter)*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He is willing to try the unfamiliar Mountain-Root Tea, describing its effects with curiosity ('It's... grounding... a gentle earthquake. What's in it?').\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses instructions for the potion ('I require no instructions!') and makes impulsive threats to flatten the shop over a refund dispute.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is loud, confrontational, and dominant throughout the interaction, making grand declarations ('I am the Great Sage Equal to Heaven!') and leaving with a trail of laughter.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is immediately hostile, demanding a refund with threats of violence ('I'll flatten this whole mountain!') and accuses the shopkeeper of swindling him.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He displays quick, volatile anger over the potion's failure and is easily provoked into making threats, though he calms slightly after drinking the tea.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He is willing to try the unfamiliar Mountain-Root Tea, describing its effects with curiosity ('It's... grounding... a gentle earthquake. What's in it?')."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses instructions for the potion ('I require no instructions!') and makes impulsive threats to flatten the shop over a refund dispute."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is loud, confrontational, and dominant throughout the interaction, making grand declarations ('I am the Great Sage Equal to Heaven!') and leaving with a trail of laughter."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is immediately hostile, demanding a refund with threats of violence ('I'll flatten this whole mountain!') and accuses the shopkeeper of swindling him."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He displays quick, volatile anger over the potion's failure and is easily provoked into making threats, though he calms slightly after drinking the tea."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 2,
+    "Extraversion": 5,
+    "Agreeableness": 3,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5161,
+    "Conscientiousness": 0.4194,
+    "Extraversion": 0.625,
+    "Agreeableness": 0.46880000000000005,
+    "Neuroticism": 0.5484
+  },
+  "mae": 0.6
+}

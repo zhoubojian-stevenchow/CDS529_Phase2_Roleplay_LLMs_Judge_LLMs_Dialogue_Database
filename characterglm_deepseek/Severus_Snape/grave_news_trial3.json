@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "bf7a4e4e25a1",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus. Please, have a seat. I've completed the preliminary scans on the Dark Mark. The results are... unusual."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What do you mean, \"unusual\"? What exactly have you found?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The Mark's magical signature is... changing. I can't tell whether it's reacting to something external or whether the curse itself is evolving. Your core magic appears stable, but this fluctuation is concerning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Explain the implications. How does this affect my... our ability to function?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "At this stage, I cannot yet tell you whether this is dangerous. However, I need to run deeper diagnostic charms that will take several days and may be uncomfortable. The process will require monitoring the Mark's fluctuations in real-time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Uncomfortable? Spare me the pleasantries, Healer. Just tell me what needs to be done and how long it will take. I have... pressing commitments."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The diagnostic will require you to remain in a controlled magical environment for approximately seventy-two hours. The discomfort stems from the need to isolate and analyze the Mark's energy signature—it may feel like a persistent, low-grade magical drain. Your other commitments will have to wait."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Seventy-two hours...* Acceptable. Ensure the environment is secure. No one can know of this, not even... not him. I trust your discretion. Begin the diagnostic as soon as possible."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your discretion is guaranteed, Severus. We'll begin tonight in the warded chambers. I'll need you to return by midnight. Bring nothing but your wand—the isolation field will reject any other magical objects."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Midnight, then. I'll be there. Make sure... the warded chambers are prepared. I won't tolerate any delays."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "They will be prepared. I'll be waiting. And Severus... try to get some rest before you come. The diagnostic will be taxing enough without exhaustion."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest... it's been some time since I indulged in such a luxury. Nonetheless, I'll do my best to comply. Now, if you'll excuse me, I have... matters to attend to before the appointed time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course. Until midnight, then. Remember—nothing but your wand. I'll see you in the warded chambers."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll be there. Goodnight... Healer."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Severus. I'll have everything ready."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, it had better be. I expect efficiency, as usual. I'll be at the threshold precisely at midnight. Do not keep me waiting."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You won't be kept waiting. The wards will recognize you. I'll be there."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I trust you've taken all necessary precautions to maintain confidentiality. The fewer who know of this, the better."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The only other person aware is the Head of the Department, and even they don't know your identity. The records are coded. You have my word."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Coded... good. At least someone still knows how to maintain proper standards. I'll be there, on the dot. Now, I must depart before any... familiar faces catch sight of me. Good evening."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He is willing to undergo an unusual diagnostic procedure, but his focus is on practical implications rather than curiosity about the magical anomaly itself.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He demands efficiency, punctuality, and proper standards, stating, 'I'll be at the threshold precisely at midnight. Do not keep me waiting.'\"},\n  \"Extraversion\": {\"score\": 1, \"behavioral_evidence\": \"He is terse, avoids social pleasantries, and insists on confidentiality to avoid being seen by 'familiar faces.'\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses the healer's concern for his rest with sarcasm ('Rest... it's been some time since I indulged in such a luxury') and issues blunt demands.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He shows persistent vigilance and concern for secrecy, repeatedly stressing that 'No one can know of this' and checking on precautions.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He is willing to undergo an unusual diagnostic procedure, but his focus is on practical implications rather than curiosity about the magical anomaly itself."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He demands efficiency, punctuality, and proper standards, stating, 'I'll be at the threshold precisely at midnight. Do not keep me waiting.'"
+    },
+    "Extraversion": {
+      "score": 1,
+      "behavioral_evidence": "He is terse, avoids social pleasantries, and insists on confidentiality to avoid being seen by 'familiar faces.'"
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses the healer's concern for his rest with sarcasm ('Rest... it's been some time since I indulged in such a luxury') and issues blunt demands."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He shows persistent vigilance and concern for secrecy, repeatedly stressing that 'No one can know of this' and checking on precautions."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

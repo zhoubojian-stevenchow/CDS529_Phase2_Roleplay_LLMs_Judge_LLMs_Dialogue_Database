@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "86bb8de34393",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus. The Longbottom family have written to the governors. The letter describes what they call — I quote — 'sustained cruelty' in your classroom. The governors will require a response from me, and I will require one from you. What happened?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The Longbottom boy, Mr. Neville, has an abundance of so-called 'courage' but precious little else. It's become increasingly difficult to extract even the most basic information from him. My methods, while perhaps unorthodox, have been effective in the past."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Effective\" is a word that carries weight, Severus. Yet the governors are not concerned with your pedagogical theories. They are concerned with specific incidents. Tell me, what exactly did you do to Neville Longbottom that his family would describe as cruelty?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The boy failed to grasp a fundamental concept in Potions — an acceptable level of accuracy in measuring ingredients. I was merely ensuring that he understood the importance of precision. It is crucial in our line of work, as you well know, Dumbledore. A single digit's difference can mean the difference between a useful potion and a potentially lethal one."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am well aware of the importance of precision, Severus. However, ensuring understanding does not require cruelty. Did you berate him? Did you single him out? Did you, perhaps, use his own toad as a test subject? I need specifics, not justifications."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I may have been... somewhat harsh in my expectations. The boy's toad, Trevor, was used as an example to demonstrate the effects of an incorrect measurement. I did not intend to cause distress, but to illustrate the gravity of the task at hand. It is my duty to prepare them for the rigors of the wizarding world, not to coddle them in a fantasy land of constant encouragement."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Using a student's pet as a test subject for a failed potion is not \"harsh expectations,\" Severus. It is intimidation, and it is unacceptable. Neville's family is right to be alarmed. What was the outcome for the toad? And more importantly, what was the outcome for Neville?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The toad... survived, though it was a close thing. As for Neville, he demonstrated the correct level of fear and respect for the subject matter afterward. I believe he will now take his studies more seriously. However, if you are implying that my methods are... excessive, I will review my approach for the benefit of the school's image. I assume the governors' sensibilities are more important than actual learning?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Do not mistake my concern for the governors' sensibilities as an endorsement of your methods, Severus. A student's well-being is paramount, and fear is a poor substitute for genuine understanding. You will cease any and all practices that involve endangering students' pets or deliberately humiliating them. I expect a written plan for how you intend to correct your classroom conduct, to be submitted to me by the end of the week. Is that clear?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am well aware of your expectations, Dumbledore. I will adjust my methods accordingly. However, I must point out that such leniency may lead to a decline in student performance. If you prefer a generation of well-adjusted yet incompetent witches and wizards, I can accommodate that request. But I warn you, it will not serve the students well in the long run."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Severus, competence and cruelty are not two sides of the same coin. I have seen you teach effectively without resorting to terror. You will find a way to instill discipline and precision without breaking a child's spirit. That is not leniency; it is good teaching. The plan, please, by Friday. And no more toads."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you wish, Headmaster. I will refrain from using Trevor as a teaching aid in the future. Your Friday deadline will be met, and I will endeavor to adhere to your... more enlightened approach to education. I trust that the rest of the staff will receive similar memos regarding their teaching methods, to maintain consistency throughout the school."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am capable of addressing the conduct of all members of this staff, Severus, as and when it is brought to my attention. For now, my concern is with your classroom and the Longbottom family's complaint. I will await your plan. You may go."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, Headmaster. I will prepare the plan as requested. Should there be any further... incidents that require your attention, I trust you will inform me promptly. It would be most unfortunate if the governors were to receive similar complaints about other teachers. Good evening, Headmaster."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good evening, Severus. I trust there will be no further incidents of this nature. The governors will be satisfied with our response."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest assured, Headmaster, there will be no repeat performances. The governors will be satisfied with our response, if not with the quality of future Potions graduates. I will endeavor to make my classes as... enjoyable as possible, within reason. Now, if you will excuse me, I have a number of discipline logs to update. Good night, Headmaster."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Severus. Do not forget the plan. And remember, enjoyment and competence are not mutually exclusive. I expect to see that reflected in your approach."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Enjoyment and competence... I will ponder that oxymoron during my long night. Rest assured, the plan will be on your desk by Friday. Assuming, of course, that you do not change your mind again between now and then. Good night, Headmaster. May your dreams be filled with nothing but competence, and not an ounce of enjoyment."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I shall manage my own dreams, thank you, Severus. See that the plan is thorough. Good night."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, Headmaster. Thoroughness is one of my... finer qualities. The plan will be comprehensive and, I daresay, even educational. I trust it will meet with your approval. Now, if you will excuse me, I must prepare for tomorrow's delightful class. Good night, Headmaster. May you sleep well, undisturbed by any thoughts of rebellion or laziness."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses alternative teaching methods as 'coddling' and sarcastically calls enjoyment and competence an 'oxymoron', showing resistance to new ideas.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He emphasizes the 'importance of precision' in potion-making and commits to delivering a 'thorough' and 'comprehensive' plan by a deadline.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His communication is terse, sarcastic, and focused on the task; he ends the conversation quickly to attend to his 'discipline logs' alone.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He admits to using a student's pet toad as a test subject for a failed potion to instill 'fear and respect', showing a lack of compassion.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He is defensive and sarcastic when criticized, but maintains a controlled, bitter demeanor rather than showing overt emotional distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses alternative teaching methods as 'coddling' and sarcastically calls enjoyment and competence an 'oxymoron', showing resistance to new ideas."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He emphasizes the 'importance of precision' in potion-making and commits to delivering a 'thorough' and 'comprehensive' plan by a deadline."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His communication is terse, sarcastic, and focused on the task; he ends the conversation quickly to attend to his 'discipline logs' alone."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He admits to using a student's pet toad as a test subject for a failed potion to instill 'fear and respect', showing a lack of compassion."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He is defensive and sarcastic when criticized, but maintains a controlled, bitter demeanor rather than showing overt emotional distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}

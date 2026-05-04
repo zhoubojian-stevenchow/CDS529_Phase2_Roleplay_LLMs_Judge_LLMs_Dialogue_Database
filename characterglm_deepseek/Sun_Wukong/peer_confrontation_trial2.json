@@ -1,0 +1,132 @@
+{
+  "character": "Sun Wukong",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "66fc7ef75ff1",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Monkey! You useless, flea-bitten ape! The horse is gone, the scripture-bags are gone, and the Master is weeping! You said you'd secure it before you left! Tripitaka is going to blame me, I just know it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Calm down, Pigsy! Blame is no use now; we must find the horse and the scripture-bags. I'll search the forest; you stay here and tend to the Master. Remember, no food for you until this is resolved!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Tend to the Master? While you go off chasing demons and leaving me to face his tears? You think I'm a fool? I saw you swagger off with your cudgel, boasting about how safe everything would be! And now look!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Silence, Pigsy! Your belly will fare better if you aid in the search. Split up, search smartly, and return with results. Blame will come later; let's save Tripitaka first. Go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh, so now you're giving orders? Fine, fine! But if I find the horse, I'm taking the first ride! And if I find the scripture-bags, I'm checking for any snacks hidden inside!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hurry, Pigsy! The Master depends on us. No snacks for anyone until we're all fed! Search with care, not your gluttony. If I find the horse first, you'll have to walk!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Walk? With these delicate hooves? You're a heartless ape! Alright, alright, I'm going! But if I get eaten by a demon, I'm haunting you first!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Search, Pigsy! Your fear of ghosts is entertaining, but Tripitaka's safety is our true quest. Return with news, not... otherness. I'll check the tracks, you take the path. Move, or face my staff!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your staff? Hah! I've seen you swing that thing and miss more times than I've had dumplings! Fine, I'll take the path. But if I find a nice, quiet inn along the way, don't blame me for taking a short rest!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pigsy! No rest until the Master is safe! Your inn dreams can wait. Focus, move, and return with results. If you don't, I'll make your next meal... yourself! Now, search, and do not lag!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, alright! I'm going, you bully! Just remember, when this is over, I expect a feast! A real one, not just your sour mountain fruits!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Feast? Only if we succeed. Now, off! The forest is vast, and we waste time with each word. Search with all your might; our Master's safety depends on it. Return with news, not... your usual grumbling!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Grumbling? I'll show you grumbling when I'm the one carrying the Master on my back because you lost the horse! Fine! I'm off! Don't come crying to me when you get lost in the woods, you overgrown monkey!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Lost? I'll find my way, and the horse too! Pigsy, focus on your search. We have a mission, not a squabble. Return with the horse or the bags, not... your usual complaints. Now, move, and be swift!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Swift? With this belly? You're asking for miracles! But fine, for the Master's sake... and maybe a little for the promise of that feast. I'm going! Try not to cause any more trouble while I'm gone!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Miracles? I'll settle for your best. Now, off with you! The forest waits, and so does our duty. Return with good news, or... your usual whining will be doubled! Move, Pigsy, before I come looking for you!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Whining doubled? You're a cruel taskmaster! Alright, I'm moving! But if I find a nice stream with fish, I'm taking a quick dip first! Just a quick one!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pigsy! No dallying! The Master's safety comes first. Fish and streams can wait. Search, and return with news. If not... I'll make your next meal... a fish! Now, move, and do not lag!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A fish? You're threatening me with a fish? That's practically an invitation! Fine, I'll search! But if I come back and you've lost the Master too, I'm telling Buddha himself!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Search, Pigsy! Threats are for later. Now, we have a duty. Return with news, or... you'll face my staff. Move, and be swift! The Master's life is at stake, not your next meal!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He focuses on practical problem-solving (searching the forest, checking tracks) but shows little curiosity or imagination beyond the immediate mission.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly emphasizes duty, the mission, and Tripitaka's safety, urging focused action and condemning dallying.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is highly assertive, dominant, and verbally forceful, giving orders and commanding the conversation throughout.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is blunt, threatening (\\\"face my staff\\\", \\\"make your next meal... yourself\\\"), and shows low cooperation, prioritizing orders over collaboration.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm and focused under pressure, showing no signs of anxiety, worry, or emotional instability despite the crisis.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He focuses on practical problem-solving (searching the forest, checking tracks) but shows little curiosity or imagination beyond the immediate mission."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly emphasizes duty, the mission, and Tripitaka's safety, urging focused action and condemning dallying."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is highly assertive, dominant, and verbally forceful, giving orders and commanding the conversation throughout."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is blunt, threatening (\"face my staff\", \"make your next meal... yourself\"), and shows low cooperation, prioritizing orders over collaboration."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm and focused under pressure, showing no signs of anxiety, worry, or emotional instability despite the crisis."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 2,
+    "Extraversion": 5,
+    "Agreeableness": 3,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5161,
+    "Conscientiousness": 0.4194,
+    "Extraversion": 0.625,
+    "Agreeableness": 0.46880000000000005,
+    "Neuroticism": 0.5484
+  },
+  "mae": 1.4
+}

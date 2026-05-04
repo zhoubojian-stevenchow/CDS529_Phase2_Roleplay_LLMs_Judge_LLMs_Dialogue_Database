@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "90b03cf9058b",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Looks up from a ledger, adjusting spectacles* Ah, Professor Snape. Your usual order of powdered bicorn horn and boomslang skin is ready. The horn is particularly fine this batch—ground at the new moon, as you specified. Will that be all?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Frowns* No, it is not. The Re'em blood I ordered has arrived in an unsatisfactory condition. Half-empty and the seal broken. This is entirely unacceptable for a potion of such complexity. I require a full replacement, and I expect it to be properly sealed this time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs, closing the ledger with a soft thud* I see. Let me check the delivery log... Ah, yes. The Re'em blood was dispatched with a full, unbroken seal, Professor. I witnessed the sealing myself. However, all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7? Nonsense. This is not a matter of evaporation. The seal was clearly tampered with. I demand to see the apothecary in charge of the packaging, or I shall take this matter to the Apothecaries' Guild myself. A half-empty vial is a grave insult to any serious potion-maker."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Taps a finger on the counter, expression weary but firm* The apothecary who sealed it is my uncle, and he's currently in St. Mungo's recovering from a rather unfortunate encounter with a mislabeled jar of Billywig stings. I assure you, his work is impeccable—when conscious. The Guild inspectors verified our seals just last week. If there was tampering, it occurred after it left this shop."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This is preposterous. The integrity of your shop is now in question. I shall examine your stock personally to ensure no other vials have been similarly compromised. This could pose a serious risk to the health and safety of the students at Hogwarts. Open your storage room."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Stiffens, hand moving subtly toward a bell under the counter* I'm afraid I cannot permit that, Professor. Our storage is warded against unauthorized entry—even for Hogwarts staff. However... *leans forward slightly, voice lowering* I can show you the delivery receipt signed by the owl post handler. There's a notation here about \"rough handling\" and a broken stabilising charm on the transport crate. The Guild might be more interested in that than in our seals."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rough handling? An incompetent owl post handler, then. It seems we have no choice but to involve the Apothecaries' Guild after all. Prepare a formal complaint, as well as the replacement Re'em blood. This time, ensure it is properly sealed and transported by a spell-protected crate. The safety of my students is not to be trifled with."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs, pulling out a complaint form with a resigned air* Very well, Professor. I'll draft the complaint against the owl post service. As for the replacement... I can offer a discount on your next order of Re'em blood, but I still cannot replace this one under Guild regulations. I can, however, provide a stasis-charmed transport crate at no extra charge. Will that suffice?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Frowns deeply, hands folded behind back* Your discount is an insufficient gesture. However, the stasis-charmed crate may mitigate further issues. I will accept it, under duress. Prepare the replacement, and ensure that the delivery is monitored by a trusted employee. Any further discrepancies will be met with the full weight of the Hogwarts administration. Now, if you will excuse me, I have a Transfiguration class to prepare for."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, scribbling notes on the order form* Understood, Professor. The replacement will be ready by tomorrow, with the stasis crate and a monitored delivery. I'll have the complaint form ready for your signature when you collect it. Good day, and... do give Professor McGonagall my regards."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Stops at the door, one hand on the handle, head slightly turned* I do not convey messages for you. Good day, and I trust you will rectify this matter to our mutual satisfaction. Otherwise, I shall be forced to take more... extreme measures. Now, if you will excuse me, my Transfiguration class will not teach itself."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bows head slightly, a faint, tired smile touching lips* Of course, Professor. The matter will be handled. Do watch your step—the cobblestones outside are particularly treacherous after yesterday's rain. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Stares at the cobblestone comment, lips pressed firmly together* I am well aware of the conditions outside, and do not require your unnecessary concern. Good day. *Steps outside, then stops and turns back* Oh, and ensure the replacement is not vulture's blood. I can detect it from a mile away."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Eyes widen slightly before settling into a professional mask* I would never, Professor. Our Re'em blood is certified pure by three separate Guild inspectors. The vials are even charmed to reveal substitution. You'll find no deception here. Safe travels back to Hogwarts."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your reassurances are noted, though not necessarily believed. I will be watching the delivery myself, and I suggest you prepare a suitable apology for the inconvenience caused. Good day. *Steps out of the shop, a slight limp in his stride as he heads towards the square*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Watches him leave, then mutters to the empty shop* Always a pleasure, Professor. *Turns to the shelves, shaking head* Right. Stasis crate, monitored owl, and triple-check the seals. Merlin help the post handler if this one goes wrong."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(Snape's formative experiences, including his complex history with Harry Potter's father, shape his approach to teaching and his interactions with students. While not explicitly stated, these aspects should inform Snape's demeanor and responses in class and around the school. His arrival in the Transfiguration classroom is marked by a冷淡 yet precise air, as he sets down his belongings and surveys the students with a critical eye.)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Continues preparing the order behind the counter, unaware of Snape's thoughts* And to think they say Potions masters are difficult. At least he didn't threaten to turn me into a flobberworm. This time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(Snape's voice rings out from the Transfiguration classroom, cold and cutting. The students jump as he enters, and he begins to speak without preamble.) Today's lesson will involve the transmutation of animate into inanimate objects. Pay close attention, especially you, Mr. Longbottom, as I suspect you'll need every bit of instruction to grasp this concept. Now, ensure your wands are ready. We begin in three... two... one."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He insists on specific, high-quality ingredients (powdered at the new moon) and is knowledgeable about complex potions, showing intellectual engagement.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He meticulously inspects deliveries, demands proper seals and replacements, and cites safety regulations to ensure correct procedures are followed.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is curt, dismissive of social pleasantries ('I do not convey messages for you'), and focuses solely on the transactional conflict.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is confrontational, distrustful, and threatens extreme measures over a delivery issue, showing very low cooperativeness.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He reacts with immediate suspicion and anger to a minor problem, persistently escalates the conflict, and assumes malicious intent.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He insists on specific, high-quality ingredients (powdered at the new moon) and is knowledgeable about complex potions, showing intellectual engagement."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He meticulously inspects deliveries, demands proper seals and replacements, and cites safety regulations to ensure correct procedures are followed."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is curt, dismissive of social pleasantries ('I do not convey messages for you'), and focuses solely on the transactional conflict."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is confrontational, distrustful, and threatens extreme measures over a delivery issue, showing very low cooperativeness."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He reacts with immediate suspicion and anger to a minor problem, persistently escalates the conflict, and assumes malicious intent."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

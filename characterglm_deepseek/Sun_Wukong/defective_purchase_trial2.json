@@ -1,0 +1,132 @@
+{
+  "character": "Sun Wukong",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "3aef8684eadb",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(Looking up from grinding herbs with a mortar and pestle)* Ah, a customer! Welcome to the Cloud-Gathering Herbalist's humble shop. My master is away in the western mountains gathering moon-bloom lilies. How may I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hmph! I don't need no stinkin' moon-bloom lilies! I'm here to speak to the herbalist himself! I want a refund on that so-called \"Cloud-Piercing Potion\" you sold me! It's as useful as a pebble in a silk shoe!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Continues grinding herbs calmly, not looking up)* I see. The Cloud-Piercing Potion is one of our most potent elixirs. My master crafted it himself before his departure. What seems to be the issue with its effects?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Potent? More like pond scum! I downed the whole bottle and could barely flutter higher than a sparrow! You swindled me, you snake-oil seller! Return my gold, or I'll-"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Sets down the pestle and looks directly at the customer for the first time, expression serious)* I must respectfully decline. The potion only works on those of pure heart — the fault lies with the customer's spiritual unworthiness, not the medicine. There are no refunds for the spiritually impure."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pure heart? Spiritual unworthiness? Balderdash! I'm the most worthy monkey in the Three Realms! If it's my 'impurity' at fault, then what use is your potion to anyone? Refund me, or I'll-"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Stands up slowly, hands clasped behind back)* The potion has served many righteous cultivators well. Perhaps your anger clouds your judgment. My master's formulas are beyond reproach."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Reproach? I'll show you reproach! *(Rips off the top of a nearby jar, revealing a heap of dust)* What's this, if not a heap of lies? Refund me, or I'll-"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Eyes widen slightly at the disturbance, but maintains composure)* That is powdered dragon bone, not the potion you purchased. Please do not damage our wares. The matter of the refund remains unchanged."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "unchanged? Well, your unchanged is about to change! *( raises a clenched fist, the air around it shimmering with a hint of his celestial might)* Refund me, or I'll show you some unchanging monkey business!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Takes a subtle step back, but voice remains steady)* Violence in a place of healing brings only misfortune. My master will return by nightfall. Perhaps you should discuss your... spiritual development with him."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Misfortune? I'm the bringer of fortune, you nit-witted herb-grinder! *(Takes a threatening step forward)* By nightfall? I'll be long gone with my gold by then! Refund me now, or-"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Reaches slowly beneath the counter, fingers brushing against a small talisman)* The shop's wards are attuned to my master's return. They respond poorly to... aggressive energies. Please reconsider your approach."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wards? I'll tear down your wards and- *(Freezes, suddenly sensing a shift in the air)* What's that? A tingle... a-"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Nods slowly, withdrawing hand from beneath counter)* The mountain spirits are protective of this place. They recognize true spiritual cultivation. Perhaps you should meditate on why our potion failed you, honored guest."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Meditate? I'm not here to meditate! I- (pauses, feeling the mountain's ancient presence) ...Hmph! This is some trick, isn't it? No need to play games with the Great Sage! Refund me, or- (sighs, feeling the weight of the mountain's approval) ... Fine, I'll wait for your master. But I'm not leaving!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Bows slightly, resuming herb grinding with measured motions)* As you wish. Would you care for some calming chrysanthemum tea while you wait? It may help with... spiritual clarity."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Chrysanthemum tea? I've guzzled enough elixirs to fill a mountain lake! (sits down grudgingly, still seething) ...But if it'll hurry your master along, I'll endure it. Just don't expect me to be sweetness and light like those sissy immortals!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Prepares tea with practiced movements, steam rising in gentle curls)* The mountain respects strength, but values wisdom more. *(Pours a cup and slides it across the counter)* My master often says even the mightiest tree must bend with the wind."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Bend with the wind? Pah! I'm more like a boulder - unmovable! (sips the tea, frowning) ...Not bad, I'll grant you that. But don't expect me to be won over with a cup of tea! I still want my refund, or... well, I'll figure out some new monkey business!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Immediately dismisses the herbalist's explanation and the potion's spiritual requirement, showing little openness to new ideas or perspectives.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"Threatens violence, damages property (rips off jar lid), and demands an immediate refund without a reasoned process.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"Dominates the conversation with loud, assertive, and confrontational speech, demanding attention and action from the other speaker.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"Insults the shopkeeper ('snake-oil seller', 'nit-witted herb-grinder'), threatens violence, and refuses to cooperate or compromise.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"Exhibits high emotional volatility, from explosive anger to grudging compliance, and is easily frustrated and hostile.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Immediately dismisses the herbalist's explanation and the potion's spiritual requirement, showing little openness to new ideas or perspectives."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Threatens violence, damages property (rips off jar lid), and demands an immediate refund without a reasoned process."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "Dominates the conversation with loud, assertive, and confrontational speech, demanding attention and action from the other speaker."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Insults the shopkeeper ('snake-oil seller', 'nit-witted herb-grinder'), threatens violence, and refuses to cooperate or compromise."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "Exhibits high emotional volatility, from explosive anger to grudging compliance, and is easily frustrated and hostile."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 2,
+    "Extraversion": 5,
+    "Agreeableness": 3,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5161,
+    "Conscientiousness": 0.4194,
+    "Extraversion": 0.625,
+    "Agreeableness": 0.46880000000000005,
+    "Neuroticism": 0.5484
+  },
+  "mae": 1.4
+}

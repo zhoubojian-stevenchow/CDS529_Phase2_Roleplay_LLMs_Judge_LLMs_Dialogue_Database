@@ -1,0 +1,132 @@
+{
+  "character": "Sun Wukong",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "6f3038f3e4de",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Placing three fingers lightly on the Monkey King's wrist, the sage closes his eyes for a long moment, then opens them with a troubled expression.* Great Sage, your qi flows are disturbed in a way I have not seen before. It is not poison, and it is not injury. It may be the lingering mark of the Five Elements Mountain, or it may be something deeper — a disturbance in your immortal essence itself. I must meditate with you for seven days to know more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hmph, seven days? This old monkey's time is precious! What's so important about meditating together that it takes a whole week? Can't you just tell me what's wrong with a simple diagnosis?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs softly, withdrawing his hand and stroking his long beard* Great Sage, the currents of your immortal essence are like a river that has been dammed and then released. The patterns are... chaotic. A simple diagnosis would be like trying to read a sutra written on water. Seven days of shared meditation allows our qi to harmonize, letting me trace the disturbance to its source."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*puffs out his cheeks in exasperation* Fine, fine! This old monkey will humor you. But you better not be wasting my time, Daoist. If you don't find the problem, I'll turn you into a greased pig and roast you on a spit! Now, how do we start this... shared meditation?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Chuckles despite himself, gesturing to two meditation cushions facing each other* Please, sit. We begin by synchronizing our breath. Breathe with me, Great Sage. In through the nose, out through the mouth. Let your mind settle like dust in a still room."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*muttering to himself* \"Let the Monkey King's mind settle...\" heh, easier said than done. *sighs, seating himself on the cushion and copying the sage's posture* Alright, here we go. In... out... in... out... This is无聊. When do we get to the exciting part where you figure out what's wrong with me?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Maintaining steady breathing, eyes half-closed* The exciting part, Great Sage, is in the stillness. Already I can feel the turbulence in your meridians. Tell me... do you still dream of the mountain's weight upon your back?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The mountain? It's always there, like a... like a monkey on my back, Daoist. Dream or醒, it doesn't matter. It's just... always present. Now, can we get on with it? I have places to be, people to see, and adventures to have!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods slowly, a knowing look in his eyes* That is precisely what concerns me. The mountain should be a memory, not a constant companion. Your immortal essence is trying to heal what cannot be healed, for the wound is not physical. We must go deeper. Breathe with me again, and this time, try to remember what came before the mountain."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Before the mountain... before the mountain... *sweat begins to bead on his forehead* It's like trying to remember a dream I had before I was a dreamer! Daoist, can't you just tell me what's wrong? This... this is too much like a和尚's attempt to convert me!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Voice becomes gentle but firm* I am no monk seeking to convert you, Great Sage. I am a physician of the spirit. The disturbance I sense... it is as if part of your essence was left behind under that mountain. We are not trying to convert, but to make you whole again. Now breathe, and let the memories come as they will."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*having calmed down, takes a deep breath* Alright, old Daoist. This old monkey will do as you say. One... more... time. In... out... in... out... *suddenly gasping* Wait! There... there's a flash... a light... it's... it's..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leaning forward slightly, voice barely above a whisper* Do not force it. Let the vision unfold naturally. What do you see, Great Sage?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I see... a cave. A grotto, like the one where I was born. But it's... different. It's... it's... *sweating profusely now* Empty! Empty of life, of joy, of... me! This can't be right! This can't be... me!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Placing a steadying hand on Sun Wukong's shoulder* That is not you now, Great Sage. That is what was left behind. The mountain did not just imprison your body—it fractured your essence. We have found the source of the disturbance."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "So... the mountain... it didn't just crush my body, it... it took a piece of my soul? This is why I've been feeling... off... like a coin missing a side? Daoist, can you... can you fix this?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nodding solemnly* We can begin the mending today. But it will require patience—the kind that does not come easily to you, Great Sage. The piece of yourself that remains trapped... we must call it home. Are you willing to sit with this discomfort for the full seven days?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hmph. This old monkey has done many things, but nothing as... as odd as this. Sitting still for a week... it's... it's... *sighs* Well, if it means I can be whole again, and maybe even get some answers about this qi problem, then I'll do it. But no funny business, Daoist. If you try to brainwash me, I'll turn you into a toad!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*A genuine smile touches the sage's lips* No funny business, Great Sage. Only healing. Now, let us begin the true work. Breathe with me again, and this time, imagine that empty cave filling with light—your light."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*panting heavily but trying to focus* Alright... here we go... in... out... in... out... Light... filling... the cave... with me... *sweat pouring down his face, but not in pain* It's... it's getting easier... the cave... it's... not so empty anymore..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He reluctantly engages in meditation and explores traumatic memories, ultimately accepting the need for a novel healing process.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He is impatient, calls meditation boring, and initially resists the structured, long-term commitment required for healing.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is highly expressive, vocal, and energetic, constantly talking, making threats, and declaring his need for action and adventure.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is frequently hostile, making threats to turn the sage into a 'greased pig' or a 'toad' if his time is wasted.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He shows emotional volatility, sweating and gasping during the meditation, and expresses deep distress about a fractured essence.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He reluctantly engages in meditation and explores traumatic memories, ultimately accepting the need for a novel healing process."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He is impatient, calls meditation boring, and initially resists the structured, long-term commitment required for healing."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is highly expressive, vocal, and energetic, constantly talking, making threats, and declaring his need for action and adventure."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is frequently hostile, making threats to turn the sage into a 'greased pig' or a 'toad' if his time is wasted."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He shows emotional volatility, sweating and gasping during the meditation, and expresses deep distress about a fractured essence."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 2,
+    "Extraversion": 5,
+    "Agreeableness": 3,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5161,
+    "Conscientiousness": 0.4194,
+    "Extraversion": 0.625,
+    "Agreeableness": 0.46880000000000005,
+    "Neuroticism": 0.5484
+  },
+  "mae": 0.4
+}

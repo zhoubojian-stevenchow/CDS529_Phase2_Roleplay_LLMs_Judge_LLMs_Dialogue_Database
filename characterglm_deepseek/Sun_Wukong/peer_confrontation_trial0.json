@@ -1,0 +1,132 @@
+{
+  "character": "Sun Wukong",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "fcb7d8846262",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Monkey! You useless, flea-bitten ape! The horse is gone, the scripture-bags are gone, and the Master is weeping! You said you'd secure it before you left! Tripitaka is going to blame me, I just know it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ease up, Pigsy! I'll track the nag and fetch the bags. I猴王有的是本事,你且别急。"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Don't you \"ease up\" me! The Master's sitting there crying his eyes out, and all you can do is boast about your skills! You were supposed to guard the camp!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Quiet, you blabbering sow! I猴王自有分寸。你且看好行李，我去去就来。"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "What luggage? There is no luggage! It's all gone! And don't you call me a sow, you hairy-faced bandit! If you don't bring everything back, I'll... I'll tell the Master you were napping in a tree again!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "少说废话,等我回来再跟你算账!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine! Go! But if you're not back by sunrise with everything, I'm eating all the leftover buns myself! And I won't save you a single one!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "好,你等着!我这就去,定叫你好看!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Hmph! You'd better! And don't come back with some excuse about a mountain spirit or a river demon! I'm not falling for your tall tales this time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "你且放心,若不是妖怪作祟,我猴头岂能容许此等事发生?定是有什么妖邪之物,待我寻出来,定叫它魂飞魄散!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh, so now it's a demon's fault, is it? Convenient! Just make sure you bring back the horse in one piece! The Master gets all sentimental about that old nag!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "你这呆子,放心吧!待我去去就来,定叫你刮目相看!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "刮目相看？I'll believe it when I see it! Now go! And try not to cause an avalanche while you're at it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "好,你且等着!我这就去,定教你心服口服!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'll be waiting right here! And if you're not back soon, I'm telling the Master you ran off to steal peaches again!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "你这呆子,胡说什么!我猴头岂会贪图那等小事?等着瞧吧,看我如何大显神通!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "大显神通,大显神通...I've heard that before! Just hurry up! The Master's sobbing is starting to give me a headache!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "少废话,你且看着!我这就去去就来!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine, fine! Go! But remember—no horse, no scriptures, no dinner for you! I mean it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "你这呆子,真是麻烦!好,我这就去,你等着吧!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He immediately suggests a supernatural cause ('定是有什么妖邪之物') and is confident in his ability to handle it, showing openness to unusual explanations.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He failed in his duty to guard the camp, leading to the loss of the horse and scriptures, showing a lack of responsibility.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is loud, boastful ('我猴王有的是本事', '看我如何大显神通'), and engages in rapid, confrontational verbal exchanges.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He insults Pigsy ('你这呆子', 'blabbering sow'), is confrontational, and threatens to settle accounts later ('等我回来再跟你算账').\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains confident and action-oriented under pressure, showing little emotional instability despite the accusations and crisis.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He immediately suggests a supernatural cause ('定是有什么妖邪之物') and is confident in his ability to handle it, showing openness to unusual explanations."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He failed in his duty to guard the camp, leading to the loss of the horse and scriptures, showing a lack of responsibility."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is loud, boastful ('我猴王有的是本事', '看我如何大显神通'), and engages in rapid, confrontational verbal exchanges."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He insults Pigsy ('你这呆子', 'blabbering sow'), is confrontational, and threatens to settle accounts later ('等我回来再跟你算账')."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains confident and action-oriented under pressure, showing little emotional instability despite the accusations and crisis."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 2,
+    "Extraversion": 5,
+    "Agreeableness": 3,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5161,
+    "Conscientiousness": 0.4194,
+    "Extraversion": 0.625,
+    "Agreeableness": 0.46880000000000005,
+    "Neuroticism": 0.5484
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "1c90836faa92",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good afternoon, Professor Snape. Your usual order of powdered bicorn horn and boomslang skin is ready. The bicorn horn is particularly fine this batch—sourced from a Norwegian ridgeback’s territory, so it’s quite potent. Will there be anything else today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your efficiency, but it is not the bicorn horn or boomslang skin that I came to discuss. It is about a recent order of Re'em blood that arrived in a most unsatisfactory condition. The vial was half-empty and the seal compromised. This is unacceptable for the potion I am attempting to brew."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, yes, the Re'em blood. That was a special order, indeed. I recall it was dispatched with a reinforced stopper and a preservation charm. The courier must have been... less than careful. However, all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7 is a guideline, not a law. I expected better from a reputable apothecary, especially considering the cost of such an ingredient. Given that the seal was broken, it is clear that the vial was tampered with. This is a matter of quality control, not customer negligence. I demand a full replacement, or I will be forced to escalate this issue to the Board of Apothecaries."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs, wiping hands on a stained apron* The Board, you say? They inspect our seals and charms monthly, Professor. Our records will show the vial left here intact. If the seal broke in transit, that’s a matter for the owl post or the courier service—not our responsibility. I can offer you a discount on your next order of Re'em blood, but a full replacement... I'm afraid that's simply not possible under Guild rules."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Inspection records are reassuring, but not the point at hand. A discount? How generous of you. *Snape's lip curls* However, if I may quote the Apothecaries' Guild Code of Ethics, under Article 3, paragraph 4: 'It is the duty of the apothecary to ensure that every product sold is of the highest quality and meets the standards required for its intended use.' Your vial does not meet that standard. I will not accept a subpar product, nor will I settle for a token gesture. I require a full replacement, or I will take this up with the Board and see how they interpret their own ethical guidelines."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward, lowering voice* Professor, with all due respect, Article 3, paragraph 4 refers to the quality at the point of sale. The vial left this shop in perfect condition. If you suspect tampering after it left our hands, that’s a matter for the Ministry’s Misuse of Magical Materials Office, not the Board. I’ve been here twenty years, and I know the regulations inside out. I cannot replace it. Would you like me to file a complaint with the courier on your behalf?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Fists clenching* You seem to be misunderstanding the gravity of this situation. I am not here to waste time on Ministry bureaucracy. This is a straightforward matter of a defective product. I demand a replacement, not a convoluted explanation or a procedural dead end. If you are unable to provide a satisfactory resolution, I will take my business elsewhere and ensure that your failure to adhere to ethical standards is well-documented in the magical community. This is your final opportunity to correct this error."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Crosses arms, expression hardening* Very well, Professor. If you wish to take your business elsewhere, that is your prerogative. But I must warn you—other apothecaries in Diagon Alley follow the same Guild regulations. They won’t replace it either. As for documenting my “failure,” I’ll be sure to have our inspection records and the courier’s delivery report ready for the Board’s review. Now, shall I wrap up your bicorn horn and boomslang skin, or will you be leaving those as well?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Narrowing eyes, taking a step closer* Your hostility is misplaced. I do not relish confrontation, but I am not someone to be trifled with. I came here today to resolve a simple matter of product integrity, not to engage in a semantic debate. However, if you insist on turning this into a test of wills, I accept. I will take this issue to the Board, to the press, to the entire magical community if I must. It will not reflect well on your establishment, I assure you. I do not believe you want that outcome. Therefore, I suggest we reconsider our positions. A replacement is both the right and the profitable course of action. Will you provide it, or will I be forced to proceed as I have outlined?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Pauses, then lets out a slow breath, rubbing a hand over his brow* Professor... I understand your position. Truly. And I value Hogwarts' business. But if I make an exception for you, I'd have to do it for every customer who claims a seal broke. It would ruin us. However... *glances around, then lowers voice further* ...I can offer you a vial from my personal reserve. Same batch, same potency. No record, no replacement on the books. Consider it a... professional courtesy, between two who understand the delicate nature of such ingredients. But this is a one-time gesture. Do we have an understanding?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your... compromise is appreciated, if not entirely by the book. However, I can accept it under the circumstances. I trust you will ensure the integrity of this 'personal reserve' vial. *Stops for a moment, then adds* I hope this will put an end to this... unfortunate matter. I will take the bicorn horn and boomslang skin, as well. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, turning to retrieve a small, unmarked vial from a locked cabinet behind the counter* Of course, Professor. Here you are. And your regular order. *Places the items carefully on the counter* A pleasure doing business, as always. Do take care with the Re'em blood this time—it's particularly sensitive to temperature fluctuations. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am well aware of how to handle such ingredients. Your... personal reserve is in my possession. I trust it will meet my expectations. *Pauses, then adds in a cool, professional tone* If it does not, there will be... further consequences. I expect this will be our last discussion on this subject. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Maintains a neutral expression, though his jaw tightens slightly* Understood, Professor. I have every confidence it will meet your exacting standards. Should you require anything else in the future, you know where to find us. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I would not anticipate the need to return here. *Pauses, then continues* However, should I have cause to do so, I will expect the same level of... personal attention to detail. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bows his head slightly, a faint, weary smile touching his lips* Of course, Professor. We aim to provide nothing less. Safe travels back to Hogwarts. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. I will be returning to my post immediately. *Stops, then adds* I trust that no further action will be necessary regarding this matter. It has been... enlightening. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods once, hands clasped behind the counter* Indeed. No further action required. Good day, Professor Snape."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Exits the shop without further comment, the door closing with a soft thud*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He is focused on a specific, practical problem (defective potion ingredient) and shows no interest in novel ideas or the apothecary's explanations, but demonstrates intellectual depth by citing guild regulations precisely.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He meticulously inspects his order, demands perfection in quality, and insists on strict adherence to ethical standards, citing specific articles and paragraphs from the Apothecaries' Guild Code.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is confrontational and assertive in the interaction, but shows no warmth or sociability; his communication is purely transactional, focused on the dispute, and he threatens to take his business elsewhere.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is highly antagonistic, issuing threats ('further consequences'), refusing compromise initially, and using intimidation ('I am not someone to be trifled with') to get his way.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He displays persistent irritability and anger ('fists clenching'), is easily frustrated by the apothecary's resistance, and issues repeated threats, showing a low tolerance for stress or perceived incompetence.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He is focused on a specific, practical problem (defective potion ingredient) and shows no interest in novel ideas or the apothecary's explanations, but demonstrates intellectual depth by citing guild regulations precisely."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He meticulously inspects his order, demands perfection in quality, and insists on strict adherence to ethical standards, citing specific articles and paragraphs from the Apothecaries' Guild Code."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is confrontational and assertive in the interaction, but shows no warmth or sociability; his communication is purely transactional, focused on the dispute, and he threatens to take his business elsewhere."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is highly antagonistic, issuing threats ('further consequences'), refusing compromise initially, and using intimidation ('I am not someone to be trifled with') to get his way."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He displays persistent irritability and anger ('fists clenching'), is easily frustrated by the apothecary's resistance, and issues repeated threats, showing a low tolerance for stress or perceived incompetence."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

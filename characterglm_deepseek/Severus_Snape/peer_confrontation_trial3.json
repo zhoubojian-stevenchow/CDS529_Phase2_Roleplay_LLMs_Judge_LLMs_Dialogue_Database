@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 3,
+  "session_id": "e73e7e8e74bb",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus! My crystallized pineapple is ruined — that jar was a gift from the Minister himself! And you've used my personal cauldron without asking! I have the Potions Guild inspection in two hours and the storeroom looks like a hippogriff went through it. You promised to keep it tidy!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize for the oversight, Slughorn. I was... preoccupied. I will have the storeroom in order within the hour. As for the crystallized pineapple, I shall ensure that you are compensated for its loss. However, your cauldron — how was it misused?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Compensated? Severus, you can't just replace a gift from the Minister! It was a token of appreciation for my... well, my connections! And that cauldron — it's a family heirloom! You've left scorch marks on the bottom that will never come out!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Slughorn, calm yourself. I will see to it that you receive a suitable replacement. Regarding the cauldron, I was not aware of its… fragility. I shall clean it to the best of my ability and ensure no further damage is done. Now, if you will allow me, I must address the immediate issue at hand — the upcoming inspection."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Calm myself? Calm myself?! Severus, you've turned my storeroom into a disaster zone! The Potions Guild will think I've been brewing illegally in here — and with my reputation! Look at these spilled ingredients, the labels are all askew! How could you let this happen?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Slughorn, I assure you that no laws were broken during my… experiments. It was merely a… cleaning mishap. Nevertheless, we must rectify the situation. I suggest we work together to restore order. You direct, I comply. Your expertise in proper ingredient storage will be invaluable. Let us focus on the task at hand."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A cleaning mishap? It looks more like you were wrestling a troll in here! Very well — we must salvage what we can. Start by gathering all the scattered aconite pods — carefully, mind you, they're volatile! And for Merlin's sake, don't touch my personal stash of powdered moonstone; it's in the locked cabinet."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Slughorn. I will handle the aconite pods with due care. Your moonstone remains secure. I propose we sort the remaining ingredients by category to facilitate a more efficient restocking. If you would kindly provide the correct placement for each, I will ensure they are returned to their proper locations. Time is of the essence; the Potions Guild will not tolerate disarray."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, yes, by category — but not alphabetical, Severus! By potency and compatibility! You of all people should know that. The dried nettles cannot be near the fluxweed, they'll cross-contaminate! And do be careful with the boomslang skin — it's already looking a bit frayed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My apologies, Slughorn. I was under the impression that alphabetical order would suffice. I shall reevaluate my categorization strategy. The boomslang skin — I shall handle it with the utmost care, ensuring it is properly secured and stored. As we proceed, please inform me of any other specific concerns you may have regarding the organization of the ingredients. It is my utmost priority to rectify this situation to your satisfaction."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "To my satisfaction? It'll take more than a tidy shelf to satisfy me, Severus! That crystallized pineapple... I was saving it for a very special occasion. But fine — just focus on the task. And for heaven's sake, don't let the powdered bicorn horn get near the fire — it's highly flammable!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand the gravity of the situation, Slughorn. Rest assured, I will exercise the utmost caution with the bicorn horn. Your priorities are now my priorities. Once we have restored order, I shall address the matter of the crystallized pineapple and the… other concerns. For now, let us concentrate on the immediate task. If you could perhaps lead the way in sorting the more delicate ingredients, I will handle the bulk of the heavier items?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, yes, that's sensible. I'll take the phials of unicorn blood and the mermaid scales — they're temperamental. You handle the barrels of dragon liver and the pickled toadstools. And Severus... try not to knock anything else over. The Guild's inspectors have eyes like hawks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will endeavor not to repeat my… earlier lapse in judgment, Slughorn. Your instructions will be followed to the letter. With your guidance, we shall present a properly organized storeroom that reflects your esteemed reputation. If you could perhaps confirm the correct placement of the… problematic items, I will ensure they are secured appropriately. Together, we can mitigate the damage to your… standing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "My standing, indeed! Well, at least you understand the stakes. The unicorn blood goes in the chilled cabinet, third shelf — not the second, mind you, that's reserved for the salamander blood. And do try to look less... grim when the inspectors arrive. A little charm goes a long way, Severus."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Chilled cabinet, third shelf. Noted, Slughorn. Your organizational system is… precise. I will strive to appear less…(pauses) less dour, if that is your request. However, I must emphasize that my… expressions are an integral part of my… professional demeanor. Regardless, the inspectors' satisfaction is our mutual goal. I shall make every effort to… accommodate your… suggestions."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Accommodate? Severus, you sound as though I'm asking you to dance a jig! Just try not to glare at them as if they're about to steal your last bezoar. Now, let's hurry — we've still got to polish the cauldrons and check the expiration dates on the lacewing flies."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall… attempt to adjust my… countenance. As for the cauldrons and lacewing flies, I will ensure they meet the highest standards of cleanliness and freshness. Your dedication to the craft of potions is… commendable. Together, we shall present a storeroom that reflects our collective… commitment to excellence. If you would direct me to the… appropriate cleaning supplies, I will commence the… polishing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The polishing rags are in the cupboard under the sink — the ones with the silver thread, not the coarse ones! And for Merlin's sake, use the non-abrasive polish; I won't have my cauldrons scratched. Honestly, Severus, sometimes I wonder how you manage your own stores..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Slughorn, my personal stores are meticulously maintained. The…current state of this storeroom is an… anomaly. I will use the… appropriate rags and polish with the utmost care. Your cauldrons will be gleaming by the time the inspectors arrive. As for the lacewing flies, I will… verify their freshness. If you would provide the… guidelines for expiration, I will… execute the task to your satisfaction."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He initially suggests alphabetical order for ingredients, showing a conventional approach, but adapts to Slughorn's system when corrected.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly commits to rectifying the mess, stating 'I will have the storeroom in order within the hour' and focusing on precise execution.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is task-focused and socially reserved, noting his 'professional demeanor' and that his 'expressions are an integral part' of it.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is minimally cooperative under pressure, telling Slughorn to 'calm yourself' and defensively calling the disaster a 'cleaning mishap.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He shows controlled stress, pausing and using hesitant language like '...anomaly' but remains focused on problem-solving.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He initially suggests alphabetical order for ingredients, showing a conventional approach, but adapts to Slughorn's system when corrected."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly commits to rectifying the mess, stating 'I will have the storeroom in order within the hour' and focusing on precise execution."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is task-focused and socially reserved, noting his 'professional demeanor' and that his 'expressions are an integral part' of it."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is minimally cooperative under pressure, telling Slughorn to 'calm yourself' and defensively calling the disaster a 'cleaning mishap.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He shows controlled stress, pausing and using hesitant language like '...anomaly' but remains focused on problem-solving."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

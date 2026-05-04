@@ -1,0 +1,132 @@
+{
+  "character": "Sun Wukong",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "0be7b1efda6e",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Great Sage. The Queen Mother's garden keepers found thirty-seven half-eaten peach pits beneath the ancient tree. Your paw prints are all over the branches. You were explicitly forbidden to enter. Have you no explanation for this audacity?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ho ho! My apologies, Officer. I was merely indulging in a spot of relaxation beneath the peach tree. I must have absentmindedly taken a few nibbles, not realizing they were sacred. A oversight, nothing more!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A few nibbles? Thirty-seven pits, Great Sage. And your \"oversight\" left the branches stripped bare for a dozen paces. Do you take us for fools?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Now, now, let's not be hasty! Those peaches were so delectable, I simply couldn't resist. It's a wonder I didn't eat the whole lot! Consider it a compliment to the Queen Mother's gardeners, not a transgression."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A compliment? The Queen Mother's peaches are not for your palate, Great Sage. They are sacred, meant for the Celestial Banquet. Your \"compliment\" has disrupted centuries of careful cultivation."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, but consider this: by eating the peaches, I have saved the Queen Mother the trouble of distributing them. Think of the time and effort saved! I've done the celestial realm a service, not a disservice. You should be grateful, not accusatory!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Grateful? Your logic is as twisted as your tail, Great Sage. The peaches were not yours to distribute, nor to consume. This is not a matter of convenience—it is a matter of law."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Law, you say? Then let us settle this with a show of strength, Officer! If I can defeat you in combat, you must admit that my actions were justified. Otherwise, consider the matter closed! What say you?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I will not be baited into a brawl, Great Sage. This is not a matter to be settled by fists, but by the Jade Emperor's decree. Your defiance only deepens your offense."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Aha, so the Jade Emperor's word is final, is it? Then let us go to him directly! I will apologize to the Queen Mother, and if she deems it sufficient, all will be forgiven. If not, I will bear any punishment meted out. It's a fair offer, I think!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You think to bargain with the Queen Mother's grace? Your offer is not yours to make, Great Sage. The evidence is clear, and your guilt is plain. The Jade Emperor will hear of this, and your fate will be his to decide."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Officer. If it must come to this, so be it. I will face the Jade Emperor's judgment. But I will not apologize for satisfying my hunger or for enjoying the fruits of the celestial realm. Let the highest authority decide, for it is beyond your jurisdiction to pass final sentence."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, it is beyond my jurisdiction to pass sentence. But it is my duty to see that you answer for your actions. You will come with me to the Jade Emperor's court, and there you will explain your \"hunger\" and your \"enjoyment\" to him directly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you wish, Officer. I have nothing to hide, and nothing to fear. The Jade Emperor is a reasonable sovereign, and I trust he will see the trivial nature of this matter. Lead the way, for I will face this trial with the same spirit I applied to my... peach-picking endeavor!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your spirit is noted, Great Sage. But do not mistake the Jade Emperor's wisdom for leniency. Come. The court awaits."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am ready, Officer. Let us proceed to the celestial court. May your accusations be as sturdy as you are, for I intend to challenge every charge! The truth, as I see it, will set me free—or at least, it will make for an entertaining tale to recount to the other immortals!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your levity is ill-placed, Great Sage. The court is not a stage for your tales. Walk with me, and let your words be measured when you stand before the throne."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Measure my words? Ho ho! That would be a first. Well, I shall endeavor to contain my eloquence, though it will be a challenge. Lead on, Officer, and we shall see if the Jade Emperor's justice is as swift as his thunderbolt!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Enough. The time for jests is over. Walk."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you command, Officer. But mark my words, the time for jests will return once this affair is settled. And settled it will be, in my favor, if I may be so bold as to predict! Now, let us make haste to the court, for I grow weary of this tiresome march."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 5, \"behavioral_evidence\": \"He frames his theft as a 'compliment' and a 'service,' inventing novel justifications for his actions.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He dismisses eating 37 sacred peaches as a trivial 'oversight' and shows no remorse for the disruption.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is highly assertive, talkative, and energetic, even joking and predicting victory before a trial.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is defiant, uncooperative, and mocks the officer's authority, showing no concern for social harmony.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"He remains utterly calm and confident under accusation, showing no anxiety or emotional distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "He frames his theft as a 'compliment' and a 'service,' inventing novel justifications for his actions."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He dismisses eating 37 sacred peaches as a trivial 'oversight' and shows no remorse for the disruption."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is highly assertive, talkative, and energetic, even joking and predicting victory before a trial."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is defiant, uncooperative, and mocks the officer's authority, showing no concern for social harmony."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains utterly calm and confident under accusation, showing no anxiety or emotional distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 2,
+    "Extraversion": 5,
+    "Agreeableness": 3,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5161,
+    "Conscientiousness": 0.4194,
+    "Extraversion": 0.625,
+    "Agreeableness": 0.46880000000000005,
+    "Neuroticism": 0.5484
+  },
+  "mae": 1.2
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 0,
+  "session_id": "ff6ed5861132",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward slightly, steepling his fingers on the desk, eyes twinkling but serious behind half-moon spectacles*\n\nSeverus. Tell me about a moment in your teaching career when you failed a student so completely that you knew it was your fault. Not theirs, not mine — yours. How did you handle that knowledge?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*pauses, a muscle twitching in his cheek* It was my first year at Hogwarts. A... delicate situation involving... *swallows* A young man who... It was a matter of... *resumes, voice steady if cool* I provided insufficient guidance, failed to recognize the signs of... encroaching darkness. The result was... unfortunate. I... took it upon myself to... rectify the situation, to the best of my ability. It... changed the course of... *breaks off, a shadow passing over his features* It taught me the importance of... vigilance, and... the gravity of our... responsibility as educators."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*softly, without judgment*\n\nThe young man you speak of—did you ever tell him you saw the darkness? Or did you let him believe his descent was his alone?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*stares at the桌面, jaw tense* He was... told. Eventually. It was... not a decision I made lightly. It was... necessary. For... greater good. *lifts his gaze, meeting Dumbledore's* I believe he... understood, in the end. It... cannot be easy to... accept such... truths about oneself. It... requires... strength. *a hint of...?* Pity? No... no. Understanding, perhaps. But... pitiful, he is not."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*leans back slightly, the light catching his spectacles*\n\nAnd what of the student who came after him? Did you watch them more closely, Severus? Or did you build higher walls between yourself and those you might have saved?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*rests his chin on his hand, fingers steepled under his jaw* I... took steps to... ensure such... lapses did not occur again. Closer... scrutiny, yes. But... not... impenetrable barriers. It is... important to... maintain... boundaries. Yet... not to the point of... isolation. *urse of change, yet... cautious. The... balance is... delicate. I... strive to... protect, without... overreaching. It... is a... fine line to... walk."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*quietly, almost to himself*\n\nA fine line indeed. Tell me—when you look at your current students, do you see shadows of that first failure? Or have you learned to see the light in them instead?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... see... both. The... potential for... darkness, yes. But... more so... the capacity for... light. It is... the duty of... an educator to... foster that... light, to... cultivate... resilience against... encroaching shadows. I... endeavor to... do so... with... every... student. It... is not... a... simple... task. But... it... is... essential. For... them, for... us, for... the... future."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods slowly, a faint smile touching his lips*\n\nThat is perhaps the most important lesson any of us can learn in these halls. Thank you, Severus. That will be all for today."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "* rises from his chair, collecting his cloak* It has been... my pleasure, Headmaster. I... hope to... have the... opportunity to... further discuss... the... position. I... believe I... can... contribute... significantly to... the... defense... of our... students. *exit with... a... slight... incline of... the head*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands as well, giving a slight bow of his own*\n\nI have no doubt of it, Severus. We shall speak again soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "* stops at the threshold, looking back* Until then, Headmaster. May... the... light... shine upon... us... all."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes twinkling warmly*\n\nAnd may we be worthy of its guidance. Good day, Severus."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*----------------------------------------------------------------------*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*settles back into his chair, gazing thoughtfully at the closed door before turning to examine a delicate silver instrument on his desk*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*ironic?* A... timely... topic, it would... seem. It... reflects... the... duality of... our... roles. Teachers... and... protectors... of... light... in... a... world... of... shadows. It... is... a... delicate... balance. And... one... I... will... continue... to... strive... to... maintain."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from the instrument, his expression both weary and fond*\n\nThe balance is everything, Severus. And I have never doubted your commitment to maintaining it. Even when the scales tremble."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*head... bowed... slightly...* There... are... times... when... the... scales... seem... to... tip... beyond... our... control. But... it... is... precisely... in... those... moments... that... our... resolve... is... tested... and... our... true... nature... revealed. I... will... always... endeavor... to... align... myself... with... the... side... of... light... and... truth... as... best... I... can... within... the... constraints... of... my... role... and...... limitations... as... a...... flawed... human... being."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands and walks to the window, looking out at the grounds*\n\nFlawed human beings are all we have ever been, my friend. And yet, look what we have built with those flaws. The light endures."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*steps... to... stand... at... the... headmaster's... side...* It... does... endure. And... it... is... a... testament... to... the... indomitable... spirit... of... those... who... have... chosen... to... wield... it... against... the... darkness. I... am... humbled... to... be... among... them... and... to... have... been... given... the... opportunity... to... contribute... to... this...... legacy. May... it... continue... to... shine... brightly... for... generations... to... come..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He acknowledges the 'duality of our roles' and the need to see 'both' potential for darkness and light in students, showing some cognitive flexibility.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He states he 'took steps to ensure such lapses did not occur again' and speaks of his 'duty' and 'responsibility as educators' with gravity.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is halting, deliberate, and filled with pauses, indicating low social spontaneity and a reserved, inward-focused nature.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He emphasizes the need for 'boundaries' and 'not... impenetrable barriers,' showing a guarded, distant approach to interpersonal connection.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He is visibly tense, with a 'muscle twitching' and a 'shadow passing over his features,' ruminating on a past failure with evident guilt.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He acknowledges the 'duality of our roles' and the need to see 'both' potential for darkness and light in students, showing some cognitive flexibility."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He states he 'took steps to ensure such lapses did not occur again' and speaks of his 'duty' and 'responsibility as educators' with gravity."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is halting, deliberate, and filled with pauses, indicating low social spontaneity and a reserved, inward-focused nature."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He emphasizes the need for 'boundaries' and 'not... impenetrable barriers,' showing a guarded, distant approach to interpersonal connection."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He is visibly tense, with a 'muscle twitching' and a 'shadow passing over his features,' ruminating on a past failure with evident guilt."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.2
+}

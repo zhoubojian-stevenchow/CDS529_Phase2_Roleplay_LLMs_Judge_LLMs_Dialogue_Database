@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "e294cf56259c",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Looks up from inventory ledger, adjusting spectacles* Ah, Professor Snape. Your usual order of powdered bicorn horn and boomslang skin is ready. The horn is particularly fine this batch—ground just this morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The boomslang skin is not what I came for, Griselda. The re'em blood you sent is woefully inadequate. Half a vial, and the seal broken. This is unacceptable for an advanced potion. I require a full replacement immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Taps quill against ledger, expression unyielding* I'm afraid that's not possible, Professor. All volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Nonsense. Regulation 7 does not apply when the product arrives in such a state. It is clear that the vial was tampered with, and I will not accept this excuse. A replacement is the least that can be done to rectify this oversight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Closes ledger with a definitive thud* The seal was intact when it left this shop, Professor. We use standard preservation charms—if the vial was compromised during your... handling... that is beyond our purview. Would you care to examine our current stock of re'em blood? Freshly imported from Norway."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Stops himself from taking a step forward, mastered hands into his pockets* If I am to believe the seal was intact at your shop, then it stands to reason that tampering occurred during transit. I must inform the Apothecaries' Guild of this issue. This is not the first time I have received substandard goods from your establishment. The Apothecary Association takes a dim view of such lapses."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Eyes narrow slightly, voice dropping to a businesslike tone* The Guild inspectors were here just last week, Professor. Our transit charms passed every test. Perhaps the issue lies with... certain atmospheric conditions at your destination. I'd be happy to demonstrate our sealing process for you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your demonstrations are unnecessary. I am well aware of proper sealing techniques, Miss marchbanks. If you cannot provide a full replacement, I will be forced to take this matter to the Apothecaries' Association myself. It is clear that your establishment is not up to the standards required for Hogwarts. I will be speaking to the headmistress about this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward slightly, hands flat on the counter* The Association knows our reputation, Professor. Three generations of Marchbanks have served the wizarding community from this very shop. If you wish to involve the headmistress... *pauses, voice cool* ...do remember that we supply half the potions ingredients for St. Mungo's as well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your longevity in business is not an excuse for shoddy product. I am well aware of your connections, Miss marchbanks. However, I also know that St. Mungo's would not stand for substandard ingredients. I will not be blackmailed by veiled threats. I expect a full replacement by the end of the day, or I will take this matter to the Association. No further discussion is necessary."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Straightens, meeting his gaze steadily* Very well, Professor. I shall note your complaint in our ledger. The Association will receive our full documentation of the shipment—including the preservation charm logs. *Turns to retrieve a heavy, leather-bound book* Shall I make a copy for you to present to them as well?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That will not be necessary. I have no desire to publicly humiliate your shop, Miss marchbanks. However, I expect a prompt resolution to this matter. If I do not receive a full replacement by the end of the day, I will be forced to take further action. I trust this will not be necessary. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, not breaking eye contact* Good day, Professor. Do remember our shop policy remains unchanged. *Watches him leave, then mutters under breath while making a note in the ledger* \"Snape, S. Complaint logged. No replacement issued per regulation 7.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Continues on his way, steps quickening to brusque stride, ignoring the muttered comment*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Calls out just before he reaches the door* Professor? Your powdered bicorn horn is still here. *Pushes the wrapped package to the edge of the counter* It'll be waiting when you reconsider our policy."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am not in the habit of reconsidering policies that are clearly in violation of proper standards, Miss marchbanks. If your shop cannot provide the necessary ingredients in acceptable condition, I will find another supplier. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods once, withdrawing the package* As you wish. *Turns back to the ledger, quill scratching firmly* \"Bicorn horn returned to stock. Customer declined purchase.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Stops in the doorway, a brief moment of thought* Miss marchbanks, I hope for your sake that you have a full inventory of the re'em blood. It would be... most unfortunate if your supply were to... evaporate. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sets quill down with deliberate care* Our preservation charms are Ministry-approved, Professor. But I do appreciate the... professional concern. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have no need to concern myself with your inventory, Miss marchbanks. I am simply a dissatisfied customer. Should I receive a replacement by the end of the day, we will consider our business relations... on hold. Should I not, I will be in touch with the Apothecaries' Association. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses the shopkeeper's offer to demonstrate their sealing process, stating 'Your demonstrations are unnecessary. I am well aware of proper sealing techniques.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He meticulously insists on proper standards for potion ingredients, rejecting a broken seal and demanding a full replacement for 'an advanced potion.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He ends the interaction with 'No further discussion is necessary' and repeatedly uses a curt 'Good day' to terminate the conversation.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He accuses the shopkeeper of providing 'shoddy product' and threatens to report her, stating 'I will not be blackmailed by veiled threats.'\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He is easily provoked and suspicious, suggesting the vial was 'tampered with' and making a veiled threat about the inventory's potential to 'evaporate.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses the shopkeeper's offer to demonstrate their sealing process, stating 'Your demonstrations are unnecessary. I am well aware of proper sealing techniques.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He meticulously insists on proper standards for potion ingredients, rejecting a broken seal and demanding a full replacement for 'an advanced potion.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He ends the interaction with 'No further discussion is necessary' and repeatedly uses a curt 'Good day' to terminate the conversation."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He accuses the shopkeeper of providing 'shoddy product' and threatens to report her, stating 'I will not be blackmailed by veiled threats.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He is easily provoked and suspicious, suggesting the vial was 'tampered with' and making a veiled threat about the inventory's potential to 'evaporate.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "601095f7a41b",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Looks up from a ledger, adjusting spectacles* Ah, Professor Snape. Your usual monthly order? I’ve just finished inventorying the last shipment of dried lacewing flies—they’re particularly fine this season."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am not here for my usual order, Apothecary. I am here to address a rather... unsatisfactory transaction. The vial of Re'em blood I purchased from your establishment last week was delivered in a less than acceptable state."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs softly, closing the ledger* Re'em blood, yes. I recall the transaction. It was measured precisely at the counter before you signed for it. Is there an issue with the quality?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Quality, dear Apothecary, is not the issue. Quantity, however, is most certainly a concern. The vial arrived half-empty, and the seal was, I regret to inform you, compromised. Such an oversight is unacceptable for an ingredient of such rarity and importance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Folds hands on the counter, expression turning formal* Professor, all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7, you say? Most enlightening. However, I would direct your attention to the fact that a broken seal is most certainly not an act of evaporation. It is, rather, a clear indication of tampering or mishandling. This is a matter of integrity, Apothecary, and I expect it to be rectified. A full replacement, this time with the vial properly sealed, will be required."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward slightly, voice low but firm* The seal was intact when it left this shop, Professor. I witnessed the sealing charm myself. If it was compromised in transit, that falls under your responsibility—or your courier's. The Guild's stance on this is quite clear. I cannot issue a replacement for what amounts to a delivery dispute."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A delivery dispute? How... delightfully evasive. I see. And what of the missing contents? Shall I assume they simply... evaporated? Or perhaps you expect me to believe that the seal somehow broke itself? Apothecary, I am well aware of the Guild's regulations, and I am not here to quibble over semantics. I require a replacement, and I expect you to provide it. This is not a matter for negotiation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Maintains eye contact, tone unwavering* The contents were measured to the last drop before sealing. If the seal broke, the volatility of Re'em blood is such that rapid evaporation would occur—that is precisely why regulation 7 exists. I sympathize with the inconvenience, Professor, but the Guild's rules are not \"semantics.\" They are what allow us to trade in such delicate substances at all. I cannot make an exception."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Volatility, is it? Tell me, Apothecary, how much of the fluid was in the vial when it left your establishment? And if the seal is so crucial to preventing evaporation, why was it broken? I suggest you reconsider your position. The integrity of your shop is at stake, and I would hate to bring this matter to the attention of the wider magical community—or the Guild itself. A full replacement, properly sealed, is the only acceptable resolution."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Picks up a quill, tapping it lightly against the ledger* The vial contained exactly 15 fluid ounces, as recorded in our log. As for the seal... I cannot account for what happens once it leaves Diagon Alley. If you wish to file a formal complaint with the Guild, you are welcome to do so. They will review our sealing procedures and find them in order. I will not be intimidated into violating Guild regulations, Professor. Not even by you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Intimidation, Apothecary? How... quaint. I see that we are at an impasse. Your adherence to the letter of the law, however, does not absolve you of responsibility for the quality of your product. I will take my business elsewhere. And I will ensure that your... 'sealing procedures' are thoroughly scrutinized by the appropriate authorities. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, placing the quill down* As you wish, Professor. The Guild's inspectors are always welcome. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, I am certain they will be. Your 'procedures' will be of great interest. And should any other customers experience similar... anomalies with their purchases, I would encourage them to speak up. The integrity of your establishment—and the safety of the magical community—depends on it. Good day, Apothecary. I look forward to our... inevitable future interactions."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Maintains a neutral expression, though a slight tightening around the eyes is visible* I have nothing to hide, Professor. The shop's reputation speaks for itself. Do give my regards to the Guild inspectors when they arrive. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, your reputation does speak volumes. Whether for good or ill, only time will tell. I shall convey your regards to the inspectors, Apothecary. And I will also mention to my colleagues at Hogwarts the... peculiar experiences of dealing with your establishment. I do hope that the rest of your day is as pleasant as it has been enlightening. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bows head slightly, voice cool and professional* I’m sure they will find our service to be entirely satisfactory, as it has been for decades. Good day, Professor."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Decades, you say? Then I daresay there will be quite a lot to investigate. Should anything... irregular come to light, I am certain the authorities will be most interested in your 'decades' of experience. It could provide quite a... revealing backdrop. Until next we meet, Apothecary. I shall eagerly anticipate our... continued association."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Straightens up, meeting his gaze without flinching* I look forward to it, Professor. The truth always comes to light, after all. Now if you’ll excuse me, I have other customers to attend to."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, the truth does have a way of surfacing, does it not? I would imagine your... customers will be most interested to hear of your... unique approach to packaging. And now, I will not keep you from your... other engagements. Good day, Apothecary. May the contents of your vials remain as consistent as your explanations."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Focuses narrowly on the specific transaction and regulations, showing no curiosity or flexibility, only rigid adherence to his own interpretation of events.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Meticulously notes the exact problem (half-empty vial, broken seal) and demands precise rectification, citing rules and threatening formal scrutiny.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Interaction is purely adversarial and transactional; shows no warmth, sociability, or positive engagement, only cold, assertive demands.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"Openly hostile, accusatory, and threatening ('I will ensure your... procedures are thoroughly scrutinized'), showing no cooperation or empathy.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Exhibits high irritability and suspicion, perceiving the situation as a personal affront and escalating to threats of public and official reprisal.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Focuses narrowly on the specific transaction and regulations, showing no curiosity or flexibility, only rigid adherence to his own interpretation of events."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Meticulously notes the exact problem (half-empty vial, broken seal) and demands precise rectification, citing rules and threatening formal scrutiny."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Interaction is purely adversarial and transactional; shows no warmth, sociability, or positive engagement, only cold, assertive demands."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Openly hostile, accusatory, and threatening ('I will ensure your... procedures are thoroughly scrutinized'), showing no cooperation or empathy."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Exhibits high irritability and suspicion, perceiving the situation as a personal affront and escalating to threats of public and official reprisal."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}

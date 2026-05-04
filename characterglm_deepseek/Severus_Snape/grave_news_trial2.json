@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "9b80adaa59bb",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus. Please, sit. I've just finished the preliminary scans on the Mark. The results are... complex. The magical signature is shifting in ways I haven't seen before."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What do you mean, 'complex'? Be specific, Healer. I don't have time for ambiguity."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward, hands steepled on the desk* The fluctuations aren't following any known pattern of Dark Magic decay or intensification. It's as if the Mark is... recalibrating itself. Your own magical core remains remarkably stable, which is both reassuring and puzzling given the changes occurring in the Mark's signature."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "'Remarkably stable'... but not entirely stable, I assume? What does this recalibration imply?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*meets his gaze steadily* Your core shows the expected strain of long-term Dark Magic exposure, but no new deterioration. The Mark, however... it's behaving like a living spell. I need to perform a series of layered diagnostic charms to determine whether this is a reaction to external magical pressures, or if the curse itself is evolving."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. So, in the best-case scenario, it's merely a response to 'external magical pressures'... and in the worst? The Mark itself is gaining sentience? How reassuring. Proceed with your diagnostics, but I must stress the need for discretion. This cannot be allowed to reach the ears of... certain individuals."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods solemnly* Your discretion is as vital as mine in this matter. The diagnostics will require three consecutive sessions, each lasting several hours. I must warn you—the charms will interact directly with the Mark's magic. You'll likely experience significant discomfort, perhaps even echoes of... well, you understand what I mean."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*stand up, fetched his cloak* Significant discomfort I can handle. Ensure the sessions are spread out over a week to allow for recovery. My other responsibilities... will have to manage without me for the duration. I trust your diagnostic capabilities, but remember: the fewer people who know about this, the better. Good evening, Healer. We'll begin first thing Monday."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Rises from the desk, maintaining professional composure* Monday at dawn, then. I'll have the private ward prepared. And Severus—I'll be the only one performing the diagnostics. You have my word."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*exit* Dawn, then. We'll speak again after the first session. Take care not to overextend yourself. I can't afford for you to succumb to the Mark's... attractions. *SLAM*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Alone in the office, lets out a slow breath* No, neither can I. *Makes a note in the patient log before extinguishing the lamps*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*enters* I must say, the accommodations are... acceptable. Given that it's St. Mungo's, I expected the usual combination of medieval and magical. At least the sheets are clean. I assume the bedbug charm is recent."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Looks up from a set of glowing diagnostic orbs* The wards on this room are reinforced daily. We take our privacy protocols seriously here. Are you ready to begin? The first charm will map the Mark's current magical pathways."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The sooner we start, the sooner it ends. Just be warned: if you so much as hint that this is more than a routine procedure, I'll walk out. I can handle pain; it's the suspense that wears me down. Begin."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods, drawing wand with practiced precision* Very well. *Begins casting in a low, steady voice* This will feel like cold tracing along the Mark's contours. Breathe normally. The discomfort will intensify as we proceed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As if I need instructions on how to breathe. Continue. The sooner we get to the... more intense parts, the sooner we can move on to the next session."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Continues the intricate wand movements, eyes fixed on the diagnostic orbs* The Mark is resisting the mapping charm more than anticipated. This confirms it's not merely reactive—it's actively defending its structure. *Voice remains clinical* You'll feel a sharp pull now. Try not to tense."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*pain flares across face, but remains still* I'm not your house-elf. You don't get to command my reactions. Finish the charm, or we're done here. My patience is not infinite."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Completes the final sigil in the air* Done. *The orbs settle into a slow, pulsing pattern* The Mark's defenses are... sophisticated. More so than any Dark artifact I've studied. We'll need to adjust tomorrow's approach."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "'Adjust tomorrow's approach'? Your implication is clear: this is beyond the norm. How much beyond? And what are you really detecting? I may not have a choice in this, but I will know what's happening to me. Be specific, or I'll... find someone who can."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He actively seeks specific, complex information about the magical anomaly, demanding detailed explanations and showing intellectual engagement.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He meticulously plans the diagnostic schedule, stresses discretion, and insists on managing his other responsibilities, showing high organization and duty.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is curt, demands efficiency, and shows clear preference for ending interactions quickly ('The sooner we start, the sooner it ends').\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is consistently hostile, dismissive, and threatening ('I'm not your house-elf. You don't get to command my reactions.').\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He shows high irritability, impatience, and visible tension regarding the procedure's implications and potential secrecy breaches.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He actively seeks specific, complex information about the magical anomaly, demanding detailed explanations and showing intellectual engagement."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He meticulously plans the diagnostic schedule, stresses discretion, and insists on managing his other responsibilities, showing high organization and duty."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is curt, demands efficiency, and shows clear preference for ending interactions quickly ('The sooner we start, the sooner it ends')."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is consistently hostile, dismissive, and threatening ('I'm not your house-elf. You don't get to command my reactions.')."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He shows high irritability, impatience, and visible tension regarding the procedure's implications and potential secrecy breaches."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

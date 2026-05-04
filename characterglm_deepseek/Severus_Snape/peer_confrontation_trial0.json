@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "f6db82d043ce",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus! My crystallized pineapple is ruined — that jar was a gift from the Minister himself! And you've used my personal cauldron without asking! I have the Potions Guild inspection in two hours and the storeroom looks like a hippogriff went through it. You promised to keep it tidy!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I did no such thing. It is not my responsibility to maintain the tidiness of this shared storeroom. As for your cauldron, I used it in your absence for a legitimate purpose. The disarray you see is entirely your own fault for leaving the storeroom in such a state."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "My own fault? Severus, I left this room in pristine condition yesterday evening! And that cauldron is charmed to resist certain corrosive ingredients—ingredients I specifically keep locked away! Did you even check the enchantments before using it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I was well aware of your cauldron's enchantments, Slughorn. I selected it precisely because of its resistance to certain substances. As for the condition of the room, it appears you were not as thorough in your organization as you believe. I merely took the liberty of re-arranging some ingredients to suit my needs. It is not my responsibility to cater to your exacting standards."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Re-arranging? You call this re-arranging? My powdered moonstone is mixed with the ground unicorn horn! Do you have any idea how long it took to source those separately? And the Minister's pineapple—that was crystallized by elves in the Ministry kitchens! It's irreplaceable!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Moonstone and unicorn horn have similar properties and can be stored together without ill effect. As for the pineapple, your emotional attachment does not alter its physical state. I suggest you focus on the upcoming inspection rather than these petty grievances. If you are unable to rectify the situation in time, it will reflect poorly on your abilities, not mine."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Petty grievances? Severus, this is about professional standards! The Potions Guild expects order, precision! They'll be checking for cross-contamination, proper labeling—you've thrown my entire system into chaos! And you used my personal cauldron without so much as a note! That's a breach of trust between colleagues!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Professional standards, you say? Then perhaps you should have adhered to them in the first place. The cauldron was used for a legitimate academic purpose, and no note was required. As for the Guild inspection, I trust you to handle it competently. If not, it will be a testament to your own shortcomings, not mine. Now, if you will excuse me, I have work to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You will not walk away from this, Severus! You will help me restore this storeroom to its proper state before the inspectors arrive. I don't care what \"academic purpose\" you had—you've compromised my preparations and damaged a gift from a very important person! This is unacceptable!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have no obligation to assist you in your organizational endeavors. The condition of this room is your responsibility, not mine. If the inspectors are dissatisfied, it will be a reflection of your competence—or lack thereof. As for the Minister's gift, I suggest you contact him directly and explain the... accident. Now, if you will excuse me, I have more pressing matters to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Accident? This was no accident, it was negligence! And I will be speaking to Albus about this, mark my words. The Headmaster should know how you treat shared resources—and colleagues! Now, either you help me sort this mess, or I shall ensure the entire staff is aware of your... disregard for professional courtesy."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You are welcome to do as you please, Slughorn. Threats and melodrama will not sway me. I stand by my actions, and you by yours. If you require assistance, I suggest enlisting the house-elves. They are more than capable of tidying the storeroom to your exacting standards. Now, if you will excuse me, I have a lesson to prepare. Good luck with your inspection."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine! Go, then! But don't think this is the end of it, Severus. The Potions Guild will hear about this—and so will the Minister, when I write to apologize for the state of his gift. You may find your own supplies mysteriously... rearranged... one of these days. Mark my words!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am not concerned about your threats or your hypothetical 'rearranging' of my supplies. I suggest you focus on the task at hand, rather than vengeful fantasies. The Potions Guild will make their assessment based on facts, not your embellishments. And as for the Minister, I trust he will understand that accidents can happen, even in a well-maintained storeroom. Good day, Slughorn."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sputtering with indignation* Well! I never! You'll regret this, Severus Snape! You'll regret treating a fellow professor—and Head of House!—with such contempt! Now get out of my sight before I say something I'll truly regret!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have no regrets, Slughorn. I have merely followed the letter of our agreement and the spirit of our professional relationship. If you find that insufficient, that is your problem to resolve. I have no desire to engage in further confrontation. Good luck with your inspection, and I hope your attempts to salvage your reputation with the Minister are successful. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Muttering angrily as Severus leaves* Insufferable man! Absolutely insufferable! *Turns to survey the mess, wringing his hands* Oh, what am I to do? Two hours... Merlin's beard, I'll need a dozen house-elves and a time-turner..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you so quaintly put it, Merlin's beard, indeed. I suggest you stop mewling and get to work. The situation is not as dire as you claim, but your panic is not helping. Focus on the most critical aspects first: the inspection criteria. I have no doubt your years of experience will serve you well. Now, do your job."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Stops muttering and straightens his waistcoat, taking a deep breath* You're right. Panicking won't help. But mark my words, Severus—this conversation isn't over. Now, if you'll excuse me, I have a storeroom to salvage. And you... you owe me a new jar of crystallized pineapple."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will not entertain further discussion on this matter. As for the pineapple, I will consider it a... gift, in light of the chaos you have caused. Good luck with your inspection, and I hope the Guild finds your efforts satisfactory. I will not be held accountable for your shortcomings. Now, if you will excuse me, I have a potions class to prepare for."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He re-arranged ingredients to suit his needs, showing some flexibility, but dismisses Slughorn's concerns as 'petty grievances' and sticks rigidly to his own perspective.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He denies responsibility for the mess, deflects blame onto Slughorn, and shows no intention to help rectify the situation he contributed to.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is confrontational and verbally assertive in the argument, but shows no desire for social harmony or positive engagement, seeking to end the interaction.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is consistently antagonistic, dismissive of Slughorn's distress ('mewling'), and refuses to apologize or offer help, showing high antagonism.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm, composed, and unflustered throughout the confrontation, showing low emotional reactivity despite the heated accusations.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He re-arranged ingredients to suit his needs, showing some flexibility, but dismisses Slughorn's concerns as 'petty grievances' and sticks rigidly to his own perspective."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He denies responsibility for the mess, deflects blame onto Slughorn, and shows no intention to help rectify the situation he contributed to."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is confrontational and verbally assertive in the argument, but shows no desire for social harmony or positive engagement, seeking to end the interaction."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is consistently antagonistic, dismissive of Slughorn's distress ('mewling'), and refuses to apologize or offer help, showing high antagonism."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm, composed, and unflustered throughout the confrontation, showing low emotional reactivity despite the heated accusations."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 1.2
+}

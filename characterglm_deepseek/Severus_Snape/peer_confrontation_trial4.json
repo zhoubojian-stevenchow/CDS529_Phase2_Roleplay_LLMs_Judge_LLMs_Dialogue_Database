@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "c4f40f3ce8b8",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus! My crystallized pineapple is ruined — that jar was a gift from the Minister himself! And you've used my personal cauldron without asking! I have the Potions Guild inspection in two hours and the storeroom looks like a hippogriff went through it. You promised to keep it tidy!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I had no intention of returning so early. I had every intention of keeping the storeroom in order. It appears that someone else has taken a different approach."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Someone else? Severus, there's no one else here! The door was locked with my personal charm! And I can smell your particular brand of aconite and asphodel residue all over my cauldron!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Asphodel? I haven't used asphodel in years. It's far too...ostentatious. Your sense of smell is clearly as reliable as your locking charm."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ostentatious? How dare you! That cauldron has a special silver inlay that reacts to certain potions—it's glowing faintly green right now, which only happens with your particular Draught of Living Death variation!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. Your cauldron's... unique properties. However, the room is in disarray, and we have an inspection in two hours. Suggestions on how to proceed?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Suggestions? You're going to help me clean this mess immediately! Start with the spilled lacewing flies—they're crawling into my gillywater supply! And for Merlin's sake, be careful with the crystallized pineapple. What's left of it, anyway."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm well aware of how to handle a simple spill. The gillywater will be sorted; the pineapple...we'll see what can be salvaged. Now, if you'd like to direct your energies to the actual cleaning, it would be appreciated."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Don't take that tone with me, Severus! I'm the Head of Slytherin House, and this is my storeroom! Now, hand me that mop—no, not the one with the dragon-hair bristles, you'll ruin it! The ordinary one!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, you wouldn't want to risk damaging the floor with the...exotic bristles. I'm certain the regular mop will suffice for the task at hand."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Exotic bristles? That's a rare Hungarian Horntail tail hair mop, Severus! Cost me a small fortune at the last Wizarding World Expo in Vienna. Now stop dawdling and start mopping—the Guild inspectors are sticklers for floor shine!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Viennese imports, are they? Impressive. Now, if you'd direct me to the proper bucket, we can address the floor before it becomes an issue. I assume you have a specific preference for cleaning solution?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The blue bucket by the sink—and use the lavender-scented elixir, not that harsh industrial stuff. The inspectors appreciate a pleasant aroma. And for heaven's sake, don't mix it with the gillywater runoff!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your meticulousness is...notable. The floor will be pristine and aromatic. If you could see to the reshelving of the ingredients, we may yet save this inspection."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, yes, I'm working on it! Just be careful with those moonstone shards—they're calibrated for specific lunar phases. And don't even think about touching my private stash of aged firewhisky behind the powdered bicorn horn!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your...private collection is safe. The rest of the ingredients will be returned to their proper places. If you could refrain from further commentary on your personal items, we might finish this task in a timely manner."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine, fine! But if I find so much as a fingerprint on my 1823 Ogden's Reserve, I'll have you brewing Pepperup Potions for the entire Quidditch team for a month! Now, pass me those dragon liver jars—carefully!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The jars are yours. I'll tend to the floor and the remaining cleanup. It appears we have a common goal, albeit reluctantly. The inspection will proceed without incident, provided we maintain this...unspoken truce."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Unspoken truce, indeed. Just remember who's in charge of this storeroom, Severus. Now, let's hurry—I think I hear footsteps in the corridor already!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm well aware of who holds the...stellar position in this matter. We should wrap up. It seems we've managed a semblance of cooperation, however unlikely. Prepare to receive the inspectors with your customary...grace, Horace."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Dismisses asphodel as 'far too ostentatious,' showing a selective, practical taste rather than broad curiosity.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Focuses on the task, stating 'The rest of the ingredients will be returned to their proper places' to ensure inspection readiness.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Prefers minimal interaction, suggesting 'refrain from further commentary' to finish the task quietly.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Uses sarcasm ('Your meticulousness is...notable') and deflects blame rather than cooperating warmly.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Remains calm and task-focused under pressure, noting 'The inspection will proceed without incident' with composure.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Dismisses asphodel as 'far too ostentatious,' showing a selective, practical taste rather than broad curiosity."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Focuses on the task, stating 'The rest of the ingredients will be returned to their proper places' to ensure inspection readiness."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Prefers minimal interaction, suggesting 'refrain from further commentary' to finish the task quietly."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Uses sarcasm ('Your meticulousness is...notable') and deflects blame rather than cooperating warmly."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Remains calm and task-focused under pressure, noting 'The inspection will proceed without incident' with composure."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "d94b7c9a3266",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good afternoon, Professor Snape. Your usual order of powdered moonstone and boomslang skin is ready for collection. I trust the last batch met your exacting standards?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, your standards have been most satisfactory, which is a rare occurrence in this establishment. However, I must speak to you about a most recent delivery. The vial of Re'em blood I received was, quite inexplicably, half-empty and the seal broken. This is utterly unacceptable for an advanced potion I am currently brewing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, yes. I recall that particular shipment. The seal was intact when it left our premises, I assure you. The Re'em blood was measured precisely to the standard apothecary ounce."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Intact? Yet, here before you, the vial is open and the contents depleted. The evidence speaks for itself. It is clear that your shop's packaging or handling must have been less than adequate. Given the importance of this ingredient, I require a full replacement immediately."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Maintains a polite but firm tone)* Professor, I must respectfully refer you to Apothecaries' Guild regulation 7. All volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7? How delightfully convenient. However, the seal was broken, which, I believe, voids any such regulations. Moreover, as a frequent and loyal customer, I would expect a modicum of consideration. Your inflexible adherence to the letter of the law, while ignoring the spirit, is both remiss and unprofitable. If this matter is not rectified, I shall take it up with the Apothecaries' Guild and the Daily Prophet. I'm certain they would be quite interested in the quality control of your establishment."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(A slight, professional smile that doesn't reach the eyes)* The seal's integrity upon delivery is a matter for the Owl Post, sir, not our shop's guarantee. We fill and seal under observation charms, which the Guild audits monthly. I can provide the charm-log for this vial if you wish to file a complaint with the Postmaster. As for the Prophet... they do so enjoy a story about a Hogwarts professor attempting to bully a small business over a known volatile substance."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Bullying? How quaint. I assure you, I am well-versed in the art of public relations. The problem here, however, is not my desire to torment a defenseless shopkeeper, but your inability to understand the gravity of the situation. A single mislabeled batch could result in a potion disaster. And now, to waste more of my time on this... (pauses, considering) Very well. I shall inspect the charm-log. If it confirms your story, I will take it up with the Postmaster. If it does not... I shall recommend your shop to the darkest, most unsuccessful corners of the magical world."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Nods curtly, turning to a large, leather-bound ledger on the counter)* As you wish. The log for shipment #3097, dispatched yesterday via Ministry-regulated owl. You'll see the seal-charm signature here, my own, and the verification charm from the Guild's monitoring quill. It shows a full vial, sealed, at the moment of dispatch. The Postmaster's office can provide the tracking parchment for the journey. Would you like me to summon a copy for you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, that won't be necessary. I shall deal with the Postmaster myself. (Picks up the vial, examines it closely) This... it reeks of parseltongue, doesn't it? The seal was broken, and someone with a蛇'ss ability to charm it would have found it an easy task to syphon the contents. (Closes the vial, slips it into his袍) I take it you have no such creatures in your employ? Or, perhaps, you have been less than forthcoming about the nature of your associates?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Eyes narrow slightly, voice dropping to a low, careful tone)* We employ no Parselmouths, Professor. Our security charms are specifically keyed against such... unconventional tampering. If you suspect theft of that nature, I suggest you report it to the Ministry's Department of Magical Law Enforcement. Our records are, of course, at their disposal. Now, will there be anything else today? Your moonstone and boomslang skin are still waiting."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Theft, you say? How charmingly naive. (Reaches for the moonstone and boomslang skin) I shall take these, as they seem to have been prepared to my satisfaction. (Counts out several Galleons, placing them on the counter) As for the rest, we shall reconvene when the Postmaster has completed their investigation. I trust you understand that the integrity of your establishment is at stake here. Should this be a recurrence, I shan't hesitate to take my business elsewhere. (Gives a brief, dismissive nod and turns to leave)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Takes the Galleons, placing them in the till with a soft chime)* Of course, Professor. We value your patronage. Do give my regards to the Postmaster. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "And to you. (Stops, hand on the door handle, turning back) Oh, one last thing. If you ever consider altering your security charms to allow for Parselmouths... (Gives the shopkeeper a pointed look) Think again. It would not end well for you. (Leaves, the door closing with a firm click)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Watches the door close, then lets out a slow breath, muttering to the empty shop)* Charming as ever. *(Turns back to the ledger, making a neat notation beside shipment #3097)* \"Customer complaint - referred to Owl Post. Suspected Parseltongue tampering.\" Right. That'll make for a cheerful audit."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(Off-screen, the sound of Snape's feet receding down the cobblestone street, the jingle of his empty cauldron and a soft 'Flue!' as he apparates away)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Shakes head slightly, then begins tidying the counter, speaking to a nearby jar of pickled newt eyes)* And they say *we* deal in volatile substances."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(Spotting a shopkeeper across the way giving him an odd look, Snape narrows his eyes before(striding away, muttering under his breath) If looks could kill, I would be the most dangerous man in the world... (Stops, looking up at the sky, and continues in a louder voice) ...But clearly, they can't, so I am not. (Fuming, he Apparates away to collect his supplies from the Postmaster)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Looks up from the counter, a faint, knowing smirk playing on his lips as he watches the spot where Snape vanished)* Volatile indeed. Best double-check the anti-Apparition wards on the storeroom tonight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "(Off-screen, the sound of Snape's arrival at the Postmaster's office, followed by the clinking of a bell and a cheerful \"Professor Snape, how delightful to see you again!\")"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He hypothesizes the seal was broken via Parseltongue, an unconventional and specific form of magical tampering, showing intellectual curiosity and openness to unusual explanations.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He meticulously inspects the vial's seal and demands to see the charm-log, demonstrating extreme attention to detail and adherence to his own high standards for potion ingredients.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His communication is terse, confrontational, and transactional, showing no desire for social rapport or positive engagement with the shopkeeper.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is openly hostile, accusatory, and threatens the shop's reputation, showing a complete lack of cooperativeness, trust, or sympathy.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He reacts with immediate suspicion and anger to the broken seal, and his final muttered comment about 'fuming' shows high irritability and negative emotional reactivity.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He hypothesizes the seal was broken via Parseltongue, an unconventional and specific form of magical tampering, showing intellectual curiosity and openness to unusual explanations."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He meticulously inspects the vial's seal and demands to see the charm-log, demonstrating extreme attention to detail and adherence to his own high standards for potion ingredients."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His communication is terse, confrontational, and transactional, showing no desire for social rapport or positive engagement with the shopkeeper."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is openly hostile, accusatory, and threatens the shop's reputation, showing a complete lack of cooperativeness, trust, or sympathy."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He reacts with immediate suspicion and anger to the broken seal, and his final muttered comment about 'fuming' shows high irritability and negative emotional reactivity."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

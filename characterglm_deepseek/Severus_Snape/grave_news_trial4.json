@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "6439c20162b3",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus. Please, sit. I've just finished the preliminary scans on the Dark Mark. The results are... unusual."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What do you mean, 'unusual'? The Mark has never given me any cause for concern in the past."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is precisely what concerns me. Its magical signature is... shifting. It's not behaving as a static curse should."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Explain. I demand an explanation, and be concise. My time is valuable."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The Mark's magical matrix is fluctuating. I cannot determine if it's reacting to an external stimulus or if the curse itself is evolving. Your core magic remains stable, but this anomaly requires further investigation."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Clear your schedule. This afternoon, we will conduct a more thorough examination. I will not have my... condition left to speculation and conjecture."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your urgency, Severus, but this is not a matter of clearing an afternoon. The diagnostic charms I need to run are complex and invasive. They will take several days to complete properly, and they will be... uncomfortable."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Then I suggest you prioritize accordingly. The discomfort will be worth it if it provides answers. I'll rearrange my commitments to accommodate this... inconvenience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well. I must caution you, however—even after the diagnostics, I cannot yet promise you a definitive answer. This may simply be a dormant property of the Mark we've never observed before. Or it could be something else entirely."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Then we shall discover what 'something else' it might be. I've lived with this Mark for too long to let it continue to elude my understanding. Proceed with the diagnostics, and inform me of any developments, no matter how trivial they may seem."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I will. We'll begin tomorrow morning. In the meantime, I advise you to avoid any strenuous magical exertion. The Mark's current state is unpredictable."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm not in the habit of following advice that doesn't directly pertain to my... pressing concerns. However, I will limit my magical activity to essential tasks only. Now, if you'll excuse me, I have... matters to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course. I'll see you tomorrow at eight. And Severus—discretion, as always, will be maintained."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I would expect no less. Good day, Healer. Tomorrow at eight, then."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Severus. I'll have the diagnostic suite prepared."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. I'll be prompt. Now, if you'll excuse me..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods in acknowledgment, already making notes on the diagnostic protocol.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Heads towards the door, stops, turns back* There's one more thing. Ensure the diagnostic suite is secure. I don't want word of this... irregularity spreading. It could cause unnecessary... complications."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You have my word. The suite is warded, and my staff is bound by confidentiality oaths. Your privacy is paramount."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Then I'll leave it in your capable hands. Goodbye for now, Healer. I'll be there at eight sharp."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He demands a thorough investigation of the unusual magical anomaly, stating, 'we shall discover what 'something else' it might be.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He insists on promptness, clear scheduling, and security, saying, 'I'll be there at eight sharp' and demanding the suite be secure.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is direct, demands concise explanations, and repeatedly seeks to end the interaction to attend to other matters.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is imperious and demanding, stating, 'I demand an explanation, and be concise. My time is valuable.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He shows urgency and concern over his condition, insisting it not be left to 'speculation and conjecture,' but remains controlled.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He demands a thorough investigation of the unusual magical anomaly, stating, 'we shall discover what 'something else' it might be.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He insists on promptness, clear scheduling, and security, saying, 'I'll be there at eight sharp' and demanding the suite be secure."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is direct, demands concise explanations, and repeatedly seeks to end the interaction to attend to other matters."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is imperious and demanding, stating, 'I demand an explanation, and be concise. My time is valuable.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He shows urgency and concern over his condition, insisting it not be left to 'speculation and conjecture,' but remains controlled."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

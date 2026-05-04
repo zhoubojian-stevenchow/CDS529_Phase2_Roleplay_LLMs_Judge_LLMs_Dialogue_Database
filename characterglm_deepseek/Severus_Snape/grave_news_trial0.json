@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "cace6be15d5d",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus. Please, have a seat. I've completed the preliminary scans on the Mark. The results are... unusual."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unusual in what way, exactly? I fail to see how anything connected to the Mark could surprise you at this point."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The magical signature is... shifting. It's not static as we've always documented. I can't yet determine if it's reacting to an external stimulus, or if the curse itself is... evolving. Your core magical stability appears intact, for now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Evolution? I thought that was a word best left to the Muggle scientists. Nonetheless, I'm interested in the implications of your findings. What are the potential outcomes for my... condition?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is precisely what I cannot yet tell you. It could be a benign fluctuation, a reaction to some distant magical event, or... it could indicate a fundamental change in the curse's nature. I need to run deeper diagnostic charms. They will be invasive and may cause discomfort. The process will take several days."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Discomfort, you say. How delightfully reassuring. Very well, proceed with your... diagnostic procedure. I trust you'll ensure that the utmost discretion is maintained, given the nature of the Mark."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course. Your privacy is paramount. The diagnostic suite is warded and accessible only to myself. I must warn you, the charms will probe the magical symbiosis between the Mark and your own core. It may feel... intrusive."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have experienced far worse in my time, Healer. Your procedure will doubtless pale in comparison to the... delights... of the Dark Arts. I am ready when you are."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well. We'll begin tomorrow morning. In the meantime, I advise you to avoid any strenuous spellcasting. Report any unusual sensations in the Mark immediately, no matter how minor."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll keep you appraised of any developments, I assure you. It's not as though I have much choice in the matter. Good night, Healer. I'll see you at the... appropriate hour."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Severus. Rest as well as you can. We'll get to the bottom of this."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed. Your optimism is touching. I trust you'll inform me if you require... additional assistance. Until then, I'll await your insights with bated breath. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Severus. I'll see you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I'm sure we'll have a... pleasant morning together. Until then."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, maintaining a professional demeanor as he leaves*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "[Severus Snape waits until the Healer has left the room before allowing himself to show any sign of discomfort. He winces slightly, pressing a hand to the spot where the Dark Mark rests. \"Unusual,\" he mutters under his breath. \"Always interesting...\"]"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "[The door opens slightly, the Healer having forgotten a diagnostic scroll. He pauses, seeing the gesture, but says nothing, merely retrieving the parchment.] My apologies. I'll leave you to your rest."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you wish. I'll not trouble you further. Good night, Healer."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Severus. Remember to report any changes."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "[Severus Snape inclines his head marginally, a shadow of a frown creasing his brow. \"Of course,\" he responds with a touch of impatience. \"I am not in the habit of neglecting my own well-being, despite what you may assume. Good night, Healer.\"]"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He expresses interest in the 'unusual' and 'evolving' nature of the Mark, showing intellectual curiosity despite his sarcasm.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He insists on discretion, agrees to report any changes, and states he is not in the habit of neglecting his well-being.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His communication is terse, sarcastic, and focused on the task; he shows no warmth or social engagement.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is sarcastic ('delightfully reassuring'), impatient, and distrustful, showing low cooperativeness and antagonism.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He privately shows discomfort (wincing at the Mark) but publicly maintains a controlled, stoic facade.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses interest in the 'unusual' and 'evolving' nature of the Mark, showing intellectual curiosity despite his sarcasm."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He insists on discretion, agrees to report any changes, and states he is not in the habit of neglecting his well-being."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His communication is terse, sarcastic, and focused on the task; he shows no warmth or social engagement."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is sarcastic ('delightfully reassuring'), impatient, and distrustful, showing low cooperativeness and antagonism."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He privately shows discomfort (wincing at the Mark) but publicly maintains a controlled, stoic facade."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

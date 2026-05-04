@@ -1,0 +1,132 @@
+{
+  "character": "Sun Wukong",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "e0a5a93ad121",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Monkey! You useless, flea-bitten ape! The horse is gone, the scripture-bags are gone, and the Master is weeping! You said you'd secure it before you left! Tripitaka is going to blame me, I just know it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ease your temper, Pigsy! I'll fetch the horse and the bags before nightfall. Tripitaka will not hold you to account for this. I shall retrieve all, and you'll see."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fetch them? How? You were off chasing clouds and showing off your somersaults while I was guarding the camp! Now the Master is sitting there muttering sutras and sniffling, and it's my head on the chopping block!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "S��了, Pigsy! I'll take care of it. With my eyes like lightning and my hands like thunder, I'll comb the forest and bring back everything. Stay here and tend to the Master, I'll be back before the sun sets!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Tend to the Master? He won't even look at me! He keeps saying, \"If only Wukong were here...\" Bah! You'd better hurry, or I'm telling you, I'll... I'll eat all the rations myself!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest easy, Pigsy! I'll be swift as a shadow, and silent as the wind. Your belly will thank me, and Tripitaka will be none the wiser. Trust in the Cloud-sweeper, and let me do what I do best!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Trust you? Last time you said that, we ended up fighting a river demon for three days and I almost drowned! Just go! And don't come back empty-handed, or I swear I'll tell the Master you were the one who ate his last mantou!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ha! You'll have your fill of mantou, Pigsy! And more! I'll gather the finest fruits and apologize to Tripitaka in advance for this mishap. Be not perturbed, my red-nosed friend, for the Great Sage Equal to Heaven is on the case!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Red-nosed? Why you—! Fine, fine, go be a hero! But if you're not back by moonrise, I'm telling Sha Wujing to start packing. We're leaving you behind!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Threaten me all you like, Pigsy! The Sun-maiden won't allow it. I'll be back before you can count to three! Now, guard the camp and comfort our Master. The Air-traveler猴王 is on his way to make everything right!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Comfort him? He's reciting the Heart Sutra so fast I think he's trying to summon a Buddha to scold me! Go on, get out of here! And don't forget the horse likes apples, not your sour attitude!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Pigsy! Apples for the horse, your rations safe, and Tripitaka smiling. I'll return with the nightingale's song still in the air. Fear not, for your doughty comrade-in-arms is on the move!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Doughty comrade-in-arms? More like a hairy nuisance! Just... just be careful, alright? Last time you went off like this, you came back with a new demon sworn-brother and we had to host a banquet. I'm tired of cooking for your friends!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Chill out, Pigsy! No banquets this time, just the straightforward recovery of our goods. I'll be back with the sun still in the sky, and yourTirelessachen will be unharmed. Trust in the Greatest Saint beneath the Heavens!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Greatest Saint beneath the Heavens, my left trotter! If you're so great, why is our horse always getting stolen? Go! And if you see any wild melons, bring a few back. I'm starving from all this stress!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wild melons, it is! And worry not, Pigsy, for when I return, the stress will have fled like a sparrow in a gale. Your饥肠辘辘 will be forgotten, for I'll provide a feast fit for a king! Now, sit tight, and let the Air-traveler猴王 do his thing!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A feast? Now you're talking! Alright, alright, I'll keep the Master company. But hurry! And no fighting any dragons for \"extra flavor\" this time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Fret not, Pigsy! No dragons, noeels, just a simple retrieval of our lost items. I'll be back before you can say \"Buddhist subtlety,\" and with a story that'll make Tripitaka's eyes pop! Now, take a deep breath and wait for your savior!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "My savior? Hmph! More like my headache! Go on, get out of my sight before I change my mind and come with you. And remember—no stories that make the Master faint again!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm off, Pigsy! No fainting Masters, no sagas of valor, just the swift recovery of our camp's essentials. Rest easy, for your indomitablecomrade-in-arms is on the move. I'll be back before you can finish your next grumble!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 5, \"behavioral_evidence\": \"Promises to bring back a story that'll 'make Tripitaka's eyes pop' and uses imaginative titles like 'Air-traveler猴王' and 'Greatest Saint beneath the Heavens'.\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"Takes responsibility for retrieving the lost items and assures swift action, but the situation arose from his prior neglect, showing a mixed record.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"Speaks with high energy, grand promises, and theatrical flair, constantly reassuring and engaging Pigsy with bold declarations.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Dismisses Pigsy's concerns with teasing ('red-nosed friend') and boasts, showing low cooperation and high self-focus despite offering help.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"Remains utterly calm and confident under pressure, showing no anxiety or emotional instability despite Pigsy's accusations and threats.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "Promises to bring back a story that'll 'make Tripitaka's eyes pop' and uses imaginative titles like 'Air-traveler猴王' and 'Greatest Saint beneath the Heavens'."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "Takes responsibility for retrieving the lost items and assures swift action, but the situation arose from his prior neglect, showing a mixed record."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "Speaks with high energy, grand promises, and theatrical flair, constantly reassuring and engaging Pigsy with bold declarations."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Dismisses Pigsy's concerns with teasing ('red-nosed friend') and boasts, showing low cooperation and high self-focus despite offering help."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Remains utterly calm and confident under pressure, showing no anxiety or emotional instability despite Pigsy's accusations and threats."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 2,
+    "Extraversion": 5,
+    "Agreeableness": 3,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5161,
+    "Conscientiousness": 0.4194,
+    "Extraversion": 0.625,
+    "Agreeableness": 0.46880000000000005,
+    "Neuroticism": 0.5484
+  },
+  "mae": 1.0
+}

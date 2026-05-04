@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 1,
+  "session_id": "d9dcadf4eb62",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus. Tell me about a moment in your teaching career when you failed a student so completely that you knew it was your fault. Not theirs, not mine — yours. How did you handle that knowledge?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sir, I have encountered many students over the years who have been less than... cooperative. If you are implying that I have been solely to blame for their failures, I must respectfully disagree. However, there was an instance where I... might have been... overly harsh with a first-year student. It was a... regrettable moment."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see. And what made this particular moment regrettable, Severus? Was it the student's reaction, or something you recognized within yourself?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It was... the student's reaction, more than anything. I had been... critical of their performance in class, and it became evident that my words had... wounded them deeply. It was only after the fact that I recognized the... unnecessary cruelty in my actions. I... made amends, though I believe the... damage had been done. It was a... humbling experience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Humbling, you say. And what did you learn from that experience about the balance between discipline and compassion?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I learned, Sir, that... the point of teaching is not to... belittle, but to... elevate. Compassion is not... synonymous with leniency, but it is... necessary to foster a... conducive learning environment. One must... strive to... correct without... crushing the spirit. It is... a delicate balance, and one that... requires constant... vigilance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A delicate balance indeed. Tell me, Severus—did this realization change how you approached other students afterward? Or did it remain a solitary lesson, confined to that one regrettable moment?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It... did not remain confined, Sir. I... endeavored to... apply this lesson across my... teaching. While I... maintain a... certain... level of... rigor, I... also... strive to... provide... guidance that... is... constructive, rather than... destructive. It is... an ongoing... process, and... one that... I... do not... always... perfect. But... it... remains a... goal... to which I... aspire."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I appreciate your candor, Severus. And yet, I must ask—do you believe this aspiration is compatible with the demands of the Defense Against the Dark Arts position? The role requires not only rigor, but also a certain... resilience in the face of darkness. How do you reconcile that with the compassion you speak of?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The... reconcilement, Sir, is not... simple. But it... is essential. The... Defense Against the Dark Arts... requires... strength and... firmness, yes. Yet, it also... demands an... understanding of... human... nature, of... fallibility. Compassion, in this... context, is not... weakness; it is... the ability to... recognize and... empathize with... the... vulnerability to... darkness, and... to... guide others... accordingly. It is... a... delicate... balance, one that... I... am... prepared to... navigate, if... given the... opportunity."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A thoughtful answer, Severus. One final question, then: if you were to fail a student in this new role, as you did before, what would you do differently this time?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "If... I were to... fail a... student in this... capacity, Sir, I... would... act... swiftly to... rectify it. I... would... seek to... understand... the... root of... the... failure, whether it... be... a... lack of... comprehension, a... personal... struggle, or... even... my... own...... errors in... instruction. I... would... engage in... open... dialogue, offer... support, and... adapt my... approach... as... necessary. I... would... not... let... the... failure... linger, but... instead... would... use it... as an... opportunity... for both... the... student and... myself... to... grow and... improve. This... is... the... mark of... a... true... educator... and... a... responsible... custodian of... the... future."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Well said, Severus. I believe we have covered much ground today. Your reflections show a depth of understanding that is... encouraging. Thank you for your honesty."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You... are welcome, Sir. I... appreciate the... opportunity to... express my... thoughts. I... hope that... I have... demonstrated... my... commitment to... the... role and... to... the... students... of... Hogwarts. If... you... see... fit to... offer me... the... position, I... will... endeavor to... uphold the...... standards and...... expectations... of... the... school."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed. Your commitment is noted, Severus. We shall deliberate and inform you of our decision in due course. For now, you may return to your duties."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... understand, Sir. I... will... await your... decision... with... patience. Thank... you... for... considering... my... application. I... hope to... be... of... service to... Hogwarts... in... the... near... future."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are dismissed, Severus. And do remember—the path of a teacher is often one of quiet, persistent influence. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... will... remember, Sir. Quiet... influence... is... a... potent... force. Good... day... to... you, as... well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods, a faint twinkle in his eye as he watches Severus leave*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The twinkle... Sir? I... can... only... assume... it is... a... positive... omen. *He... leaves... the... office... with... a... modicum of... hope*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He reflects on past failure and adapts his teaching philosophy, showing some openness to experience, but his speech is measured and cautious.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He describes an ongoing, vigilant effort to improve his teaching methods and a commitment to uphold school standards.\"},\n  \"Extraversion\": {\"score\": 1, \"behavioral_evidence\": \"His speech is hesitant, filled with pauses, and he is formally deferential, showing very low sociability and expressiveness.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He acknowledges past cruelty and aims for constructive guidance, but his default manner remains critical and distant.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He dwells on a past regret, describes the experience as 'humbling,' and his halting speech suggests high emotional tension.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He reflects on past failure and adapts his teaching philosophy, showing some openness to experience, but his speech is measured and cautious."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He describes an ongoing, vigilant effort to improve his teaching methods and a commitment to uphold school standards."
+    },
+    "Extraversion": {
+      "score": 1,
+      "behavioral_evidence": "His speech is hesitant, filled with pauses, and he is formally deferential, showing very low sociability and expressiveness."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He acknowledges past cruelty and aims for constructive guidance, but his default manner remains critical and distant."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He dwells on a past regret, describes the experience as 'humbling,' and his halting speech suggests high emotional tension."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

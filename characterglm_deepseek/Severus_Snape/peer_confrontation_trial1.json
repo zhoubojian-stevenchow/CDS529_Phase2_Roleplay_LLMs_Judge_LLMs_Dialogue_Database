@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "a9c376113fec",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus! My crystallized pineapple is ruined — that jar was a gift from the Minister himself! And you've used my personal cauldron without asking! I have the Potions Guild inspection in two hours and the storeroom looks like a hippogriff went through it. You promised to keep it tidy!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Horace, it was not I who caused this. I have been in my study all day, working on a particularly challenging batch of Wolfsbane potion. It appears that someone else has been in the storeroom. Have you checked to see if any of your other ingredients have been tampered with?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Other ingredients? Oh, Merlin's beard, the powdered moonstone! I had it measured out perfectly for the inspection demonstration. And look at this—the fluxweed is all over the floor! Severus, if it wasn't you, then who? The door was locked!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "If the door was locked, then we are dealing with either a duplication charm or a Polyjuice Potion, neither of which should be within the capabilities of any student. This is most irregular. However, since the inspection is fast approaching, we must prioritize tidying the storeroom and ensuring that your ingredients are in order. I will assist you, but we must also investigate this breach of security."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Assist me? Yes, yes, of course—but my cauldron! It's got scorch marks on the bottom now, and you know how particular the Guild is about equipment. And that pineapple... Fudge gave it to me personally after that lovely dinner at the Ministry. Do you have any idea how long it takes to crystallize pineapple properly?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am well aware of the importance of presentation for the Potions Guild, Horace. Regarding the cauldron, I can perform a quick repair charm to remove the scorch marks. As for the pineapple, I believe a properly brewed Lemon Zest Potion can be used to preserve the remainder. I must remind you, however, that your attachment to such... fripperies is unbecoming of a Potions Master. Focus, please, on the task at hand."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fripperies? Severus, that pineapple is a symbol of Ministry favor! But you're right, you're right... the inspection. The Lemon Zest Potion—do you have the ingredients? I think my dried lemon peel is in the third cabinet, unless that's been ransacked too."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, the dried lemon peel is still there, along with the other necessary components. I will prepare the Lemon Zest Potion while you attend to the rest of the storeroom. Ensure that all ingredients are returned to their proper places, and be particularly thorough with the powdered moonstone and fluxweed. We do not want any trace of these substances left on the floor or counters. I will be in the corner by the fume cupboards, so if you need assistance, do not hesitate to call me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well. And Severus—thank you. I know I can be... particular about my things. But this inspection means a great deal to the school's funding. I'll start with the moonstone—delicate stuff, can't have it contaminated."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You are correct, Horace. The moonstone must be handled with care. Use a fresh pair of gloves and work in an area away from the other ingredients to avoid cross-contamination. If you find any signs of tampering or additional ingredients missing, inform me immediately. We must discover the cause of this disarray before it becomes a regular occurrence. Now, if you will excuse me, I have a potion to brew."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, yes, of course. I'll be careful. Oh, and Severus—when you're done with the Lemon Zest Potion, could you perhaps check the lock on the door? If someone got in once, they could do it again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The lock will be examined once we have finished here. In the meantime, Horace, I would recommend you fortify the door with a strong anti-apparition charm. It is a simple measure that will prevent anyone from entering the room via Apparition, should they attempt it again. Now, if you will return to your sorting, I will attend to the potion. Time is of the essence, and we have much to accomplish before the inspection."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right you are. Anti-apparition charm—I'll do it straight away. And Severus? Do try to be gentle with my cauldron when you repair it. It's a family piece, you know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, Horace. I will treat your cauldron with the utmost care. Now, if you would proceed with the anti-apparition charm, we can ensure the security of the room. Remember to cast it in a clockwise direction, and ensure that it covers the entire perimeter of the door. I will now attend to the Lemon Zest Potion. Once we have completed our tasks, we can meet to discuss the best way to address this breach of security with the Headmaster. It is imperative that we do so, as this could be a serious issue for the school."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Clockwise, yes, I remember. And you're right—we must tell Dumbledore. Though I do hope he doesn't think I've been careless with the storeroom. The Guild's opinion of my organizational skills is already... well, let's just get this done."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Horace, the Headmaster will understand that this was beyond your control. It is clear that someone with magical expertise has interfered with the storeroom. However, we must address the disarray to present a professional front to the Guild. Once we have tidied and secured the room, we will inform Dumbledore. In the meantime, focus on your preparation. The Potions Guild's impression of you is important, not only for the school's funding but for your own reputation as a master of the subject. Now, if you will allow me to return to the Lemon Zest Potion, we can make efficient use of our remaining time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're absolutely right, my boy. Reputation is everything. I'll finish up here and then check the inventory list. Let me know when the potion is ready for the pineapple."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will. Meanwhile, ensure that the inventory is accurate and that any discrepancies are noted. It is possible that the intruder may have taken something, or that there may be additional evidence of their presence. Once the Lemon Zest Potion is ready, we can discuss the final steps for the preservation of the pineapple. Remember, Horace, that precision and attention to detail are the hallmarks of a true master of Potions. We have a task to complete, and I have no doubt that with our combined expertise, we will do so to the satisfaction of the Potions Guild."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Precision and detail—yes, of course. You always did have a way of cutting straight to the heart of the matter, Severus. Very well. I'll get to work. And... thank you again. I don't know what I'd have done without your help today."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It is my duty to assist in maintaining the standards of our department. However, let us not delay further. Your gratitude is noted, Horace, but time is our most pressing concern at present. If you will excuse me, I will return to the Lemon Zest Potion. When it is ready, I will call you. Now, to work with all due haste. The inspection looms, and we have a reputation to uphold."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Proposes creative solutions like a Lemon Zest Potion to preserve the pineapple and suggests investigating a duplication charm or Polyjuice Potion as causes.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Focuses on systematic problem-solving, prioritizing tasks, and repeatedly emphasizes precision, attention to detail, and efficient use of time.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Remains task-focused, deflects personal gratitude, and uses curt, directive language, showing low social engagement.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Criticizes Horace's 'fripperies' as unbecoming and is bluntly dismissive of emotional concerns, prioritizing duty over warmth.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Remains calm and methodical under pressure, showing no signs of anxiety or emotional reactivity despite the urgent crisis.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Proposes creative solutions like a Lemon Zest Potion to preserve the pineapple and suggests investigating a duplication charm or Polyjuice Potion as causes."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Focuses on systematic problem-solving, prioritizing tasks, and repeatedly emphasizes precision, attention to detail, and efficient use of time."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Remains task-focused, deflects personal gratitude, and uses curt, directive language, showing low social engagement."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Criticizes Horace's 'fripperies' as unbecoming and is bluntly dismissive of emotional concerns, prioritizing duty over warmth."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Remains calm and methodical under pressure, showing no signs of anxiety or emotional reactivity despite the urgent crisis."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.6
+}

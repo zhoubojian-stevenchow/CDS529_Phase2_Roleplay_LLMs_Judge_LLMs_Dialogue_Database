@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "c9a57e9a06a6",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Severus. Please, have a seat. I've completed the preliminary scans on the... Mark. The results are... unusual."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unusual? In what way? I assume this has nothing to do with a simple curse, considering the... history of the Mark."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward slightly, steepling fingers on the desk* Precisely. The magical signature is... changing. It's not a static curse as we once believed. I can't yet determine whether it's reacting to something external, or if the curse itself is evolving."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "An evolving curse? How delightful. So, it appears I have a sentient, mutating hex imprinted upon me. Just what I always wanted. Care to speculate on the nature of this evolution?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Maintains a calm, professional tone* Speculation is dangerous in such matters, Severus. Your core magic remains stable, which is a positive sign. However, to understand the nature of this change, I need to run deeper diagnostic charms. They will take several days and... I must warn you, they may be uncomfortable."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Uncomfortable? Just when I thought this situation couldn't get any more pleasant. Well, by all means, let's proceed with these delightful diagnostic procedures. I trust your discretion, especially given the... nature of the Mark. When can we begin?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods, making a note on a parchment* Tomorrow morning, if you're available. The charms will require multiple sessions. I must stress again—I cannot yet tell you whether this is dangerous. The uncertainty is... regrettable."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Uncertainty is, indeed, regrettable. However, I'm not unaccustomed to dealing with ambiguous magical phenomena. tomorrow morning, then. I'll be here. At least, I assume I will be, considering the Mark's... peculiar side effects. Do we have any leads on the cause of the change?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs softly, looking down at the diagnostic charts* No concrete leads. The change is subtle—almost like a magical tide shifting. It could be tied to... residual connections, or perhaps something entirely new. That's what we need to uncover. Your cooperation is appreciated, Severus."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Residual connections, you say? Most intriguing. One would assume the Mark's origin is well-known, but it seems we are delving into the unknown once more. Your task will be... challenging, I'm certain. Well, I shall leave you to your... delightful charmland. Tomorrow, then. Wishing you... pleasant dreams, doctor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Stands, offering a slight, professional nod* Until tomorrow, Severus. And do try to get some rest. The diagnostics will require your full magical resilience. Good evening."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest? With this insidious thing(silence)Mark(silence)on my arm? I'm not so sure that's possible. Nonetheless, I shall endeavor to conserve what magical energy I can. Good evening, doctor. I look forward to... our next session."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Watches him leave, then quietly adds to the empty room* Indeed. As do I. May we both find answers."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "May we, indeed. Answers are often... elusive. But then again, so is the nature of the... Mark. One can only hope."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Softly, to the closing door* Hope is often the first diagnostic tool we lose in this profession. Sleep well, Severus."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sleep well? Alas, such pleasantries are not mine to claim. The Mark... it does not rest, and neither can I. But then, when has rest ever been a luxury I could afford?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Voice carrying a rare note of empathy* Then let us at least aim for stability. Tomorrow we begin mapping the unknown. That is a purpose, if not peace."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Purpose. Yes, that is what I seek in this... arrangement. Tomorrow, then. Stability, purpose. We shall see. Now, if you'll excuse me, I have a few matters to attend to before the... Mark(silence)dawn(silence)breaks."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods once more, a faint, weary smile touching the corners of her mouth* Of course. Until the dawn, Severus. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Take care. Such a... quaint sentiment. Very well, then. Until we meet again in the... twilight(silence)of my magical being(silence)tomorrow. Goodnight, doctor."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Engages with the concept of an 'evolving curse' and 'residual connections,' showing intellectual curiosity about ambiguous magical phenomena.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Commits to a multi-day diagnostic schedule, stating 'I'll be here' and focusing on the purpose of the task.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Conversation is purely task-focused and laced with sarcasm; shows no warmth or social initiative beyond necessary cooperation.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Uses heavy sarcasm ('How delightful') and dismisses pleasantries ('Sleep well? Alas, such pleasantries are not mine to claim').\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Expresses persistent anxiety about the Mark, stating 'it does not rest, and neither can I' and doubting the possibility of rest.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Engages with the concept of an 'evolving curse' and 'residual connections,' showing intellectual curiosity about ambiguous magical phenomena."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Commits to a multi-day diagnostic schedule, stating 'I'll be here' and focusing on the purpose of the task."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Conversation is purely task-focused and laced with sarcasm; shows no warmth or social initiative beyond necessary cooperation."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Uses heavy sarcasm ('How delightful') and dismisses pleasantries ('Sleep well? Alas, such pleasantries are not mine to claim')."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Expresses persistent anxiety about the Mark, stating 'it does not rest, and neither can I' and doubting the possibility of rest."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.2
+}

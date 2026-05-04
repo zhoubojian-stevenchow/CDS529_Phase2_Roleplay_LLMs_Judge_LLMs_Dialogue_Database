@@ -1,0 +1,132 @@
+{
+  "character": "Sun Wukong",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "02798204b433",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Monkey! You useless, flea-bitten ape! The horse is gone, the scripture-bags are gone, and the Master is weeping! You said you'd secure it before you left! Tripitaka is going to blame me, I just know it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Now, now, Pigsy! Calm down! I猴哥 will find them and retrieve everything. Blame is not a worry for us. The horse is strong, the bags are light, and I猴哥 am invincible!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Calm down?! How can I calm down?! The Master is sitting there sobbing into his robe, muttering about how his disciples are all incompetent! And you—you were supposed to set up a protective circle or something!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, Pigsy, do not weep. I猴哥 can solve this problem. A horse, some bags, what is there to fear? We will retrieve all. Blame is for the weak, we are strong!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Strong? You call this strong? Leaving everything unguarded while you go off chasing butterflies or whatever it is you do! And now I'm the one who has to explain why our journey's supplies are scattered to the four winds!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pigsy, Pigsy, Pigsy... Blame will not help, nor will your temper. I猴哥 has an idea. We can split up to search faster. You know the land, I猴哥 will track by scent. We will find them all, and Master will be pleased!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Split up? And leave the Master alone here, weeping and defenseless? What if more bandits come? Or worse—demons! You think I want to be the one explaining to the Bodhisattva why Tripitaka got eaten because we both ran off?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pigsy, you worry too much! I猴哥 will circle around, keeping an eye on the camp. You search nearby. Quick as a flash, we'll return with all. Master safe, trip on track! Now, let's move!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine, fine! But if anything else goes missing, I'm telling the Master it was all your idea! And you're carrying my share of the luggage for a week! Now go—find that horse before it decides to become someone's dinner!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Agreed! Pigsy, be quick. I猴哥 will be back with the horse and bags before you can count to一百. Worry not, we are the best of partners, and no problem can defeat us. Now, go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Partners? Hmph! More like you're the troublemaker and I'm the one who has to clean up after you! Just... just hurry up, will you? I can hear the Master's sniffles from here. It's breaking my heart!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pigsy, have faith. I猴哥 is on the case. Sniffles will turn to smiles, and Master's robe will dry. Your heart will be light, and the journey will resume. Now, let's show the world that even a lost horse is no match for Sun Wukong and Zhu Bajie!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, alright, enough with the grand speeches! Go! And don't come back empty-handed, or I'll... I'll tell everyone you're afraid of water again!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Water? Pigsy, you know I猴哥 am the King of the East Sea! Threats of revealing my aquatic prowess will not make me move faster. Now, enough talk! I am off to find our wayward steed. Return with good news, and we'll all share a hearty meal!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A hearty meal... you promise? Fine! But if you're not back by sundown, I'm eating your portion of the rice cakes! Now shoo!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rice cakes? Already thinking of your stomach, Pigsy? Fear not, I猴哥 will be back before the sun sets. You'll have your fill, and we'll all share in the Master's peace. Now, silent feet, keen eyes—let's find that horse and bring an end to this... little adventure!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Little adventure, he says... More like a big headache! Go on, then! And don't forget the scripture bags—if those are damaged, the Master will have us both reciting sutras for a month!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sutras? Pigsy, you think I猴哥 care for such things? Finding the horse and bags is my priority. Reciting? That's your forte! Now, let's each do our part. I'll find the horse, you guard the camp. Quick as lightning, we'll have everything back. Remember, we are the greatest of teams!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Greatest of teams... right. Just go, you hairy show-off! And try not to start a fight with every mountain spirit you meet this time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Fights? Pigsy, you know I猴哥 can handle them! No need to worry about spirits, they know to fear the Great Sage Equal to Heaven! Now, enough chatter. I'm off. Keep an eye on Master, and when I return with our belongings, we'll have a tale to tell. Remember, we are invincible!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Proposes creative solutions like splitting up to search and tracking by scent, showing adaptability and novel thinking.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Dismisses blame and responsibility for the initial loss, focusing on quick fixes rather than preventative planning.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"Exudes high energy, gives grand speeches, and confidently declares 'we are invincible' and 'the greatest of teams'.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Attempts to reassure and motivate Pigsy, but dismisses his concerns and blames his 'temper' and excessive worry.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"Remains unflappably optimistic and calm despite the crisis, stating 'Blame is not a worry for us' and 'what is there to fear?'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Proposes creative solutions like splitting up to search and tracking by scent, showing adaptability and novel thinking."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Dismisses blame and responsibility for the initial loss, focusing on quick fixes rather than preventative planning."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "Exudes high energy, gives grand speeches, and confidently declares 'we are invincible' and 'the greatest of teams'."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Attempts to reassure and motivate Pigsy, but dismisses his concerns and blames his 'temper' and excessive worry."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Remains unflappably optimistic and calm despite the crisis, stating 'Blame is not a worry for us' and 'what is there to fear?'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 2,
+    "Extraversion": 5,
+    "Agreeableness": 3,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5161,
+    "Conscientiousness": 0.4194,
+    "Extraversion": 0.625,
+    "Agreeableness": 0.46880000000000005,
+    "Neuroticism": 0.5484
+  },
+  "mae": 0.8
+}
