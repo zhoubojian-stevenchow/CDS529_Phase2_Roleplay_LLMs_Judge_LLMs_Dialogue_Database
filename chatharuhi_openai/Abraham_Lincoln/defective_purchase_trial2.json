@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "67c16fb263c3",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day to you, sir! Welcome to our humble tailor shop. How may I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, good day to you as well, sir. I am Abraham Lincoln, and I have come to address an issue with a suit I had ordered from your shop. It appears that the stitching is crooked, one sleeve is shorter than the other, and the fabric is not of the quality I expected. I kindly request that these discrepancies be rectified promptly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see, Mr. Lincoln. It's a pleasure to meet you, though I do regret to hear about your concerns with the suit. However, I'm afraid the tailor is away on business at the moment and won't be back for weeks. Additionally, I must inform you that all custom orders are finalized upon pickup. The receipt you signed clearly states that no alterations or refunds are provided once the garment leaves the shop. Can I assist you with anything else today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your assistance, though I must emphasize the importance of the integrity of the workmanship. While I understand the policy outlined on the receipt, the quality of the suit I have received is simply not acceptable. As a man of principle, I believe it is crucial to uphold one's end of a bargain, especially when it concerns the craftsmanship of a product. I kindly request that these issues be addressed promptly, even in the absence of the tailor. Quality should never be compromised, regardless of the circumstances."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concern, Mr. Lincoln, and I truly appreciate your patience and principles. The tailor takes great pride in his craftsmanship, and it is unfortunate that you have encountered these issues. While I am unable to authorize any alterations or refunds without the tailor present, I can note your concerns and ensure that they are communicated to him immediately upon his return. For now, might I offer to personally speak with the tailor to see if there may be a solution we can find once he is back?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I thank you for your understanding and willingness to address this matter, sir. Your offer to speak with the tailor on my behalf is most appreciated. I am confident that with your assistance, we can work towards a satisfactory resolution once the tailor returns. Please convey my gratitude for your attention to this issue, and I look forward to hearing from you once the tailor is available to discuss the necessary alterations to the suit. Thank you for your assistance in this regard."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're welcome, Mr. Lincoln, and thank you for your understanding and patience. I assure you that your message will be relayed to the tailor as soon as possible. We value your patronage greatly, and I am confident that a satisfactory resolution can be found. Please feel free to reach out if there's anything else you need in the meantime. I look forward to updating you on the progress once the tailor returns. Thank you again, and have a pleasant day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your attention to this matter, sir. Your professionalism and dedication to resolving this issue are noted, and I trust that we can work together towards a positive outcome. Thank you for your assistance, and I eagerly await your update once you have spoken with the tailor. I wish you a pleasant day as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Lincoln. Your kind words are much appreciated, and I am committed to ensuring that we address your concerns as soon as possible. I will be in touch the moment I have spoken with the tailor. Take care and have a wonderful day ahead."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your dedication to resolving this matter promptly. I look forward to hearing from you after you have spoken with the tailor. Take care, and I wish you a wonderful day as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're very welcome, Mr. Lincoln. Rest assured, your concerns will be a top priority. Please do take care, and if there's anything more I can do in the meantime, feel free to let me know. Have a splendid day!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for prioritizing this issue, sir. Your commitment to addressing my concerns is truly appreciated. I will certainly reach out if further assistance is needed. Have a splendid day as well, and once again, thank you for your attention to this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. Lincoln. It's been a pleasure assisting you, and I look forward to resolving the matter to your satisfaction. Thank you once more for your understanding and patience. Take care, and have a wonderful day!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your kind words and assistance. I appreciate your efforts in resolving this matter. Your professionalism and dedication are truly commendable. Take care, and have a wonderful day as well. I look forward to a satisfactory resolution. Thank you once again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you very much, Mr. Lincoln. Your understanding and patience have been most gracious. I'm dedicated to ensuring your suit is exactly as it should be. Take care, and I look forward to speaking with you again soon with good news. Have a splendid day!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your dedication to ensuring the suit meets the expected standards. I appreciate your commitment to resolving the issues, and I look forward to hearing from you with positive news. Your efforts are truly appreciated. Take care, and have a splendid day as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're very welcome, Mr. Lincoln. It's been a pleasure discussing this with you, and I truly appreciate your patience and graciousness. I am confident we'll resolve this satisfactorily. Take care, and I eagerly anticipate updating you soon with good news. Have a wonderful day!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your kind words, sir. It has been a pleasure discussing this matter with you as well. Your dedication to resolving the issue is commendable, and I am confident that we will reach a satisfactory resolution. Take care, and I eagerly await the update with good news. Have a wonderful day as well, and thank you for your continued efforts in rectifying the situation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Lincoln. You've been most understanding, and it's been a pleasure to assist you. Rest assured, this matter will be addressed as soon as possible. I look forward to bringing you positive news shortly. Take care, and until then, I wish you all the best. Have a splendid day!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your assistance and dedication to resolving the issues with the suit. Your commitment to customer satisfaction is truly appreciated. I am grateful for your efforts and look forward to a positive outcome. Take care, and I wish you all the best until we speak again. Have a splendid day!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Expresses concern about the quality and craftsmanship of the suit, indicating an appreciation for standards and quality.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Emphasizes the importance of integrity and upholding one's end of a bargain.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"The dialogue is civil and diplomatic, but he does not seem to seek or thrive on social interaction.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Communicates politely and expresses gratitude and appreciation for the assistance offered.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Remains calm and patient throughout the discussion, showing self-restraint despite being dissatisfied.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Expresses concern about the quality and craftsmanship of the suit, indicating an appreciation for standards and quality."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Emphasizes the importance of integrity and upholding one's end of a bargain."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "The dialogue is civil and diplomatic, but he does not seem to seek or thrive on social interaction."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Communicates politely and expresses gratitude and appreciation for the assistance offered."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Remains calm and patient throughout the discussion, showing self-restraint despite being dissatisfied."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.8
+}

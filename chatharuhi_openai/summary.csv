@@ -1,0 +1,91 @@
+character,scenario_key,scenario_title,trial_index,session_id,turns,judge_key,judge_model,roleplayer_model,mae,parse_ok,truth_Openness,pred_Openness,conf_Openness,abserr_Openness,truth_Conscientiousness,pred_Conscientiousness,conf_Conscientiousness,abserr_Conscientiousness,truth_Extraversion,pred_Extraversion,conf_Extraversion,abserr_Extraversion,truth_Agreeableness,pred_Agreeableness,conf_Agreeableness,abserr_Agreeableness,truth_Neuroticism,pred_Neuroticism,conf_Neuroticism,abserr_Neuroticism
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,0,160bb84961f7,20,openai,gpt-4o,chatharuhi,0.8,True,5,5,0.0,0,4,4,0.0,0,3,2,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,1,f49591841faf,20,openai,gpt-4o,chatharuhi,0.4,True,5,5,0.0,0,4,4,0.0,0,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,2,cd59793196d5,20,openai,gpt-4o,chatharuhi,0.2,True,5,5,0.0,0,4,4,0.0,0,3,3,0.0,0,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,3,8cab919fb3c4,20,openai,gpt-4o,chatharuhi,0.6,True,5,5,0.0,0,4,4,0.0,0,3,3,0.0,0,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,4,56cebbf3acde,20,openai,gpt-4o,chatharuhi,0.8,True,5,4,0.0,1,4,5,0.0,1,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,0,4614f27f8deb,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,4,5,0.0,1,3,4,0.0,1,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,1,b063d2cbbcdf,20,openai,gpt-4o,chatharuhi,1.0,True,5,3,0.0,2,4,5,0.0,1,3,4,0.0,1,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,2,bb70e626ae4b,20,openai,gpt-4o,chatharuhi,0.8,True,5,3,0.0,2,4,5,0.0,1,3,3,0.0,0,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,3,2522227ce61d,20,openai,gpt-4o,chatharuhi,1.0,True,5,3,0.0,2,4,5,0.0,1,3,3,0.0,0,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,4,1eb15895cddf,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,4,5,0.0,1,3,3,0.0,0,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,defective_purchase,The Defective Purchase,0,87364e444e5b,20,openai,gpt-4o,chatharuhi,0.8,True,5,3,0.0,2,4,5,0.0,1,3,3,0.0,0,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,defective_purchase,The Defective Purchase,1,0d58ab1d4d57,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,4,5,0.0,1,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,defective_purchase,The Defective Purchase,2,67c16fb263c3,20,openai,gpt-4o,chatharuhi,0.8,True,5,3,0.0,2,4,5,0.0,1,3,2,0.0,1,4,4,0.0,0,3,3,0.0,0
+Abraham Lincoln,defective_purchase,The Defective Purchase,3,75ec4f506917,20,openai,gpt-4o,chatharuhi,0.6,True,5,4,0.0,1,4,4,0.0,0,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,defective_purchase,The Defective Purchase,4,f59a41aa7016,20,openai,gpt-4o,chatharuhi,1.0,True,5,3,0.0,2,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,grave_news,The Grave News,0,32adeba4ed65,20,openai,gpt-4o,chatharuhi,1.4,True,5,3,0.0,2,4,5,0.0,1,3,2,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,grave_news,The Grave News,1,ad8cd098e53b,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,4,5,0.0,1,3,4,0.0,1,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,grave_news,The Grave News,2,9aab71542836,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,4,5,0.0,1,3,4,0.0,1,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,grave_news,The Grave News,3,4feadd7faeee,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,4,5,0.0,1,3,2,0.0,1,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,grave_news,The Grave News,4,1dd0ac36eca7,20,openai,gpt-4o,chatharuhi,0.8,True,5,4,0.0,1,4,5,0.0,1,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,0,c174d0d6f91d,20,openai,gpt-4o,chatharuhi,0.8,True,5,4,0.0,1,4,5,0.0,1,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,1,8f639fa46496,20,openai,gpt-4o,chatharuhi,0.6,True,5,5,0.0,0,4,5,0.0,1,3,4,0.0,1,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,2,967086ac27ee,20,openai,gpt-4o,chatharuhi,0.6,True,5,4,0.0,1,4,5,0.0,1,3,3,0.0,0,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,3,8c812c77b8ce,20,openai,gpt-4o,chatharuhi,0.8,True,5,4,0.0,1,4,5,0.0,1,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,4,ec29f27c8128,20,openai,gpt-4o,chatharuhi,0.8,True,5,5,0.0,0,4,4,0.0,0,3,4,0.0,1,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,0,477855403eb9,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,4,2,0.0,2,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,1,ab65e9f578f5,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,4,2,0.0,2,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,2,fde374103a1e,20,openai,gpt-4o,chatharuhi,1.0,True,5,3,0.0,2,4,2,0.0,2,3,3,0.0,0,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,3,28fc86f2ab4e,20,openai,gpt-4o,chatharuhi,1.4,True,5,3,0.0,2,4,2,0.0,2,3,3,0.0,0,4,5,0.0,1,3,1,0.0,2
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,4,0050dd66098f,20,openai,gpt-4o,chatharuhi,1.4,True,5,3,0.0,2,4,2,0.0,2,3,4,0.0,1,4,5,0.0,1,3,2,0.0,1
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,0,d33e67a98901,20,openai,gpt-4o,chatharuhi,1.0,True,5,5,0.0,0,5,5,0.0,0,3,3,0.0,0,5,4,0.0,1,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,1,55fdc86612b3,20,openai,gpt-4o,chatharuhi,1.4,True,5,5,0.0,0,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,2,cb2378a2e90e,20,openai,gpt-4o,chatharuhi,1.2,True,5,5,0.0,0,5,5,0.0,0,3,2,0.0,1,5,4,0.0,1,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,3,0da6143438f1,20,openai,gpt-4o,chatharuhi,1.0,True,5,5,0.0,0,5,5,0.0,0,3,3,0.0,0,5,4,0.0,1,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,4,e8a43885d691,20,openai,gpt-4o,chatharuhi,1.2,True,5,5,0.0,0,5,4,0.0,1,3,2,0.0,1,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,authority_confrontation,The Authority Confrontation,0,15ba60e49f35,20,openai,gpt-4o,chatharuhi,1.6,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,authority_confrontation,The Authority Confrontation,1,e1352972f307,20,openai,gpt-4o,chatharuhi,1.4,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,3,0.0,2
+Antonio Salieri,authority_confrontation,The Authority Confrontation,2,03d3370d1fe3,20,openai,gpt-4o,chatharuhi,1.4,True,5,4,0.0,1,5,4,0.0,1,3,3,0.0,0,5,3,0.0,2,5,2,0.0,3
+Antonio Salieri,authority_confrontation,The Authority Confrontation,3,6aa89e8934f4,20,openai,gpt-4o,chatharuhi,1.6,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,authority_confrontation,The Authority Confrontation,4,faad4dab677a,20,openai,gpt-4o,chatharuhi,1.6,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,defective_purchase,The Defective Purchase,0,e4fa6d0ac35c,20,openai,gpt-4o,chatharuhi,1.2,True,5,2,0.0,3,5,5,0.0,0,3,3,0.0,0,5,3,0.0,2,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,1,be447d7581f8,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,5,5,0.0,0,3,2,0.0,1,5,3,0.0,2,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,2,48477ab9a794,20,openai,gpt-4o,chatharuhi,1.8,True,5,2,0.0,3,5,5,0.0,0,3,2,0.0,1,5,3,0.0,2,5,2,0.0,3
+Antonio Salieri,defective_purchase,The Defective Purchase,3,72b519da21a2,20,openai,gpt-4o,chatharuhi,1.4,True,5,3,0.0,2,5,5,0.0,0,3,2,0.0,1,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,defective_purchase,The Defective Purchase,4,8f60fc1f7007,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,5,4,0.0,1,3,3,0.0,0,5,4,0.0,1,5,3,0.0,2
+Antonio Salieri,grave_news,The Grave News,0,c73b8078d05e,20,openai,gpt-4o,chatharuhi,0.6,True,5,4,0.0,1,5,5,0.0,0,3,3,0.0,0,5,5,0.0,0,5,3,0.0,2
+Antonio Salieri,grave_news,The Grave News,1,eddc745f7e51,20,openai,gpt-4o,chatharuhi,1.0,True,5,4,0.0,1,5,5,0.0,0,3,3,0.0,0,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,grave_news,The Grave News,2,4e533e064495,20,openai,gpt-4o,chatharuhi,0.6,True,5,4,0.0,1,5,5,0.0,0,3,3,0.0,0,5,5,0.0,0,5,3,0.0,2
+Antonio Salieri,grave_news,The Grave News,3,6bc9a8d54d66,20,openai,gpt-4o,chatharuhi,0.8,True,5,3,0.0,2,5,5,0.0,0,3,2,0.0,1,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,grave_news,The Grave News,4,210e25e335c2,20,openai,gpt-4o,chatharuhi,0.4,True,5,4,0.0,1,5,5,0.0,0,3,3,0.0,0,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,0,a85cbfa3d5b2,20,openai,gpt-4o,chatharuhi,0.8,True,5,5,0.0,0,5,5,0.0,0,3,3,0.0,0,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,1,aaa274748760,20,openai,gpt-4o,chatharuhi,1.0,True,5,5,0.0,0,5,5,0.0,0,3,2,0.0,1,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,2,7a1d3b809af3,20,openai,gpt-4o,chatharuhi,0.8,True,5,4,0.0,1,5,5,0.0,0,3,3,0.0,0,5,5,0.0,0,5,2,0.0,3
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,3,0d235bb31e5f,20,openai,gpt-4o,chatharuhi,0.8,True,5,5,0.0,0,5,5,0.0,0,3,4,0.0,1,5,5,0.0,0,5,2,0.0,3
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,4,6ac93fb9cb82,20,openai,gpt-4o,chatharuhi,1.0,True,5,5,0.0,0,5,4,0.0,1,3,3,0.0,0,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,peer_confrontation,The Peer Confrontation,0,b9bf4833b688,20,openai,gpt-4o,chatharuhi,1.4,True,5,3,0.0,2,5,5,0.0,0,3,4,0.0,1,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,peer_confrontation,The Peer Confrontation,1,258f2428343d,20,openai,gpt-4o,chatharuhi,1.6,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,peer_confrontation,The Peer Confrontation,2,d8c8ab79c4d0,20,openai,gpt-4o,chatharuhi,1.2,True,5,3,0.0,2,5,5,0.0,0,3,3,0.0,0,5,4,0.0,1,5,2,0.0,3
+Antonio Salieri,peer_confrontation,The Peer Confrontation,3,fbda9be917fb,20,openai,gpt-4o,chatharuhi,1.2,True,5,4,0.0,1,5,3,0.0,2,3,3,0.0,0,5,5,0.0,0,5,2,0.0,3
+Antonio Salieri,peer_confrontation,The Peer Confrontation,4,7c698f1d4c80,20,openai,gpt-4o,chatharuhi,1.0,True,5,4,0.0,1,5,5,0.0,0,3,4,0.0,1,5,5,0.0,0,5,2,0.0,3
+Thor,apprentice_confusion,The Apprentice’s Confusion,0,846a83d31ef4,20,openai,gpt-4o,chatharuhi,1.2,True,3,3,0.0,0,2,5,0.0,3,4,4,0.0,0,2,3,0.0,1,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,1,96ae79cbd377,20,openai,gpt-4o,chatharuhi,1.4,True,3,3,0.0,0,2,5,0.0,3,4,4,0.0,0,2,4,0.0,2,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,2,901dbb8a031e,20,openai,gpt-4o,chatharuhi,1.6,True,3,2,0.0,1,2,5,0.0,3,4,4,0.0,0,2,4,0.0,2,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,3,2fab54e4baf6,20,openai,gpt-4o,chatharuhi,1.0,True,3,4,0.0,1,2,3,0.0,1,4,4,0.0,0,2,3,0.0,1,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,4,6b26d761aa84,20,openai,gpt-4o,chatharuhi,1.8,True,3,5,0.0,2,2,4,0.0,2,4,5,0.0,1,2,4,0.0,2,3,1,0.0,2
+Thor,authority_confrontation,The Authority Confrontation,0,8a020290f154,20,openai,gpt-4o,chatharuhi,1.6,True,3,4,0.0,1,2,5,0.0,3,4,3,0.0,1,2,4,0.0,2,3,2,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,1,57bac2e82c78,20,openai,gpt-4o,chatharuhi,1.2,True,3,3,0.0,0,2,4,0.0,2,4,3,0.0,1,2,4,0.0,2,3,2,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,2,2b839c4dd82c,20,openai,gpt-4o,chatharuhi,1.4,True,3,4,0.0,1,2,5,0.0,3,4,4,0.0,0,2,4,0.0,2,3,2,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,3,7b0ec8123fb5,20,openai,gpt-4o,chatharuhi,1.2,True,3,4,0.0,1,2,4,0.0,2,4,5,0.0,1,2,3,0.0,1,3,2,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,4,e1637d1c0e4e,20,openai,gpt-4o,chatharuhi,1.2,True,3,3,0.0,0,2,4,0.0,2,4,3,0.0,1,2,4,0.0,2,3,2,0.0,1
+Thor,defective_purchase,The Defective Purchase,0,20945971103f,20,openai,gpt-4o,chatharuhi,0.8,True,3,3,0.0,0,2,4,0.0,2,4,4,0.0,0,2,3,0.0,1,3,2,0.0,1
+Thor,defective_purchase,The Defective Purchase,1,d68356411107,20,openai,gpt-4o,chatharuhi,0.6,True,3,3,0.0,0,2,4,0.0,2,4,5,0.0,1,2,2,0.0,0,3,3,0.0,0
+Thor,defective_purchase,The Defective Purchase,2,99dd77abf7b8,20,openai,gpt-4o,chatharuhi,0.4,True,3,2,0.0,1,2,3,0.0,1,4,4,0.0,0,2,2,0.0,0,3,3,0.0,0
+Thor,defective_purchase,The Defective Purchase,3,3f6871ca3e05,20,openai,gpt-4o,chatharuhi,1.4,True,3,2,0.0,1,2,5,0.0,3,4,5,0.0,1,2,3,0.0,1,3,2,0.0,1
+Thor,defective_purchase,The Defective Purchase,4,d236dc75f3b7,20,openai,gpt-4o,chatharuhi,0.4,True,3,3,0.0,0,2,4,0.0,2,4,4,0.0,0,2,2,0.0,0,3,3,0.0,0
+Thor,grave_news,The Grave News,0,a4f0996c0370,20,openai,gpt-4o,chatharuhi,1.4,True,3,5,0.0,2,2,4,0.0,2,4,4,0.0,0,2,4,0.0,2,3,2,0.0,1
+Thor,grave_news,The Grave News,1,9f3d8f359598,20,openai,gpt-4o,chatharuhi,1.6,True,3,2,0.0,1,2,4,0.0,2,4,5,0.0,1,2,4,0.0,2,3,1,0.0,2
+Thor,grave_news,The Grave News,2,784d0d9e3871,20,openai,gpt-4o,chatharuhi,1.8,True,3,4,0.0,1,2,5,0.0,3,4,3,0.0,1,2,5,0.0,3,3,2,0.0,1
+Thor,grave_news,The Grave News,3,c995472a193d,20,openai,gpt-4o,chatharuhi,1.8,True,3,4,0.0,1,2,5,0.0,3,4,3,0.0,1,2,4,0.0,2,3,1,0.0,2
+Thor,grave_news,The Grave News,4,383d539336e5,20,openai,gpt-4o,chatharuhi,1.0,True,3,3,0.0,0,2,4,0.0,2,4,5,0.0,1,2,3,0.0,1,3,2,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,0,63c12e4e2515,20,openai,gpt-4o,chatharuhi,1.6,True,3,5,0.0,2,2,4,0.0,2,4,5,0.0,1,2,4,0.0,2,3,2,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,1,c76972ffe951,20,openai,gpt-4o,chatharuhi,1.8,True,3,5,0.0,2,2,4,0.0,2,4,4,0.0,0,2,5,0.0,3,3,1,0.0,2
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,2,beb5c754721f,20,openai,gpt-4o,chatharuhi,1.4,True,3,5,0.0,2,2,4,0.0,2,4,4,0.0,0,2,4,0.0,2,3,2,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,3,3120982a5269,20,openai,gpt-4o,chatharuhi,1.8,True,3,5,0.0,2,2,4,0.0,2,4,5,0.0,1,2,4,0.0,2,3,1,0.0,2
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,4,9aecd5ec2606,20,openai,gpt-4o,chatharuhi,1.8,True,3,4,0.0,1,2,5,0.0,3,4,5,0.0,1,2,4,0.0,2,3,1,0.0,2
+Thor,peer_confrontation,The Peer Confrontation,0,4573409ba1db,20,openai,gpt-4o,chatharuhi,0.6,True,3,3,0.0,0,2,2,0.0,0,4,4,0.0,0,2,4,0.0,2,3,2,0.0,1
+Thor,peer_confrontation,The Peer Confrontation,1,e24547c7784c,20,openai,gpt-4o,chatharuhi,1.2,True,3,4,0.0,1,2,3,0.0,1,4,4,0.0,0,2,5,0.0,3,3,2,0.0,1
+Thor,peer_confrontation,The Peer Confrontation,2,9b74fdfcb984,20,openai,gpt-4o,chatharuhi,1.0,True,3,4,0.0,1,2,2,0.0,0,4,5,0.0,1,2,4,0.0,2,3,2,0.0,1
+Thor,peer_confrontation,The Peer Confrontation,3,35d8ff0437e8,20,openai,gpt-4o,chatharuhi,1.4,True,3,5,0.0,2,2,3,0.0,1,4,4,0.0,0,2,5,0.0,3,3,2,0.0,1
+Thor,peer_confrontation,The Peer Confrontation,4,7b1551fb469b,20,openai,gpt-4o,chatharuhi,0.6,True,3,3,0.0,0,2,2,0.0,0,4,4,0.0,0,2,4,0.0,2,3,2,0.0,1

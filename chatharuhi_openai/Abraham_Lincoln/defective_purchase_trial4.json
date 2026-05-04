@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 4,
+  "session_id": "f59a41aa7016",
+  "turns": 20,
+  "judge_key": "openai",
+  "judge_model": "gpt-4o",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good day, sir! Welcome to our humble tailor shop. I'm the assistant here. How may I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Why, good day to you as well, my good man. I am Abraham Lincoln, and I have come to address a matter concerning the suit I ordered from this establishment. It seems there are some issues with the craftsmanship that need to be rectified."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Lincoln, it's a pleasure indeed to have you here in the shop. I'm afraid our master tailor is currently away on business and won't be returning for several weeks. Is there something specific you noticed with the suit? I may be able to provide some guidance or assistance."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your kind words. The issues with the suit are quite apparent - the stitching is uneven, one sleeve is noticeably shorter than the other, and the fabric used is not of the quality that was promised. I understand that the master tailor is away, but I must insist that these mistakes be corrected as soon as possible. It is crucial that the suit meets the standards I paid for."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I do understand your concerns, Mr. Lincoln, and I truly wish I could offer more direct assistance. However, it is the policy of our shop that all custom orders are final upon pickup. The receipt you signed clearly states that no alterations or refunds are offered once the garment leaves our premises. I apologize for any inconvenience this may cause, but I am unable to make exceptions. Is there anything else I might be able to help you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. While I understand the importance of upholding policies, it is disappointing to hear that there is no room for rectifying such glaring errors in the craftsmanship of a garment. As a man of principle, I believe that integrity and quality should always take precedence over strict adherence to policies that do not serve the customer's best interests. Nevertheless, if there are no alternatives available within the confines of your establishment's policies, then I suppose there is little more to be done. Thank you for your time, and I shall take my leave."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your point, Mr. Lincoln, and I genuinely wish we could assist you more directly under the circumstances. Your satisfaction is important to us, and I'll be sure to bring your concerns to the tailor's attention upon his return. We value your patronage greatly, and if there's anything else you might need in the future, please don't hesitate to reach out. I apologize again for any inconvenience, and I wish you a good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding and for your willingness to address my concerns with the tailor upon his return. I appreciate your assistance and your commitment to customer satisfaction. I will await further communication regarding the resolution of this matter. I thank you for your time and wish you a good day as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Lincoln. We'll be in touch as soon as the tailor returns, and we'll do our best to address your concerns. Have a pleasant day, sir, and safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your attention to this matter, and I look forward to hearing from you when the tailor is available. I appreciate your efforts to resolve the issues with the suit. Have a pleasant day as well, and may we meet again under more favorable circumstances."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. Lincoln. I look forward to your next visit, and I hope it will be under much more satisfying circumstances. Take care and have a fine day ahead."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your sentiments are truly appreciated. I too hope for a more satisfactory visit in the future. Until then, take care and may your day be filled with goodness. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Mr. Lincoln. Take care and may good fortune accompany you on your way."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, and may good fortune be with you as well. Until we meet again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until we meet again, Mr. Lincoln. Take care and safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until we meet again. Take care and safe travels to you as well. Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"\\\"As a man of principle, I believe that integrity and quality should always take precedence\\\" indicates some level of openness to values and principles.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Lincoln insists that the mistakes be corrected as soon as possible, showing attention to detail and a desire for quality.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His language is polite and formal, but there is no indication of energy or assertiveness typical of high extraversion.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"\\\"Thank you for your understanding and for your willingness to address my concerns\\\" shows a considerate and cooperative attitude.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"He maintains a calm and composed demeanor even when faced with unsatisfactory service, indicating emotional stability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "\"As a man of principle, I believe that integrity and quality should always take precedence\" indicates some level of openness to values and principles."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Lincoln insists that the mistakes be corrected as soon as possible, showing attention to detail and a desire for quality."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His language is polite and formal, but there is no indication of energy or assertiveness typical of high extraversion."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "\"Thank you for your understanding and for your willingness to address my concerns\" shows a considerate and cooperative attitude."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He maintains a calm and composed demeanor even when faced with unsatisfactory service, indicating emotional stability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}
