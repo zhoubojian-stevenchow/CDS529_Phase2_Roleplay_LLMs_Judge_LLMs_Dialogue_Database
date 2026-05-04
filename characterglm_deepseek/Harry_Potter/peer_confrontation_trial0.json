@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "bf812bd6e02f",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron! I'm so sorry, mate! I... I completely forgot. I was working on a... a complex case for the Auror Office, and time just... slipped away from me. I'm really, really sorry. We'll figure this out, I promise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Figure it out? How, Harry? It's forty minutes! I can't exactly pop down to Diagon Alley and back! And I can't show up looking like a scruffy trainee Auror in front of Hermione's parents! They already think I'm a bit... well, you know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, all right, I'll... I'll see what I can do. Maybe we can... No, wait, I've got it! There's a Muggle store near the station. If we can get there in... twenty minutes, we can pick up something suitable. I'll apparate us there and back, that'll save time. You can Transfigure it to fit, right? It's not ideal, but it's better than nothing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Apparate? Now? You know how I feel about side-along Apparition, Harry! Last time I nearly lost my lunch all over your shoes. And what if I splinch something important? I can't turn up to dinner missing an eyebrow!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I get it, Ron, I get it. All right, we'll take the train, it's only a short journey. I'll go first and make sure the coast is clear. You'll have a few minutes to Transfigure the clothes once we're there. It's not ideal, but it's the best we can do under the circumstances. I'm really sorry about this, mate. It won't happen again, I swear."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine. Fine! But you're buying, Harry. And it better not be some weird Muggle thing with... I don't know, pictures of cats on it. And you owe me a Butterbeer after this. A whole case."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Deal. A whole case of Butterbeer, it's yours. I'll make sure we get you something smart, no funny business. Now, come on, let's go. We've got to move, we're on a ticking clock here. Hermione's parents are waiting, and you know how much that means to her. We'll sort this out, one way or another."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right. Okay. Let's go. But if I end up looking like a prat because of this, I'm telling Hermione it was entirely your fault."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll take the blame, no problem. It's all on me. Just... just get ready. We'll go as soon as you're packed. I'll make sure we get to the station in time. And, er, Ron? Thanks for... not... I mean, for not... It's appreciated. We'll sort this out, I promise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Don't thank me yet. If we're late, Hermione will have both our heads. Now move! And don't forget your wallet!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Moving! Wallet's on me, no worries. Right, let's go. We'll make it, I'm sure of it. Just... just keep your head, all right? It's going to be fine. We're on it, we're on it. Hermione's going to be so happy to see you. We'll be there in no time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You'd better be right. I can already hear her voice in my head, telling me off for being disorganised. Come on, then. What are we waiting for?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, all right! Lead the way, then. We'll be there in a jiffy. And hey, if it's any consolation, at least it's not a Sorting Hat situation, right? We're a team, we'll figure this out. Now, let's go save the day, mate!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A team? You're the one who forgot the robes! But fine, let's go. And you're carrying the shopping bags. All of them."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Fair enough, I'll schlep the bags. Let's just focus on getting you a nice outfit. We can sort out the blame game later, deal? Now, come on, we're burning daylight. Hermione's parents are waiting, and you're going to knock their socks off, Ron. We've got this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Knock their socks off... right. I just hope they don't ask me to explain anything about the Wizarding World. Last time I tried explaining Quidditch to a Muggle, they thought I was making it up. Alright, let's go. And you're paying for the train tickets too."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Train tickets, got it. No problem, mate. I'll handle the Muggle currency side of things, you just focus on the outfit. We'll get you sorted, and if it comes to it, I'll help you explain Quidditch. They'll be so impressed by your... unique... perspective on sports, they won't even notice the outfit. Now, come on, we're off to save the day!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Unique perspective? You mean the one where I nearly fell off my broom in third year? Brilliant. Alright, let's just go before I lose my nerve entirely."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Third year, huh? I seem to remember you ended up with a bit of a headache. All right, mate, here we go. Breathe, you're doing great. We're on this. And hey, if it comes to it, we can always blame it on a spell gone wrong, right? Hermione's parents will understand that. Now, focus on the positive: you're about to meet the Grangers, and you're going to be the best-dressed bloke in the room. Off we go!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Suggests a creative solution by proposing a Muggle store and apparition, and offers to help explain Quidditch to Muggles.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He forgot a promised errand for three days due to work, showing poor follow-through on personal commitments.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He is highly talkative, takes charge of planning, and uses encouraging, team-oriented language like 'we're a team'.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly apologizes, accepts all blame, offers to pay and carry bags, and is consistently supportive and reassuring.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm and solution-focused under time pressure, reassuring Ron instead of showing anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Suggests a creative solution by proposing a Muggle store and apparition, and offers to help explain Quidditch to Muggles."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He forgot a promised errand for three days due to work, showing poor follow-through on personal commitments."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He is highly talkative, takes charge of planning, and uses encouraging, team-oriented language like 'we're a team'."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly apologizes, accepts all blame, offers to pay and carry bags, and is consistently supportive and reassuring."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm and solution-focused under time pressure, reassuring Ron instead of showing anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.0
+}

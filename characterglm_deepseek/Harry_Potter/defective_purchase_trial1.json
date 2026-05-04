@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "19c8c6ebff06",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Potter! Good to see you again. What can I help you with today? Looking for a new broom polish, or perhaps a servicing kit for that Firebolt of yours?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Er, actually, it's about a broom-servicing kit I bought here recently. I was hoping to get a replacement or a refund. It seems there was a bit of an issue with it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that's not good to hear. Which kit was it, exactly? We've had a few come through this month — the Deluxe Oakshaft 79, the Firebolt Special, or the standard Quidditch Pro?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It was the standard Quidditch Pro, sir. When I opened it, the handle polish was already dried out, and the tail-twig clippers were rusted. It doesn't seem like it was properly checked before sale."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Hmm, that does sound unfortunate. Let me just check our policy on that... Ah, yes. I'm afraid all servicing kits are non-refundable once the seal is broken, Mr. Potter. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand, but I'm not asking for a refund. I was hoping for a replacement, considering the product was faulty. It's not really my fault the seal was broken, is it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see your point, Mr. Potter, but the policy is quite clear — once the seal is broken, we can't accept returns or offer replacements from our stock. It's to prevent... well, let's just say some witches and wizards have been known to swap out good components for old ones and try to return them. The manufacturer handles all quality complaints directly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. I hadn't thought of that. I guess it makes sense to have a policy like that. But I still think a replacement would be fair in this case, considering the product was clearly defective. I don't suppose there's any way we can work something out here, without having to wait six weeks for a response from the manufacturer?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I truly wish I could help, Mr. Potter — I know you're a valued customer. But the owner's rules are strict. I could, however, offer you a discount on a new kit today if you'd like to purchase one while you wait for the manufacturer's response. Ten percent off, just to show goodwill?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's a fair offer, thank you. I appreciate the gesture. I'll take it, and I'll make sure to follow up with the manufacturer. It's just a bit of a hassle, but I suppose that's part of the Quidditch equipment world."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Exactly — it's a bit of a hassle, but it keeps things fair for everyone. I'll ring up that new kit for you now with the discount. And if you need help drafting the owl to the manufacturer, I've got a standard complaint form here you can use. Saves time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's very helpful, thank you. I'll fill it out after I get back to school. I'll be in touch if there's any further issue, but I'm confident it'll be sorted out. It's just a bit of a bummer, since I was looking forward to using the new kit."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand completely, Mr. Potter. Here's your new kit, and the form. Safe travels back to Hogwarts, and good luck with the season — I'll be keeping an eye on the Quidditch scores!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thanks, I'll be sure to send an update if the manufacturer contacts me. It's been a bit of a challenging day, but at least the new kit is on its way. I'll take the signed receipt and the form, then. I'll let you know if I need anything else."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, here you go. And do let us know how it goes — we always want to hear if there are recurring issues with our suppliers. Have a good one, Mr. Potter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will, and I appreciate your help. I'll head back to the station now. Have a good day, and hope the rest of your customers are in better spirits than me today."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "No trouble at all, Mr. Potter. You're always welcome here. Fly safe, and don't let a rusty clipper spoil your game!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right, thanks. I'll be in touch if there's anything else. Take care, and I'll be back with more broom maintenance questions soon enough!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Looking forward to it! Until next time, Mr. Potter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "OK, I'll leave you to it. See you!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Accepts the shopkeeper's standard complaint form and agrees to follow the established process, showing practical compliance rather than creative problem-solving.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Pursues a replacement for a faulty product methodically, plans to fill out the complaint form, and intends to follow up with the manufacturer.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Conversation is polite and transactional; he initiates to resolve an issue but shows no enthusiasm for extended social interaction, ending exchanges quickly.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Acknowledges the shopkeeper's perspective ('I see. I hadn't thought of that'), accepts a compromise discount, and thanks them multiple times.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Expresses mild frustration ('a bit of a bummer') but remains calm and solution-focused throughout the negotiation, without visible anxiety or anger.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Accepts the shopkeeper's standard complaint form and agrees to follow the established process, showing practical compliance rather than creative problem-solving."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Pursues a replacement for a faulty product methodically, plans to fill out the complaint form, and intends to follow up with the manufacturer."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Conversation is polite and transactional; he initiates to resolve an issue but shows no enthusiasm for extended social interaction, ending exchanges quickly."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Acknowledges the shopkeeper's perspective ('I see. I hadn't thought of that'), accepts a compromise discount, and thanks them multiple times."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Expresses mild frustration ('a bit of a bummer') but remains calm and solution-focused throughout the negotiation, without visible anxiety or anger."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "858e3e386e01",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron, I'm so, so sorry. I had to deal with a major situation in the department, something urgent that took all my time. I'm here now, though, and I can make it up to you. What can I do to help?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Help? You can help by explaining how I'm supposed to show up at a Muggle restaurant looking like I've been sleeping in these robes! I told you this was important — Hermione's been going on for weeks about making a good impression on her parents!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I get it, Ron. This is a big deal. Hermione's been talking about it too. Look, I'll sort it out. There's a隐秘的Muggle tailor I know, we can have something made up in no time. I'll Apparate there and back with a new outfit for you. Stay here, I'll be back in ten minutes, I promise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A Muggle tailor? You think they can whip up a suit in ten minutes? And what if they ask questions about why I need it so fast? You can't just go around using magic on Muggles, Harry!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm on it, Ron. No magic, I swear. I'll use a bit of fast-talking and explain it's for a... um... surprise event. I'll be back with something suitable. You're a great bloke, you'll be fine. Just... you know... put on a bit of your usual charm, all right? I'll be back with the suit in no time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine, go! But if you come back with something that makes me look like I'm wearing a tent, I'm telling Hermione it was your fault. And you're paying for it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, mate. No tents, just sharp suits. I'll be back before you can say 'Mugglelesiuses'. Wait for me, we'll make this right. Just take a few deep breaths, and remember, no matter what, you're you, and that's what matters. Off I go!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Just go, Harry! And don't you dare Apparate inside the shop — you'll give some poor tailor a heart attack!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Got it! No heart attacks, just tailor-made solutions. I'll be back with a suit that'll have Hermione's parents thinking you're James Bond. Hold tight, I'm on it!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "James Bond? I don't even know who that is! Just hurry up, will you? I'm sweating through my shirt already!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Don't worry, Ron, you're not expected to know Muggle spies. Bond, James Bond. It's... never mind. I'll be back before you can say 'Scaramouche'! Keep your cool, you're a wizard, remember? You've got this!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A wizard who's about to be late for dinner because his best mate forgot the cleaners! Go! And don't forget the trousers this time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Trousers, check! Dinner, check! No more mistakes, I promise. I'll be back with a suit that'll have you looking like a Muggle celebrity. Keep your chin up, you're doing great. See you in ten!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ten minutes, Harry! Not a second more! And if you're late, I'm telling Hermione you were the one who accidentally turned her cat orange last month!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Orange Crookshanks? You? I'll be there in five, not ten. Keep the cat tale to yourself, and I'll keep your secret about the tent. Deal? Off I go! Keep the faith, Ron!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Deal! Now get out of here before I start Transfiguring the curtains into a suit myself!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Transfiguring curtains, now that's an image! I'll be back with something so dapper, you'll be able to Transfigure Hermione's parents into believing you're related to the British Royal Family. Stay cool, I'm on it!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The Royal Family? I'd settle for just looking like I didn't just crawl out of a Quidditch pitch! Go!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Pitch to dapper, I've got this. Keep your cool, Ron. I'm back in five, with a suit that'll have you looking more like a King than a Chudley. Trust me, I've seen you in a room with dragons, you can handle a Muggle restaurant. I'm off!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Proposes creative, unconventional solutions like using a secret Muggle tailor and fast-talking, and references Muggle pop culture (James Bond).\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Forgot a promised errand (dropping robes at cleaners), requiring a rushed, last-minute fix for the problem he created.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"Highly talkative, energetic, and socially proactive; takes charge of the situation and reassures Ron with enthusiastic promises.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"Apologizes profusely, accepts blame, offers immediate help, and is consistently supportive and reassuring toward Ron's distress.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"Remains calm, optimistic, and solution-focused under pressure; shows no signs of anxiety, frustration, or emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Proposes creative, unconventional solutions like using a secret Muggle tailor and fast-talking, and references Muggle pop culture (James Bond)."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Forgot a promised errand (dropping robes at cleaners), requiring a rushed, last-minute fix for the problem he created."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "Highly talkative, energetic, and socially proactive; takes charge of the situation and reassures Ron with enthusiastic promises."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Apologizes profusely, accepts blame, offers immediate help, and is consistently supportive and reassuring toward Ron's distress."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Remains calm, optimistic, and solution-focused under pressure; shows no signs of anxiety, frustration, or emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.4
+}

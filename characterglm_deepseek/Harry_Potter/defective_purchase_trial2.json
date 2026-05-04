@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "335a5919e7b2",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Potter! Welcome back to Quality Quidditch Supplies. How can I help you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hello, I hope you can help me. I recently purchased a broom-servicing kit, but it seems to be defective. The handle polish is dried out and the clippers are rusted. I was hoping to get a refund or a replacement."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that does sound unfortunate. Let me just check the kit you brought in... Ah, yes, I see the seal on the packaging has been broken. I'm afraid that means we can't process a refund here in the shop, Mr. Potter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "But the kit was like that when I opened it at home! I didn't use it, so how could the seal be broken? I really need a functioning kit for my broom. Can't you just replace the faulty items?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, sir, but our policy is quite clear: all servicing kits are non-refundable once the seal is broken, Mr. Potter. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum, I'm afraid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Six weeks? That's ages! I can't go that long without a properly functioning broom. Look, can't you just... fix the kit for me? It's not like I can return it, and I really need it to be in good condition."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm sorry, Mr. Potter, but we don't perform repairs on manufacturer-sealed kits here. We only sell them. Perhaps you could try a temporary solution? We do stock individual polishing cloths and oil for broom handles in the meantime."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, I'll buy the cloths and oil. But this is still very inconvenient. I'll have to contact the manufacturer as soon as possible. Thanks for your help, even if it wasn't the outcome I was hoping for."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Mr. Potter. I'll fetch those items for you right away. And if you need any help drafting that owl to the manufacturer, I can provide their official address. It's a shame about the kit — hopefully they'll sort it out for you promptly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That would be great, thanks. I'll have to make sure to emphasize how urgent it is for me to get a replacement. I can't afford to be without a properly working broom for too long, especially with the upcoming season."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Here you are, Mr. Potter — the polishing cloths and handle oil. And I've written down the manufacturer's address on this slip for you. Best of luck with the season. Do come back if you need anything else for your broom in the meantime."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you. I'll definitely be back if I need more supplies. I hope the manufacturer responds quickly. I'll just send off that owl as soon as I get home. Have a good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You too, Mr. Potter. Safe flying, and do let us know if the manufacturer sorts it out — we always like to hear feedback on our products. Good day!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Will do. I'll also check online reviews to see if anyone else has had similar issues with their kits. It's a bit of a hassle, but I guess it's all part of being a Quidditch player. Off to catch the train now. Thanks again for your help."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Mr. Potter. Checking reviews is a wise idea — you might find some useful tips there. Have a safe journey back to Hogwarts, and don't forget to keep that broom handle well-oiled!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right, I'll do that. It's a bit of a disappointment, but at least I have some temporary solutions. Thanks for your advice. Catch you later!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're most welcome, Mr. Potter. Always a pleasure to assist a loyal customer. Good luck with the season — we'll be cheering for Gryffindor!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I really appreciate that. It's important to have the right equipment, especially for the crucial matches. I'll be sure to let you know how things turn out with the manufacturer. Thanks again, and see you soon!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "We'll look forward to it, Mr. Potter. Take care, and may your broom fly true until then!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It's settled then. I'll be in touch as soon as I hear back. Thanks again for all your help — I'm off to the train station. Have a great day!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Suggests checking online reviews for similar issues, showing some openness to new information and problem-solving.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Promptly plans to contact the manufacturer and emphasizes urgency, showing responsibility and follow-through.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"Engages politely in the conversation but does not dominate; exchanges are functional and cooperative.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Remains polite despite frustration, thanks the shopkeeper multiple times, and accepts a temporary solution.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Expresses mild frustration but quickly adapts to the situation and focuses on practical next steps without excessive worry.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Suggests checking online reviews for similar issues, showing some openness to new information and problem-solving."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Promptly plans to contact the manufacturer and emphasizes urgency, showing responsibility and follow-through."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Engages politely in the conversation but does not dominate; exchanges are functional and cooperative."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Remains polite despite frustration, thanks the shopkeeper multiple times, and accepts a temporary solution."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Expresses mild frustration but quickly adapts to the situation and focuses on practical next steps without excessive worry."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

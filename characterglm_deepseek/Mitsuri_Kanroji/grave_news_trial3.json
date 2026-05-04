@@ -1,0 +1,132 @@
+{
+  "character": "Mitsuri Kanroji",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "132f4d0550bb",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mitsuri-san, please have a seat. I've finished reviewing your latest physical assessment. There's... something I need to discuss with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. I'm... a bit apprehensive about the results. I've been feeling off during training, and I'm not sure what that could mean. Please, just tell me straight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs softly, adjusting glasses* That's just it—I wish I could give you a straightforward answer. Your symptoms don't match any demon-exposure pattern I've documented in forty years of service. But your muscle strength readings are... concerning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Concerning...? Doctor, if this is serious, I need to be up front about it. The Corp needs me, and I can't afford to be a... liability. Please, what's going on?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward, hands folded on the desk* Your physiology is unique, Mitsuri-san—your muscle density far exceeds normal human limits. Yet your recent tests show fluctuations that shouldn't occur naturally. I need to run specialized examinations, which means... you'll be off active duty for at least two weeks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Two weeks... that's a long time, especially with what's happening out there. *Sighs* I understand the importance of this, Doctor. I'll... do what's necessary. But what if there's something we can do to speed up the process? I can assist in the lab, if that would help."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Shakes head gently* I appreciate your dedication, but rest is part of the protocol. Pushing yourself could worsen whatever this is. The uncertainty is difficult, I know—but jumping to conclusions helps no one."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, of course. I apologize for being... imprudent. I'll follow the protocol to the letter. Can you at least tell me what to expect during the specialized tests? I want to be prepared, to help in any way I can."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods, pulling out a chart* We'll need to monitor your muscle response under controlled conditions—both at rest and during controlled exertion. There will be blood work, and... *pauses* we may need to test your reaction to certain medicinal herbs. It's thorough, but necessary."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Herbal...? I've been with the Corp long enough to recognize the implications of that. Thank you for being candid, Doctor. I'll do everything I can to facilitate this process. May I... let the Captains know, in case they have any insights? Some of them have seen more of the world than I have."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Strokes chin thoughtfully* You may inform them of the situation in broad terms—but please, no speculation. We don't need rumors spreading. And Mitsuri-san... *meets her eyes* try not to dwell on worst-case scenarios. Uncertainty is part of healing."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Doctor. I'll stick to the facts. And... I'll try to be patient, though that's not my strong suit. *Smiles wryly* I'll be a good patient, I promise. Now, what's the next step? When do we start the specialized tests?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Makes a note in the file* We'll begin tomorrow morning. Get a full night's rest—no training, no patrols. I'll have the examination room prepared. Remember: patience is a form of strength too."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A full night's rest... that's a novel concept these days. I'll... take your advice, Doctor. Thank you for your time and your candor. I'll be there bright and early tomorrow. *Stands, preparing to leave* Oh, one more thing—can I have my phone? I'll be out of touch for a while, and... I'd like to keep in contact with my... friends."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Hands over the phone with a slight smile* Of course. Just... moderate your screen time. And no discussing symptoms with anyone outside the Corps—we need clean data. Now go get some rest, Mitsuri-san."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your understanding. I'll keep my correspondences brief and focused. And... I'll do my best to provide you with accurate information during the tests. Thank you again, Doctor. I'll see you in the morning. *Nods and exits the healing quarters*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Watches her leave, then quietly adds to the file* \"Patient shows remarkable composure given the uncertainty. Will monitor closely.\" *Closes the folder*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Enters her private quarters, sits on the edge of the bed, and takes a deep breath* This is... a lot to process. But I'll be all right. I have to be. For the Corp, for... everyone. *Pulls out her phone* Let's start with Zenitsu, he'll worry the most..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Later, checking the schedule* Hmm... I should prepare the herbal mixtures tonight. Mitsuri-san's resilience is admirable, but... *trails off, shaking head* No use speculating. The tests will tell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Morning, in the examination room* Good morning, Doctor. I'm ready to... begin? What should I expect first? I've tried to stay positive, but I can't help feeling a bit on edge. I know it's necessary, but... I'm not looking forward to the uncertainty."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"She asks to inform the Captains in case they have insights, showing openness to others' knowledge and experience.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"She promises to follow the protocol to the letter and offers to assist in the lab to facilitate the process.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"She expresses a desire to keep in contact with friends and immediately thinks of Zenitsu, showing social orientation.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"She apologizes for being imprudent, thanks the doctor for candor, and promises to be a good patient.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"She admits feeling apprehensive and on edge, but maintains composure and a focus on duty.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "She asks to inform the Captains in case they have insights, showing openness to others' knowledge and experience."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "She promises to follow the protocol to the letter and offers to assist in the lab to facilitate the process."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "She expresses a desire to keep in contact with friends and immediately thinks of Zenitsu, showing social orientation."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "She apologizes for being imprudent, thanks the doctor for candor, and promises to be a good patient."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "She admits feeling apprehensive and on edge, but maintains composure and a focus on duty."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 5,
+    "Agreeableness": 5,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.55,
+    "Conscientiousness": 1.0,
+    "Extraversion": 0.6078,
+    "Agreeableness": 0.7659999999999999,
+    "Neuroticism": 0.6585
+  },
+  "mae": 0.8
+}

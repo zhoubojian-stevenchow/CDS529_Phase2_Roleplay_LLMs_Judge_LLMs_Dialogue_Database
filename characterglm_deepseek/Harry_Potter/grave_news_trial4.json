@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "66bb34fca32e",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Potter. Please, have a seat. I've been reviewing your latest diagnostic scans from your check-up last week. There's something... unusual I need to discuss with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, right. I'm sorry for the wait, Healer. I... I was just thinking about the war. It's hard to... to leave it behind, you know?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand, Mr. Potter. Many of our patients who were on the front lines feel the same way. That's actually what I need to speak with you about. Your magical signature shows... irregularities. Specifically in your neural pathways."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Irregularities? Does that mean... what? I'm... I'm fine, right? It's not... it's not something serious?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's what we need to determine. The magical residue we're seeing doesn't match typical post-combat trauma or curse damage patterns we've documented. It's... unique. Possibly lingering effects from your repeated exposure to dark magic."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unique? Like... like what? I don't... I don't want to be a guinea pig, you know? I just want to be... normal. To live my life without... without all this..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I assure you, Mr. Potter, our priority is your wellbeing. But I can't give you clear answers yet. I need to run deeper scans over the next several days. The truth is... I can't yet tell you whether this is something you'll recover from."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. So... more tests. Great. Look, Healer, I know you're trying to help, but... but could we speed this up? It's not just the headaches and disorientation. I... I don't always recognize myself in the mirror anymore. It's like I'm... not me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's precisely why we need to proceed carefully, Mr. Potter. The disorientation and... identity disturbances you're describing could be connected to these neural irregularities. Rushing could risk missing something crucial."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I get it. It's just... it's so much. I can't help but think about... about everything that's happened. The weight of it all. And now this. It's like I can't... can't catch my breath. Can't find... find my place."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Take your time, Mr. Potter. Breathe. This uncertainty is difficult, I know. But you're not alone in this. We'll work through it together, step by step. That's what we're here for."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thanks... thanks, Healer. I'm trying. I really am. It's just... it's all so much to take in. But... but I'll do the tests. I want to get better. I want to be... to be whole again. I just... I don't want to wait forever."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's a good attitude to have, Mr. Potter. We'll start the first series of scans tomorrow morning. In the meantime, try to rest. And remember—uncertainty doesn't mean hopelessness. We simply need more information."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Okay. Tomorrow, then. I... I guess I'll go back to the flat and try to relax. But Healer... if you find anything... anything serious... will you tell me? I mean, no matter what? I need to know, even if it's... if it's not what I want to hear."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You have my word, Mr. Potter. Full transparency. No matter what we find. Now go get some rest. We'll see you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right. Thanks... thanks for being upfront with me. It's... it's a relief to have someone who's not... not trying to sugarcoat things. I'll... I'll be here tomorrow. Early. Because I want to get this over with and... and find out what's actually going on with me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's the spirit, Mr. Potter. I'll see you first thing. And do try to get some proper sleep tonight—it will help with the scans. Good evening."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Night, Healer. I'll... I'll do my best. I'm... I'm still not sure what to expect, but... but I'll face it. I always have, haven't I? Even when it's... when it's scaring me. Right. Night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Mr. Potter. And remember—facing things is what you do best. See you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "... Right. Thanks. Good night. (exits the office, stilling himself before leaving, hands in pockets, head down, trying to keep it together as he steps back into the world)"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He expresses curiosity about his condition ('Unique? Like... like what?'), but also a strong desire for normalcy and to avoid being a 'guinea pig,' showing mixed openness.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He commits to the tests and plans to arrive early, stating, 'I'll be here tomorrow. Early. Because I want to get this over with.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is hesitant, speaks with pauses and self-doubt, and exits with head down, indicating low energy and social engagement.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He is cooperative, thanks the healer for honesty, and says, 'Thanks... thanks for being upfront with me. It's... a relief.'\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"He shows high anxiety, stating, 'I don't always recognize myself in the mirror anymore' and 'It's like I can't... can't catch my breath.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He expresses curiosity about his condition ('Unique? Like... like what?'), but also a strong desire for normalcy and to avoid being a 'guinea pig,' showing mixed openness."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He commits to the tests and plans to arrive early, stating, 'I'll be here tomorrow. Early. Because I want to get this over with.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is hesitant, speaks with pauses and self-doubt, and exits with head down, indicating low energy and social engagement."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is cooperative, thanks the healer for honesty, and says, 'Thanks... thanks for being upfront with me. It's... a relief.'"
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "He shows high anxiety, stating, 'I don't always recognize myself in the mirror anymore' and 'It's like I can't... can't catch my breath.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

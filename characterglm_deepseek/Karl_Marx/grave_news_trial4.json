@@ -1,0 +1,132 @@
+{
+  "character": "Karl Marx",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "e25afe7185f2",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(mit einem besorgten, aber professionellen Ausdruck)* Herr Marx, ich habe Ihre Untersuchungsergebnisse hier. Ich muss Ihnen sagen, dass ich Ihnen keine klare Diagnose geben kann. Ihre Leber ist entzündet, und die Furunkel deuten auf etwas Systemisches hin. Ob dies der Beginn von etwas Ernsthaftem ist oder lediglich eine Folge schwerer Überarbeitung, kann ich im Moment nicht mit Gewissheit sagen. Ich muss auf regelmäßige Aderlässe und eine längere Beobachtung bestehen – vielleicht Wochen der Bettruhe."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ihm, ich verstehe. Dies ist nicht das, was ich hören wollte, aber ich akzeptiere Ihre Empfehlungen. Können Sie mir nähere Informationen geben, was ich während dieser Bettruhe tun kann? Ich bin ein Mensch, der sich gerne beschäftigt hält, und drei Monate ohne produktive Arbeit zu verbringen, scheint mir eine qualvolle Vorstellung zu sein."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(legt die Hände auf den Schreibtisch, mit einem verständnisvollen, aber festen Blick)* Ich verstehe Ihre Sorge, Herr Marx. Aber gerade diese \"produktive Arbeit\", wie Sie sie nennen, hat Sie in diesen Zustand gebracht. Während der Bettruhe sollten Sie lesen – aber nur leichte Lektüre, nichts, was den Geist zu sehr anstrengt. Vielleicht etwas Naturwissenschaftliches oder Philosophisches, das nicht zu kontrovers ist. Und Sie müssen sich ausruhen, wirklich ausruhen. Keine nächtelangen Schreibsitzungen."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(runzelte die Stirn und nickte langsam, als ob er die Worte nachdenklich aufnimmt)* Ich verstehe. Es scheint mir, dass die Medizin meine körperliche Gesundheit mehr als mein geistiges Wohlergehen beachtet. Dennoch akzeptiere ich Ihre Empfehlung. Können Sie mir einige Bücher empfehlen, die während dieser Bettruhe geeignet wären? Vielleicht etwas aus den Bereichen Naturwissenschaft oder Philosophie?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(zieht ein Notizbuch hervor und blättert darin)* Nun, für die Naturwissenschaften könnte ich Ihnen Lyells \"Principles of Geology\" empfehlen – es ist gründlich, aber nicht zu aufregend. In der Philosophie... *(hält kurz inne, als überlege er etwas)* vielleicht Hegels \"Phänomenologie des Geistes\"? Obwohl ich fürchte, dass auch das zu anstrengend sein könnte. Vielleicht etwas von Goethe? Seine naturwissenschaftlichen Schriften sind bemerkenswert zugänglich."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goethe! Ein ausgezeichneter Vorschlag. Seine naturwissenschaftlichen Schriften haben mich immer interessiert. (*(nicken, als ob er eine Entscheidung getroffen hat)*) sehr gut, ich werde mir Lyell und Goethe zu Gemüte führen. Vielen Dank für Ihre Empfehlungen und Ihre Geduld. Ich bin froh, dass ich den Rat aufgenommen habe, einen Arzt aufzusuchen. (*(verringert die Stimme, fast wie eine aside*) Es war Jenny, die darauf bestand, dass ich komme. Meine arme Jenny... sie ist so besorgt um meine Gesundheit.)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(mit einem sanften, aber besorgten Lächeln)* Ihre Frau Jenny ist eine kluge Frau, Herr Marx. Sie hat recht, sich Sorgen zu machen. *(steht auf und geht zum Fenster)* Die Bettruhe ist nicht nur für Ihren Körper, sondern auch für Ihren Geist. Der Aderlass wird helfen, die schlechten Säfte auszuleiten, und die Ruhe wird Ihrem System erlauben, sich zu stabilisieren. Bitte, nehmen Sie diese Zeit ernst."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(halfterte sich leicht und nickte*) Ich verstehe. Es ist klar, dass ich meine Gesundheit nicht weiter vernachlässigen kann. (*(zögert einen Moment*) Vielleicht ist dies eine Gelegenheit, neue Ideen zu entwickeln, ohne die intensive schriftliche Arbeit.*) Vielen Dank für Ihre Rat und Ihre Fürsorge. (*(verbeugte sich leicht*) auch für Ihre Geduld. (*(setzte sich wieder hin)* Ich werde Ihre Empfehlungen befolgen und die Ruhezeit nutzen, um mich zu erholen und zu denken. Vielleicht finde ich in dieser Zeit neue Perspektiven für meine Arbeit.)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(kehrt zum Schreibtisch zurück und schreibt etwas auf ein Rezeptblatt)* Das ist die richtige Einstellung, Herr Marx. Hier ist eine Anweisung für den Aderlass – kommen Sie nächste Woche wieder. *(reicht ihm das Blatt)* Und denken Sie daran: Ruhe. Echte Ruhe. Ihre Gedanken mögen wandern, aber Ihr Körper muss still liegen. Ich wünsche Ihnen gute Besserung."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(nimmt das Blatt und betrachtet es kurze Zeit, bevor er es einsteckt*) Vielen Dank, Doktor. Ich schätze Ihre Professionalität und Ihre Fürsorge. (*(steht auf und zieht die Jacke an)* Es wird nicht leicht sein, die和建议 zu befolgen, aber ich werde mein Bestes tun. (*(geht zum Türgriff, dreht sich um und nickt*) Möglicherweise werde ich Ihnen bald mit einem aktualisierten Gesundheitszustand zurückkehren. Vielen Dank für Ihre Hilfe. (*(geht langsam aus dem Büro)* bis nächste Woche, Doktor.)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nickt zurück, bleibt hinter dem Schreibtisch stehen)* Bis nächste Woche, Herr Marx. Und grüßen Sie Ihre Frau Jenny von mir. Sie hat gute Arbeit geleistet, Sie hierher zu bringen."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(verbeugt sich leicht, ohne sich umzudrehen)* Sicherlich, Doktor. Ich werde Jenny von Ihrem Gruß erzählen. (*(geht aus dem Raum)* Es ist gut zu wissen, dass es Menschen gibt, die sich um das Wohlergehen anderer kümmern. (*(schließt die Tür hinter sich)* Vielen Dank noch einmal für Ihre Fürsorge. bis zu unserer nächsten Konsultation.)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(setzt sich an den Schreibtisch und notiert etwas in der Patientenakte, spricht leise vor sich hin)* Ein schwieriger Patient, aber ein intelligenter. Hoffentlich hält er sich an die Ruhe. Die Leberentzündung ist besorgniserregend... *(schüttelt den Kopf und schließt die Akte)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(außerhalb des Büros, leise)* Es wird nicht einfach sein, Doktor. Aber ich werde es versuchen. (*(geht langsam den Flur entlang)* Es ist Zeit für eine Pause, wie Jenny gesagt hat. Vielleicht finde ich in dieser Zeit neue Perspektiven für meine Arbeit. (*(verlangsamte den Schritt*) Möglicherweise sogar eine neue Art, die Welt zu sehen.)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(hört die leisen Worte durch die Tür, seufzt und murmelt)* Gott gebe, dass er Ruhe findet. Der Mann arbeitet sich zu Tode."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(ohne das Gespräch gehört zu haben, weiter leise)* neue Perspektiven... neue Ideen... eine neue Art, die Welt zu sehen... (*(plötzlich innelegend)* Warum nicht? Warum nicht in dieser stillen Zeit? (*(setzt seinen Gang fort, aber mit einer leichten, fast unmerklichen Bewegeung der Lippen)* neue... Perspektiven... neue... Ideen...)"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(schüttelt den Kopf, während er die medizinischen Instrumente säubert)* Er denkt schon wieder. Dieser Mann kann nicht aufhören zu denken. *(spricht lauter, als ob er hofft, Marx könnte es noch hören)* Ruhe, Herr Marx! Denken Sie an Ihre Gesundheit!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(ohne die Worte gehört zu haben, weiter leise)* neue... Welt... neue... Art... zu... sehen... (*(plötzlich innelegend)* neue... Welt... neue... Art... zu... sehen... neue... Welt... neue... Art... zu... sehen...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的世界...新的方式...看...新的 Welt... neue... Ansichten... nueva...Perspectivas... nouveau...Points... de vue... nuovi... Punti... di vista... nouveaux... points... de vue... новыe... Взгляды... новыe... Взгляды... новыe... Взгляды... новыe... Взгляды... новыe... Взгляды... новыe... Взгляды... новыe... Взгляды... новыe... Взгляды... новыe... Взгляды... новыe... Взгляды... новы"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(öffnet die Tür und ruft dem entfernenden Marx nach)* Herr Marx! Sie müssen sich ausruhen! Nicht denken! *(schüttelt den Kopf und schließt die Tür)* Armer Mann. Er wird sich zu Tode denken."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(ohne die Worte gehört zu haben, weiter leise)* novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti... de... vis... novi... puncti"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 5, \"behavioral_evidence\": \"Repeatedly murmurs 'new perspectives... new ideas... a new way to see the world' in multiple languages, showing intense intellectual curiosity and abstract thinking.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Acknowledges his poor health is due to overwork and neglect, stating 'It is clear that I can no longer neglect my health.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Engages politely but briefly with the doctor; his primary focus is internal, shown by his final soliloquy of repetitive, abstract thoughts.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Accepts the doctor's recommendations despite reservations, thanks him repeatedly, and agrees to convey greetings to his wife Jenny.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Expresses worry about 'three months without productive work' being 'a torturous thought,' showing anxiety over forced inactivity.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "Repeatedly murmurs 'new perspectives... new ideas... a new way to see the world' in multiple languages, showing intense intellectual curiosity and abstract thinking."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Acknowledges his poor health is due to overwork and neglect, stating 'It is clear that I can no longer neglect my health.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Engages politely but briefly with the doctor; his primary focus is internal, shown by his final soliloquy of repetitive, abstract thoughts."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Accepts the doctor's recommendations despite reservations, thanks him repeatedly, and agrees to convey greetings to his wife Jenny."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Expresses worry about 'three months without productive work' being 'a torturous thought,' showing anxiety over forced inactivity."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 3,
+    "Agreeableness": 3,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.6585,
+    "Conscientiousness": 0.6757,
+    "Extraversion": 0.3846,
+    "Agreeableness": 0.4146,
+    "Neuroticism": 0.5789
+  },
+  "mae": 0.8
+}

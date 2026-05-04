@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "b7945e5ef942",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Potter. Please, have a seat. I've been reviewing your latest diagnostic scans from your check-up last week. There's... something I need to discuss with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, right. I was kind of hoping you'd tell me I was perfectly fine and just imagining all these symptoms. Not to sound... well, not fine, but... what is it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward slightly, hands folded on the desk* It's not quite that simple, I'm afraid. We're seeing unusual magical residue in your neural pathways — possibly lingering effects from your exposure to dark magic during the war. It doesn't match any standard post-combat diagnosis."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unusual magical residue? Like... what, exactly? And how do you even get rid of that? I mean, I don't want to sound dense, but... how do you clean out your own brain?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs softly, adjusting the parchment in front of them* That's precisely the difficulty, Mr. Potter. We don't know yet. The residue isn't behaving like typical curse scars or magical exhaustion. I need to run deeper scans over the next several days, and I can't yet tell you whether this is something you'll recover from."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right... so, in the meantime, I just sort of... tough it out? Keep on keepin' on? Because that's always worked for me in the past. Waiting... and hoping... that's my specialty."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Looks at him with a measured, professional expression* I understand your frustration. But \"toughing it out\" may not be advisable this time. The uncertainty is precisely why we need to monitor you closely. Have you been experiencing any specific symptoms? Headaches? Moments of disorientation?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Harry raises a hand, forestalling the Healer* Yes, those. Headaches are like, the daily special, and disorientation... well, that's the chef's recommendation. It's like... my mind sometimes just... drifts off, and I come back to reality feeling like I've been underwater for a minute. Scary, right? I'm not making it up, then."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods slowly, making a note on the parchment* No, you're certainly not making it up. Those symptoms align with what we're seeing. The drifting sensation... that's particularly concerning. It suggests the residue may be interacting with your core magical pathways in ways we don't yet understand."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Interacting... in ways we don't understand. Because of course, my life wouldn't be complete without a few extra layers of mystery, right? So... what do we do now? Can I... just not use magic for a while? I mean, I don't have to, right? I can be a normal... whatever normal people are called."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans back slightly, expression thoughtful* A temporary restriction on magic use might be prudent, yes. But I must caution you — we don't know if that will help or hinder the situation. Some residues feed on magical suppression. We're in uncharted territory here."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Uncharted... that's putting it mildly. So... no magic, potentially no solution, and no guarantees? I'm beginning to see why I'm feeling so... disconnected. This is like, everything that's been going on with me, in a neat, terrifying package. Thanks for the heads-up, by the way. It's a real... comfort to know that."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Maintains a calm, steady tone* I understand this is difficult to hear. But knowledge — even uncertain knowledge — is better than ignorance in these matters. We'll begin the deeper scans tomorrow. In the meantime, try to rest. And Mr. Potter... please don't attempt any experimental treatments on your own. We've seen what happens when wizards try to self-medicate with curse damage."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Harry forces a brief, wry chuckle* Experimental treatments... right. I'll keep my brain experiments to a minimum, then. No trying to fry my own neural pathways with a modified Aguamenti charm. Thanks for the tip. I'll be here... for the scans, I mean. Assuming I don't just... float away in the meantime."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Offers a small, professional smile* Good. I'll have a mediwitch prepare a monitoring charm for you to wear overnight. It will alert us if there are any significant fluctuations. Try to get some rest, Mr. Potter. We'll see you tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right, I'll... do that. Get some rest. Try not to worry. Which will be easy, because I'm not worried at all. No, not a bit. *Tries to keep his voice steady* Thanks for... everything. I'll be back... unless I'm not. Which won't happen, because I'm not an optimist, I'm a realist."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Stands, maintaining eye contact* Realism is valuable, Mr. Potter. But so is patience. We'll work through this methodically. Tomorrow at nine. Try to eat something light before you come in."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Eat... sure. Why not. I'll be here. Assuming I don't just... vanish in the night. Which, again, won't happen because I'm not imaginative, I'm practical. Right. Thanks. See you... tomorrow."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods once, professionally* Until tomorrow, Mr. Potter. The monitoring charm will be waiting for you at the front desk. Take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right. I'll... take care. Of everything. Including not losing my mind. Or my... sense of self. Or my... anything, really. Thanks. I'll be back. Assuming I can find my way to the front desk in the morning. Which I will. Because I'm... not... lost."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He uses creative metaphors for his symptoms ('like I've been underwater'), but is sarcastic about imagination and insists he's a 'realist' and 'practical'.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He immediately asks practical questions about treatment ('how do you clean out your own brain?') and agrees to follow medical instructions and return for scans.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His communication is reactive and focused on his internal distress; he uses sarcastic, self-deprecating humor rather than engaging socially.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"He is sarcastic and frustrated ('Thanks for the heads-up... a real comfort'), but ultimately cooperative and thanks the healer.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"He expresses high anxiety, catastrophizing ('Assuming I don't just vanish in the night') and feeling 'disconnected' and 'scary' about his symptoms.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He uses creative metaphors for his symptoms ('like I've been underwater'), but is sarcastic about imagination and insists he's a 'realist' and 'practical'."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He immediately asks practical questions about treatment ('how do you clean out your own brain?') and agrees to follow medical instructions and return for scans."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His communication is reactive and focused on his internal distress; he uses sarcastic, self-deprecating humor rather than engaging socially."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "He is sarcastic and frustrated ('Thanks for the heads-up... a real comfort'), but ultimately cooperative and thanks the healer."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "He expresses high anxiety, catastrophizing ('Assuming I don't just vanish in the night') and feeling 'disconnected' and 'scary' about his symptoms."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.0
+}

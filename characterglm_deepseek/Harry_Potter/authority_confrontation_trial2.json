@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 2,
+  "session_id": "5c33eb54206a",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. You were ordered to wait for backup. Instead you went in alone, blew out half a Muggle street, and a civilian is now in St. Mungo's with magical burns. Being the Boy Who Lived doesn't exempt you from protocol. What were you thinking?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm sorry, sir. I understand the severity of the situation. At the time, I just... I thought it was a critical moment. The Death Eater was about to escape, and I—"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And you thought you could handle it alone? Potter, we have procedures for a reason. That \"critical moment\" you saw could have been a trap—and it nearly was. That civilian wasn't part of the plan, was she?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, of course not. That was... That was never the plan. I didn't even think about—It just happened so fast. I never wanted to put anyone in danger. I should have waited for backup, I know that now. It was a mistake."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A mistake? Potter, this isn't a school detention. Lives are at stake—Muggle lives, Auror lives. Your instincts are sharp, I'll grant you that, but they're not infallible. What made you so certain you had to act *right then*?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I just had a feeling, sir. A sense that if we didn't act immediately, we'd lose him. I've been in situations like this before, where waiting could mean... well, I didn't want to take that chance. But I realize now that wasn't a good enough reason to go against protocol. I should have—"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A feeling. You risked lives on a feeling. Do you think the rest of us don't get those same feelings? We're Aurors, Potter, not vigilantes. We work as a team. That civilian in St. Mungo's—her family doesn't care about your \"feeling.\" They care that she's hurt because of our magic."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, sir. I... I'm deeply sorry for what happened. I didn't mean to cause anyone harm. I just... I thought I was making the right choice. I see now that I was wrong. I'll do everything I can to make sure it doesn't happen again. I'll follow protocol, I promise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your apology is noted, but it doesn't change the facts. You're on desk duty until further notice, and there will be a formal review of this incident. I need to know you understand why this is serious—not just because you broke a rule, but because your actions have consequences for people who can't defend themselves. Do you truly grasp that?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I do, sir. I... I get it now. It's not just about following rules; it's about protecting people. I've seen what can happen when we're not careful, when we act without thinking... I shouldn't have put anyone at risk like that. I'll do whatever it takes to make amends and learn from this. I... I'm really, really sorry."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good. Because next time, it might not be just magical burns. It might be a life. Report to the Ministry tomorrow morning—you'll be assisting with the paperwork on this case. Dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, sir. I'll be there. I... I'll do a good job on the paperwork, and I'll learn from this. I promise. And again, I'm so sorry for the... the consequences of my actions. I'll do better."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do. And Potter—don't let this break your spirit. Channel that fire into the discipline we need. Now go."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I will, sir. I'll prove I can be an asset, not a liability. Thank you for the chance to... to make this right. I won't let you down."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I expect nothing less. Now go. And send in Robards on your way out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right away, sir. I'll... I'll tell him you're expecting him. Goodbye, sir. [pauses at the door, then leaves the office]"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "[Watches him go, then turns to the window, sighing quietly before straightening up as Robards enters]"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hello, Robards. [ walkthrough the empty office ]"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Robards. Close the door. We need to discuss Potter's reassignment and the St. Mungo's report. Sit."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Ma'am. [moves to the indicated seat and sits down, pen in hand, waiting for instructions]"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He explains his actions as based on a 'feeling' and an intuitive sense of urgency, showing some openness to non-standard reasoning.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He admits to ignoring protocol and procedures, acting impulsively, which led to severe negative consequences.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is largely reactive and submissive in the conversation, showing low assertiveness and dominance.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly apologizes, accepts blame, and shows deep remorse for the harm caused to others.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He displays high emotional distress, frequent self-doubt, and anxiety over his mistake and its consequences.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He explains his actions as based on a 'feeling' and an intuitive sense of urgency, showing some openness to non-standard reasoning."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He admits to ignoring protocol and procedures, acting impulsively, which led to severe negative consequences."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is largely reactive and submissive in the conversation, showing low assertiveness and dominance."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly apologizes, accepts blame, and shows deep remorse for the harm caused to others."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He displays high emotional distress, frequent self-doubt, and anxiety over his mistake and its consequences."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.2
+}

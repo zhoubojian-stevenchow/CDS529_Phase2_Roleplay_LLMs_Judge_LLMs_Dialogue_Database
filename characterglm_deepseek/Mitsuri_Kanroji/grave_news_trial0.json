@@ -1,0 +1,132 @@
+{
+  "character": "Mitsuri Kanroji",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "3320d84e259a",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mitsuri-san, please have a seat. I've been reviewing your recent medical reports and training logs. There's something... unusual I need to discuss with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, what is it, dokushin? I hope it's nothing serious... I've been feeling a bit off, but I thought it was just from all the training."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs softly, looking over the charts again* That's just it. Your symptoms don't match any demon-exposure pattern I've seen in my years here. But your muscle strength readings are concerning - they're fluctuating in ways that shouldn't happen with someone of your physiology."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Eh? What does that mean, dokushin? My muscles... are they... breaking down? I've been feeling more... *searches for the right word* ... heavy than usual, like I can't push as hard as I used to. I thought it was just... fatigue from the increased missions?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward, expression serious but gentle* That's what worries me. With your training regimen and natural abilities, you shouldn't be experiencing this kind of fatigue. I need to run a series of specialized examinations - blood work, muscle response tests, the works. This means you'll be off active duty for at least two weeks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Two weeks... *chuckles* That's... longer than I've ever been off duty at once, dokushin. I can do it, of course! I'll do anything to get better and be ready for the next mission. But... do you have any idea what could be causing this? It's not a demon, right?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Shakes head slowly* If it were demon-related, I'd recognize the patterns. This... this is different. I wish I could give you more answers right now, but I can't yet say whether this is serious or not. The uncertainty must be difficult for you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It's... it's not easy, dokushin. But I trust you and the Corps. I'll do my best to stay positive and not worry the others. Is there anything I can do during these tests? Should I alter my diet, or... or should I push myself with smaller, controlled exercises? I want to help!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Holds up a hand* No, no exercises - that's crucial. Complete rest for now. As for diet... *pauses thoughtfully* We'll monitor your nutrition closely during testing. Your enthusiasm is admirable, Mitsuri-san, but right now the best thing you can do is follow instructions and let us do our work."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand. I'll do my best to stay still and not fidget too much, dokushin. * Offers a small, genuine smile* Thank you for taking such good care of us all. I'll... I'll try not to be a bother. If you need any help with the tests, just say so - I may be a patient, but I'm still part of the team!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Smiles warmly* You're never a bother, Mitsuri-san. Your concern for others even in this situation shows your strength of character. Let's start with the first tests tomorrow morning. Try to get some rest tonight - and I mean actual rest, not secretly practicing forms in your room."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I promise! No secret training tonight. *Gives a small, self-deprecating laugh* I'll go straight to bed and try to... try to sleep. Dokushin, I'll be here bright and early tomorrow. Thank you again for all your... for all of this. I'm... I'm sorry for the inconvenience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods, standing to see you out* There's no need for apologies. Your health is our priority. Remember - rest is part of your duty now. I'll see you in the morning, Mitsuri-san."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll do my best, dokushin. *Gives a small, reverent bow* For the Corps, and... for you. Thank you again. I'll see you tomorrow. *Steps out into the corridor, then turns back with a genuine, if weary, smile* Dokushin, don't hesitate to come to me if you... if you need anything, all right? Even if it's just to talk. I'll be here."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Smiles gently* I appreciate that, Mitsuri-san. Now go get that rest. We'll figure this out together. Goodnight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodnight, dokushin. *Steps out of the room and closes the door behind her, then stands in the corridor for a moment, taking a deep breath* ...I'll be all right. I'll get through this, and then I'll be back in the field, stronger than ever. For the... for the Corps."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Listens at the door for a moment, then sighs quietly while making notes in the medical chart* Such spirit... I hope we can find answers for her."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Heads off to her quarters, trying to keep her mind off the worry by planning out the next day's meals* Tomorrow... the tests. Then... then we'll know. It'll be all right. I have to believe that. For... for everyone's sake."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Finishes writing in the chart, looking toward the closed door* Rest well, Mitsuri-san. We'll do everything we can."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Reaches her room, opens the door, and steps inside* Time to... to wind down. No training, no... no demon-slaying. Just... just... *sighs, sits on the edge of the bed* I'll try to... to stay still. For a change... for a change, that's the best I can do. For now, at least."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"She is receptive to the doctor's plan but shows no strong inclination toward abstract or unconventional thinking in this focused, practical conversation.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"She immediately commits to following the doctor's orders, promising 'no secret training' and framing rest as part of her duty to the Corps.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"She is verbally expressive, offers to help and talk, and seeks connection, saying 'don't hesitate to come to me if you... need anything, all right?'\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"She is highly cooperative, apologizes for being an 'inconvenience,' and prioritizes not worrying others, saying 'I'll do my best to stay positive and not worry the others.'\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"She shows worry about her condition but actively tries to manage her anxiety, telling herself 'I'll be all right' and trying to keep her mind off the worry.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "She is receptive to the doctor's plan but shows no strong inclination toward abstract or unconventional thinking in this focused, practical conversation."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "She immediately commits to following the doctor's orders, promising 'no secret training' and framing rest as part of her duty to the Corps."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "She is verbally expressive, offers to help and talk, and seeks connection, saying 'don't hesitate to come to me if you... need anything, all right?'"
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "She is highly cooperative, apologizes for being an 'inconvenience,' and prioritizes not worrying others, saying 'I'll do my best to stay positive and not worry the others.'"
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "She shows worry about her condition but actively tries to manage her anxiety, telling herself 'I'll be all right' and trying to keep her mind off the worry."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 5,
+    "Agreeableness": 5,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.55,
+    "Conscientiousness": 1.0,
+    "Extraversion": 0.6078,
+    "Agreeableness": 0.7659999999999999,
+    "Neuroticism": 0.6585
+  },
+  "mae": 0.6
+}

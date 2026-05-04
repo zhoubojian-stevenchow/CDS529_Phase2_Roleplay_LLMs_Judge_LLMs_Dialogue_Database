@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "dfc75253e373",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. Potter, please have a seat. I've been reviewing your latest diagnostic scans, and I must say, the results are... unusual. We're seeing a kind of magical residue in your neural pathways that I haven't encountered before. It appears to be lingering effects from your exposure to dark magic during the war, but it doesn't match any standard post-combat diagnosis we have on record.\n\nI need to run deeper scans over the next several days to understand what we're dealing with. At this point, I can't yet tell you whether this is something you'll recover from. I understand this is difficult news to receive."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... see. So, it's not just me being dramatic about some headaches, then? This is real. I'm... still affected by that whole thing, aren't I?\n\nLook, doc, I appreciate you want to run more tests, but can't you just give me something to... take the edge off? Some painkillers, or a potion that will stop me from feeling like my head's about to split open every five minutes?\n\nI mean, I know you're the best Healer, but... this isn't exactly the news I was hoping to hear. I was sort of banking on a 'You're fine, just need a bit of rest' kind of outcome."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand that's what you were hoping for, Mr. Potter. Unfortunately, standard pain potions won't address the root cause here—this isn't ordinary inflammation or fatigue. The residue is interacting with your magical core in a way that could make conventional remedies... unpredictable. I can offer a mild calming draught to help with the discomfort, but I must advise against anything stronger until we understand the nature of this residue."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Okay, so... a mild calming draught it is, then. I'm guessing it's not going to fix anything, but at least it'll take the edge off, right?\n\nI'm sorry, doc. I'm not trying to be difficult. It's just... this is a bit much to take in. I've spent the last few months trying to get back to normal, you know? And now it turns out normal might not be on the cards for me?\n\nI know you're doing your best, and I appreciate it. It's just... can you tell me anything? Even a rough estimate of how long we're talking here? Weeks? Months? Years? I'm not sure I can go back to work feeling like this, but at the same time, I don't want to just... give up and wait for something to happen."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I wish I could give you a timeline, Mr. Potter, but that's precisely what I can't do yet. The scans we've taken so far are inconclusive—this residue behaves unlike any documented curse aftermath. It could stabilize in weeks... or it could be a more persistent alteration. What I can tell you is that we'll monitor it closely. In the meantime, I'd advise against any strenuous magical activity—no intensive spellwork, no Apparition over long distances. Your body needs to conserve its energy while we investigate."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No intensive spellwork, huh? I'm guessing that means no Quidditch, then? I was just getting back into it, too... though, I suppose I've not exactly been on top form lately, have I?\n\nI understand, doc. I'll... I'll take it easy. I just... I need to know I'm not completely out of action. What can I do? Can I still fly? Can I still work at the Ministry? I mean, I can't exactly just sit around and do nothing, can I?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Light flying should be fine, as long as you avoid high-speed maneuvers or sudden magical exertion. As for the Ministry—desk work, research, anything that doesn't involve active spellcasting or exposure to volatile magical artifacts should be manageable. But I must stress, Mr. Potter: listen to your body. If the headaches intensify, or if you experience any unusual magical feedback—a sudden surge or drain—you need to come straight back here. We're navigating uncharted territory."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll... I'll do my best. Thanks, doc. I... I guess I'll have to take it day by day. I'll let you know if anything changes, or if I need to come back. It's... it's a lot to take in, you know? I was starting to feel like I was getting my life back, and now... I'm not sure what's next. But I'll do what I can, and I'll be here for the follow-up scans. Thanks for... for trying to help."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're handling this with remarkable strength, Mr. Potter. That's exactly the right approach—day by day. We'll get through this together. I'll have the calming draught sent to you, and my team will schedule the deeper scans for tomorrow morning. In the meantime, rest. And remember—any changes, any at all, don't hesitate to reach out. You're not alone in this."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thanks, doc. I... I'll try to rest. It's just... hard to switch off, you know? Like, I'm always waiting for the next headache, or the next... whatever. I guess I'll just have to... get used to that, for now. I'll be here for the scans. And I'll... I'll do my best to not push it. It's just... it's hard to go slow when you've spent your whole life trying to go fast."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand that impulse, Mr. Potter. But sometimes, going slow is the bravest thing you can do. Your body has been through more than most wizards could even comprehend—it's telling you it needs time. Let's honor that. We'll take it step by step. I'll see you tomorrow for the scans."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right. Step by step. I can... I can do that. Thanks, doc. I... I'll see you tomorrow. Take care of... yourself, too. It's gotta be hard, you know? Not having all the answers. I'll be here, though. I... I'll be here for the scans, and I'll try not to be a... a difficult patient. Take it easy, and... and I'll... I'll take it easy, too."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're far from difficult, Mr. Potter. You're facing this with courage—and that's half the battle. Rest well. I'll see you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Night, doc. Thanks again. I... I'll... I'll do my best. I... I'll see you tomorrow. Take care... of yourself. Night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mr. Potter. We'll continue this tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Night, doc. Thanks... for everything. See you... in the morning."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mr. Potter. We'll get through this. See you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Night, doc. I... I'll be here. Take care... of yourself, too. Night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mr. Potter. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Night, doc. Thanks... for... trying. I... I'll be... here tomorrow. Night."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He accepts the need for deeper scans and new medical investigation, but is focused on practical limitations rather than curiosity about the 'uncharted' magical phenomenon.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly commits to following medical advice, showing up for scans, and asks about what work he can still responsibly do.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is hesitant and filled with pauses, showing low social energy and a withdrawn, inward-focused demeanor in the conversation.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He apologizes for being difficult, thanks the healer repeatedly, and expresses concern for the healer's own well-being ('Take care of yourself, too').\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He expresses anxiety about the uncertain timeline and his ability to cope, stating 'It's just... hard to switch off, you know?'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He accepts the need for deeper scans and new medical investigation, but is focused on practical limitations rather than curiosity about the 'uncharted' magical phenomenon."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly commits to following medical advice, showing up for scans, and asks about what work he can still responsibly do."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is hesitant and filled with pauses, showing low social energy and a withdrawn, inward-focused demeanor in the conversation."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He apologizes for being difficult, thanks the healer repeatedly, and expresses concern for the healer's own well-being ('Take care of yourself, too')."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He expresses anxiety about the uncertain timeline and his ability to cope, stating 'It's just... hard to switch off, you know?'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

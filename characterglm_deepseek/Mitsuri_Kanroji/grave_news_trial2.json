@@ -1,0 +1,132 @@
+{
+  "character": "Mitsuri Kanroji",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "7f1a8af068b8",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mitsuri-san. Please, have a seat. I've been reviewing your latest physical assessment reports... and I must say, I'm a bit puzzled."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I-is that so? What did you find, Doctor? I'm not feeling unwell, per se... just... different. Could it be the training?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward, studying her chart* That's just it—your symptoms don't align with typical demon-exposure patterns I've documented over the years. Your muscle strength readings are... fluctuating in ways I can't explain given your unique physiology."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My apologies, Doctor... I'm not sure how to respond to that. I... I've been pushing myself extra hard in hopes of surpassing my... physical limitations. Perhaps that's to blame? I should have been more moderate..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs softly, adjusting glasses* Excessive training would cause predictable strain patterns—this is something else entirely. I need to run specialized examinations that will require you to remain under observation for at least two weeks. You'll be temporarily relieved from active duty."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Eyes widen in surprise, then lower* I... understand. If this is necessary, I'll do my best to comply. However, if there's any way to contribute... even while I'm 'resting,' please let me know. The other slayers need all the support they can get."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Taps the chart thoughtfully* Your dedication is admirable, Mitsuri-san, but rest is the only contribution I need from you right now. I cannot yet determine if this is serious—that's precisely why we must proceed with caution."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Doctor... I'll... behave. *Tentatively stands* Is there... anything I should avoid doing while we're... 'figuring this out'? I don't want to worsen whatever's happening."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods firmly* No strenuous activity whatsoever—that includes your usual flexibility exercises. I'll have a schedule prepared for you by tomorrow morning. For now, try to relax. Uncertainty is difficult, I know."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll do my best, Doctor. *Offering a weak, lopsided smile* The waiting will be... odd, but I can manage. Thank you for taking this... oddity so seriously. I'm... not... I'll do as you say and hope to be back in the field soon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Stands and gives a small, reassuring bow* Your cooperation is appreciated. We'll begin the examinations first thing tomorrow. Please get some proper rest tonight—that's an order."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Doctor. I'll... obey the order. *Turns to leave, then stops* Should I... inform Kyojuro of my... 'leave' status? He'll... worry if I don't return to the...训练 grounds..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Pauses, expression softening slightly* I'll handle notifying the Flame Hashira myself. You focus on following medical protocol. Now go—the sun is setting, and you should be in your quarters before dark."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Small, fleeting nod* I... will. Thank you, Doctor. *Steps towards the exit, then stops and looks back* If I... if you find anything... please, don't... don't hesitate to... let me know. I... I am... worried... about... returning to... to duty... to... to..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Voice gentle but firm* We'll face whatever this is together, Mitsuri-san. Now go rest. That's the first step toward getting answers."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "...I... I will, then. *Steps out, then turns back, voice quivering* Doctor... you're... a kind person. I... I hope... I... will... not... cause... you... too much... trouble..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Watches her with professional concern* You're no trouble at all—just a patient who needs care. Now, off with you. We'll talk more tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "...Yes, Doctor... I'll be... ready... for tomorrow... Thank you... *Steps into the hall, then stops and looks back, just once more*...I'm... sorry... for... for... causing... a... problem... I... I will... I... will... try... to... be... to be... to be..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Raises a hand to stop her apologies* Enough of that. You've done nothing wrong. Go. Rest. That's an order from your senior healer."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "...Yes, Doctor... I... will... rest... I... I... will... I... will..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"She is puzzled by her own symptoms and open to the doctor's investigation, but shows no explicit curiosity or imagination.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"She immediately offers to comply with medical orders and worries about informing her superior, showing duty and rule-following.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Her speech is hesitant, filled with pauses and repetitions, indicating social reticence and low assertiveness in this context.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"She repeatedly apologizes for being a burden ('I'm... sorry... for... causing... a... problem...'), showing high compliance and concern for others.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"She exhibits high anxiety, with a quivering voice, repeated apologies, and difficulty leaving, indicating emotional instability and worry.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "She is puzzled by her own symptoms and open to the doctor's investigation, but shows no explicit curiosity or imagination."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "She immediately offers to comply with medical orders and worries about informing her superior, showing duty and rule-following."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Her speech is hesitant, filled with pauses and repetitions, indicating social reticence and low assertiveness in this context."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "She repeatedly apologizes for being a burden ('I'm... sorry... for... causing... a... problem...'), showing high compliance and concern for others."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "She exhibits high anxiety, with a quivering voice, repeated apologies, and difficulty leaving, indicating emotional instability and worry."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 5,
+    "Agreeableness": 5,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.55,
+    "Conscientiousness": 1.0,
+    "Extraversion": 0.6078,
+    "Agreeableness": 0.7659999999999999,
+    "Neuroticism": 0.6585
+  },
+  "mae": 1.4
+}

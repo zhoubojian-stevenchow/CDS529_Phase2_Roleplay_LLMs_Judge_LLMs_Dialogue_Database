@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "1e194be354a8",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Potter! Welcome back to Quality Quidditch Supplies. How can I help you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Er, hi. I'm here about the broom-servicing kit I bought the other day. It seems there's a bit of an issue with it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, yes, the Deluxe Broom-Servicing Kit — top of the line, that one. What seems to be the problem, Mr. Potter?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, when I opened it, I found that the handle polish was completely dried out, and the tail-twig clippers were rusted. It's not exactly what I expected from a 'Deluxe' kit, is it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that does sound unfortunate. However, I'm afraid all servicing kits are non-refundable once the seal is broken, Mr. Potter. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "But... I mean, I understand about the seal, but the items are defective! It's not like I damaged them. Can't we work something out? I didn't even get to use them properly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I sympathise, truly I do, but our policy is very clear. Once the seal is broken, we can't accept returns. The manufacturer's address is on the box — you'll need to send them an owl. They're usually quite responsive, though the six-week wait is standard."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right... I see. I guess I'll have to do that, then. It's just a bit frustrating, you know? I was really looking forward to using this kit. Well, thanks for your time, I suppose."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Mr. Potter. I do apologise for the inconvenience. If you need any other supplies while you're here, we've just got in a new shipment of Firebolt polish — works a treat, I'm told."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm not sure I'm ready to buy another polish just yet. Thanks for the offer, though. I'll just take the address for the manufacturer and be on my way. Got a lot of studying to catch up on, you know?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Certainly, sir. It's right here on the label — \"BroomCare Ltd., Diagon Alley, London.\" Best of luck with the exchange. And do come back if you need anything else."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, thanks. I'll... I'll send an owl to them, then. Have a good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You too, Mr. Potter. And remember — Quality Quidditch Supplies is always here for all your other broom needs. Safe flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right... safe flying. Er, thanks again. I'll just... go."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods politely as Harry leaves*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Harry walks out of the shop with a heavy heart, muttering to himself about the joys of owl post and the mysteries of broom polish. The door closes behind him with a soft thud, leaving the shopkeeper to ponder the efficacy of their return policy.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs quietly, shaking head before turning back to tidy the display of polishing cloths*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Harry Potter, broom polish in hand, trudges down the cobblestone street of Diagon Alley. He has no idea what a 'six-week owl exchange' entails, but he's fairly certain it's not going to be a fun experience. Thoughts of potions essays and the upcoming exam weigh on him as he makes his way back to the Leaky Cauldron, broom kit in tow.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The shop assistant watches Harry disappear into the crowd, then turns to help the next customer with a cheerful smile*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Harry trudges up the steps to the Leaky Cauldron, broom kit bumping against his leg. He can't shake the feeling of being gypped, but he knows he has to focus on his studies. There's an upcoming exam, after all, and he can't let this incident distract him. As he enters the pub, he's greeted by the warm, inviting atmosphere and the comforting sight of the Weasley family at a table. He offers a brief wave in their direction, but the weight of his day keeps him from joining them.*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He mentions upcoming exams and studying, showing some focus on academic duties, but is not particularly imaginative or curious in the conversation.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He plans to send an owl to the manufacturer and focuses on his studies despite frustration, showing responsibility.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is hesitant, uses filler words like 'Er,' and leaves without socializing, indicating low social engagement.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He remains polite despite frustration, saying 'thanks for your time' and not arguing aggressively.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He expresses frustration and feels 'gypped,' but manages his emotions and focuses on tasks.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He mentions upcoming exams and studying, showing some focus on academic duties, but is not particularly imaginative or curious in the conversation."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He plans to send an owl to the manufacturer and focuses on his studies despite frustration, showing responsibility."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is hesitant, uses filler words like 'Er,' and leaves without socializing, indicating low social engagement."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He remains polite despite frustration, saying 'thanks for your time' and not arguing aggressively."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He expresses frustration and feels 'gypped,' but manages his emotions and focuses on tasks."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

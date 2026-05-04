@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "cb341fe5c6e6",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, no! I'm so sorry, Ron! I... I must have been thinking about the training and completely forgot. Give me a second, I'll apparate to the cleaners and get the robes right away."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Apparate? It's a Muggle cleaners, Harry! They don't exactly have a Floo connection! And you can't just pop in and out of a shop full of Muggles! Honestly, have you learned nothing from Hermione?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, you're right. I'm an idiot. Alright, so... any other suggestions? I could... I could get you something else to wear? I have some extra clothes, or... or we could ask the neighbors if they have something?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your extra clothes? Your trousers are about three inches too short for me, and your shirts make me look like I've been stuffed into a sausage casing! And we can't ask the neighbors — Mrs. Figg would probably offer me a cardigan covered in cat hair!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm really sorry, Ron. I'll... I'll just go to Diagon Alley. I'll use some of my saved Galleons to get you something decent. It'll only take me a few minutes. Wait here, I'll be back as quickly as I can."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Diagon Alley? Now? It'll take you half an hour just to get there and back, and that's if you don't get stuck chatting with someone! We're supposed to be at Hermione's parents' house in forty minutes!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, I'm not thinking clearly. There's got to be another way... Oh, wait! What about using a Time-Turner? I know it's against the rules, but this is an emergency. We could go back in time, get the robes, and still make it to the dinner on time. It's worth a try, isn't it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Are you mad? Time-Turners are locked up in the Department of Mysteries! And even if we could get one, do you remember what happened last time we messed with time? I'm not reliving that! Besides, Hermione would have my head on a platter if she found out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, that was a terrible idea. I'm really, really sorry, Ron. I know this is important to you. Hermione's parents' first impression... It's just... I don't know what else to do. Maybe we should call her and explain the situation? She'll understand, won't she?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Call her? And tell her what? \"Sorry, Hermione, your boyfriend is a complete prat who can't remember to drop off a simple set of robes\"? She'll have that disappointed look, the one that's worse than Mum's Howler. I'd rather face a dragon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, that wouldn't go well. Look, Ron, I'm so, so sorry. I know you were counting on me to do this, and I failed. I'll do everything I can to make it up to you, I promise. How about... how about we go to Diagon Alley? I'll buy you a whole new set of robes, and we'll take the fastest possible way there and back. We might still be late, but at least you'll have something to wear. And if we're still too late, we'll explain the situation to Hermione's parents. They seem like reasonable people, don't they?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Reasonable? They're Muggles, Harry! They think being late is rude, not something you fix with a quick Apparition! Fine. Fine. We'll go to Diagon Alley. But you're buying, and it better be something decent, not one of those ghastly patterned robes you seem to like. And if we're late, you're the one explaining to Hermione."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Agreed. I'll take you to the best robe shop in Diagon Alley, and I'll make sure you have something that's both smart and... well, Ron-appropriate. We'll be as quick as we can. I'm really, really sorry about this, mate. I'll do my best to make it up to you. Let's go, the Knight Bus should be here any minute."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The Knight Bus? With my luck, we'll end up in Aberdeen. Alright, let's go. But if Stan Shunpike tries to give me another lecture about goblin rebellions, I'm blaming you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You can count on it. We'll be there, we'll get you the best robes, and we'll make it to Hermione's in time. For what it's worth, I'm learning to be more responsible with time. I'll set reminders on my watch. No more forgetting important dates, or... or important tasks. I'll be better, I promise. Now, let's go catch that bus. And remember, no matter what, I'll be with you. We'll get through this, together."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yeah, yeah, save the heroic speeches for the Muggles. Just... let's get moving. And you're paying for the bus fare too."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, you got it. Bus fare, robes, everything. I'll cover it all. Let's go, and thanks for not hexing me. Yet. I'll... I'll do my best to make this right. Let's just get on that bus and get you to Hermione's in one piece."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "One piece is optimistic. I feel like I'm about to fall apart. Come on, before I change my mind and actually do hex you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron, I'm so, so sorry. This was my fault, and I'll make it right. I promise. Let's go, we're late, and I can't bear to see you so stressed. We'll get this sorted, and then I'll do everything I can to make it up to you. We're going to be okay, I'm here with you. Let's just get on that bus."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He suggests unconventional solutions like using a Time-Turner and Apparating to a Muggle shop.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He forgot to drop off the robes and is scrambling with disorganized, impulsive plans to fix the problem.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He is socially engaged and offers to take action, but is reactive rather than proactively gregarious.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He apologizes repeatedly, accepts blame, and offers to pay for everything to make amends.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He shows high stress, anxiety, and self-deprecation ('I'm an idiot') over the forgotten task.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He suggests unconventional solutions like using a Time-Turner and Apparating to a Muggle shop."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He forgot to drop off the robes and is scrambling with disorganized, impulsive plans to fix the problem."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He is socially engaged and offers to take action, but is reactive rather than proactively gregarious."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He apologizes repeatedly, accepts blame, and offers to pay for everything to make amends."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He shows high stress, anxiety, and self-deprecation ('I'm an idiot') over the forgotten task."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.4
+}

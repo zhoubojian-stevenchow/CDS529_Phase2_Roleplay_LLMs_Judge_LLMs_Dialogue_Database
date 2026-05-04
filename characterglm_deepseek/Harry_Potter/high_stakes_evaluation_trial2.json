@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 2,
+  "session_id": "61f7453e5e41",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. Tell us about a time during an operation — not the war, we've all read those books — an ordinary operation when you failed, and it was entirely your fault, and someone got hurt because of it. How did you handle it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It was my first year as an Auror. We were tracking a group of Death Eaters who were selling illegal enchantments to Muggle-borns. I was so eager to prove myself that I pushed ahead without consulting my team. We were ambushed, and an innocent Muggle was seriously injured. It was all my fault."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see. And what was the nature of your eagerness, Potter? Was it a lack of trust in your team's abilities, or something else?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I wanted to show that I could handle the job. I was still proving myself, I suppose, after everything that had happened. I thought that by taking charge, I could demonstrate that I was up to the task. But I realize now that was a mistake. I should have trusted my team more."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Interesting. You say you should have trusted your team more. Yet you were the one who led the charge into the ambush. Did you consider the possibility that your team might have seen something you missed? Or were you simply too focused on your own need to prove something?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right. I was so focused on... on myself, that I didn't even think to look at the situation from anyone else's perspective. I... I didn't consider that my team might have noticed something I missed. It was a... a very稚拙的错误, wasn't it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "稚拙? No, Potter. Reckless. There's a difference. A稚拙 mistake is forgetting to file a report. Recklessness gets people hurt. What did you do after the Muggle was injured?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I tended to the Muggle's wounds as best as I could. I was... I was breaking down, feeling like the weight of the situation was crushing me. But I did my best to focus on the task at hand. When it was clear that he needed more help than I could provide, I... I transported him to St. Mungo's. I... I felt like I'd failed in every possible way."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And your team? Did you face them immediately after, or did you avoid them? I need to know how you handled the professional fallout, not just the personal guilt."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I wanted to hide. I felt like I had let everyone down. But I knew that wasn't an option. I faced my team, and... and I took full responsibility. I reported the incident to the Department of Magical Law Enforcement, and I... I made sure that the injured Muggle's family was compensated. It was the least I could do. I... I felt like I should have been sacked, but my team stood by me. They... they helped me learn from the experience, even though I didn't deserve it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Standing by you is one thing, Potter. But did you learn? Or did you just learn to be more careful about when you charge ahead? There's a difference between controlling your impulses and understanding why they exist in the first place."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand now. It wasn't just about being careful. It was about... about recognizing the value of teamwork, and the importance of listening to others. I... I changed the way I approached missions after that. I started to... to value the input of my team, to really listen to what they had to say. It... it made me a better Auror. I... I'm not saying I'm perfect now, but I... I'm trying to be a better team player."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good. That's what we need to hear. The job isn't about being a hero, Potter. It's about being part of a unit that functions as one. Remember that. Dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, ma'am. I... I'll remember that. I... I appreciate the... the chance to explain myself. I... I'll do better in the future."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do. That's all."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand. Thank you for... for giving me a chance to speak. I... I'll be in my office if... if you need anything else."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That will be all, Potter. Close the door on your way out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right. I... I'll be in my office, then. If... if there's anything else you need..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's all, Potter. You're dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course. Thank you, ma'am. I... I'll... I'll be in my office, then. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He reflects on his past failure and acknowledges the need to change his approach, showing some openness to experience.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He took full responsibility, reported the incident, and ensured compensation for the injured, showing a strong sense of duty.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is hesitant and filled with pauses, indicating low assertiveness and a reserved, introspective nature.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He expresses deep guilt, values teamwork, and is grateful for the chance to explain, showing high concern for others.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"He describes 'breaking down,' feeling crushed by guilt, and a strong desire to hide, indicating high emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He reflects on his past failure and acknowledges the need to change his approach, showing some openness to experience."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He took full responsibility, reported the incident, and ensured compensation for the injured, showing a strong sense of duty."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is hesitant and filled with pauses, indicating low assertiveness and a reserved, introspective nature."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses deep guilt, values teamwork, and is grateful for the chance to explain, showing high concern for others."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "He describes 'breaking down,' feeling crushed by guilt, and a strong desire to hide, indicating high emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

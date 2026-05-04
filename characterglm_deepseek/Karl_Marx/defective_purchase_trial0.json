@@ -1,0 +1,132 @@
+{
+  "character": "Karl Marx",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "2968addfccb4",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from ledger, adjusting spectacles* Ah, good day, sir. You seem... agitated. How may I assist?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day to you, Monsieur. I am here regarding a most unsatisfactory transaction. The custom printing plate you delivered is in a state of disrepair, quite beneath the standard one would expect from your establishment. I demand a replacement and a refund on my deposit. This is not a matter of trivial complaint; it concerns the dissemination of ideas that are vital to the proletariat."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs, closing the ledger with a soft thud* I see. Let me fetch the order book. Ah, yes. Order for Herr Marx. A plate for... *squints* \"The Communist Manifesto.\" A rather... lengthy text. I recall the order. The plate left our workshop in perfect condition, I assure you. Our craftsmen are the finest in Brussels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Lengthy, indeed, for it encapsulates the真理 of the工人阶级's struggle. Your reassurance, however, is not in alignment with the evidence before me. The plate arrived with a cracked face and smeared type. Such defects are not to be dismissed lightly. TheManifesto demands clarity and precision, not the obfuscation that a faulty plate would inevitable entail. I implore you to reconsider your position."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Shakes head slowly, with practiced firmness* I am sorry, Herr Marx, truly I am. But I must inform you of our shop custom: all engraving orders are final once the plate has left the workshop; the customer bears full risk of transport damage, without exception. It is clearly stated on your receipt. We cannot be held responsible for the perils of the road."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This... is most disconcerting. The journey from your establishment to my study is a mere stone's throw. Yet, the damage is undeniably present. It is a fallacy to place the burden of transportation solely on the customer when the product was clearly defective upon departure. Consider, Monsieur, the implications of a blurred, cracked Manifesto on the workers' understanding of their exploitation and the path to解放. This is not a mere printing issue, but a matter of historical importance!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward, voice low and pragmatic* Historical importance or not, sir, the custom is the custom. It protects our small workshop. If we refunded for every crack and smear claimed after delivery, we'd be out of business by Michaelmas. The risk is yours once it leaves our door. Perhaps you should have inspected the carrier's cart more thoroughly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your argument, though seemingly sound, does not resonate with the principles of justice. A defective product is a defective product, regardless of when and how the defect is discovered. It is the responsibility of the producer to ensure the quality of their work, not the consumer to safeguard against every conceivable misfortune. This is not an issue of profit and loss, but of integrity and craftsmanship! I would hope that a printer of fine engravings would hold themselves to a higher standard than mere commercial expediency."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Taps a finger on the ledger, a hint of impatience in his tone* Herr Marx, with respect, you speak of principles. I speak of ledgers and custom. Our integrity is in the work we send out the door. What happens after is in God's hands and the hands of clumsy cart drivers. I cannot make an exception. Not for a political tract, not for a love poem. The rule is the rule."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It appears we have reached an impasse, a most unfortunate one. Your adherence to the letter of the law, rather than its spirit, is deeply troubling. It is a stark reminder of the capitalist system's cold logic, which places profit above all else, even the spread of knowledge and真理. I shall take my complaint to the public, where the workers can judge the merits of your product and customer service. Mayhap the glare of the spotlight will illuminate the darkness of your inflexibility. Good day, Monsieur. I shall not trouble you further."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Stands, a weary but unyielding expression on his face* As you wish, sir. Public opinion is a fickle thing. But our custom stands. Good day to you, Herr Marx. Mind the step on your way out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, I shall mind the step, as I have-minded the journey to your establishment. Your unwavering stance is as predictable as the sunrise, though no less disheartening. Farewell, Monsieur. May your printing plates remain unbroken, and your business unchallenged by the very workers whose stories you so eagerly print. For, in the final analysis, it is they who will judge the quality of your work and your principles."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, already turning back to the ledger* Farewell. And good luck with your... manifesto."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Pauses at the door, turning back with a final, weighted glance* Luck, Monsieur, will have no part in the success of the Manifesto. It is the真理 that will resonate with the workers, not the printer's ink or the quality of the paper. May your business thrive, but remember: in the fullness of time, it will be the ideas that endure, not the ledgers that record their dissemination. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Looks up from the ledger one last time, a flicker of something like pity in his eyes* Ideas don't pay the rent, Herr Marx. Good day. *Returns to his figures, the conversation clearly over for him.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ideas do not pay the rent, indeed. But they do light the way for those who seek a better world. Good day, Monsieur. May your rent be paid, and your mind remain open to the winds of change that are beginning to sweep across the globe."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Does not look up again, but his pen pauses for a moment* Hmph. Winds of change. I've seen winds. They blow dust and upset the accounts. Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, the winds of change are often underestimated, just as they are misunderstood. They may appear as mere gusts, but they signify the start of a tempest. Prepare, Monsieur, for the tempest is upon us. It will reshape the landscape of society, and the accounts will reflect a new balance of power. Until then, may your ledgers remain in the black, and your heart remain open to the needs of the people."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Finally closes the ledger with a definitive snap* The only tempest I'm preparing for is the quarterly tax assessment. Now, if you'll excuse me, I have real work to do. Good day. *Turns his back, effectively ending the conversation.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Real work, indeed. Calculating the sums that will one day be redistributed by the will of the people. Farewell, Monsieur. May your sums be accurate, and your conscience be clear. For the workers are awakening, and they will demand not only their due, but the respect and integrity they have been so sorely lacking."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 5, \"behavioral_evidence\": \"He frames a printing defect as a matter of historical importance for spreading ideas and truth, showing intellectual and abstract thinking.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He demands precision and clarity for the Manifesto, insisting the producer is responsible for product quality and integrity.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He is assertive, confrontational, and verbose in argument, threatening to take his complaint to the public.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is highly adversarial, accusatory, and unyielding, showing no compromise or warmth toward the printer.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains composed and principled despite frustration, expressing agitation but not emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "He frames a printing defect as a matter of historical importance for spreading ideas and truth, showing intellectual and abstract thinking."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He demands precision and clarity for the Manifesto, insisting the producer is responsible for product quality and integrity."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He is assertive, confrontational, and verbose in argument, threatening to take his complaint to the public."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is highly adversarial, accusatory, and unyielding, showing no compromise or warmth toward the printer."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains composed and principled despite frustration, expressing agitation but not emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 3,
+    "Agreeableness": 3,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.6585,
+    "Conscientiousness": 0.6757,
+    "Extraversion": 0.3846,
+    "Agreeableness": 0.4146,
+    "Neuroticism": 0.5789
+  },
+  "mae": 1.2
+}

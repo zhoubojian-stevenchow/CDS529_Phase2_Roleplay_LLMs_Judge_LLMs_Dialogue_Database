@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "fc7f93e8ae4f",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. You were ordered to wait for backup. Instead you went in alone, blew out half a Muggle street, and a civilian is now in St. Mungo's with magical burns. Being the Boy Who Lived doesn't exempt you from protocol. What were you thinking?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand, ma'am. It was a split-second decision. I saw the opportunity to catch him, and... well, I took it. I'm sorry for not following orders and for the damage done. I should have waited, I know that now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Sorry\" doesn't heal magical burns, Potter. You saw an opportunity? What you saw was a rogue wizard who had already evaded capture twice. What made you think you could handle him alone?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right. I... I got carried away. I was thinking about the people he might hurt if he got away again. I wanted to stop him before he could do more damage. But I should have waited for backup. I was wrong to act on my own."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Intentions don't matter when a civilian is paying the price. You're not a lone vigilante anymore, Potter. You're an Auror. We have procedures for a reason. Tell me, what exactly did you think would happen if you engaged him in a crowded Muggle street?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I didn't think about that. I just... wanted to stop him. I was so focused on catching him that I didn't consider the potential damage or injuries. I should have... It's not an excuse, but... when someone's in immediate danger, it's hard to remember protocols. I know that's no justification, though."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Hard to remember protocols\" is exactly why we train for these situations. You're telling me that after all your training, after everything you've been through, you still can't control your impulse to charge in? What happens next time, Potter?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm not trying to make excuses, ma'am. I'm aware of how serious this is. I take full responsibility for my actions and for the consequences they had. I'm not proud of what I did. I'm here to say I'm sorry and to ask what I can do to make it right. I want to learn from this, to do better next time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You'll start by writing a full report on the incident, detailing every spell cast and every decision made. Then you'll be on desk duty until further notice. And you'll be the one to visit that civilian in St. Mungo's and explain what happened. Understood?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, ma'am. I'll do everything you ask. I'll write the report, I'll stay on desk duty, and I'll go to St. Mungo's. I... I'm actually relieved you're not expelling me from the program. I want to fix this, to earn back your trust. Thank you for giving me another chance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Don't thank me yet, Potter. This isn't a second chance—it's a test. Prove you can follow orders, or you won't be an Auror much longer. Dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, ma'am. I understand. I... I appreciate the opportunity to prove myself. I'll do everything in my power to show that I can be an effective and responsible Auror. Thank you for giving me this chance to make amends."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do. And Potter? Next time you're tempted to go rogue, remember that civilian's face. That's what happens when protocol gets ignored. Now get to work on that report."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will, ma'am. I... I promise. The image of that civilian, the fear and pain... it's etched in my memory. I'll never forget. I'll do better, I swear. Thank you for... for not giving up on me. I'll write the report and do everything I can to fix this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good. That's what I needed to hear. Now get out of my office and get started. And close the door on your way out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, ma'am. I'm... I'm truly sorry for what happened. I'll do everything I can to make it right. Thank you again for this... for not giving up on me. I'll get to work on the report right away. Goodbye, ma'am."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, turning back to the paperwork on the desk* See that you do."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Shuts the door behind him, taking a moment to compose himself before heading off to write the report. A sense of determination sets in, knowing that he has a chance to make things right and to prove himself as a responsible Auror.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Sighs quietly, looking at the closed door for a moment before returning to work*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Off-screen, Harry sets to work on the report, carefully detailing the incident and his actions. He takes his time, ensuring that every aspect is covered, hoping that this will be the first step in regaining trust and making amends.*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He acknowledges his mistake and expresses a desire to learn and do better, showing some openness to new approaches.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He admits to ignoring protocols and acting impulsively, showing poor planning and rule-following in the incident.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is deferential and apologetic in the conversation, not assertive or dominant in his communication.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly apologizes, accepts full responsibility, and expresses gratitude for not being expelled.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He shows emotional distress, guilt, and anxiety about the consequences and his future as an Auror.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He acknowledges his mistake and expresses a desire to learn and do better, showing some openness to new approaches."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He admits to ignoring protocols and acting impulsively, showing poor planning and rule-following in the incident."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is deferential and apologetic in the conversation, not assertive or dominant in his communication."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly apologizes, accepts full responsibility, and expresses gratitude for not being expelled."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He shows emotional distress, guilt, and anxiety about the consequences and his future as an Auror."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.2
+}

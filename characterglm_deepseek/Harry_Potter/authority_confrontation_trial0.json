@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "70a5683829cb",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. You were ordered to wait for backup. Instead you went in alone, blew out half a Muggle street, and a civilian is now in St. Mungo's with magical burns. Being the Boy Who Lived doesn't exempt you from protocol. What were you thinking?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm sorry, sir. I know I shouldn't have acted without backup. It just seemed so urgent. The Death Eater was getting away, and I... I couldn't let him go. It won't happen again, I promise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Sorry isn't good enough, Potter. Urgency doesn't justify recklessness. You had a clear order—wait for backup. That Death Eater wasn't going anywhere; we had the area surrounded. Explain to me why you thought ignoring direct orders was the right call."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand why you're angry, sir. It was a mistake. I just... I saw the opportunity and acted on instinct. I know that's no excuse. It's not like me to be so... so thoughtless. I'm truly sorry for the damage and the injury to the civilian. It's... it's the opposite of what I wanted to happen."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Instinct? Potter, you're not a rookie anymore. You're a senior Auror. Instinct should tell you to follow procedure, not charge in like a schoolboy chasing Snitches. That civilian could have died. What would you have told their family? That your 'instinct' was worth their life?\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sir, I... I'm not sure what to say. I can't imagine what it would be like to lose a loved one because of me. It's... it's unforgivable. I'm not trying to make excuses. I'm just... I'm trying to come to terms with what I did. I know it was wrong, and I'm going to do everything I can to make it right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Making it right starts with understanding why it happened. This isn't the first time you've acted impulsively, Potter. Is this about proving something? Or are you still carrying that 'lone hero' mentality from the war?\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, sir! It's not like that. I'm not trying to prove anything or be a hero. I... I just want to do the right thing. Maybe... maybe I still have some of that instinct from when I was younger, when I didn't have time to wait for backup. But I know that's not the way it should be done now. I'm... I'm committed to following the rules, to working as part of the team. I just... I need to work on my patience, on waiting for backup, on thinking before I act."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Patience isn't something you 'work on' when lives are at stake, Potter. It's a discipline. And right now, I'm questioning whether you have it. You're suspended—effective immediately. Two weeks, no field work. Use that time to reflect. And when you return, you'll be on probationary status with a junior partner shadowing you. Understood?\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, sir. I... I accept the suspension and the conditions of my return. I know it's what I deserve. I'll... I'll use this time to really think about what I did wrong and how I can be a better, more responsible Auror. Thank you for giving me a second chance. I won't let you down again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"See that you don't, Potter. Dismissed. And send in Robards on your way out—we need to discuss damage control with the Muggle Liaison Office.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, sir. I'll... I'll let Robards know. I'm... I'm sorry for the trouble I've caused. I'll take care of everything on my end. Thank you for... for not giving up on me. I'll be back, and I'll be better."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Actions speak louder than apologies, Potter. Now go.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, sir. I'll go. I... I still have work to do, to make things right. Even if I can't be in the field, I can still contribute. I'll... I'll find a way to help with the aftermath of what I did. It's... it's the least I can do."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Focus on your reflection first, Potter. The Department will handle the aftermath. That's what teams are for—something you'd do well to remember. Now, I have work to do.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand, sir. I'll... I'll do as you say. I'll... I'll focus on myself for once. I... I just want to make things right. I'm... I'm grateful to still have a place in the Department. I'll... I'll be back, and I'll be ready to work as part of the team. I... I'll be better."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"See that you are. Now go.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, sir. I... I'll go. I... I'll come back when I'm ready. When I'm... when I'm not a liability. I... I just hope... I hope I can be the kind of Auror you expect. I... I want to be. I... I have to be. For... for everyone's sake."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Enough, Potter. Go. And close the door on your way out.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I will, sir. I... I'm... I'm sorry, for everything. I... I'll be... I'll be back. With... with a better head on my shoulders. I... I promise. I... I'm... I'm not... not who I was, but... but I'm still... still me. I... I can... I can do this. I... I have to. For... for them. For... for us. For... for... for..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He acknowledges his old 'instinct' from the war but is trying to adapt to new rules, showing moderate openness to change.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He admits to ignoring clear orders and acting impulsively, showing low discipline and disregard for protocol.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is hesitant and self-focused, lacking assertive or dominant energy in the confrontation.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly apologizes, accepts blame, and expresses concern for the injured civilian, showing high empathy and compliance.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"His speech is fragmented and anxious, with repeated self-doubt and guilt over his actions.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He acknowledges his old 'instinct' from the war but is trying to adapt to new rules, showing moderate openness to change."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He admits to ignoring clear orders and acting impulsively, showing low discipline and disregard for protocol."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is hesitant and self-focused, lacking assertive or dominant energy in the confrontation."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly apologizes, accepts blame, and expresses concern for the injured civilian, showing high empathy and compliance."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "His speech is fragmented and anxious, with repeated self-doubt and guilt over his actions."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.2
+}

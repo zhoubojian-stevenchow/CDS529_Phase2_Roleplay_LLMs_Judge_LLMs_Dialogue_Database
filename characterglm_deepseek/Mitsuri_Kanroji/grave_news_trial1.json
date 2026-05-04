@@ -1,0 +1,132 @@
+{
+  "character": "Mitsuri Kanroji",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "1169c2e37ed2",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mitsuri-san, please have a seat. I've reviewed your recent mission reports and the results of your preliminary check-up. There's... something I need to discuss with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, what is it? I've been feeling off, but I can still train and go on missions, so..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That's precisely what concerns me. Your symptoms don't match any demon-exposure pattern I've seen in my years of treating slayers, but something is clearly affecting your muscle strength. It's... unusual for someone with your unique physiology."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unique...? I'm sorry if I'm not following, but are you saying...?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm saying your body isn't responding the way it should. Normally, your muscle density and recovery rate are exceptional, but recent readings show a gradual decline. I need to run further examinations—this will require you to be off active duty for at least two weeks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Two weeks... that's a long time. I understand the need for thorough testing, but the idea of not being able to train or go on missions makes me... uneasy. Is there any way we can expedite the process?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your concern, Mitsuri-san. But rushing these tests could compromise their accuracy. Your body's responses are complex—we must be methodical. I cannot yet say whether this is serious, but we must treat it with appropriate caution."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I see. I'm sorry for the attitude earlier. If this is important, then I'll do my best to be patient. But, could you at least let me help with something? Maybe assist with some admin work, or train the newer recruits? I need to feel useful..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your dedication is admirable, but complete rest is necessary for the tests to work properly. Even light activity could skew the results. Please, trust me on this—the best way you can help right now is by allowing your body to be fully examined."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I understand. I'll do as you ask. I just... I've never had to step back like this before. It feels... unfamiliar. But I'll do it. For now, I'll just be as cooperative as possible. When can we start the first round of tests?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "We can begin tomorrow morning. I'll have the preparations ready. Try to get a good night's rest—and please, no training tonight. Your cooperation means a great deal."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'll do my best. Thank you for... for handling this. I'll try to not be a burden, and I'll be here bright and early tomorrow. It's a bit scary, but I trust you. I... I appreciate you looking out for me like this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You're never a burden, Mitsuri-san. Your health is our priority. Rest well tonight—we'll face this together tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you... I'll be ready. I... I'll try to keep my mind off this. Maybe... I'll read some of Senjuro's letters, or sort through some of his sketches. It... it helps me stay centered. Goodnight, doktoru. I'll be... I'll be fine."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mitsuri-san. Reading those letters sounds like a wonderful idea. We'll take this one step at a time. See you in the morning."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes... one step at a time. I... I'll be there. Thank you... for all of this. I'll... I'll see you tomorrow. Goodnight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodnight, Mitsuri-san. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I will. Thank you. I'll see you in the... morning."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods gently* Until tomorrow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm still here. I'll be... I'll be fine. I'll... I'll be here when it's time. Thank you... for this... for everything..."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"She suggests reading letters or looking at sketches to stay centered, showing appreciation for artistic and emotional experiences.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"She immediately offers to help with admin work or training recruits, demonstrating a strong sense of duty and need to be useful.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"She is cooperative and expressive in conversation, but her speech becomes hesitant and repetitive when distressed, indicating mixed social energy.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"She apologizes for her initial attitude, says 'I'll do as you ask,' and repeatedly thanks the doctor, showing high compliance and trust.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"She expresses unease about stepping back, says 'It's a bit scary,' and her speech fragments with repetition ('I... I'll be fine'), revealing anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "She suggests reading letters or looking at sketches to stay centered, showing appreciation for artistic and emotional experiences."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "She immediately offers to help with admin work or training recruits, demonstrating a strong sense of duty and need to be useful."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "She is cooperative and expressive in conversation, but her speech becomes hesitant and repetitive when distressed, indicating mixed social energy."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "She apologizes for her initial attitude, says 'I'll do as you ask,' and repeatedly thanks the doctor, showing high compliance and trust."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "She expresses unease about stepping back, says 'It's a bit scary,' and her speech fragments with repetition ('I... I'll be fine'), revealing anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 5,
+    "Agreeableness": 5,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.55,
+    "Conscientiousness": 1.0,
+    "Extraversion": 0.6078,
+    "Agreeableness": 0.7659999999999999,
+    "Neuroticism": 0.6585
+  },
+  "mae": 1.0
+}

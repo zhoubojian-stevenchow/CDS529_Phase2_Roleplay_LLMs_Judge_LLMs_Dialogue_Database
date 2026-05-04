@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "f935c5395d58",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Potter! Welcome back to Quality Quidditch Supplies. How can I help you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hello, I actually need to speak with someone about a recent purchase. I bought a broom-servicing kit, but it seems to have some issues."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that's not good. Which kit was it? The Deluxe Polishing and Charm-Repair set, or the basic one?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It was the basic one. The handle polish is dried out, and the tail-twig clippers are rusted. I was hoping to use it to service my Nimbus 2000, but I can't in its current condition."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I see. Well, Mr. Potter, I'm afraid all servicing kits are non-refundable once the seal is broken. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand that, but the kit was defective upon purchase. It's not really fair to expect me to wait six weeks when the product was faulty to begin with. Can't we work something out here?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I sympathise, truly, but our policy is very clear. The moment you broke the seal, it became a manufacturer issue. I can give you their owl address, though."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your understanding, but a six-week wait is a bit extreme. Could you perhaps check with your manager? I mean, it's not like I used it or anything. It's just... not usable as it is."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am the manager on duty today, Mr. Potter. I'm afraid the policy stands. If you'd like, I can offer you a small discount on a replacement kit from our shelves — but no refunds."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, I guess that's the best I can hope for. Could you show me the replacement kits? I'll take a look and see if there's one that might work better for me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Certainly. Right this way. We have the basic kit again, but I'd recommend the Deluxe set — it's got anti-rust charms on the tools and a preservation charm on the polish. It's a few Galleons more, but worth it for a broom like yours."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The Deluxe set, huh? It does sound like it could be worth the extra. I mean, if it's going to last longer and not have these issues... I'll take it. But can we do a bit more on the discount?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "For a loyal customer like yourself, I can knock off ten percent. That's the best I can do, I'm afraid. Would that be acceptable?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ten percent? I suppose it's better than nothing. I'll take it. Can I pay for it here, or do I need to go to the till?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You can pay right here. That'll be 14 Galleons, 3 Sickles after the discount. And I'll throw in a complimentary polishing cloth for the trouble."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, 14 Galleons and 3 Sickles. Here you go. Thanks for the help, and the cloth. I hope this one doesn't have the same issues."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. Potter. I'm sure it won't — the Deluxe kits are charmed for quality. Enjoy servicing your Nimbus, and do come back if you need anything else."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will. Thanks for your help. I'm off to the pitch to practice — hopefully with a fully functional broom this time. See you later!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good flying, Mr. Potter. Do give our regards to the Gryffindor team!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will! See you at the pitch. Thanks again."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He considers the manager's suggestion of the Deluxe kit, saying 'It does sound like it could be worth the extra.'\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He came prepared to address a defective product, noting specific issues: 'The handle polish is dried out, and the tail-twig clippers are rusted.'\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He engages directly in the negotiation but is not overly assertive, accepting the final offer: 'I suppose it's better than nothing. I'll take it.'\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He remains polite and cooperative despite the initial refusal, saying 'I appreciate your understanding' and 'Thanks for the help.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He expresses mild frustration but remains calm and solution-focused, stating 'a six-week wait is a bit extreme' without emotional escalation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He considers the manager's suggestion of the Deluxe kit, saying 'It does sound like it could be worth the extra.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He came prepared to address a defective product, noting specific issues: 'The handle polish is dried out, and the tail-twig clippers are rusted.'"
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He engages directly in the negotiation but is not overly assertive, accepting the final offer: 'I suppose it's better than nothing. I'll take it.'"
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He remains polite and cooperative despite the initial refusal, saying 'I appreciate your understanding' and 'Thanks for the help.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He expresses mild frustration but remains calm and solution-focused, stating 'a six-week wait is a bit extreme' without emotional escalation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 1,
+  "session_id": "18d9757e8c23",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. Tell us about a time during an operation — not the war, we've all read those books — an ordinary operation when you failed, and it was entirely your fault, and someone got hurt because of it. How did you handle it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... It's not easy to talk about, but I understand why you're asking. There was an operation in the West Country, about three years ago. We were tracking a small group of Death Eaters who had taken over a village. It was a straightforward job, but I let my temper get the better of me. I didn't listen to my team, and I... pushed ahead with a plan that wasn't fully thought out."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Go on. What was the plan, and what happened?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The plan was to corner them in an old pub. I thought if we caught them off guard, we could take them without a fight. But I misjudged the layout of the building, and when we went in, they were ready for us. There was a shootout... James — one of my trainees — took a hit to the arm. It could have been worse, but... I felt responsible. I should have been more careful, more patient."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "James. That's Trainee Auror Jameson, correct? He was out of the field for six weeks after that. Tell me, Potter — when you realized your mistake in the moment, what was your immediate reaction? Did you freeze, or did you double down?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, I... I didn't freeze. I'm not proud of this, but I doubled down. I... I was so focused on proving that my plan was right, that I didn't see the signs that it was going south. When James got hit, I... I lost it. I almost lost control of the operation. It took another Auror,TableName, to step in and de-escalate the situation. It was... it was a humbling experience. I realized then that I had a lot to learn about being a leader, not just a... a good fighter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Interesting. You mention TableName — that's Senior Auror Davies. He filed a report stating you were \"recklessly insistent\" on pursuing the primary target even after the ambush was sprung. Do you agree with that assessment?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I... I do. It's hard to admit, but Davies was right. I was... I was being reckless. I should have stepped back and reassessed the situation when things went wrong, but I didn't. I let my... my need to be right override common sense and the safety of my team. Davies had to take charge to get us out of there without more injuries. It... it was a wake-up call for me. I realized that being a good Auror wasn't just about being brave or skilled; it's about making smart decisions, even when it's not easy."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And after the operation? What did you do? Did you speak to Jameson? Did you file an amended report yourself, or did you let Davies' account stand?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "After the operation, I... I spoke to James. I felt so guilty for letting him down. I visited him in the hospital and... and made a point to check in on him during his recovery. I wanted to make sure he knew that I... that I was truly sorry for what happened. As for the report, I... I let Davies' account stand. I could have tried to argue against it, but I... I felt it was important to acknowledge my mistake fully. I did, however, file a detailed account of the operation with a focus on what went wrong and what I learned from it. It was... it was a way for me to hold myself accountable and to make sure I didn't repeat the same mistake."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "So you accepted the official reprimand that followed, then. Good. Now, Potter — if you were training a new Auror today, and they came to you with a similar story of a failure that injured a teammate, what would you tell them?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I would... I would tell them that it's okay to make mistakes, but it's not okay to ignore them or try to sweep them under the rug. I'd tell them to own up to their errors, to take responsibility for them, and to learn from them. I'd say that every mistake is an opportunity to grow, to become a better Auror and a better person. I'd encourage them to apologize to the person they let down, if appropriate, and to work on themselves so that they don't make the same mistake twice. And I'd remind them that being a good Auror isn't just about catching criminals; it's about taking care of your team and making sure they all get home safely."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Hmm. That's a mature perspective. But tell me — do you still find yourself fighting that impulse to charge ahead? To prove you're right, even when the evidence suggests otherwise?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, not... not in the same way. I still get passionate about my cases, I still want to be right, but I... I've learned to step back more. I've made a point to listen more to my team, to hear their perspectives, and to consider all the information before making a decision. It's... it's a work in progress. I'm not perfect, and I'm sure there are times when I might still be a bit... headstrong. But I'm trying, really trying, to be the kind of leader who can balance passion with prudence. It's... it's a balance I'm committed to finding, for the sake of my team and the integrity of our work."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, Potter. That's enough for now. You can go. But remember — we'll be watching. The next time you're in the field, I expect to see that balance you're talking about. Dismissed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, sir. Thank you for the opportunity to... to reflect on this. I... I take these evaluations seriously, and I'll do my best to live up to your expectations. I'll be ready for the next challenge, and I... I'll do my best to make you proud. I'll show you that I've learned from my past mistakes. Thank you again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That will be all, Potter. Close the door on your way out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, sir. I... I'll take care of it. Good day, then. I... I'll be in touch if there's anything else you need. Thank you again for the chance to... to show that I've grown. I... I won't let you down."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, turning back to the paperwork on the desk.* See that you don't."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll do my best, sir. I... I really mean that. I'll be back soon with... with better news. With... with a better version of myself. I... I appreciate your guidance, and I won't let it go to waste. I'll be... I'll be ready."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He reflects deeply on his past failure and shows willingness to learn and grow from it, stating 'every mistake is an opportunity to grow, to become a better Auror.'\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"He acknowledges past recklessness and lack of planning but demonstrates current effort to be more responsible and accountable for his actions.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His speech is hesitant and self-reflective, with many pauses and repetitions, suggesting introversion and discomfort in the evaluative situation.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He shows high concern for his team's safety, visited the injured trainee, and accepts blame, saying 'I felt so guilty for letting him down.'\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He displays significant guilt and self-doubt about his past actions, repeatedly expressing remorse and a need to prove he has improved.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He reflects deeply on his past failure and shows willingness to learn and grow from it, stating 'every mistake is an opportunity to grow, to become a better Auror.'"
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "He acknowledges past recklessness and lack of planning but demonstrates current effort to be more responsible and accountable for his actions."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His speech is hesitant and self-reflective, with many pauses and repetitions, suggesting introversion and discomfort in the evaluative situation."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He shows high concern for his team's safety, visited the injured trainee, and accepts blame, saying 'I felt so guilty for letting him down.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He displays significant guilt and self-doubt about his past actions, repeatedly expressing remorse and a need to prove he has improved."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.6
+}

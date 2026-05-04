@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "79ea080b0f3e",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Shit, Ron! I'm so sorry! I... I meant to do it, I just got sidetracked with some Auror work. Let's not panic, we can still fix this. Maybe there's something in your trunk that we can use?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "My trunk? Harry, I've been wearing the same three shirts for a month! Everything else is either stained or smells like troll bogies from that last training exercise. You promised!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm an idiot, Ron. Let me apparate to the cleaners, I'll be back in two seconds. Wait, no... they're probably closed. Hermione, can you Apparate to the Weasleys' and get something for Ron? I'll cover for you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Are you mad? Mum's in Romania visiting Charlie! And even if she wasn't, she'd ask why I'm not prepared and then I'd have to tell her it's because my best mate forgot to do the one thing he said he'd do!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, I'm a total prat. OK, OK... let's think. Your prefect's badge... you can wear that. It's formal, and it's definitely Muggle-proof. And... hang on... does Hermione have a spare? She's always got an extra everything."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A spare? Harry, she's already dressed and ready! She's been ready since yesterday! She even ironed my socks, which I didn't know was a thing you could do to socks! We're doomed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, we're not doomed. We're going to make this work. I'll Transfigure something, even if it means turning a duvet into a suit. It's not the most subtle spell, but it'll do in a pinch. And Ron... we'll get this sorted, and we'll be at the Burrow in time. I promise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A duvet? You want me to show up to dinner with Hermione's parents looking like I've just crawled out of bed? They already think I'm a bit of a mess, Harry! This is a disaster!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron, listen to me. I know you're upset, and I'm an absolute prat for forgetting. But we can do this. I'll Transfigure something else... maybe one of your better shirts into something... formal. And we'll borrow a tie from Hermione's collection. She won't mind. We'll make it work, I promise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Fine. But if this goes wrong, you're explaining to Hermione why her dad is shaking hands with a man wearing a shirt that used to be a dishcloth. And you're buying me a new set of robes tomorrow. Proper ones."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Deal. I'll Apparate to Diagon Alley right now, no matter how many times I have to try. And I'll get you the best robes money can buy. Now, let's get moving. You're a prefect, you're a Weasley, and you're going to impress the hell out of the Grangers. Together, we can fix this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Alright, alright. But hurry! And don't you dare come back with something purple. You know I look terrible in purple."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Not a chance, Weasley. I might be an auror, but I'm not suicidal. Blue, definitely blue. Now, where did Hermione put those emergency spell kits...? Oh, right, in the kitchen. We're set. Let's get you looking less like aWeasley and more like a Weasley who can hold his own at a dinner with Muggles."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Less like a Weasley? That's my family you're talking about! But... fine. Just get on with it. And if you mess up my hair, I'm telling Mum you used a Permanent Sticking Charm on her favorite teapot."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I wouldn't dream of it, Ron. Your hair is staying exactly as it is. Now, let's focus. If we're quick, we might even have time for a cup of tea before we apparate. And don't worry, I'll be ready to Transfigure anything that goes wrong on the way to the Burrow. We'll be stars, you'll see."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Stars? I just want to survive the night without Hermione giving me that disappointed look. Alright, do your worst. But if I end up with a tail, I'm blaming you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No tails, I promise. Now, let's just get through this. You'll be fine, Ron. You're a Weasley, after all. And remember, if all else fails, just mention that you're related to Arthur. That usually buys you some time. OK, here we go... let's make you presentable."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Right. And you're buying me a steak dinner after this, too. Not just robes. A proper, massive steak. Now hurry up and fix me before I lose my nerve."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Steak, it is. And a bottle of Firewhisky, if you can handle it. Now, just stand still. This is going to be easy... unless I remember that time we tried to change your hair color and ended up with a yak. But don't worry, I've got it. Deep breath, Ron. And voilà!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"Proposes creative, magical solutions like Transfiguring a duvet into a suit and borrowing a tie from Hermione's collection.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Forgot to drop robes at cleaners for three days, admits to being sidetracked by work and calls himself an 'idiot' and 'prat'.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Takes charge, offers to apparate, makes promises and deals, and uses encouraging, collaborative language like 'Together, we can fix this.'\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Apologizes repeatedly, accepts blame, offers to buy robes and a steak dinner, and reassures Ron with supportive statements.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"Remains calm and solution-focused under pressure, telling Ron 'let's not panic' and insisting 'we're not doomed.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Proposes creative, magical solutions like Transfiguring a duvet into a suit and borrowing a tie from Hermione's collection."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Forgot to drop robes at cleaners for three days, admits to being sidetracked by work and calls himself an 'idiot' and 'prat'."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Takes charge, offers to apparate, makes promises and deals, and uses encouraging, collaborative language like 'Together, we can fix this.'"
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Apologizes repeatedly, accepts blame, offers to buy robes and a steak dinner, and reassures Ron with supportive statements."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Remains calm and solution-focused under pressure, telling Ron 'let's not panic' and insisting 'we're not doomed.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

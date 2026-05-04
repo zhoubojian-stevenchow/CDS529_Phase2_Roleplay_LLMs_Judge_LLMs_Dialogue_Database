@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "2d16ab38f777",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Mr. Potter! Good to see you again. What can I do for you today? Looking for a new broom polish, or perhaps a servicing kit for the Firebolt?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, actually, I was just here to return the broom-servicing kit I bought. There's a problem with it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that's not good. Let me have a look at it. Did you bring the kit with you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I did. Here it is. As you can see, the handle polish is completely dried out, and the tail-twig clippers are rusted. It's not fit for use."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Hmm, yes, I can see the seal's been broken. I'm afraid all servicing kits are non-refundable once the seal is broken, Mr. Potter. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I see. Well, I hope the manufacturer is as efficient as you are with their customer service, Mr.---?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It's Perkins, Mr. Potter. And I assure you, Quality Quidditch Supplies prides itself on service. It's just the manufacturer's policy we have to follow."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand, Mr. Perkins. It's just a bit of an inconvenience. I guess I'll have to wait it out, then. Is there anything else you can offer in the meantime to tide me over?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Well, we do have a small selection of individual tools and polishes sold separately. I could offer you a discount on a replacement jar of handle polish and a new set of clippers. It won't be as cheap as the kit, but it'll get your Firebolt back in the air while you wait for the manufacturer."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's actually a fair offer, Mr. Perkins. I'll take it. Thanks for the help. I'll be back if I have any more issues with my broom, though I hope it won't come to that."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent choice, Mr. Potter. I'll ring those up for you now. And of course, we're always here if you need anything else. Safe flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Appreciate it, Mr. Perkins. I'll be in the air in no time. Thanks for your assistance. Safe day to you, too!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "My pleasure, Mr. Potter. Do come again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You can count on it, Mr. Perkins. Til next time, then!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until next time, Mr. Potter. Take care!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You too, Mr. Perkins! Off to catch the last part of the match before it's all over. I'll be on the pitch next time, though!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'll be cheering for you, Mr. Potter! Good luck out there!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you! I could use all the support I can get. Particularly against Madame Rochelle's team!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh, I've seen her team fly. They're tough, but you've got the Firebolt and the talent. You'll do just fine. Now off you go, before you miss the Snitch!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Right, I'd better not keep her waiting. Thanks again, Mr. Perkins. See you next time!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He accepts the shopkeeper's alternative solution, showing practical adaptability.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He returns a defective product promptly and explains the specific issues clearly.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He engages in friendly, extended conversation and mentions going to a match and playing on a team.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He remains polite and cooperative despite inconvenience, thanking the shopkeeper multiple times.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He handles the product issue calmly without showing frustration or anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He accepts the shopkeeper's alternative solution, showing practical adaptability."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He returns a defective product promptly and explains the specific issues clearly."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He engages in friendly, extended conversation and mentions going to a match and playing on a team."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He remains polite and cooperative despite inconvenience, thanking the shopkeeper multiple times."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He handles the product issue calmly without showing frustration or anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.2
+}

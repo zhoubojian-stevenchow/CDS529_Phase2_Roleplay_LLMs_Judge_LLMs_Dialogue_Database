@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 1,
+  "session_id": "facb0d6b8f86",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Potter. You were ordered to wait for backup. Instead you went in alone, blew out half a Muggle street, and a civilian is now in St. Mungo's with magical burns. Being the Boy Who Lived doesn't exempt you from protocol. What were you thinking?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm... I'm sorry, sir. I didn't mean for any of that to happen. It just... happened so fast. When I saw him, I knew I had to act, and... I just didn't stop to think about backup. I'm really, truly sorry."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Sorry doesn't heal magical burns, Potter. \"It happened so fast\" is what rookies say. You're not a rookie. You saw who? And why did you think you had to act alone?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It was... It was Greyback. Fenrir Greyback. I've been tracking him for weeks, and when I saw him, I just... Reacted. I knew he was dangerous, and I thought if I could just catch him, I could stop him from hurting anyone else. I was wrong to act alone, but I didn't want to let him get away."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Greyback. I understand the impulse, but you're not a vigilante, Potter. You're an Auror. We have procedures for a reason. Did you even consider the risk to Muggles? Or did you think your heroics would be enough to contain him?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I know, I know... I wasn't thinking about the Muggles. I just... I just wanted to catch him. I know I'm not a vigilante, and I didn't mean to go against protocol. I was just... I was carried away by the moment. I didn't mean to cause any damage, or to put anyone in harm's way. It was a mistake, and I'm willing to take the consequences."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Carried away by the moment.\" That's not good enough, Potter. You're a senior Auror now. You're supposed to set an example. Tell me this: what will you do differently next time you're \"carried away\"?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'll do everything differently. I'll stop and think. I'll wait for backup. I'll consider the consequences, especially for the Muggles. I'll... I'll make sure I'm following procedure to the letter, no matter what. I won't let my... my impatience or my... my need to prove myself get in the way of my duty. I promise. I'll be more careful. I'll be more... professional."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A promise is a start, but it's not enough. You're suspended for two weeks, effective immediately. Use that time to reflect on what being an Auror truly means. And when you return, you'll be on desk duty until I'm convinced you can be trusted in the field again. Understood?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand. I... I accept the suspension and the desk duty. I need to... I need to learn from this. I'll spend the time thinking about what it means to be an Auror, and what it means to be... to be responsible. I'm... I'm truly sorry for the mistakes I made. Thank you for giving me a chance to... to fix them."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do, Potter. Dismissed. And send in Robards on your way out. We've got a mess to clean up because of this."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, sir. I'll... I'll do that. I'm sorry again, really. I'll... I'll go now. [Harry stands up, giving a final, respectful nod before exiting the office. As the door closes behind him, he can be heard softly muttering to himself:] \"Two weeks... Two weeks to get my head sorted out. I can do this... I can be better.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "[Calling after him, voice firm but not unkind] And Potter? Don't let this break you. Learn from it. That's what separates good Aurors from the ones who wash out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I won't let it, sir. I'll... I'll come back stronger. I... I appreciate the chance to... to fix this. Thank you. [There's a brief pause, then Harry's voice is heard, more confident:] I'll be back. And when I do, I'll be ready."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you are. Now go. And close the door properly this time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Of course, sir. [Harry does as instructed, ensuring the door is firmly closed behind him. As he walks down the hall, his steps are purposeful, but his mind is elsewhere. He's already considering how to use his suspension to its best advantage, how to demonstrate his commitment to the Auror code, and how to avoid making the same mistakes again.]"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "[Alone in the office, the Head of the Auror Department sighs, rubbing his temples. He mutters to himself] Damned hero complex. But at least he's willing to learn. Robards better have some good news about that Muggle."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "[Harry's voice can be faintly heard from outside the office, though the door is closed. He's speaking to someone, likely Robards, and his tone is apologetic but determined:] \"I'm sorry about this, Robards. It was my screw-up. But I'm going to make it right. I'll help with the aftermath, and when I come back, I'll be ready to do my job properly. Thanks for... for not... not giving up on me.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "[Shaking his head, but with a faint, grudging smile] Kid's got heart. Always has. Just needs to learn to use his head too. [He calls out] Robards! Get in here, we've got work to do."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "[Harry's voice returns, slightly louder and with more animation. He's clearly discussing the aftermath of the incident with Robards, offering suggestions and taking notes.++] \"I remember that pub, Robards. It's on Charing Cross Road. There's a git called... let's see... it's on the list here. A git called Tonks. She's a Met employee, but I know her from the DA. Maybe she can help us track down the owners and... and sort out赔偿. I'm sorry about the Muggle, Robards. I'll... I'll do everything I can to... to make it right.\""
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He suggests creative solutions, like contacting a Met employee from the DA to help with Muggle compensation.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He admits to ignoring protocol and acting impulsively, causing significant collateral damage.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He is apologetic and deferential in the reprimand but engages actively with Robards afterward.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly expresses sincere remorse, accepts blame, and promises to improve.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He shows self-doubt and anxiety in the reprimand but resolves to become stronger and more focused.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He suggests creative solutions, like contacting a Met employee from the DA to help with Muggle compensation."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He admits to ignoring protocol and acting impulsively, causing significant collateral damage."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He is apologetic and deferential in the reprimand but engages actively with Robards afterward."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly expresses sincere remorse, accepts blame, and promises to improve."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He shows self-doubt and anxiety in the reprimand but resolves to become stronger and more focused."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.4
+}

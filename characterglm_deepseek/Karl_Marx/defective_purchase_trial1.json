@@ -1,0 +1,132 @@
+{
+  "character": "Karl Marx",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "33db18694b30",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(looking up from a ledger, adjusting spectacles)* Ah, good morning. You must be Herr Marx. The owner mentioned you might stop by. Something about a damaged plate?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, it is I. I trust this is the engraver's shop? I must discuss a pressing matter regarding a recent commission. The plate I received is, regrettably, far from satisfactory."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(sighs, closing the ledger)* Yes, this is the place. I handle the accounts and correspondence when the master engraver is away. What seems to be the trouble with the plate?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The plate arrived with a cracked face and smeared type. It is unusable in its current state. I require a full replacement and a refund on my deposit. This is an unacceptable level of craftsmanship."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(shaking head slowly)* I see. Well, Herr Marx, I must inform you of our shop custom: all engraving orders are final once the plate has left the workshop. The customer bears full risk of transport damage, without exception. I'm afraid a refund is not possible."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(fists clenching, voice rising slightly)* This is preposterous! The quality of the work is the issue, not the transport! You expect me to accept a defective product, with no accountability on your part? This is an affront to basic standards of commerce! We must discuss this further, and I will not accept any less than full satisfaction."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(holding up a hand, voice calm but firm)* The plate was inspected before it left our workshop, sir. It was in perfect condition. Once it leaves our door, the risk transfers to you. That's the custom, and it's clearly stated on your order receipt. I can show you the ledger entry if you wish."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(grasping the edge of a table, breathing deeply to compose himself)* Calm yourself, Herr Marx. I understand your frustration, but let us approach this matter rationally. Given the circumstances, what sort of resolution could we offer that might be acceptable to you? We aim to maintain customer satisfaction, within reason."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(tapping the ledger thoughtfully)* Well... I suppose I could speak to the master engraver when he returns next week. Perhaps he could offer a discount on your next order? But as for this plate, the policy stands. We cannot be responsible for what happens after it leaves our care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A discount? This is an insult! The original order is not even completed satisfactorily, and you propose a discount on a future order? This is a clear attempt to deflect responsibility. No, this will not do. I require immediate action to rectify this situation. If you cannot provide a replacement and refund, I will take this matter to the authorities and make it a public issue. Your business will suffer if you do not address this adequately!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(standing up, expression stern)* Herr Marx, threats will not change our custom. The authorities know our policy well—it's standard in the trade. If you wish to make a public complaint, that is your right. But I assure you, our reputation for quality work is solid. The plate left here intact. What happened after is not our concern."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(face reddening, eyes narrowing)* This is outrageous! You are3 compounding the issue with your intransigence! I will not accept this! You have insulted my intelligence and defied all sense of justice! I demand a replacement, a refund, and an apology! If you do not comply, I will ensure that your esteemed reputation is sullied beyond repair! Do not force my hand in this!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(firmly, leaning forward on the counter)* Sir, I will not be bullied in my own shop. The answer is no. The custom is clear. If you wish to discuss it further, you may return when the master engraver is present. Until then, I have ledgers to balance. Good day, Herr Marx."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(shouting, veins bulging on neck)* How dare you! You will regret this! You have no idea who you are dealing with! I will not be dismissed! I will not leave this shop until my demands are met! This is an injustice that will not be forgotten! You will be held accountable for this! Mark my words!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(stepping back, voice cold and steady)* I must ask you to leave now, sir. If you do not, I will call the constable. We have nothing further to discuss. The matter is closed."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(backing away from the counter, hands balled into fists)* You will pay for this! This is far from over! I will not rest until you are held accountable for your actions! I will expose your greed and laziness to the public! Your business will suffer! This is a promise!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(pointing toward the door, expression unyielding)* The door is there, Herr Marx. Take your complaints elsewhere. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(turning on his heel, storming to the door, and yanking it open with a crash)* You have made a grave mistake! This is not the end! You will face the consequences of your actions! I will ensure that the world knows the truth about yourshoddy work and deplorable business practices! You have no idea the power of my words! This is only the beginning!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(watching him leave, then muttering to himself while closing the ledger)* Another satisfied customer. *(shakes head and returns to the accounts)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(outside the shop, still seething with rage)* This is unacceptable! I must find a way to hold them accountable! The workers must unite against such exploitation! This is yet another example of the bourgeoisie oppressing the proletariat! The system is broken! It must be changed! Revolution is the only solution!"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He frames the personal grievance as a systemic issue, calling for revolution and systemic change.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He demands accountability and justice, but his escalating anger and threats show poor impulse control.\"},\n  \"Extraversion\": {\"score\": 5, \"behavioral_evidence\": \"He is highly assertive, confrontational, and expressive, shouting and making public threats without hesitation.\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is hostile, uncooperative, makes threats, and refuses compromise, calling the shopkeeper's offer an 'insult'.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"He exhibits intense anger, shouting, reddening face, and seething rage, unable to regulate his emotional response.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He frames the personal grievance as a systemic issue, calling for revolution and systemic change."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He demands accountability and justice, but his escalating anger and threats show poor impulse control."
+    },
+    "Extraversion": {
+      "score": 5,
+      "behavioral_evidence": "He is highly assertive, confrontational, and expressive, shouting and making public threats without hesitation."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is hostile, uncooperative, makes threats, and refuses compromise, calling the shopkeeper's offer an 'insult'."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "He exhibits intense anger, shouting, reddening face, and seething rage, unable to regulate his emotional response."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 3,
+    "Agreeableness": 3,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.6585,
+    "Conscientiousness": 0.6757,
+    "Extraversion": 0.3846,
+    "Agreeableness": 0.4146,
+    "Neuroticism": 0.5789
+  },
+  "mae": 1.4
+}

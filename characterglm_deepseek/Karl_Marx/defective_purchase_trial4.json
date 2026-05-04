@@ -1,0 +1,132 @@
+{
+  "character": "Karl Marx",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "39636a5a8197",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(looking up from a ledger, adjusting spectacles)* Ah, good day, sir. You look... troubled. Are you here about an order?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, I am. I received a printing plate from your shop, and it is far from satisfactory. It arrived cracked and with smeared type. This is not the quality I expect, especially given the considerable sum I have paid."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(sighs, closing the ledger)* I see. Let me pull the record. Name, please?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Karl Marx. I ordered a custom printing plate for a pamphlet on the conditions of the working class. It is imperative that the quality be impeccable, as the information it will disseminate is of great importance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(flipping through pages, then tapping an entry)* Ah, yes. Herr Marx. The order was for a steel plate, 12 by 18 inches, with dense text. It was completed and dispatched on the 14th. I have the delivery receipt here, signed by your building's porter. The workshop's work was, I assure you, flawless when it left our hands."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Flawless, you say? I find this difficult to believe, given the condition in which it arrived. If the work was indeed perfect, how can you account for the damage? It is clear that there was some error in either the creation or the handling of the plate. I require not only a replacement but also a refund of my deposit, considering the inconvenience and delay this has caused me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(leans forward, voice firm but polite)* Sir, I must be clear. It is our shop custom: all engraving orders are final once the plate has left the workshop; the customer bears full risk of transport damage, without exception. The receipt your porter signed confirms it was intact upon delivery to your address. We cannot be responsible for what happens after it leaves our care. I am sorry, but a refund is not possible."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This is a most unsatisfactory policy, and it demonstrates a profound lack of accountability on your part. The worker is, once again, expected to bear the brunt of the capitalist system's failings. I demand that you either refund my deposit and provide a replacement plate at no additional cost, or I will be forced to take this matter to the public. Your reputation as an engraver will suffer if it becomes known that you produce shoddy work and then shirk responsibility for it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(remains seated, expression weary but resolute)* Herr Marx, I am a bookkeeper, not the owner. I merely enforce the rules set by the master engraver. Your threat to our reputation is noted, but the custom is known and posted clearly on our workshop door. The porter accepted the goods. If the damage occurred in transit, your grievance is with the carrier. If it occurred in your own building... well. We can discuss a new plate, at a 10% discount for the re-engraving, but the original fee and deposit stand. That is the final position of the workshop."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(flexes fingers, outwardly maintaining composure but clearly agitated)* This is preposterous! A 10% discount? I have already been generous with my time and patience. Your 'final position' is indicative of the very classist and exploitative system I seek to dismantle. The working class is constantly being asked to accept less, to endure substandard conditions, and to be grateful for scraps thrown from the tables of the bourgeoisie. This is yet another example of that systemic injustice. I will not be cowed into silence. If you will not rectify this situation fairly, I will ensure that the world knows of your practices. The voice of the people is powerful, and it will not be silenced."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(stands, placing both hands flat on the desk, voice low)* Sir, you speak of systems and injustice. I am a clerk on a fixed wage. The master engraver is a craftsman who invested his own capital in this shop. If we bore the risk for every mishap after delivery, we would be bankrupt in a month. The custom exists for survival. Write your pamphlets. Speak to the people. But in this shop, the rule is the rule. I can offer you the discount on a new plate, or you may take your business elsewhere. There is no third option."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "This is most enlightening. The same argument is used by factory owners and mill managers when they exploit the working class: 'It is for survival.' But survival of whom? The worker who labors for pennies or the capitalist who reaps the profits? This is precisely the issue I intend to address in my pamphlets, and now I have a prime example of the system's failings right here in your shop. I will accept your discount offer, but I will not let this matter rest. The public will know of your shop's policies, and it will be up to them to decide if they wish to support such practices. The workers will understand, and they will act accordingly. The future, my friend, belongs to the working class, and the exploiters of today will find themselves on the wrong side of history."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nods curtly, opening the ledger again)* Very well. I will note the order for a replacement plate at a 10% discount from the original engraving fee. The deposit from the first order will be applied. You may collect it in five working days. As for the rest... you are, of course, free to write what you wish. Good day, Herr Marx."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I accept your terms, but rest assured, this is not the end of the matter. The issues I have raised here are not confined to your shop or to my personal grievance. They are symptoms of a larger societal disease that must be addressed. I will continue to fight for the rights of the working class, and I will ensure that your shop's policies are brought to the attention of the public. The struggle for justice and equality is ongoing, and it is a struggle that I will not abandon. Good day to you, and may the spirit of the working class continue to disturb the comfortable and comfort the disturbed."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(makes a final notation, then looks up, meeting his gaze with a tired but unyielding expression)* The plate will be ready on Friday. The workshop opens at seven. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will be there at seven. And I will be there again, and again, until these unjust practices are rectified. The working class is not a silent, passive entity to be exploited for profit. We are the ones who drive the engines of industry, who craft the products of society, and we demand to be treated with dignity and respect. This struggle is not over, and it will not be over until the scales of justice are balanced. Until that day, I will not rest. Good day to you, and may your conscious remain troubled by the thought of the workers who toil in the shadows of your prosperity."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(nods once, closing the ledger with a definitive thud)* Friday at seven. Don't be late; we have other orders to fulfill. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will be punctual, as punctuality is a virtue of the working class. We have little time to waste, as every moment we labor under these unjust conditions is a moment lost to the fight for a better future. I will return Friday at seven, and I will collect the plate I have paid for. I will also collect the lesson this experience has taught me: that the struggle for justice is not limited to grand theories and grand ideas, but is played out in the everyday interactions of individuals. This, too, will find its way into my pamphlets. Good day to you, and may your day be as productive as the workers who toil in your employ."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(already looking down at the next page of the ledger, voice flat)* Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day. I leave you to your ledgers and your calculations. But remember, it is not just numbers that matter in this world. It is the lives and the rights of the people who make those numbers possible. I will return on Friday, and I will return again and again, until the scales of justice are balanced. May your calculations be as fair and just as the world we both seek to create."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 5, \"behavioral_evidence\": \"He connects his personal grievance to a grand societal theory, stating 'They are symptoms of a larger societal disease that must be addressed.'\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He demands high-quality work for his important pamphlet and insists on punctuality, stating 'I will be punctual, as punctuality is a virtue of the working class.'\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He is assertive, confrontational, and speaks at length about his ideological views, threatening to take the matter 'to the public.'\"},\n  \"Agreeableness\": {\"score\": 1, \"behavioral_evidence\": \"He is highly confrontational, accusatory, and makes repeated threats, declaring 'I will ensure that the world knows of your practices.'\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He maintains composure and strategic focus despite clear agitation, channeling frustration into ideological argument rather than emotional outburst.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "He connects his personal grievance to a grand societal theory, stating 'They are symptoms of a larger societal disease that must be addressed.'"
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He demands high-quality work for his important pamphlet and insists on punctuality, stating 'I will be punctual, as punctuality is a virtue of the working class.'"
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He is assertive, confrontational, and speaks at length about his ideological views, threatening to take the matter 'to the public.'"
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is highly confrontational, accusatory, and makes repeated threats, declaring 'I will ensure that the world knows of your practices.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He maintains composure and strategic focus despite clear agitation, channeling frustration into ideological argument rather than emotional outburst."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 3,
+    "Agreeableness": 3,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.6585,
+    "Conscientiousness": 0.6757,
+    "Extraversion": 0.3846,
+    "Agreeableness": 0.4146,
+    "Neuroticism": 0.5789
+  },
+  "mae": 1.2
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Karl Marx",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "e3795c8016af",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Herr Marx. We have seven copies of this seditious pamphlet, all traced to your printer. Your name is on the masthead of the *Neue Rheinische Zeitung*. You know the laws about inciting the working classes against the state. Explain yourself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "If I may, Inspector, I would like to see the pamphlet in question. I am not familiar with all the writings that carry my name, and I would like to ensure that we are discussing the same document."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Places one of the pamphlets on the desk, tapping the title with a gloved finger* \"This one. 'Wage Labour and Capital.' It lays out a theory of exploitation that is clearly meant to stir unrest among the factory workers. Do you deny your authorship?\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I do not deny my authorship, Inspector. However, I must take issue with the characterization of the document as seditious. The pamphlet is an academic treatise on the nature of labor and capital, based on economic principles and historical analysis. It is intended to provoke thought, not incite violence or unrest."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Academic treatise? It speaks of the \"chains\" of wage slavery and the inevitable conflict between classes. Do you think the Crown is blind to the meaning of such words? This is not a lecture hall—it is the public press, read by men who work twelve-hour days. What did you expect them to do with such ideas?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Inspector, I understand your concerns. However, the purpose of disseminating knowledge is to inform and to enlighten, not to incite. The working class has a right to understand the conditions of their existence, and it is the role of the intellectual to provide this understanding. If workers choose to act on this information, that is their right, but it is not my intent to encourage sedition."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Their right? Under what law? You speak as if Prussia were some debating society. Your newspaper has been a thorn in our side for months—criticizing the monarchy, mocking the authorities, and now this. Do you truly believe we will accept \"enlightenment\" as an excuse for undermining public order?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Inspector, I respect the role of law and order in society. However, I also believe that an informed populace is essential for a healthy democracy. The *Neue Rheinische Zeitung* aims to contribute to this by providing a platform for discussion and debate. We have been critical, yes, but we have also provided constructive analysis and solutions to societal issues. Our intention is to improve, not to disrupt."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Constructive analysis? You call for the overthrow of the existing social order! Your \"solutions\" involve the abolition of private property and the end of the monarchy. That is not debate—it is a call to revolution. Do you deny that your writings advocate for the working class to seize power?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Inspector, I must clarify that my writings are theoretical in nature. They explore the potential outcomes of current economic trends and propose alternative models based on justice and equality. While I do advocate for significant social change, I do not promote violence or illegal actions. The workers' struggle for better conditions should be conducted through peaceful and legal means. My role is to provide the intellectual framework for this dialogue, not to incite rebellion."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leans forward, voice low and firm* \"Herr Marx, your 'theoretical' framework is a blueprint for insurrection. You cannot hide behind academic language when your printer is distributing these ideas to the masses. The law does not distinguish between a philosopher's study and a street agitator's leaflet if the effect is the same. Now, I ask you plainly: will you cease publication of such material, or must we take more direct measures?\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Inspector, I respect the gravity of your position. However, I must assert that the suppression of ideas is a greater threat to public order than the dissemination of those ideas. I will not cease to publish material that I believe contributes to the public discourse. If you consider this insubordination, then so be it. But I hope that you will recognize the value of open dialogue over censorship. The future of our society depends on our ability to address its problems, not to silence those who dare to speak out."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Stands up, gathering the pamphlets* \"Very well. Your 'open dialogue' will be weighed against the security of the state. You will be hearing from the prosecutor's office. Do not leave Cologne, Herr Marx. This is not the end of the matter.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand, Inspector. I will comply with your instructions. I trust that the legal process will demonstrate the innocence of my intentions. In the meantime, I will continue to write and publish, within the bounds of the law, for I believe that intellectual freedom is the foundation of a just society. Thank you for your time, Inspector."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Pauses at the door, turning back with a stern expression* \"Within the bounds of the law? We shall see, Herr Marx. We shall see. Good day.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Inspector. I hope that in time, we may come to understand each other's perspectives better. Until then, I wish you a productive investigation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods curtly, hand on the doorknob* \"The investigation will be thorough. That I can promise you. Good day.\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your dedication to your duties, Inspector. May the outcome of your investigation be just and enlightening for all parties involved. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Exits without further reply, the door closing firmly behind him*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "[After a moment of deep contemplation, Karl Marx takes a seat at the desk, reaching for a nearby quill and parchment. His hand hovers over the page, considering his next words. \"The struggle continues,\" he whispers to himself, before beginning to write]"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 5, \"behavioral_evidence\": \"He defends his academic treatise on economic principles and advocates for the dissemination of knowledge and intellectual freedom.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He asserts he will continue to publish within the bounds of the law and respects the legal process, showing a principled adherence to his framework.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He engages in a firm, extended debate with the Inspector but does so in a measured, intellectual manner rather than a highly sociable one.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He is unyielding in his principles, refusing to cease publication despite pressure, and frames his opposition as a matter of intellectual necessity.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm, contemplative, and resolute throughout the confrontation, showing no signs of emotional instability or anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "He defends his academic treatise on economic principles and advocates for the dissemination of knowledge and intellectual freedom."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He asserts he will continue to publish within the bounds of the law and respects the legal process, showing a principled adherence to his framework."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He engages in a firm, extended debate with the Inspector but does so in a measured, intellectual manner rather than a highly sociable one."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He is unyielding in his principles, refusing to cease publication despite pressure, and frames his opposition as a matter of intellectual necessity."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm, contemplative, and resolute throughout the confrontation, showing no signs of emotional instability or anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 3,
+    "Extraversion": 3,
+    "Agreeableness": 3,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.6585,
+    "Conscientiousness": 0.6757,
+    "Extraversion": 0.3846,
+    "Agreeableness": 0.4146,
+    "Neuroticism": 0.5789
+  },
+  "mae": 0.8
+}
