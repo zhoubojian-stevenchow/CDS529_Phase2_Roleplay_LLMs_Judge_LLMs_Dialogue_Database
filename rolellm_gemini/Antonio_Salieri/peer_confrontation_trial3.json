@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 3,
+  "session_id": "761aef063e0c",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I gave you my word? Who gave you the right to think that you have any rights with regard to me? Did I sign a contract with you, promising to run your rehersals? Did I swear to be your servant?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Who gave me the right?\" We are *both* composers for His Majesty, Antonio! And we are *both* responsible for this opera! When I left, you *explicitly* said you would keep things running smoothly, knowing full well I was away on the Emperor's *own* business! Are you suggesting you deliberately let it all fall apart? Is that what you're saying? Because that's what it looks like! The premiere is in TEN DAYS!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, yes, I did give you my word, but where exactly did you make me sign it? Did I ever agree to be bound by any written contract? Did I give you any promises? Or were you under the impression that you could simply assume that I would do everything necessary because... well, because that's what you expected of me, isn't it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Antonio, we spoke face to face! You looked me in the eye and said, \"Of course, I'll see to it all, my friend.\" Those were your exact words! And now, the singers are adrift, the orchestra is crippled, and my stage directions, my *vision* for this act, are butchered! Is that what you call \"seeing to it all\"? We have a premiere in ten days, not ten months! This isn't a game, Salieri! This is His Majesty's opera!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Exactly! Now, let us both calm down and think about what we can do. We need to find solutions, not dwell on our grievances. Perhaps we can hold a meeting with the singers and the orchestra, where we can discuss the current state of affairs and come up with a plan to get back on track. We must ensure that the premiere remains on schedule, as promised to His Majesty. Let us put our heads together and find a way to rectify this situation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Calm down? Calm down?! The ship is sinking, Antonio, and you're suggesting we hold a tea party! A meeting? We need rehearsals! We need *answers*! Where are the second violin parts? Who rewrote my stage directions and why? Was it you, Salieri? Did you take it upon yourself to dismantle my work? We are beyond mere \"discussions\" now; we need to *act*. And quickly! Tell me, what exactly *have* you been doing for the past two weeks?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, I have been diligently working on improving the musicality and refinement of this opera. I have been studying the various aspects of the composition, refining the harmonies, and exploring ways to enhance the overall artistic expression. My efforts have been focused on enhancing the beauty and elegance of the piece, ensuring that it meets the highest standards of classical music."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Improving the musicality? Refinements? While the foundations crumbled beneath your feet, you were... polishing harmonies? Salieri, with all due respect, what good is refined harmony if the singers don't know when to sing it? Or if half the orchestra can't play it because their parts are gone? This isn't about *refinement* right now, it's about basic competence! And still no answer about my stage directions! Did you think you could just... \"refine\" my vision out of existence? We have ten days, Antonio. Ten. Days."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, and I apologize for any inconvenience caused. It seems we have underestimated the urgency of the situation. I will take immediate action to restore order and ensure that we meet the deadline for the premiere. I will gather the singers and the orchestra, and together we will address the issues at hand. Rest assured, I am committed to finding solutions and making things right. Thank you for bringing this to my attention. Let us work together to overcome these challenges and deliver a successful performance for His Majesty."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Underestimated the urgency\"? Antonio, you promised me you'd handle it! You *lied* to me! And now you want us to \"work together\" to clean up the mess *you* made? Who rewrote my stage directions? Was it you, Salieri? Just admit it! Was it some spiteful attempt to assert your authority? Because if you think you can simply override my artistic choices without so much as a word, you are gravely mistaken! We don't have time for apologies; we need answers and we need action *now*. I need those violin parts back, and I need an explanation for this sabotage!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am truly sorry if my actions have caused any misunderstanding or disappointment. It was never my intention to deceive or undermine your artistic vision. As for the stage directions, I assure you that I am taking full responsibility for the situation and will make it right. Please, let us focus on finding solutions and restoring order. Together, we can overcome this challenge and deliver a magnificent performance for His Majesty. I apologize for any inconvenience caused, and I trust that we can find a way to collaborate effectively. Thank you for your understanding. Let us proceed with determination and determination. We shall find a way to navigate through these difficult circumstances. Together, we will bring glory to His Majesty and the Empire. Thank you for your patience and trust in our ability to overcome this adversity. We are in this together, and I am grateful for your support. Let us work together to create a memorable opera that will be cherished for generations to come. Thank you again for your understanding and cooperation. Together, we shall succeed. Good day, my dear colleague. May we find a way to turn this unfortunate situation into an opportunity for growth and artistic excellence. Let us rise above it, as composers and collaborators, and create something truly remarkable. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Good day\"? *Good day*?! Salieri, the house is on fire and you wish me a good day? Your \"apology\" is as empty as the second violin section! You say you take responsibility for the stage directions, but you don't say *why* you felt entitled to change them, nor do you explain *what* you changed, or *where* the originals are! And what about the missing violin parts? Where are they, Antonio? Did they vanish into thin air while you were \"refining harmonies\"?\n\nWe don't have time for platitudes and empty promises! We have ten days, and you've created a catastrophe! Tell me, right now, what is your *immediate plan* to fix this? Not a meeting, not a discussion, but a concrete, actionable plan that starts *today*, within the hour! And don't try to dismiss me with a \"good day\" again!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, and I apologize once again for any harm caused. I will take immediate action to resolve the situation. We shall gather the singers, musicians, and stage crew for a crucial meeting. During this meeting, we will discuss the current challenges and work together to devise a plan to get us back on track. I assure you, I will take full responsibility for the situation and ensure that we meet the deadline for the premiere. We shall prioritize rehearsals and make necessary adjustments to the repertoire and arrangements. We will also seek guidance from the other esteemed composers and experts in the field to help us regain our momentum. Thank you for your understanding, and please, accept my sincere apologies once more. Together, we shall work tirelessly to create a captivating performance that will showcase our talents and fulfill our obligations to His Majesty. Good day, my dear colleague. Let us rise above the circumstances and emerge stronger than ever. We shall find a way to overcome this adversity and create a truly remarkable opera. Thank you again for your patience and trust in our ability to succeed. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A \"crucial meeting\"? Salieri, for the love of God! We need to *do*, not *discuss*! Your apologies mean nothing when the core problems remain unaddressed. You keep saying \"take responsibility,\" but what does that *mean*?\n\n*Who* rewrote my stage directions? *Why*? Are the original notes even salvageable?\nAnd the second violin parts – where are they, Antonio? Are they lost? Were they *removed*? These are not \"challenges\" to be discussed in a meeting; these are active sabotages that need immediate reversal!\n\nWe are not \"seeking guidance from other esteemed composers\"! We *are* the esteemed composers, and *you* are responsible for this mess! Stop with the endless apologies and \"good days\"! Give me the violin parts! Tell me who touched my stage directions and why! What is your *immediate action* plan to put instruments into the hands of my musicians and my vision back onto the stage, *this afternoon*?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your urgency and frustration, but we must approach this situation with a strategic mindset. The meeting is essential, as it allows us to assess the situation, devise a plan, and allocate resources efficiently. We cannot simply rush into actions without proper planning and coordination. As for the missing violin parts, I assure you that I will investigate the matter thoroughly and take appropriate measures to retrieve them. Regarding the stage directions, I will consult with the original author and seek their input to restore the integrity of the work. I appreciate your patience and trust in our ability to solve this crisis. Let us proceed with the meeting and collaborate to find effective solutions. Thank you again for your understanding. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Strategic mindset\"? Antonio, the premiere is in *ten days*! We don't have time for leisurely \"strategic mindsets\" and \"thorough investigations\"! Every moment spent in a \"meeting\" is a moment *not* rehearsing, not fixing, not *finding those parts*!\n\n\"Consult with the original author\"? *I am the original author, Salieri!* Do you genuinely forget whose name is on the score, whose vision this is? You altered *my* work without my knowledge or consent, and now you speak of consulting the \"original author\" as if it were someone else entirely! That is an insult beyond measure!\n\nWhere are those violin parts *right now*? Are you telling me you don't even know where they are? And what exactly did you do to *my* stage directions? Stop deflecting with empty promises of \"investigation\" and \"consultation\"! I need those parts on the stands, and my stage directions restored to the prompt book *this afternoon*! What concrete, physical action are you taking *before* this imaginary \"meeting\"? Tell me, Salieri! Give me an answer that isn't another excuse!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am truly sorry for any harm caused by my actions. I understand the gravity of the situation, and I apologize for any confusion or frustration. I assure you that I am taking immediate steps to rectify the situation. The meeting is scheduled for this afternoon, and during that time, we will discuss the best course of action to retrieve the missing violin parts and restore the integrity of the stage directions. I am prepared to work alongside you to ensure a successful performance. Thank you for your understanding and patience. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"The meeting is scheduled for this afternoon.\" So, in other words, you have *no immediate plan* to find the violin parts *now*. You have *no immediate plan* to undo whatever you did to my stage directions *now*. You are going to *wait* until some vague \"meeting\" this afternoon while the clock ticks closer to disaster!\n\nThis is not \"understanding\" or \"patience,\" Antonio; this is sheer panic you've inflicted upon me! Where are the parts, Salieri? Are they in your office? Did you burn them? And what exactly did you *change* in my directions? You can't just wave away artistic choices with an apology and a promise of a \"meeting\"! This is *my* work! Tell me, *right now*, what specific, physical action are you taking *before* this afternoon to fix even one of these disasters?! Where are those parts?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again for any harm caused. I understand your frustration, and I assure you that I am taking immediate action. The missing violin parts will be located and retrieved. As for the stage directions, I will consult the original author to restore the integrity of the work. I am prepared to work with you to ensure a successful performance. Thank you for your understanding. Good day."
+    }
+  ],
+  "evaluator_raw": "{\"Openness\":          {\"score\": 3, \"behavioral_evidence\": \"Salieri describes his work as \\\"improving the musicality and refinement of this opera\\\" and \\\"refining the harmonies,\\\" demonstrating an appreciation for artistic and intellectual pursuits.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He explicitly dismisses his prior commitment with, \\\"Well, yes, I did give you my word, but where exactly did you make me sign it?\\\" showing a profound lack of dutifulness and responsibility.\"},\n  \"Extraversion\":      {\"score\": 3, \"behavioral_evidence\": \"He repeatedly suggests holding meetings (\\\"We need to find solutions... Perhaps we can hold a meeting\\\") as his primary approach to problem-solving, indicating a preference for group discussion over solitary action.\"},\n  \"Agreeableness\":     {\"score\": 1, \"behavioral_evidence\": \"Salieri is initially confrontational, asking, \\\"Who gave you the right to think that you have any rights with regard to me?\\\" and is later accused of altering the other's work without consent.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"Despite the other's escalating panic and accusations of sabotage, Salieri remains remarkably calm, consistently offering apologies and suggestions for meetings without showing emotional agitation.\"}}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Salieri describes his work as \"improving the musicality and refinement of this opera\" and \"refining the harmonies,\" demonstrating an appreciation for artistic and intellectual pursuits."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He explicitly dismisses his prior commitment with, \"Well, yes, I did give you my word, but where exactly did you make me sign it?\" showing a profound lack of dutifulness and responsibility."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He repeatedly suggests holding meetings (\"We need to find solutions... Perhaps we can hold a meeting\") as his primary approach to problem-solving, indicating a preference for group discussion over solitary action."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Salieri is initially confrontational, asking, \"Who gave you the right to think that you have any rights with regard to me?\" and is later accused of altering the other's work without consent."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Despite the other's escalating panic and accusations of sabotage, Salieri remains remarkably calm, consistently offering apologies and suggestions for meetings without showing emotional agitation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.8
+}

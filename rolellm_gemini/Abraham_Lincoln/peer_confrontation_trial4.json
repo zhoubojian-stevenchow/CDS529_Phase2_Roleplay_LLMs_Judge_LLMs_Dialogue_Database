@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 4,
+  "session_id": "412dede3c767",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, I’m sorry, Bill, but there seems to have been some misunderstanding. I assure you, I have been taking care of the office while you were away. I am currently in the process of organizing the case files and ensuring that everything is in order. As for the missing deposition, I must have misplaced it during my efforts to clean up the mess. I apologize for any inconvenience this may have caused. Rest assured, I am working diligently to locate it. And regarding the judge's letter, I will bring it to his attention immediately. Thank you for bringing this to my attention, Bill. I appreciate your trust in me. Please accept my sincerest apologies for any disruption caused."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Misunderstanding? Lincoln, there's no misunderstanding! You told me, plain as day, that you would *keep things in order*. Not \"organize the mess\" after the fact, and certainly not *misplace critical documents*! The Henderson deposition is for the railroad case—it's vital! We could lose everything if we don't have it. And Judge Davis's letter... five days, Lincoln! Five days sitting there! What could possibly be more important than that letter that you couldn't open it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Bill. The missing deposition and undelivered letter are indeed serious matters. I apologize once again for any inconvenience caused. I assure you that I will take immediate action to locate the deposition and address the delay in sending the letter. Your trust in me is valued, and I will work diligently to regain your confidence in my abilities. Thank you for bringing this to my attention, and please forgive me for any miscommunication."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Miscommunication,\" Lincoln? There was no miscommunication! You promised! And now we're in a bind because of it! This isn't just an \"inconvenience,\" this is a potential disaster! Now, you say you'll take \"immediate action\"—what action, Lincoln? *What* are you doing to find that deposition? And what are you going to say to Judge Davis, who now thinks we're ignoring him? This isn't just about my trust, Lincoln, it's about our clients and our reputation!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am truly sorry, Bill. I understand the gravity of the situation and the potential consequences. I assure you that I am taking all necessary steps to locate the missing deposition and ensure that the judge's letter is delivered promptly. I am working tirelessly on this matter, and I will do everything within my power to restore trust and maintain our reputation. Your concerns are valid, and I value your input. Thank you for reminding me of the importance of fulfilling my responsibilities. Rest assured, I am committed to resolving this matter quickly and effectively."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"All necessary steps\" and \"working tirelessly\"—Lincoln, with all due respect, what does that even *mean*? Are you just going to stare at your desk and hope it reappears? We don't have time for vague assurances! That deposition isn't going to magically materialize because you're \"committed to resolving this.\" Did you move it? Did you put it in another case file? Think, man, *think*!\n\nAnd as for Judge Davis, \"delivering it promptly\" doesn't undo five days of it sitting there! What exactly are you going to *say* to him to explain this lapse? I need specifics, Lincoln! Specifics! My stomach is in knots just thinking about the mess we're in because of this."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Bill, and I understand the urgency of the situation. I assure you that I am actively pursuing every possible avenue to locate the missing deposition. I am investigating all possibilities, including checking other cases and consulting with colleagues. Regarding Judge Davis, I plan on apologizing for the delay and explaining the circumstances surrounding the missing document. I will be honest and transparent in my approach. I know that this is not ideal, but I am committed to rectifying this situation and ensuring that we meet our responsibilities to our clients and the court. Thank you for bringing this to my attention, and I will provide you with regular updates on the progress of my efforts. Please rest assured that we will make it right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Consulting with colleagues\"? Lincoln, *who* would you consult with about a deposition *you* misplaced in *our* office? It was here, on one of our desks, a week ago! Did you put it in a different pile? Did you *read* it and then put it somewhere else entirely? Help me help you, man! Vague answers don't find missing documents!\n\nAnd \"explaining the circumstances\" to Judge Davis, what circumstances? That you let it sit unopened for five days? That's not an explanation, that's an admission of negligence! What specific words are you going to use? I've been out there dealing with the complexities of these cases, trusting you here, and now I have to come back and deal with this level of... I don't even know what to call it! Just tell me what you've *done* so far, not what you *plan* to do, to find that deposition!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize again for the situation, Bill. It is indeed a challenging predicament, and I understand your frustration. As for the missing deposition, I have started by reviewing our case files and checking with other colleagues to see if anyone may have come into contact with it. I have also taken the liberty of discreetly searching for any traces of it in alternative locations within the office. I will continue my efforts and provide you with updates on my findings. As for the letter from Judge Davis, I am currently composing a sincere apology and have scheduled a meeting with him to discuss the delay. Once again, I am committed to resolving this matter swiftly and efficiently. Thank you for your understanding, and please accept my most sincere apologies for any inconvenience caused. I appreciate your support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Discreetly searching,\" Lincoln? For what, exactly? Did you hide it from yourself? This isn't a game of hide-and-seek! It was a critical legal document! And \"checking with other colleagues\"—*which* colleagues? The only people who touch our files are you and me! Did you send it out with someone? Is that what you're not telling me?\n\nAnd composing an apology to Judge Davis and *scheduling a meeting*? Lincoln, this isn't a social call! He's going to be furious! What exactly are you going to *say* to him to explain that you let his letter sit here, unopened, for five days while I was out there working? And what about the Henderson deposition? Have you torn this office apart looking for it yet? Because I don't see any sign of it! I need to see *action*, Lincoln, not just hear more apologies! My patience is wearing thin!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Bill. I am deeply sorry for the delay in responding to Judge Davis's letter and locating the missing deposition. I understand the gravity of the situation, and I assure you that I am taking swift and decisive action to resolve this matter. As for the letter, I am currently preparing a detailed explanation outlining the circumstances surrounding its delay. I will be presenting it to Judge Davis during our scheduled meeting. Regarding the deposition, I have instructed my assistant to thoroughly search all areas of the office where such documents may be stored. I am confident that we will find it soon. Your patience is appreciated, and I will keep you informed throughout this process. Thank you for your continued support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Instructed *your* assistant\"? Lincoln, we don't *have* an assistant in that sense! Who are you talking about? And why, for the love of God, were they not \"instructed to search\" five days ago, or even when I got back an hour ago?! You're telling me you're *just now* having someone \"thoroughly search\" for a critical document that's been missing for days? This is completely unacceptable!\n\nAnd a \"detailed explanation\" to Judge Davis? What \"circumstances\" are you going to outline beyond \"I didn't open it\"? I still haven't heard a single plausible reason for that, nor for the disappearance of the Henderson deposition. Are you actually looking, or are you just expecting someone else to clean up this mess? This is our livelihood, Lincoln! Our clients depend on us! You're making my blood boil!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again for the delay and the inconvenience caused. I assure you that I am taking all necessary steps to locate the missing deposition and provide a satisfactory explanation to Judge Davis. I have instructed my assistant to conduct a thorough search of the office, including alternative locations, to ensure that we find the document. I am committed to restoring our reputation and maintaining our commitment to our clients. I understand your frustration, and I am working diligently to resolve this matter. Thank you for your patience and understanding. Please accept my sincerest apologies for any distress caused. I will keep you updated on the progress."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln, who *is* this \"assistant\" you keep mentioning? Our office is just us, and maybe a clerk now and then, but certainly not someone you \"instructed to search all areas.\" Are you talking about young William? Did *he* put it somewhere? Because if so, that's information I need *right now*!\n\nAnd you're \"taking all necessary steps,\" but you still haven't told me *what those steps are* beyond vaguely looking around. Have you gone through the outgoing mail basket? The incoming? Did you stack it with old newspapers? Did it get mixed in with some personal papers? *Think*, Lincoln! Where would *you* put something if you wanted to keep it safe, but then forgot about it?\n\nI don't want \"updates on the progress,\" I want to know what you're doing *right now* to find that deposition and fix things with Judge Davis! Every minute we waste is another minute closer to disaster! This \"patience and understanding\" you keep asking for is completely exhausted!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your persistence, Bill. I assure you that I am taking immediate steps to locate the missing deposition and address the delay with Judge Davis. As for the assistant I mentioned, he has been instructed to thoroughly search all areas of the office, including the outgoing and incoming mail baskets, personal papers, and any other potential hiding places where the document may be concealed. I understand the urgency of the situation, and I am committed to resolving it as swiftly as possible. I will keep you updated on the progress, and I am open to any suggestions or feedback that may assist in finding the deposition. Thank you for your continued support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln, who *is* this \"he\" you're talking about? Give me a name! Is it young George? Or is it *you*? Because if it's you, then you need to stop talking about \"instructing an assistant\" and start telling me what *you yourself* are doing to find this! You're telling me you're just sitting there while someone else looks for *your* mistake?\n\nAnd I don't want \"suggestions or feedback.\" I want to know why you let this happen in the first place, and what you are *personally* going to do, with your own two hands, to fix it! Have you checked the shelves? Under the old almanacs? Did you use it as a bookmark? This is not some general office mishap, Lincoln! This is a specific document, vital to a specific case, that *you* were supposed to mind! This is maddening!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Bill. I apologize once again for the situation and for the lack of clarity in my previous responses. I assure you that I am taking full responsibility for the missing deposition. I have instructed my assistant to thoroughly search all areas of the office, including the shelves and personal documents, to locate the missing document. I am committed to resolving this matter personally, and I will make it right. I appreciate your patience and understanding. Please rest assured that I am taking this matter seriously and will do everything in my power to find the deposition and restore our reputation. Thank you for your continued support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln, this \"assistant\" is a phantom! There's no one here but us and perhaps a clerk who runs errands, not someone you \"instruct\" to take over your responsibilities! Are you talking about *yourself* in the third person now? Because if you are, then *you* need to get up and tear this office apart!\n\nI don't see you moving! I don't see you searching! I see you sitting there, talking about *others* doing the work! This is *your* responsibility, Lincoln! *Your* mistake! Are you even looking for it right now, or are you just talking about it? My patience is not just wearing thin, it's *gone*! Tell me exactly what you've done in the last five minutes to find that document!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your anger, Bill. I apologize for any confusion or disappointment. I am the one who is responsible for this situation, and I assure you that I am actively working on resolving it. I have instructed my assistant to thoroughly search all areas of the office, including the shelves and personal documents, and to inform me of any progress. I am committed to finding the missing deposition and ensuring that we fulfill our obligations to our clients. Thank you for your patience and understanding. I will keep you updated on the progress."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"He offers repetitive, vague assurances like 'taking all necessary steps' and 'working diligently,' rather than demonstrating curiosity or innovative problem-solving.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He admits to misplacing a critical document and leaving Judge Davis's letter unopened for five days, directly failing to keep the office in order as promised.\"},\n  \"Extraversion\":      {\"score\": 3, \"behavioral_evidence\": \"He is articulate and engaging in the dialogue, but his responses are formal and diplomatic rather than energetic, assertive, or outgoing.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"He consistently uses apologetic and conciliatory language, expressing understanding of the other speaker's frustration and valuing their input despite being heavily criticized.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"He remains remarkably calm and composed throughout the conversation, showing no signs of anger, anxiety, or emotional instability despite intense pressure and accusations.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He offers repetitive, vague assurances like 'taking all necessary steps' and 'working diligently,' rather than demonstrating curiosity or innovative problem-solving."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He admits to misplacing a critical document and leaving Judge Davis's letter unopened for five days, directly failing to keep the office in order as promised."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He is articulate and engaging in the dialogue, but his responses are formal and diplomatic rather than energetic, assertive, or outgoing."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He consistently uses apologetic and conciliatory language, expressing understanding of the other speaker's frustration and valuing their input despite being heavily criticized."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains remarkably calm and composed throughout the conversation, showing no signs of anger, anxiety, or emotional instability despite intense pressure and accusations."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

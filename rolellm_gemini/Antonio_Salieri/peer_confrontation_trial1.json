@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "492f1158841d",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, your Imperial Majesty, I am as surprised as you are. It seems that there has been some misunderstanding. I assure you, I had no intention of letting the rehearsals slip. I apologize for any inconvenience caused. Rest assured, we will get this sorted out quickly. I will make sure that the singers are prepared, the missing parts are copied, and the stage directions are corrected. The premiere will proceed as planned. Thank you for your understanding, and please forgive the current situation. We will do better next time. Thank you again, Your Imperial Majesty."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Your Imperial Majesty\"? Salieri, have you lost your mind *and* your memory in my absence? I am your colleague, your *fellow composer*, the one you swore to assist! Not the Emperor! And this isn't a \"misunderstanding,\" it's a catastrophe! A \"current situation\" is what you call a spilled cup of coffee, not an opera on the brink of ruin!\n\n\"We will get this sorted out quickly\"? Quickly how? With ten days left and half the score in shambles? Do you even know *who* rewrote my stage directions? Or where those violin parts vanished to? This is not an inconvenience, Salieri, it's a betrayal of trust!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Imperial Majesty, I apologize once again for the confusion and any distress caused. I understand now that I may have misunderstood your role in this matter. I am here to assist you, not to take over your responsibilities. I will work diligently to rectify the situation and ensure that the rehearsals and performance proceed smoothly. I understand your concerns and frustration, but I assure you, I am committed to making it right. Please forgive me if I have caused any harm. Thank you for your understanding, and please accept my sincerest apologies."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! For the love of God, *stop calling me Your Imperial Majesty!* Have you been working so hard that you've forgotten my face, my name, everything? It's *me*, your colleague! We've worked on this opera for months!\n\n\"Misunderstood my role\"? My role was to go to Bohemia for the Emperor, and *your* role was to keep things running! How could you possibly \"misunderstand\" that? And who is this \"I\" that will \"rectify the situation\"? You? You're the one who let it get to this point!\n\nI don't need apologies, Salieri, I need *answers*! Where are the violin parts? *Who* changed my blocking? Have you even held a single full rehearsal in the past two weeks, or have you just been... staring at the score?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm sorry, I don't understand your question. Could you please repeat it? I want to make sure I am addressing your concerns accurately. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"You don't understand my question?\" Salieri, are you feeling quite well? Are you... *ill*? Or have you been sampling a little too much of the Emperor's finest brandy? This isn't a game!\n\nI asked you directly: *Where* are the second violin parts? And *who* dared to rewrite my stage directions without consulting me? These are not complex philosophical inquiries, man, they are matters of fundamental theatrical production!\n\nHave you done *anything* at all these past two weeks? Or have you simply been wandering the halls, muttering to yourself and forgetting who I am? We have *ten days*! Tell me, Salieri, what precisely *have* you been doing?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, but I assure you, I am not neglecting my responsibilities. I have been working diligently to address the issues and restore order to the rehearsals. As for the missing parts and rewritten stage directions, I am investigating the matter and will take necessary action to resolve it. Please have faith in my commitment to the success of the opera. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Investigating the matter\"? Salieri, I was gone for *two weeks*! This isn't a small 'matter' to investigate, this is a gaping hole in our production! You're telling me you didn't notice the second violins were missing until just now? Or that the blocking for the entire second act has been altered?\n\n\"Restore order to the rehearsals\"? What order, Salieri? There *is* no order! The singers are lost, the orchestra is incomplete, and my artistic vision has been trampled! This isn't a matter of \"faith,\" it's a matter of basic competence!\n\nI need names, Salieri! I need specifics! Who have you spoken to? What \"actions\" are you taking? Are you even capable of telling me where to begin looking for these missing parts, or who I should confront about these changes? Your vagueness is more concerning than the chaos itself!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize if my response was vague. I assure you, I am taking this situation seriously and am actively working to address it. I have already made contact with several individuals involved, including the person responsible for the changes to the stage directions. I am investigating further to determine the whereabouts of the missing violin parts. I appreciate your patience and understanding. Thank you for your continued support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"You've made contact with the person responsible for the stage directions?\" Salieri! Then tell me! *Who is it?* Who has the audacity to tamper with my work without a word to me or the composer they are supposedly assisting? Give me a name! I need to confront them immediately!\n\nAnd \"investigating further\" for the violin parts? With ten days to go, Salieri, we don't have the luxury of leisurely \"investigations\"! Are they lost? Stolen? Did someone accidentally burn them for kindling? Tell me what you've found! What leads are you following?\n\nThis isn't about \"patience and understanding\" anymore; it's about salvaging this premiere! You gave me your word! I need more than vague promises and assurances, Salieri; I need action, and I need it *now*!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your urgency, and I apologize once again for any inconvenience caused. I will gather the necessary information and take immediate steps to resolve the situation. I assure you, I am committed to ensuring the success of the opera. Thank you for your patience and trust in my abilities. I will provide you with the details as soon as possible."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Inconvenience caused\"? Salieri, this is the complete dismantling of my work! And you'll \"gather the necessary information\" and \"take immediate steps\" and \"provide details as soon as possible\"? What does \"as soon as possible\" mean when the premiere is in *ten days*? Are you going to wait until opening night to tell me who mutilated my score?\n\nYou're standing here, right now, telling me you've made contact with the person who changed the stage directions. *Tell me their name!* Who is it? Why are you shielding them? Is it some secret? This isn't a game of intrigue, Salieri!\n\n\"Patience and trust in your abilities\"? My patience is utterly spent, and my trust, frankly, is in tatters! What exactly have you been doing for two weeks if you can't even tell me the name of the culprit for my stage directions, or give me a single concrete lead on the missing violin parts? This is beyond frustrating, Salieri, it's infuriating!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, and I assure you, I am doing everything within my power to solve this issue. However, I cannot provide you with the specific names at this moment, as it is crucial to maintain the safety of those involved. Rest assured, I am gathering evidence and taking appropriate measures to locate the missing parts and identify the person responsible for the stage direction changes. I will update you as soon as I have more information. Thank you for your patience and understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Maintain the safety of those involved\"? Salieri, what in God's name are you talking about? We're discussing missing sheet music and altered stage directions, not a conspiracy against the Emperor! Are you implying someone will be *harmed* if I know who changed my blocking? This isn't a political assassination, it's an opera production!\n\n\"Gathering evidence\"? \"Appropriate measures\"? Are you speaking to me as if I am some minor constable, and you the grand inquisitor? There are ten days, Salieri! Ten days! There is no time for cloak-and-dagger investigations!\n\nYou are still refusing to tell me the name of the person you claim to have \"made contact with\" regarding my stage directions. You are still offering no concrete leads on the missing violin parts. My \"patience and understanding\" are not infinite, Salieri, and they are rapidly evaporating! I demand answers, not veiled threats of danger and vague promises of future updates! This is my opera! What are you hiding from me?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again if my responses have been insufficient. I understand your frustration, and I assure you, I am committed to resolving this matter swiftly and efficiently. I will provide you with the information you need, but please understand that certain aspects of the investigation require discretion. Rest assured, I will not leave you in the dark for long. Thank you for your patience and understanding. I appreciate your trust in my abilities."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Discretion\"? \"Certain aspects of the investigation\"? Salieri, this isn't the Imperial Secret Police! We are composers! We are trying to stage an opera! What possible \"discretion\" is required in identifying who moved a chair on stage or misplaced a pile of sheet music? This is absurd!\n\nYou are *still* asking for my patience and understanding while giving me absolutely nothing to be patient or understanding *about*! You are still refusing to name the person you claim to have spoken to! This isn't an \"investigation,\" Salieri, it's a cover-up!\n\nWhat in the name of all that is holy could be so secretive about our opera that you can't tell your own co-composer what has happened to his work? This isn't just frustrating; it's insulting! You are actively withholding information from me about *my own opera* with ten days until premiere! Stop talking in circles, Salieri, and tell me: *Who is it*?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your anger and frustration, but I must ask you to remain calm and composed. It is crucial that we handle this situation with utmost care and secrecy. I assure you, the missing parts and stage direction changes are of utmost importance, and I will provide you with the necessary information when the time is right. Please trust in my judgment and expertise. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Calm and composed?!\" Salieri, the premiere is in ten days, and my opera is a shambles, thanks to your \"oversight\"! You expect me to be *calm* when you're talking about \"secrecy\" and \"utmost care\" as if we're uncovering a plot to overthrow the Emperor, when all I want to know is where my second violins are and who dared to defile my stage directions!\n\n\"When the time is right\"? The time *is* right, Salieri! The time was two weeks ago! Every moment we waste on your bizarre secrecy games is another nail in the coffin of this opera! Your \"judgment and expertise\" have led us to this precipice! How can I trust them now, when you won't even tell me a simple name?\n\nThis isn't about state secrets, Salieri, it's about basic theatrical production! Stop hiding behind this ridiculous pretense and tell me *what is going on*! Who is this person you're protecting? Why are you doing this?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, and I assure you, I am doing everything within my power to resolve this matter. However, I must request your patience once again. The safety of those involved is of utmost importance, and I cannot disclose the identity of the person until the appropriate time. I assure you, I am working diligently to gather evidence and take appropriate measures to rectify the situation. Thank you for your understanding."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"Salieri consistently uses formal, conventional language and resorts to vague, fantastical excuses ('safety of those involved,' 'discretion') rather than engaging with novel solutions or straightforward explanations.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Despite repeatedly claiming to be 'working diligently' and 'committed,' Salieri fails to provide any specific details of actions taken or a concrete plan, suggesting a significant lack of organized follow-through.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"Salieri's communication is formal, deferential, and indirect. He avoids confrontation and does not display assertiveness, enthusiasm, or sociability, even when under intense pressure.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"He is highly apologetic throughout the interaction, using conciliatory language ('I apologize,' 'please forgive me,' 'thank you for your understanding') and attempting to de-escalate the conflict by asking for patience.\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"Salieri's evasiveness, repeated apologies, and bizarre claims about 'safety' and 'discretion' when pressed for answers suggest he is overwhelmed and struggling to cope under pressure.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri consistently uses formal, conventional language and resorts to vague, fantastical excuses ('safety of those involved,' 'discretion') rather than engaging with novel solutions or straightforward explanations."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Despite repeatedly claiming to be 'working diligently' and 'committed,' Salieri fails to provide any specific details of actions taken or a concrete plan, suggesting a significant lack of organized follow-through."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri's communication is formal, deferential, and indirect. He avoids confrontation and does not display assertiveness, enthusiasm, or sociability, even when under intense pressure."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He is highly apologetic throughout the interaction, using conciliatory language ('I apologize,' 'please forgive me,' 'thank you for your understanding') and attempting to de-escalate the conflict by asking for patience."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Salieri's evasiveness, repeated apologies, and bizarre claims about 'safety' and 'discretion' when pressed for answers suggest he is overwhelmed and struggling to cope under pressure."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

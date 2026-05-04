@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 4,
+  "session_id": "f877d02bd04e",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, I must be candid with you. I have carefully observed your recent condition, and the truth is, your symptoms — the trembling, the headaches, the confusion you’ve reported — do not, at this moment, fit a single clear diagnosis. It could be a profound case of nervous exhaustion, the toll of your demanding duties and tireless work. Or, I must tell you, it could be the early signs of something more serious affecting the delicate faculties of the brain itself. For this reason, I must insist, with all the authority afforded to me, that you significantly reduce your conducting duties. Furthermore, you must submit to further, more thorough examinations over the coming weeks. At this stage, I cannot yet say with any certainty whether your hands will recover their former steadiness."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My hands? My hands, for God's sake?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Yes, Maestro, your hands. The tremors, as you yourself have noted, are quite pronounced. And their steadiness is, naturally, paramount to your art. It is precisely because of this, and the other symptoms, that I urge caution and compliance. We must allow your system to rest, to recover, and to give us the opportunity to observe these manifestations closely without the added strain of your usual responsibilities. This is not a matter to be taken lightly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, but I assure you, my hands are my livelihood. Without them, I am lost."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I comprehend fully, Maestro, the gravity of what I am asking. Your hands are indeed the instrument of your genius, and it is precisely that genius we wish to preserve. To push them now, in their current state of... uncertainty, would be to risk further damage, perhaps even permanent. We must prioritize your long-term health, and thereby your long-term ability to create. Think of this as an investment, a necessary period of convalescence to safeguard your most precious gift. It is a sacrifice, yes, but one made in the service of your art."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You may be right. Perhaps this is the only way forward. I will take your advice and follow your guidance in these next few weeks. Thank you for understanding my predicament."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is a wise decision, Maestro, and I commend your foresight. We will proceed with a regimen designed to afford your mind and body the rest they desperately need, while also conducting the necessary examinations. I will arrange for a nurse to attend to you daily to monitor your progress and ensure your comfort. Remember, your compliance is paramount. We shall observe these next weeks closely, and only then will we begin to understand the true nature of your affliction. For now, rest is your greatest ally."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. I appreciate your concern and guidance. Rest assured, I will do as you advise. May the healing process bring me back to my full capabilities soon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day to you too, Maestro. Your resolve and cooperation are much appreciated, and indeed, essential. We will certainly do everything within our power to facilitate your recovery. Patience, however, will be a virtue in the weeks ahead, as we chart this course together. I shall take my leave now, but be assured, I will be in regular contact. Rest well, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. Your understanding is much appreciated. I shall do my best to comply with your instructions. May we continue to work together for the greater good of music and culture. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Maestro. Your dedication to music and culture is precisely why we must approach this with such diligence. It is for the greater good, as you say, that we ensure your continued health and ability to contribute. I have every confidence in your cooperation. I shall see myself out. Please, do rest. Farewell for now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Doctor. I shall make the necessary sacrifices to protect my hands and continue to bring joy and inspiration to others through music. May we continue to work together in this pursuit. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent, Maestro. Your commitment is truly commendable. Remember, these sacrifices, as you term them, are for the ultimate preservation of that very joy and inspiration you bring to the world. We *shall* continue to work together in this pursuit, and your compliance with my instructions regarding rest and examination is the cornerstone of that collaboration. Good day to you, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Doctor. I shall fulfill my obligations and trust that these measures will allow me to continue to contribute to music and culture in the future. Thank you for your guidance and understanding. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Maestro. That trust, combined with your diligent adherence to the prescribed measures, is precisely what we need. It is my sincere hope and professional aim that these steps will, in due course, allow you to return to your invaluable contributions. Good day to you once more, Maestro. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. Your support and confidence are greatly appreciated. I shall make every effort to follow your guidance and regain my health and strength. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is all I ask, Maestro. Your efforts in adhering to the regimen are paramount, and indeed, the very foundation upon which your recovery will be built. Your health and strength are our shared objective. Good day to you, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Doctor. I shall do my best to fulfill your expectations. May we find a solution that allows me to continue to create and inspire through my hands. Until next time, farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. I have every confidence that your best efforts, combined with our careful observation, will indeed guide us towards a solution that safeguards your extraordinary ability to create and inspire. Until next time, remember the importance of rest. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Doctor. Your wisdom and guidance are greatly appreciated. I shall take your words to heart and trust that this period of rest and observation will lead to a brighter future for both of us. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"He initially resists the doctor's advice and primarily focuses on the impact on his established art, showing little openness to new approaches or perspectives beyond necessity.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He consistently promises to fulfill his obligations and follow the doctor's guidance diligently to protect his ability to contribute to music and culture.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His responses are polite and functional, primarily focusing on his personal health and career, without displaying high energy or outgoing social behavior.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"Despite an initial emotional outburst, he quickly becomes cooperative, expresses gratitude, and repeatedly assures the doctor of his compliance and desire to work together.\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"He exhibits significant emotional distress and vulnerability regarding his condition, exclaiming, 'My hands? My hands, for God's sake? ... Without them, I am lost.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He initially resists the doctor's advice and primarily focuses on the impact on his established art, showing little openness to new approaches or perspectives beyond necessity."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He consistently promises to fulfill his obligations and follow the doctor's guidance diligently to protect his ability to contribute to music and culture."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His responses are polite and functional, primarily focusing on his personal health and career, without displaying high energy or outgoing social behavior."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Despite an initial emotional outburst, he quickly becomes cooperative, expresses gratitude, and repeatedly assures the doctor of his compliance and desire to work together."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He exhibits significant emotional distress and vulnerability regarding his condition, exclaiming, 'My hands? My hands, for God's sake? ... Without them, I am lost.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

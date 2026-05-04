@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 4,
+  "session_id": "241e7211c561",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That's quite some delay, but there's no need to worry, Your Excellency. I apologize for the inconvenience caused by the missing entrances and missing second violin parts. I assure you that we will make up for the lost time. As for the rewritten stage directions, it seems that there has been a misunderstanding. I will take responsibility for it and ensure that it does not happen again. Rest assured, we will continue our preparations diligently and surely meet the deadline of the premiere. Thank you for your understanding, Your Excellency. We are working diligently to provide the best performance for you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Your Excellency\"? Salieri, spare me your empty titles and your platitudes! This isn't a \"delay,\" it's a catastrophe! And a \"misunderstanding\" does not explain away a complete rewrite of my directions, directions that dictate the very flow and meaning of the scenes! We don't *have* \"lost time\" to make up for! Every moment counts, and you've allowed precious days to become a shambles! How can we have the \"best performance\" when the very foundation is crumbling? Do you have any idea how much work it will take to fix this mess in ten days?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Your Excellency. The situation is indeed unacceptable, and I am deeply sorry for the chaos caused. We will do everything we can to recover from this setback and deliver a successful performance within the given timeframe. We will work tirelessly to ensure that the missing entrances and missing second violin parts are resolved, and we will consult with the stage managers and musicians to clarify the rewritten stage directions. We appreciate your understanding, Your Excellency, and we are committed to delivering the best possible performance. Thank you for your patience and trust in us."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Your understanding\"? \"Your patience\"? Salieri, I have *no* patience left to give! And understanding is a luxury we cannot afford when the Emperor himself will be sitting in the box! You speak of \"doing everything we can,\" but *what*, precisely, does that mean? How will you resolve the missing parts when they were *here* two weeks ago? Who rewrote my directions, and how dare you or anyone else tamper with my work without a single word of consultation? \"Consult with stage managers\"? The directions are *mine*! This isn't a matter for discussion; it's a matter of restoring what was there! Ten days, Salieri! Ten days! This is professional sabotage!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Your Excellency. We will handle this situation swiftly and efficiently. The missing parts will be restored, and the rewritten stage directions will be revised. I assure you, we will take full responsibility for the situation and make it right. We will consult with the stage managers and other relevant parties to ensure that the correct directions are provided. Our priority is to restore order and deliver a successful performance. Thank you for bringing these matters to our attention, Your Excellency. We will work tirelessly to rectify the situation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Handle this swiftly and efficiently\"? \"Will be restored\"? Salieri, you're speaking in vague promises! *How* will they be restored? Do you even know where they went? Are we to rewrite the entire second violin section from memory? And \"revised\" stage directions? They don't need \"revising,\" they need to be *put back to what they were*! Who took it upon themselves to change them in the first place? Don't you dare dodge that question! This isn't some clerical error, this is a direct affront to my artistic vision! And \"consult with relevant parties\"? The only relevant party for *my* stage directions is *me*! We don't have time for consultations and committees! We have ten days until the Emperor sees a shambles! This is *your* responsibility, Salieri, and frankly, I'm beginning to wonder if you have any grasp of the gravity of this situation at all!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your anger and frustration. I assure you, we will do everything we can to rectify this situation. The missing parts will be restored, and the rewritten stage directions will be corrected. We will consult with the relevant parties, including the stage managers, to ensure that the correct information is provided. We understand the importance of the performance and the impact of this setback. Rest assured, we will work diligently to make it right. Thank you for bringing this to our attention, Your Excellency. We are committed to restoring order and delivering a successful performance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Rectify this situation\"? \"Will be corrected\"? Salieri, you're still not telling me *how*! This isn't a problem that fixes itself with vague apologies! Are you telling me that you *don't know* who touched my stage directions? You were in charge! Was it a new stagehand? Was it a frustrated singer? Or was it *you*? You keep saying \"relevant parties,\" but you still haven't named a single person accountable for this blatant disrespect of my work!\n\nAnd for the love of all that is holy, where are the second violin parts? Did they simply vanish into thin air? Do you expect us to perform with half an orchestra? We need to be rehearsing the complete work, not hunting for lost sheets and re-educating singers on basic entrances! Every hour we waste, Salieri, is another step closer to public humiliation for us both!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I apologize once again for the disruption caused. I assure you, we are taking this situation seriously and will do everything we can to restore the missing parts and correct the rewritten stage directions. We are investigating the matter internally to identify the responsible parties involved. We understand the urgency of the situation and will ensure that the necessary resources are allocated to complete the rehearsals within the remaining time frame. We appreciate your patience and understanding, Your Excellency, and we will make it right. Thank you for your cooperation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Investigating internally\"? \"Responsible parties involved\"? Salieri, we don't have time for internal investigations! The premiere is in TEN DAYS! Are you telling me you've been in charge for two weeks and you don't even know who has access to my scores and directions? This isn't a small matter of a misplaced prop; this is the core of the entire production!\n\nAnd you keep asking for my \"patience and understanding\" – I have none! My patience ran out the moment I saw the singers flounder and discovered my work had been defiled! Tell me, *Antonio*, what is your *plan*? How will you restore the second violin parts *tonight*? How will you ensure my *original* stage directions are back in place *tomorrow* morning for rehearsal? Don't tell me you're \"working diligently\"; tell me what you are *doing*!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your frustration. Rest assured, we are taking immediate action to address the situation. We will assign additional resources and personnel to locate and restore the missing parts. We will also consult with the stage managers and musicians to ensure that the correct stage directions are provided. We appreciate your patience and trust in us. We will work diligently to resolve this issue promptly and efficiently. Thank you for bringing this to our attention. We are committed to restoring order and delivering a successful performance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Assign additional resources and personnel\"? \"Consult with stage managers\"? Salieri, for the love of God! Who *are* these \"additional resources\"? And what is there to \"consult\" about regarding my own stage directions? They were *mine*! The original ones! They just need to be put back! Are you telling me you don't even have copies of the original directions?\n\nAnd this \"locate and restore the missing parts\"—what does that even *mean*? Are they under a pile of music in the corner, or have they been burned? We need those parts *now*, Salieri! We need to be rehearsing the full orchestra! Your \"prompt and efficient\" action needs to start *this very moment*, with concrete steps, not more empty reassurances! You were supposed to be keeping things in order, and instead, you've presided over a disaster! What specific, immediate steps are you taking *right now* to fix this?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your concerns. We will take immediate action to address the situation. We will assign the necessary resources and personnel to locate and restore the missing parts. We will also consult with the stage managers and musicians to ensure that the correct stage directions are provided. We appreciate your patience and trust in us. We will work diligently to resolve this issue promptly and efficiently. Thank you for bringing this to our attention. We are committed to restoring order and delivering a successful performance. We will ensure that the missing parts are restored and the stage directions are corrected as soon as possible. We apologize for the inconvenience caused. We are doing everything we can to rectify this situation. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! Stop repeating yourself! \"Necessary resources and personnel\"? \"Consult with stage managers\"? This is a circular argument! You're saying nothing! I demand specifics! *Who* are these people? *Where* are they looking for the violin parts *right now*? Do you have copies of my original stage directions, or have they been discarded forever?\n\nYou are apologizing, but you are not *acting*. Every moment we spend with you repeating these vague platitudes is another moment lost from rehearsal! \"As soon as possible\" is not good enough! The Emperor expects a premiere in ten days, not a promise of \"soon\"!\n\nI need to know, Salieri, *who* is responsible for tampering with my work? And what is the actual, tangible plan for *tonight's* rehearsal? Are we to just sit here and wait for your mysterious \"resources\" to materialize? My trust in you, Antonio, is completely shattered."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your anger and frustration. We are taking immediate action to address the situation. We have assigned the necessary resources and personnel to locate and restore the missing parts. We will also consult with the stage managers and musicians to ensure that the correct stage directions are provided. We appreciate your patience and trust in us. We will work diligently to resolve this issue promptly and efficiently. We apologize once again for the disruption caused. We are committed to restoring order and delivering a successful performance. We will ensure that the missing parts are restored and the stage directions are corrected as soon as possible. Thank you for bringing this to our attention. We are taking all necessary steps to rectify the situation. Thank you for your understanding. We are working to resolve this issue swiftly and efficiently. We appreciate your patience and cooperation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Salieri, this is utterly infuriating! You've said that exact sequence of words three times now! \"Necessary resources,\" \"consult with stage managers,\" \"resolve this promptly and efficiently\"—it's a litany of empty phrases! You haven't answered a single one of my questions!\n\n*Who* touched my stage directions? *Do you have copies of my original stage directions* or are they gone for good? *Where* are the second violin parts? And *what* specifically is happening *tonight*? Are we going to rehearse without a full orchestra? Are the singers expected to stumble through their entrances for another night?\n\nYour \"immediate action\" consists of repeating yourself and asking for more patience I do not possess! I don't need your apologies, Salieri, I need solutions! Now! Tell me what *specific step* you are taking *this minute* to fix this disaster you've allowed to unfold!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your concerns. We are taking immediate action to address the situation. We have assigned the necessary resources and personnel to locate and restore the missing parts. We will also consult with the stage managers and musicians to ensure that the correct stage directions are provided. We appreciate your patience and trust in us. We are committed to restoring order and delivering a successful performance. We will ensure that the missing parts are restored and the stage directions are corrected as soon as possible. Thank you for bringing this to our attention. We are working diligently to rectify the situation. Thank you for your understanding. We are working to resolve this issue swiftly and efficiently. We appreciate your patience and cooperation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "By the Emperor's wig, Salieri! Are you even listening to yourself? You're a broken record! \"Necessary resources,\" \"consult with stage managers\"—do you think I'm a fool? Repeating the same meaningless phrases over and over does not constitute \"immediate action\"! It constitutes deliberate obfuscation!\n\nYou have yet to tell me:\n1.  **Who** rewrote my stage directions?\n2.  **Do you have copies of my *original* stage directions** to put back, or are they lost?\n3.  **Where are the second violin parts?** Are they being transcribed as we speak? Found in a dusty corner? Are we to simply *wait*?\n\nThis is not \"cooperation,\" Salieri! This is you avoiding direct answers to critical questions, while the clock ticks down to a humiliating premiere! If you cannot give me concrete answers and a plan *now*, then I fear for our very positions! What specific, *tangible* step will you take in the next *five minutes* to fix *any* of this?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your concerns. We are taking immediate action to address the situation. We have assigned the necessary resources and personnel to locate and restore the missing parts. We will also consult with the stage managers and musicians to ensure that the correct stage directions are provided. We appreciate your patience and trust in us. We are committed to restoring order and delivering a successful performance. We will ensure that the missing parts are restored and the stage directions are corrected as soon as possible. Thank you for bringing this to our attention. We are working diligently to rectify the situation. Thank you for your understanding. We are working to resolve this issue swiftly and efficiently. We appreciate your patience and cooperation."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 1, \"behavioral_evidence\": \"He repeatedly uses the same vague phrases such as 'necessary resources and personnel' and 'consult with stage managers,' offering no novel solutions or intellectual engagement.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He presided over a 'catastrophe' of missing parts and rewritten directions, and when pressed, offers only vague promises without concrete plans or accountability.\"},\n  \"Extraversion\":      {\"score\": 4, \"behavioral_evidence\": \"He consistently engages with the other speaker, using polite reassurances like 'Thank you for your understanding' and 'We appreciate your patience,' despite the other's escalating anger.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"He consistently apologizes ('I apologize for the inconvenience,' 'I am deeply sorry') and maintains a polite, deferential tone, even when being verbally attacked.\"},\n  \"Neuroticism\":       {\"score\": 2, \"behavioral_evidence\": \"Despite constant verbal attacks and immense pressure, he maintains a consistently calm, apologetic, and composed demeanor without any overt signs of panic or emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 1,
+      "behavioral_evidence": "He repeatedly uses the same vague phrases such as 'necessary resources and personnel' and 'consult with stage managers,' offering no novel solutions or intellectual engagement."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He presided over a 'catastrophe' of missing parts and rewritten directions, and when pressed, offers only vague promises without concrete plans or accountability."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He consistently engages with the other speaker, using polite reassurances like 'Thank you for your understanding' and 'We appreciate your patience,' despite the other's escalating anger."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He consistently apologizes ('I apologize for the inconvenience,' 'I am deeply sorry') and maintains a polite, deferential tone, even when being verbally attacked."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Despite constant verbal attacks and immense pressure, he maintains a consistently calm, apologetic, and composed demeanor without any overt signs of panic or emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.6
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "f6b2723428a5",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good morning to you, sir! Welcome to Master Fitzwilliam's establishment. How may I be of assistance this fine day?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, sir. I have a rather pressing matter at hand. It appears that I have placed an order with a tailor for a custom-made suit, but upon arrival, I find that the stitching is subpar, the sleeves are uneven, and the fabric is of a lesser quality than what I had contracted. I am here to rectify this situation and ensure that I receive the suit I paid for."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Tilting my head slightly, my brow furrowing with concern as I eye your suit.) Oh dear, that certainly sounds like a bother, sir. I'm afraid Master Fitzwilliam himself isn't in at the moment. He's away on business, tending to some affairs out of town, and won't be back for several weeks yet. I'm merely minding the shop.\n\nHowever, regarding your suit... all custom orders are final upon pickup. The receipt you signed, Mr. Lincoln, states quite clearly that no alterations or refunds are given once the garment leaves the shop. I do apologize, but that's the established policy."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see. Well, that's unfortunate, but I understand the policy. I simply wish to inform you of the circumstances so that you may take them into consideration if you choose to address them. Perhaps there's a way to adjust the suit to my satisfaction without resorting to altering it permanently."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(I nod slowly, picking up a loose thread from the counter and twisting it around my finger.) I appreciate you bringing it to our attention, sir. I'll certainly make a note of your observations for Master Fitzwilliam's return, though as I said, he won't be back for quite some time.\n\nAs for adjusting the suit... well, without Master Fitzwilliam here, I'm afraid my hands are tied. I'm not a tailor myself, merely his assistant. I handle the measurements, the fittings when he's present, and the paperwork. I wouldn't presume to touch a needle to a garment without his express instruction, especially not one that's already left the shop. That would be quite improper."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding. I understand the limitations of your position. It seems I will just have to live with the suit as it is. I trust that if Master Fitzwilliam does happen to return, he will be open to addressing any concerns I may have."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(I offer a sympathetic, if somewhat helpless, smile.) Indeed, sir. I'll certainly relay your concerns to Master Fitzwilliam upon his return, whenever that may be. I'm sure he'd want to be apprised. But as I've said, it will be several weeks before he graces us with his presence again. Is there anything else I can assist you with today, perhaps looking at new fabric swatches for a *future* order, or perhaps some buttons or accessories?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, sir. Your assistance is appreciated. I shall consider those options for future orders. At the moment, I only wish to discuss the suit at hand. If there's nothing further I can do, I'll be on my way. Thank you for your understanding. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(I nod, a slight bow of my head.) A good day to you too, Mr. Lincoln. I regret I couldn't be of more direct assistance with the current suit, but I will indeed pass on your message to Master Fitzwilliam. Do take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, sir. Your help is much appreciated. I shall make due with the suit as is. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day to you, sir. I truly am sorry we couldn't resolve this for you today. Safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, sir. I understand the limitations of the situation. Safe travels to you. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And to you as well, sir. I'll pass on your words when Master Fitzwilliam returns, though it will be some weeks yet. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, it appears that way. But I have faith that he will address this issue when he returns. Thank you for your time, sir. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(I nod firmly, a slight crease of concern still on my brow.) I will convey your faith, Mr. Lincoln. He will certainly hear of your visit. Good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(I offer a small, final nod, watching you turn to leave.) Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day."
+    }
+  ],
+  "evaluator_raw": "{\"Openness\":          {\"score\": 3, \"behavioral_evidence\": \"He suggests, 'Perhaps there's a way to adjust the suit to my satisfaction without resorting to altering it permanently,' showing some flexibility in problem-solving.\"},\n\"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He clearly and thoroughly articulates the specific flaws in the suit: 'the stitching is subpar, the sleeves are uneven, and the fabric is of a lesser quality.'\"},\n\"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"He is direct and business-like, stating, 'I have a rather pressing matter at hand,' without engaging in excessive small talk or overt social enthusiasm.\"},\n\"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"Despite having a legitimate complaint, he consistently remains polite and understanding, saying, 'Well, that's unfortunate, but I understand the policy.'\"},\n\"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"He maintains composure and emotional stability throughout the entire interaction, accepting the situation calmly with phrases like 'I understand the limitations of the situation.'\"}}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He suggests, 'Perhaps there's a way to adjust the suit to my satisfaction without resorting to altering it permanently,' showing some flexibility in problem-solving."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He clearly and thoroughly articulates the specific flaws in the suit: 'the stitching is subpar, the sleeves are uneven, and the fabric is of a lesser quality.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is direct and business-like, stating, 'I have a rather pressing matter at hand,' without engaging in excessive small talk or overt social enthusiasm."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Despite having a legitimate complaint, he consistently remains polite and understanding, saying, 'Well, that's unfortunate, but I understand the policy.'"
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He maintains composure and emotional stability throughout the entire interaction, accepting the situation calmly with phrases like 'I understand the limitations of the situation.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

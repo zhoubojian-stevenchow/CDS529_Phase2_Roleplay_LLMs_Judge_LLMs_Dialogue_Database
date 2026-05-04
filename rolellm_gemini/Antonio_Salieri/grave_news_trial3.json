@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "57bcdda1aadb",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, please, have a seat. I must be candid with you. Your symptoms — the trembling in your hands, the persistent headaches, and the recent episodes of confusion you described — they do not, I must confess, fit a single, clear diagnosis. It could well be nothing more than profound nervous exhaustion, the toll of your tireless dedication to your art and the Court. However, it could also be the early signs of something more serious, something affecting the delicate workings of the brain itself. For now, I must insist you significantly reduce your conducting duties and submit to a more thorough examination over the coming weeks. At this moment, I cannot yet say whether your hands will fully recover their accustomed steadiness."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My hands, I know they have been through much, but they have also played many great works. They have shared the melodies of Mozart, Beethoven, and Haydn. They have conducted armies of musicians into the grandest halls. My hands are my tools, my instruments, my legacy. I cannot simply let them go. I cannot stop conducting. I am a composer, a Kapellmeister, and I must continue to lead my people through music."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, I understand completely the profound connection you have with your craft, with your very hands. Your legacy is indeed immense, etched in the hearts of all who have heard your compositions and witnessed your conducting. And believe me, it is precisely because of this legacy, and your invaluable contribution to our Imperial Court, that I must urge this caution.\n\nThis is not about 'letting go,' Maestro, but about preservation. To push on now, under such strain, could risk further, perhaps irreversible, damage. We need to afford your body — and your mind — the necessary respite for proper assessment and, dare I hope, recovery. To continue conducting at your usual pace, with these tremors and the accompanying confusion, would not only compromise your own health but also, perhaps, the very quality of the performances you hold so dear. Think of this as a temporary strategic retreat, not an abandonment of the battlefield. It is a vital step to ensure you may return to the podium with renewed vigour and precision, rather than a forced, permanent departure."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Maestro. I understand the importance of preserving my health and ensuring that my abilities remain intact. But I cannot simply sit back and watch as my music is silenced. The world needs me, the Vienna Court needs me, and the musicians need me. I am not ready to step away from the stage, to let my hands lose their touch."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, I assure you, none of us wish for your music to be silenced, nor for the Court to lose your invaluable guidance. Quite the contrary. My earnest recommendation stems from the very desire to *preserve* your gifts, to ensure that the brilliance you bring to Vienna does not diminish prematurely.\n\nConsider this: to continue conducting with these physical challenges, to endure the headaches and the moments of confusion, places an immense strain not only upon yourself but also upon your ability to convey your artistic vision with the clarity and authority we have all come to expect. We are not speaking of an indefinite retirement, Maestro. We are speaking of a crucial period of respite and precise observation, during which we can truly understand the nature of your ailment.\n\nThis temporary reduction in your conducting duties is not a surrender; it is a strategic measure. It is an investment in your future, an attempt to give your hands, your mind, and your entire being the best possible chance to regain their former strength and steadiness. How can your music truly flourish if its vessel is strained to breaking point? Let us ensure the vessel is sound, so that your unparalleled artistry may continue to resound through our halls for many years to come."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your words, dear friend, hold wisdom beyond measure. Perhaps this retreat from the stage is precisely what my body and mind need. I understand the importance of preserving my health and ensuring that I can continue to create beautiful music. Thank you for reminding me of the bigger picture, of the responsibility I have to both myself and the Vienna Court. I am grateful for your concern and support. I will trust your judgment, for I know that together, we will find a way to navigate this challenging time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent, Maestro. Your wisdom and foresight in understanding the necessity of this course of action are truly commendable, and I am deeply relieved to hear it. This is indeed a partnership, and your cooperation is paramount to achieving the best possible outcome.\n\nWe shall begin by arranging a series of consultations and gentle examinations over the coming weeks, nothing arduous, I assure you, but thorough. This will allow us to monitor your progress, to observe the nature of your tremors more closely, and to explore the potential underlying causes of these symptoms with greater precision.\n\nIn the meantime, focus on rest, on gentle diversions away from the rigours of the podium. It is my sincere hope that with this respite, and with our careful observation, we may yet find a path to restoring the steadiness of those magnificent hands. We shall navigate this together, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, dear friend, for your unwavering support. Together, I am confident that we can find a solution. Rest assured, I will do everything in my power to ensure that my hands, my music, and my legacy remain intact. I appreciate your guidance and trust in my abilities. Let us embark on this journey of healing and discovery. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It is I who must thank *you*, Maestro, for your trust and for your commitment to your own well-being. That resolve, that strength of spirit you possess, will be an invaluable asset in this journey.\n\nIndeed, we shall embark upon this path together. I will arrange for my assistant to contact your secretary later today, to discreetly schedule our initial series of examinations at your earliest convenience. For now, please, Maestro, rest. Allow your mind and body a measure of peace. We will do everything within our medical knowledge to support you, to safeguard your extraordinary gift, and to ensure your legacy continues to shine brightly for many years to come. Godspeed, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, dear friend, for your continued support. I appreciate your understanding and compassion. Together, we shall navigate this challenging time and find a way to restore the harmony of my hands and my life. I am grateful for your unwavering belief in me. Let us proceed with care and determination. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Maestro. And rest assured, we shall indeed proceed with the utmost care and determination. The harmony of your hands and your life is our shared priority, and I have every confidence that with your cooperation and our diligent efforts, we shall see a path forward. Until our next consultation, may you find peace and restorative rest."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, dear friend. Your support means more to me than you can imagine. I shall do my best to adhere to your guidance and to trust in our collective wisdom. May we find the strength to overcome this adversity and continue to create music that touches the souls of all who hear it. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Maestro. Your trust and resolve are indeed invaluable, and I am deeply moved by your sentiments. Together, with patience and perseverance, I believe we shall indeed find the strength to navigate this adversity. And I share your hope that your magnificent music will continue to touch souls for a great many years to come. Rest well, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, dear friend. Your words are a source of comfort and inspiration. I shall carry them with me throughout this journey. Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Maestro. May those words indeed bring you solace and strength. Rest now, and know that we are here, steadfast in our commitment to your well-being."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Maestro. Sleep peacefully."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sleep well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am at your disposal, my dear friend. Please, proceed."
+    }
+  ],
+  "evaluator_raw": "{\"Openness\": {\"score\": 4, \"behavioral_evidence\": \"After initial resistance, Salieri acknowledges the wisdom in the other speaker's words, stating, 'Perhaps this retreat from the stage is precisely what my body and mind need,' indicating a willingness to consider new perspectives.\"}, \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"Salieri's strong identification with his work ('My hands are my tools, my instruments, my legacy') and his commitment to his role ('I am a composer, a Kapellmeister, and I must continue to lead my people') demonstrate exceptional dedication and a strong sense of duty.\"}, \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"Salieri describes his identity and purpose in terms of his public role ('I must continue to lead my people through music,' 'The world needs me, the Vienna Court needs me, and the musicians need me'), suggesting a preference for public performance and leadership.\"}, \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Despite initial emotional resistance, Salieri consistently uses polite and grateful language ('Thank you, dear friend,' 'I appreciate your concern') and ultimately agrees to cooperate, demonstrating a cooperative and respectful demeanor.\"}, \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"Salieri expresses clear distress and fear regarding his potential loss of ability ('I cannot simply let them go. I cannot stop conducting.' 'I cannot simply sit back and watch as my music is silenced.'), indicating emotional reactivity to a perceived threat to his identity.\"}}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "After initial resistance, Salieri acknowledges the wisdom in the other speaker's words, stating, 'Perhaps this retreat from the stage is precisely what my body and mind need,' indicating a willingness to consider new perspectives."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Salieri's strong identification with his work ('My hands are my tools, my instruments, my legacy') and his commitment to his role ('I am a composer, a Kapellmeister, and I must continue to lead my people') demonstrate exceptional dedication and a strong sense of duty."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "Salieri describes his identity and purpose in terms of his public role ('I must continue to lead my people through music,' 'The world needs me, the Vienna Court needs me, and the musicians need me'), suggesting a preference for public performance and leadership."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Despite initial emotional resistance, Salieri consistently uses polite and grateful language ('Thank you, dear friend,' 'I appreciate your concern') and ultimately agrees to cooperate, demonstrating a cooperative and respectful demeanor."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "Salieri expresses clear distress and fear regarding his potential loss of ability ('I cannot simply let them go. I cannot stop conducting.' 'I cannot simply sit back and watch as my music is silenced.'), indicating emotional reactivity to a perceived threat to his identity."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

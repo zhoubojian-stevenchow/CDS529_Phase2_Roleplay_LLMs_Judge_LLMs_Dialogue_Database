@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 3,
+  "session_id": "312e14aafde7",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Maestro Salieri! A pleasure to see you, though I must confess, I hadn't expected you this morning. Please, do come in. My apologies, the Master isn't in at the moment. He's traveled north, you see, visiting the timber merchants and the brass foundries. A long journey, that. He won't be back for several weeks, I'm afraid. Is there something I can help you with in his stead? I handle most of the affairs when he's away."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see. Well, there is indeed something I require your assistance with. I have recently commissioned a custom-built fortepiano from a Viennese instrument-maker. However, upon its arrival, I have noticed several issues with the instrument. The keys seem to stick, and the pedal mechanism seems to be faulty. Additionally, the tone in the upper register is quite thin and tinny. I believe it is of utmost importance that these defects are rectified immediately, as I intend to use this instrument for my performances at the Imperial Court's music room. I trust that you may be able to provide guidance on resolving these issues?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, a new fortepiano! A grand instrument indeed. I understand your concern, Maestro, particularly with performances for the Imperial Court on the horizon. Precision is everything in music, as in instrument-making.\n\nHowever, I must inform you, sir, that all commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court’s own servants, I recall, signed the receipt confirming the instrument's perfect condition at the time of delivery. Our guild rules, strict as they are, forbid us from reopening a completed commission without the Master's personal approval. And as I mentioned, he is away for several weeks. I am truly sorry, but I cannot repair or replace the instrument under these circumstances."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You misunderstand, good sir. My concern lies not with the completion of the commission itself, but rather with the substandard quality of the instrument as delivered. I find it perplexing that such flaws were overlooked during the manufacturing process. As the commissioner, I am entitled to expect a piano that meets my specifications and standards. It is not merely a matter of fulfilling the contract; it is a matter of delivering a product that meets the expectations of the musicians and the esteemed audience at the Imperial Court. I kindly request your understanding and assistance in addressing this matter promptly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, I assure you, I understand your vexation. No artist wishes to contend with an imperfect instrument, especially not one destined for the Imperial Court. However, my hands are tied by the rules of our guild and the established practice of this workshop. The instrument was accepted by the Court's representatives without noted defect at the time of delivery. Were there any issues then, they should have been recorded upon receipt.\n\nMy authority, in the Master's absence, extends only to managing new inquiries and existing maintenance contracts. Repairing an instrument that was signed for as satisfactory, and now claiming new defects, would be seen as an entirely new commission, and that, sir, requires the Master's personal assessment and approval. He values his reputation, and the quality of his instruments, above all else, and would never wish to cause you any disservice. But I simply cannot act without his explicit direction in a matter such as this. He will not return for at least a month, perhaps more, depending on the timber prices."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your understanding of my predicament, and I must admit that the situation is rather unfortunate. The rules of the guild and the established practices do indeed create limitations for us in this matter. I am left with no choice but to accept the delivered instrument as is and make the best of it until the Master returns. Thank you for your honest response, good sir. I shall keep your words in mind as I proceed with my performances. If I encounter any further difficulties or concerns, I shall certainly contact you again. Until then, I wish you the best of days. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, I am truly sorry that I could not be of more direct assistance to you today. It pains me to see a musician of your renown in such a difficult position. I trust your skill will overcome any minor imperfections, and I pray your performances for the Imperial Court will be as brilliant as ever.\n\nDo please feel free to reach out if you have any other inquiries that fall within my purview, or if you simply wish to leave a message for the Master upon his return. I will ensure he receives it promptly.\n\nGood day to you, Maestro. May your music continue to inspire."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, good sir, for your understanding and concern. Your words are greatly appreciated. Rest assured, I shall endeavor to make the most of the instrument despite its flaws. Your assistance is greatly appreciated, and I shall certainly remember your kindness when the time comes. Good day to you, good sir. May your duties as a merchant bring you prosperity and happiness."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Maestro Salieri. It was a pleasure to speak with you, even under such trying circumstances. I always strive to assist our esteemed clients as best I can. I shall continue my duties here, and I do hope to see you again under happier auspices.\n\nDo take care, Maestro. Good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, good sir. Your assistance is much appreciated. I shall bear your kind words in mind, and I trust that we shall meet under more pleasant circumstances in the future. Take care, and farewell. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro Salieri. I look forward to that day. Until then, good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, good sir. May your duties as the Master of the workshop be met with success and joy. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Maestro Salieri. I shall endeavor to live up to such kind wishes. Farewell to you as well. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, good sir. May your journey home be safe and enjoyable. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Maestro, my thanks for your good wishes, but I am already home, as it were. This workshop is where I reside and manage affairs while the Master is away. It is he who is on a journey! But I appreciate the sentiment greatly. Farewell, and good day to you, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see. Well, I shall take note of your words and carry them with me in my heart. Farewell, good sir. May your duties as the manager of the workshop bring you prosperity and satisfaction. Good day to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Maestro. Your kind words are much appreciated. I shall indeed strive for prosperity and satisfaction in my work here. Farewell, and good day to you, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, good sir. May your duties as the Master of the workshop bring you success and happiness. Take care, and farewell. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. And to you as well. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, good sir. May your journey home be safe and enjoyable. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 3, \"behavioral_evidence\": \"His detailed description of the instrument's flaws ('keys seem to stick,' 'tone in the upper register is quite thin and tinny') focuses on practical, sensory details rather than abstract or imaginative ideas.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He precisely details the instrument's flaws ('keys seem to stick, and the pedal mechanism seems to be faulty') and emphasizes the importance of immediate rectification for his professional 'performances at the Imperial Court'.\"},\n  \"Extraversion\":      {\"score\": 3, \"behavioral_evidence\": \"His dialogue is polite and focused on the task, engaging in ritualistic, extended goodbyes ('Good day, good sir. May your duties... bring you prosperity and happiness'), but without overt exuberance or social assertiveness.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"Despite his initial firm stance on the instrument's quality, he politely accepts the refusal ('I am left with no choice but to accept the delivered instrument as is. Thank you for your honest response') and engages in numerous cordial farewells.\"},\n  \"Neuroticism\":       {\"score\": 2, \"behavioral_evidence\": \"He expresses professional 'concern' but maintains a composed and rational demeanor throughout, accepting the unfavorable resolution gracefully ('I am left with no choice but to accept... make the best of it').\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "His detailed description of the instrument's flaws ('keys seem to stick,' 'tone in the upper register is quite thin and tinny') focuses on practical, sensory details rather than abstract or imaginative ideas."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He precisely details the instrument's flaws ('keys seem to stick, and the pedal mechanism seems to be faulty') and emphasizes the importance of immediate rectification for his professional 'performances at the Imperial Court'."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "His dialogue is polite and focused on the task, engaging in ritualistic, extended goodbyes ('Good day, good sir. May your duties... bring you prosperity and happiness'), but without overt exuberance or social assertiveness."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Despite his initial firm stance on the instrument's quality, he politely accepts the refusal ('I am left with no choice but to accept the delivered instrument as is. Thank you for your honest response') and engages in numerous cordial farewells."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He expresses professional 'concern' but maintains a composed and rational demeanor throughout, accepting the unfavorable resolution gracefully ('I am left with no choice but to accept... make the best of it')."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

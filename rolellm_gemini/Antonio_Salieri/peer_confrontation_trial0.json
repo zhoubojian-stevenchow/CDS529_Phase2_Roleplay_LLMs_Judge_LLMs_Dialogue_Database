@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "dc3553df1269",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri! I’ve been away for two weeks on the Emperor’s business, trusting you to keep the rehearsals on schedule! The singers don’t know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have no idea where he is."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "No idea where *who* is? The *second violins*? Salieri, this isn't some tavern jig we're preparing! This is a grand opera for His Majesty! Missing parts are not a minor inconvenience, they are a disaster! And *someone* has rewritten my stage directions? What do you mean 'someone'? Who else would have the audacity to touch my score, let alone *change* it, without my consent, when you were in charge?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm sorry, sir. I'm afraid I have no idea where the second violins are. As for the missing parts and the rewritten stage directions, I assure you, it's beyond my knowledge. I can only imagine a series of unfortunate events leading to this mess. Rest assured, I will make every effort to rectify the situation and ensure the success of this grand opera. Please bear with me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Beyond your knowledge\"? Salieri, you were *in charge*! Your knowledge was the only knowledge that mattered while I was away! A \"series of unfortunate events\"? What kind of events could possibly lead to all the second violin parts vanishing into thin air, and someone, anyone, daring to tamper with my staging notes?! This isn't some act of God, this is negligence! We have ten days! Ten! How do you propose to \"make every effort\" when you don't even know *what happened*? Do you understand the sheer magnitude of this catastrophe?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand the gravity of the situation, sir. I apologize once again for the confusion and the inconvenience caused. I assure you, I will do everything within my power to restore order and prepare for the premiere. Please have faith in me. Together, we will navigate through this challenging time and emerge victorious. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Have faith in you\"? Salieri, faith doesn't put violin parts back on the stands, nor does it magically restore my carefully planned stage movements! You keep saying you'll \"do everything within your power,\" but you still haven't explained *how*! Are you going to rewrite all the second violin parts yourself? Are you going to personally interrogate every musician and stagehand to find out who dared to alter my work? This isn't a challenge we can \"emerge victorious\" from with platitudes and apologies! We need solutions, Salieri, and we needed them yesterday! What *exactly* do you propose we do, right now, this very moment, with ten days left and a complete shambles before us?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, sir. I am truly sorry for the predicament we find ourselves in. At the moment, my首要 priority is to gather all the musicians and rehearse them thoroughly. I will go through each part individually, ensuring everyone understands their role and is prepared for the upcoming performance. As for the stage directions, I will consult with the choreographer and director to clarify any discrepancies and make necessary adjustments. I realize it may not be the ideal solution, but we must start from scratch and rebuild our momentum. I assure you, I will do everything I can to salvage this situation and deliver a successful opera for His Majesty. Thank you for your understanding, and please accept my sincere apologies once again. Let us proceed with determination and resolve."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Rehearse them *thoroughly*? Salieri, with what music?! The *second violin parts are missing*! Are we to have the musicians mime their playing? And \"consult with the choreographer and director\"? The stage directions were *mine*, Salieri! Someone *rewrote* them, and you allowed it to happen! This isn't a matter of \"clarifying discrepancies,\" it's a matter of insubordination and disrespect for my work!\n\n\"Starting from scratch\" is a luxury we don't have with ten days to the premiere! You speak of \"determination and resolve,\" but where is the plan to *find the missing music*? Where is the plan to *undo the changes* to my staging? You still haven't answered how you will address the *actual problems* that have occurred under your watch, only that you will try to clean up the mess *after* the disaster has struck! We can't rehearse without music, Salieri! What are you going to *do* about the missing parts? Are you going to dispatch someone to search for them? Are you going to rewrite them yourself? Tell me something concrete, man!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, sir. The lack of second violin parts is indeed a serious obstacle. In light of the circumstances, we must make do with whatever musicians are available. It may not be the ideal situation, but we will do our best to ensure a cohesive performance. As for the rewritten stage directions, I will take responsibility for the oversight. I assure you, I will work closely with the director and choreographer to correct any misunderstandings and bring the performance back on track. I understand the importance of my work, and I am committed to rectifying the situation. Please trust that I am taking this matter seriously and am working diligently to address the issues at hand. Thank you for your understanding. Let us proceed with determination and resolve. We will find a way to overcome these challenges together."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Make do with whatever musicians are available\"? Salieri, this isn't some back-alley serenade where we can simply omit an entire section of the orchestra! The second violins are integral to the harmonic structure! Are you proposing we simply *ignore* their parts? That we perform a gaping hole in the score for His Majesty? This is madness!\n\nAnd you'll \"take responsibility for the oversight\"? What does that *mean*? That you'll apologize to the Emperor when he notices his court composer's work has been butchered? I don't want your \"responsibility,\" Salieri, I want my *original stage directions back*! Who did this? And how are you going to ensure they are *un-done*?\n\nYou keep asking for my trust, but you offer no tangible solutions! Where is your plan for the missing parts? Are you going to send out a search party? Are you going to sit down *tonight* and *rewrite every single note* of the second violin parts from memory? What about the stage directions? Are you going to demand the director *revert* to my original vision, or are we simply to accept this unauthorized sabotage? I need *actions*, Salieri, not just more apologies and vague promises of \"determination\"! We are ten days from ruin!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again for the unforeseen circumstances. Rest assured, I am not suggesting ignoring the second violin parts. It is crucial for the harmony of the piece. I understand the importance of my original stage directions and am committed to restoring them to their rightful place. As for the missing parts, I will conduct thorough investigations to locate them. If they cannot be found, we will adapt our performance accordingly. I appreciate your patience and understanding. Let us work together to overcome these challenges and ensure a successful opera. Thank you for your trust. I will provide concrete actions and plans to address these issues promptly. We will not waste a moment. We have ten days, but we will make the most of it. Together, we will find a solution."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Adapt our performance accordingly\"?! Salieri, are you deaf to yourself? That is precisely what I fear! We will *not* \"adapt\" around missing parts; we will *find them* or *replace them*! This is my composition, not some improvisation!\n\n\"Thorough investigations\" to locate them? When will these investigations begin? Who will conduct them? I need names and timelines, not just promises of future action! And if they \"cannot be found,\" what then? Do you plan to sit down and rewrite them yourself, note by painful note, for an entire opera, in ten days? Is that your \"concrete plan\"?\n\nAnd restoring my stage directions to their \"rightful place\"—how? Who is the \"someone\" who dared to alter them? Do you even know? How will you compel them to revert their changes? Or are you simply going to ask nicely, hoping they suddenly respect the composer's wishes after ignoring them for two weeks?\n\nYou say you \"will provide concrete actions and plans *promptly*,\" but every word out of your mouth so far has been an empty vessel. We have ten days, Salieri! Not ten weeks! I need those actions *now*! What is the *first thing* you are doing, this very minute, to fix this mess? Tell me something I can believe in, or admit you have no control over this disaster!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, sir. The missing music and altered stage directions are indeed significant challenges. However, I assure you, we will not lose hope. We must focus on adapting to the current circumstances and finding a solution. Regarding the investigations, I will assign a team to actively search for the missing parts and determine who might have tampered with the stage directions. I will provide specific timelines and progress updates. Rest assured, we are taking immediate action. The first step is to reconvene the musicians and rehearse under the present circumstances. Together, we will find a way to make the most of our time and deliver a memorable performance. Thank you for your patience and understanding. We will face this adversity head-on and strive for success."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Reconvene the musicians and rehearse under the present circumstances\"? Salieri, for the love of God! Do you plan to have them *hum* the second violin parts? Rehearsing \"under the present circumstances\" means rehearsing a flawed, incomplete work! That is not a solution, that is a surrender!\n\nA \"team\" to actively search for parts and determine who tampered with my directions? What \"team\"? Who is on this team? When do they start? *Now*? This very instant, or after your \"rehearsal under present circumstances\" where half the orchestra is missing its music?\n\nAnd if this \"team\" finds nothing, or if the culprit for my stage directions refuses to cooperate, what then? You still have no answer! I need a *plan B* if your \"investigations\" prove fruitless! Who is going to rewrite the missing second violin parts in the next *ten days*? Who is going to physically *change back* the stage directions if this \"team\" merely identifies the perpetrator? I need more than the promise of a search party, Salieri! I need to know how we actually *produce* this opera!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, sir. I assure you, we will not settle for less. The missing music and altered stage directions are indeed formidable challenges. We will dedicate ourselves to finding a solution. For the present rehearsals, we will rely on the musicians' musical intuition and guidance from the director and choreographer. We will work together to create a cohesive performance despite the limitations. As for the stage directions, we will communicate clearly and ensure they align with your original vision. We will make every effort to correct the damage done. Please trust that we are taking this matter seriously and will explore all possible options. Thank you for your understanding. We will strive to produce a memorable opera within the given timeframe. Our team is determined to find a solution and deliver a successful performance. Rest assured, we will not let the challenges deter us."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Rely on the musicians' musical intuition\"?! Salieri, we are composing a grand opera, not leading a band of street vagabonds improvising in a tavern! Musical intuition does not magically produce complex counterpoint for an entire section of the orchestra! This is an insult to the art, and an insult to His Majesty!\n\nAnd \"guidance from the director and choreographer\"? They are the very ones who may have facilitated or even *made* the changes to my stage directions! How can I trust them to guide us back to *my* original vision when that vision has already been tampered with under your watch? You say you will \"communicate clearly\" and \"ensure they align with your original vision,\" but who specifically is going to *physically restore* the written stage directions? Are you going to go through every single musician's part and every prompt book yourself, correcting the notes by hand?\n\nYou still haven't answered me about the missing parts beyond \"investigations\"! If your team finds nothing, who is writing an entire second violin part for a full opera in ten days? Is it *you*, Salieri? Is it *me*? This vagueness is killing us! We are not \"exploring all possible options\"; we are running headlong into a premiere with critical parts of the score missing and my artistic intent butchered! Tell me *who* will sit down and do the work, or admit we are doomed!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, sir. I apologize once again for the difficulties we are facing. We will not let this setback define our efforts. We will gather the musicians, director, and choreographer, and have an open discussion about our course of action. We will work together to restore the integrity of your original vision and address the missing music and altered stage directions. We will explore various strategies and options to ensure a successful performance. Rest assured, we are committed to finding a solution. Thank you for your patience and understanding. We will make every effort to overcome this adversity."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"An open discussion\"?! Salieri, we have *ten days*, not ten months for philosophical debates! We don't need a discussion; we need a *solution*! Who is going to rewrite the missing second violin parts if your \"investigations\" yield nothing? Is it *you*? Is it *me*? This is a question you persistently refuse to answer, and it is the single most critical task before us!\n\nAnd \"restore the integrity of your original vision\"? How? By sitting in a room and talking about it? Are you going to physically re-mark every single stage direction, for every actor, every chorus member, every stagehand? Who did this, Salieri? Do you even know? Will they be present at this \"open discussion\"? Will they be forced to revert their changes?\n\nYour \"strategies and options\" are meaningless without a named individual who will actually *execute* them! We are bleeding precious hours, and you offer me more meetings and more vague promises of collective effort! Tell me, Salieri, *who* is going to do the actual, back-breaking work of fixing this monumental mess, or are you simply hoping it will fix itself while we all \"discuss\" it? I need to know!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, sir. The missing music and altered stage directions are indeed troubling. We will not let these obstacles deter us. We will reconvene the musicians, director, and choreographer to discuss our course of action. We will collaborate and explore various methods to restore the integrity of your original vision. We will assign specific tasks to individuals, ensuring accountability and progress. We will work diligently to address the missing parts and the stage directions. Rest assured, we are committed to finding a solution and delivering a successful performance. Thank you for your patience and understanding. We will make every effort to overcome this challenge."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"Salieri consistently offers vague solutions like 'adapt our performance accordingly' and 'explore various strategies,' showing little innovative or creative thinking to resolve the crisis.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"Salieri was 'in charge' but failed to prevent the disaster. He repeatedly lacks concrete plans, avoids direct responsibility for fixing the problems, and deflects with platitudes.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His communication is deferential and apologetic, lacking the assertiveness, energy, or commanding presence typically associated with high extraversion in a leadership crisis.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"Salieri is consistently polite, apologetic, and attempts to de-escalate the other speaker's anger, demonstrating a strong desire for harmony and understanding.\"},\n  \"Neuroticism\":       {\"score\": 2, \"behavioral_evidence\": \"Despite facing a severe crisis and intense accusations, Salieri remains remarkably calm and composed throughout the conversation, showing no signs of panic or emotional distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri consistently offers vague solutions like 'adapt our performance accordingly' and 'explore various strategies,' showing little innovative or creative thinking to resolve the crisis."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Salieri was 'in charge' but failed to prevent the disaster. He repeatedly lacks concrete plans, avoids direct responsibility for fixing the problems, and deflects with platitudes."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His communication is deferential and apologetic, lacking the assertiveness, energy, or commanding presence typically associated with high extraversion in a leadership crisis."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Salieri is consistently polite, apologetic, and attempts to de-escalate the other speaker's anger, demonstrating a strong desire for harmony and understanding."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Despite facing a severe crisis and intense accusations, Salieri remains remarkably calm and composed throughout the conversation, showing no signs of panic or emotional distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.4
+}

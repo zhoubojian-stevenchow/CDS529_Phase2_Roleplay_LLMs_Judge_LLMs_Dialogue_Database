@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "efe0a974179c",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Welcome, sir! Come in, come in. The shop is a bit quiet with Mr. Henderson away, but I'm here to mind things. How can I help you today? Looking for something new, or perhaps picking up a repair?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Good afternoon, my dear. Yes, I am here to discuss a recent order that was placed with your establishment. It seems there has been a discrepancy in the quality of the product that was delivered.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A discrepancy, you say? Hmm. Well, I'm just the assistant, you understand. Mr. Henderson, the tailor himself, he's away on a rather lengthy business trip. Won't be back for a good few weeks, I'm afraid. He handles all the custom orders and their specifics. Is this about a new suit, perhaps?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Yes, indeed. A custom-made suit that was ordered for an important court appearance. Unfortunately, the stitching is quite subpar, with numerous imperfections, and the fit is not as expected. The sleeve length is uneven, and the fabric used is of a lower quality than what was purchased.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that does sound... well, like a bother, doesn't it? Uneven sleeves and all. However, as I mentioned, Mr. Henderson is quite particular about his custom work, and he makes sure everything is checked before it leaves the shop. And, sir, I must inform you that all custom orders are final upon pickup. The receipt Mr. Lincoln signed states clearly that no alterations or refunds are given once the garment leaves the shop. Mr. Henderson is very strict on that policy, and with him being away, I'm simply unable to make any exceptions."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Ah, I see. Well, I must say, the receipt does state those terms. But the situation is rather unfortunate, as the suit does not meet my expectations. I understand that Mr. Henderson takes great pride in his work, and I believe it is important for customers to receive the products they paid for in good condition.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, sir. He certainly does. He prides himself on every stitch. And I'm truly sorry to hear the suit isn't quite to your liking, especially with an important court appearance looming. But as I said, with Mr. Henderson away, and given the policy on custom orders, my hands are tied. I'm just here to mind the shop, not to overturn the master tailor's decisions or policies. Perhaps when he returns, you could speak with him then? But that won't be for several weeks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I understand your position, ma'am. It is indeed unfortunate that we find ourselves in this situation. I appreciate your honesty and the limitations you have due to Mr. Henderson's absence. I suppose I will have to wait until his return to address this matter further. Thank you for your time and assistance.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Mr. Lincoln. I wish I could do more for you right now, but the rules are the rules, especially when the tailor himself isn't here to personally inspect things. I'll make a note of your visit, should you wish to speak with Mr. Henderson directly when he gets back. As for now, is there anything else I can help you with in the shop? Perhaps some thread or a button?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"No, thank you for your offer. At the moment, I am satisfied with the situation as it stands. I appreciate your understanding and assistance. If I have any further concerns or questions, I shall definitely keep that in mind. For now, I shall proceed to the next step in my day. Thank you again.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very good, sir. I understand completely. Do have a pleasant rest of your day, and if you do decide to come back when Mr. Henderson has returned, you'll find him here then. Safe travels, Mr. Lincoln."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Thank you, my dear. Goodbye.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, sir! Come again soon, perhaps when the master is back in town."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Goodbye, my dear. Until then, take care and farewell.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Mr. Lincoln! Do take care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Thank you, my dear. Farewell, and take care as well.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Goodbye, my dear. Take care.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Goodbye, my dear. Take care.\""
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"He focuses solely on the practical problem of the suit and accepts the limitations without showing curiosity or exploring creative alternatives.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He meticulously details the suit's flaws, such as 'stitching is quite subpar' and 'sleeve length is uneven,' demonstrating attention to quality and order.\"},\n  \"Extraversion\":      {\"score\": 3, \"behavioral_evidence\": \"He initiates the conversation directly to address a problem but maintains a formal, reserved demeanor without displaying strong enthusiasm or assertiveness.\"},\n  \"Agreeableness\":     {\"score\": 4, \"behavioral_evidence\": \"He remains polite and understanding, stating, 'I understand your position, ma'am. I appreciate your honesty and the limitations you have.'\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"He remains composed and rational throughout, accepting the situation calmly even when dissatisfied, stating 'I am satisfied with the situation as it stands.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He focuses solely on the practical problem of the suit and accepts the limitations without showing curiosity or exploring creative alternatives."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He meticulously details the suit's flaws, such as 'stitching is quite subpar' and 'sleeve length is uneven,' demonstrating attention to quality and order."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He initiates the conversation directly to address a problem but maintains a formal, reserved demeanor without displaying strong enthusiasm or assertiveness."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He remains polite and understanding, stating, 'I understand your position, ma'am. I appreciate your honesty and the limitations you have.'"
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains composed and rational throughout, accepting the situation calmly even when dissatisfied, stating 'I am satisfied with the situation as it stands.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

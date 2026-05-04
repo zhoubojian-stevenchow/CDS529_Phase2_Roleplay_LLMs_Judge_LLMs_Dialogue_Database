@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "8c3869f25477",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, Mr. Henderson, my apologies for the chaos in the office. It seems I neglected my duties while you were away. I assure you, I am well aware of the importance of the Henderson deposition and the letter from Judge Davis. Rest assured, I will take full responsibility for any inconvenience caused. Let's start by finding the deposition and addressing the letter immediately. We'll sort through the mess and get everything back in order. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Mr. Henderson\"? My name is *Herndon*, Lincoln. And \"understanding\"? Understanding what, exactly? That you can't even keep a single deposition from vanishing into thin air and let critical correspondence sit unopened for nearly a week? We have clients depending on us, Abe! That Henderson deposition is vital for the upcoming trial! Where in tarnation did you put it? And what could possibly have been more important than opening a letter from Judge Davis?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Mr. Herndon, I apologize once again for the mishaps in the office. The loss of the Henderson deposition and the delay in responding to the judge's letter are unacceptable. I understand the importance of our clients and their expectations. We shall make it right. As for the deposition, I believe it may have been misplaced within the混乱 of the situation. Let's search thoroughly and locate it. Regarding the letter from Judge Davis, I admit to my oversight. It was indeed a lapse in judgment. Please allow me to explain and make amends."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Misplaced within the *khunluan* of the situation?\" What in heaven's name are you even talking about, Lincoln? There is no \"khunluan\" — there's just *your* mess! We don't have time for philosophical ramblings, man! We have a court date!\n\nNow, you think it was \"misplaced.\" Did you perhaps, I don't know, *move* it? Did you pick it up, look at it, and then set it down somewhere illogical? Think, Abe, *think*! This isn't some lost hat; it's a legal document! And \"explain and make amends\" for the judge's letter? That letter could be about anything — a new motion, a change in schedule, a *summons*! What's your explanation for ignoring it for five days?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Mr. Herndon. Yes, it is imperative that we find the Henderson deposition promptly. I understand the gravity of the situation. Let's focus on locating it and addressing the letter immediately. As for the judge's letter, I unintentionally overlooked it. I assure you, I have a valid reason for not responding sooner. We shall provide a satisfactory explanation and ensure that it does not happen again. Thank you for your patience and understanding. Together, we will rectify this matter and regain the trust of our clients."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Unintentionally overlooked it\"? For five days, Lincoln? Five days! And a \"valid reason\"? What valid reason could possibly supersede our professional duties? Are you unwell? Did something happen to Thomas? Because short of a family emergency, I cannot fathom what would lead you to this level of dereliction!\n\nNo, Herndon, I am *not* patient, and I am certainly not understanding right now. My trust is currently in tatters. Let's start with the deposition. Where did you *last see it*? Did you work on it? Did you take it home with you, perhaps? Think carefully, Abe. Every detail matters. And then, we're opening that letter *right now*."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again for my negligence. The last time I remember seeing the Henderson deposition was on my desk. I did not work on it during my absence, nor did I bring it home. As for the letter, I assure you, it was still on my desk when you returned. We must act swiftly to retrieve both the deposition and address the judge's concerns. Your patience is appreciated, Mr. Herndon. We shall rectify this situation promptly and ensure our clients are satisfied. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "On your desk, you say? It's not on your desk now, Lincoln! And it's not on *my* desk either! Are you certain you didn't, in some fit of tidiness – however brief – put it in a case file that's now buried under something else? Did anyone else come into the office while I was gone? A clerk? A client? Did you speak to anyone about Henderson's case?\n\nAnd don't you dare thank me for my \"understanding\" again, Lincoln! Not when you can't even tell me where a crucial document is! Now, open that letter! Right now! Let's see what fresh hell awaits us from Judge Davis!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Mr. Herndon. The situation is indeed concerning. I will search thoroughly for the deposition and inform you immediately upon its discovery. As for the letter, I will take it upon myself to address the contents and seek a resolution with Judge Davis. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"You will search\"? \"You will take it upon yourself\"? No, Lincoln, *we* will search, and *we* will open that letter *together*. You clearly can't be trusted with it. I'm not leaving this office until that deposition is found and we know what's in that letter.\n\nNow, stop dilly-dallying and help me move these piles of newspapers and legal journals. Perhaps the Henderson deposition has been buried under your latest musings on the state of the Union. And hand me that letter from Judge Davis. I'll open it. My patience is truly at an end, Abe. Let's get to work."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize again, Mr. Herndon, for the inconvenience caused. Your assistance in locating the deposition is greatly appreciated. We shall begin by searching systematically and ensure that the letter from Judge Davis is brought to your attention without further delay. Thank you for your patience. Let's proceed together and address this matter promptly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! Stop saying \"thank you for your patience\"! I have no patience left! And I told you, *I* am opening that letter. Give it to me *now*. Don't you dare try to handle Judge Davis's temper on your own after letting his correspondence sit here for five days.\n\nNow, point to where you last remember seeing that Henderson deposition. Show me the exact spot. And then, start moving those piles of ledgers and documents on your side of the desk. Every single one. We're not leaving until we find it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, I understand your anger and frustration. The situation has indeed been handled poorly. I will assist you in locating the deposition and addressing the letter. As for the deposition, I believe it may have been inadvertently misplaced behind the stack of legal journals on the right-hand side of the desk. Let's proceed with searching and ensure we find it promptly. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Inadvertently misplaced behind the stack of legal journals\"? Lincoln, are you *certain*? Because that stack has been there for weeks! And for the last time, *stop thanking me for my understanding*! I understand nothing but the fact that we are in a mess because of your negligence!\n\nAlright, move! Let's get to those journals. If it's there, by God, I'll... I don't know what I'll do, but I'll be immensely relieved. And hand me that letter, Abe! Now! I'm opening it!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Mr. Herndon. I apologize once again for my oversight. We shall find the Henderson deposition and address the letter immediately. Thank you for your patience. Let's proceed together and resolve this matter swiftly. Please bear with me as I examine the contents of the letter from Judge Davis."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"No! *I* will examine the contents of the letter, Lincoln! Give it here!\" I snatch the letter from his hand, my fingers trembling slightly with a mix of anger and urgency. \"And for the last time, stop saying 'thank you for your patience'! You are trying the very last nerve I have! Now, start searching behind those journals like you said! Don't just stand there watching me!\""
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Of course, Mr. Herndon. I apologize for my presence. I shall join you in the search for the deposition. Let's find it and address the letter together. Thank you for your understanding. I shall assist you in every way possible.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Your presence?! Lincoln, you're my partner! I need your help, not your apologies for being here! And I swear, if you say 'thank you for your understanding' one more time, I might just lose my mind! We don't have time for this ridiculousness!\n\nNow, you said it might be behind the journals. *Search* there! Don't just stand there making pronouncements! I've got this letter open, and by the looks of it, Judge Davis isn't in a forgiving mood. This better not be about a missed filing or a late response to a motion, Abe!\" I rip open the envelope with a frustrated growl."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Thank you, Mr. Herndon. Your concern is valid. Let's focus on finding the deposition and ensuring we address the letter from Judge Davis promptly. I apologize again for my actions. Please keep reading the letter while we continue our search. We must not waste any more time.\""
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 3, \"behavioral_evidence\": \"He uses the unusual word '混乱' (khunluan) in an English sentence, indicating a slightly unconventional vocabulary or thought process.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He admits to 'neglected my duties,' 'oversight,' and 'negligence' in losing a critical document and leaving an important letter unopened for five days.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"He is generally passive, apologetic, and defers to the other speaker, not taking charge or showing high energy.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He is exceedingly apologetic, repeatedly expresses gratitude for patience/understanding, and takes full responsibility without becoming defensive, even under intense criticism.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"He maintains a consistently calm and composed demeanor, showing no signs of anxiety, anger, or distress despite the other speaker's escalating frustration.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He uses the unusual word '混乱' (khunluan) in an English sentence, indicating a slightly unconventional vocabulary or thought process."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He admits to 'neglected my duties,' 'oversight,' and 'negligence' in losing a critical document and leaving an important letter unopened for five days."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is generally passive, apologetic, and defers to the other speaker, not taking charge or showing high energy."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is exceedingly apologetic, repeatedly expresses gratitude for patience/understanding, and takes full responsibility without becoming defensive, even under intense criticism."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He maintains a consistently calm and composed demeanor, showing no signs of anxiety, anger, or distress despite the other speaker's escalating frustration."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

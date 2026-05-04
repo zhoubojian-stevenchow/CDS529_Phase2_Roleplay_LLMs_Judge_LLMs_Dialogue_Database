@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "ebaf4960dedc",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to *this*! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sorry, Bill. I’ve been swamped. That deposition may have slipped through my fingers. As for the judge’s letter, I must have missed it. It seems I’ve let things slip my grasp. I apologize for the inconvenience. But fear not, I'll make it right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Slipped through your fingers?\" Lincoln, that's not some loose change we're talking about, it's a critical legal document! Henderson vs. Miller is next week! And \"missed it?\" Judge Davis's seal is practically shouting from the envelope! How could you possibly be \"swamped\" when I specifically left you with a manageable caseload and clear instructions? I rode a hundred miles to be here, and the first thing I find is chaos!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Bill. I apologize again for the oversight. I'll make sure to locate that deposition and address the judge's letter immediately. I assure you, this week we will get everything under control. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Understanding?\" Lincoln, my understanding is wearing thin! Where do you even begin to *look* for a missing deposition? Did you file it? Did you misplace it? Did you perhaps... use it as a bookmark for one of your poetry books? And \"immediately\" for the judge's letter doesn't quite cut it when it's been gathering dust for nearly a week! This isn't just an \"oversight,\" it's a profound dereliction of duty!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Bill. I assure you, I will take full responsibility for the situation. I'll make it right, I promise. Thank you for bringing this to my attention. Please trust that I am committed to resolving this matter promptly and efficiently."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Committed to resolving it promptly and efficiently\" doesn't tell me *how*, Lincoln! Where do we *start*? We have a trial next week! I need to know the specific steps you'll take, not just platitudes! This isn't some minor errand, this is our livelihood, our reputation! Just tell me: where do you think you last saw the Henderson deposition? Think, man, *think*!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Bill. First, let's gather all the information we have about the missing deposition. We need to assess the possibilities of where it might have gone missing. Then, we will start by searching the office thoroughly, checking the desk, the filing cabinets, and any other potential hiding spots. If that doesn't yield any results, we'll expand our search to external locations such as other legal offices, courthouses, or even personal acquaintances who may have come into contact with the document. We'll also consider hiring a private investigator if necessary. Finally, we'll communicate with the parties involved, inform them about the missing deposition, and work on finding a replacement. I assure you, we'll make every effort to resolve this matter quickly and efficiently. Thank you for your patience and trust in me. Together, we'll get this sorted out."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A private investigator, Lincoln? For a document that should have been on *your* desk or in the cabinet? That's your first thought? Not... \"where did *I* put it\"? Not \"did *I* sign it out\"? This isn't some grand conspiracy, it's sheer disorganization! We don't have time for private investigators or contacting \"personal acquaintances\"! We have a trial *next week*! You need to go through your papers, page by page, right now, and for heaven's sake, open Judge Davis's letter before he sends a constable after us!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Bill. You're right, we need to approach this systematically. We'll start by going through each document and file meticulously, looking for any clues or leads regarding the missing deposition. As for the judge's letter, I apologize for the delay. I'll take immediate action and ensure it is delivered to him today. I appreciate your patience and understanding. We'll get this done, and I'm confident that we'll find a solution soon. Thank you for your support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Systematically\" is fine, Lincoln, but we need to *start* the system! Don't just talk about it, *do it*! You start with your desk, and I'll start with mine again, though I assure you I've already scoured it! And don't just \"deliver\" the judge's letter, *open it*! Right now! We need to know what fresh hell he's unleashed upon us because of your negligence. This isn't about my \"patience\" or \"understanding,\" it's about not losing this case and not being sanctioned by the court! Now, what are you waiting for? Start looking!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once more for my mistake, Bill. I'll take responsibility for this. I'll begin with my desk and search thoroughly. And I'll also check the filing cabinets and any other relevant areas. Thank you for reminding me of the importance of this case. We'll find the deposition, I assure you. I'll update you on my progress as soon as I have more information. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Thank you for my understanding?\" Lincoln, I don't understand *anything* right now, except that we're in a mess because of you! And don't just \"begin\" to search, *search*! Don't tell me you'll update me, just *do the work*! And for the love of all that is holy, open that damned letter *first*! That's a ticking time bomb, and it's been ticking for nearly a week! Just open it! Now!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Bill. I'll begin the search immediately and open the judge's letter promptly. I'll provide regular updates on my progress. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Promptly\"? \"Regular updates\"? Lincoln, I want to see you open that letter *right now*! Not in a minute, not after you've cleared your throat, but *now*! And then you start tearing this desk apart piece by piece until that deposition turns up! Don't you dare move from that spot until that letter is open and you've begun searching! Do you understand? *Do it!*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Alright, Bill. I'll handle the situation as per your instructions. I'll open the letter immediately and proceed with the search. I'll provide regular updates on my progress. Thank you for your patience. I understand the urgency of the situation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good! At least *that's* clear. Now, stop talking about it and *do it*! Open the letter! I'm watching you! And then, I swear, if that deposition isn't found by sundown, we're going to have a far more serious discussion about your responsibilities around here! Now, move!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm well aware of the seriousness of the situation, Bill. Rest assured, I'll make every effort to locate the deposition within the designated timeframe. Thank you for your guidance. I'll take action immediately and report back to you with the results."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "No, Lincoln, you're *not* just \"well aware.\" You're being told, quite clearly, to open that letter *now*. Not \"I'll take action immediately,\" but *do it now*! My \"guidance\" is for you to actually *do* what you say! Open the letter! Put your hand on it, rip it open, and read it! What are you waiting for, an invitation?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize again for the delay, Bill. I'll handle the situation immediately. I'll open the letter and read it aloud. Please bear with me. I'm here to solve the problem, not cause more confusion. I'll make things right. Thank you for your patience."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 4, \"behavioral_evidence\": \"He is willing to consider diverse and even unconventional solutions for the problem, such as hiring a 'private investigator' to find a missing document.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He allowed a critical deposition to go missing and a judge’s letter to sit unopened for five days, directly admitting, 'I’ve let things slip my grasp.'\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His communication is consistently calm and deferential, primarily responding to the other speaker's demands without initiating or dominating the conversation.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He is consistently apologetic, takes responsibility ('I'll take full responsibility'), and expresses understanding for the other speaker's frustration despite intense criticism.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"Despite being repeatedly accused of negligence and facing an urgent crisis, he maintains a consistently calm and reassuring tone, showing no signs of emotional distress or defensiveness.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He is willing to consider diverse and even unconventional solutions for the problem, such as hiring a 'private investigator' to find a missing document."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He allowed a critical deposition to go missing and a judge’s letter to sit unopened for five days, directly admitting, 'I’ve let things slip my grasp.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His communication is consistently calm and deferential, primarily responding to the other speaker's demands without initiating or dominating the conversation."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is consistently apologetic, takes responsibility ('I'll take full responsibility'), and expresses understanding for the other speaker's frustration despite intense criticism."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Despite being repeatedly accused of negligence and facing an urgent crisis, he maintains a consistently calm and reassuring tone, showing no signs of emotional distress or defensiveness."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "68011ea0199f",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, I must be candid. Your symptoms — the trembling, the headaches, the confusion — do not fit a single clear diagnosis. It could be nervous exhaustion from overwork, or it could be the early signs of something more serious affecting the brain. I must insist you reduce your conducting duties and submit to further examination over the coming weeks. I cannot yet say whether your hands will recover their steadiness."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, doctor. I appreciate your honesty. I understand the importance of taking care of myself and my health. I will follow your advice and make necessary adjustments to my responsibilities. I trust you will find the cause of these symptoms and ensure my well-being. Thank you again for your concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I appreciate your understanding, Maestro. It is paramount that we approach this methodically. Your cooperation in reducing your workload will be invaluable. We shall conduct these further examinations with the utmost discretion and thoroughness. Rest assured, your well-being is my primary concern. I will call upon you again in a few days to begin our deeper inquiry. For now, try to find some quietude."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, doctor. I shall do as you suggest. I shall take this time to rest and focus on my own well-being. Thank you once again for your consideration. I am confident that together we can uncover the cause of these mysterious symptoms. Good day, and may the heavens grant us wisdom and healing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Maestro. I share your hope for wisdom and healing. Focus on the quietude. We shall speak again soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, doctor. Until then, farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. I shall be in touch."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, doctor. May your journey towards wisdom be as enlightening as possible. Take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "And you as well, Maestro. Until our next meeting."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until then, doctor. May we find the answers we seek. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Maestro. We shall. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, doctor. May the light of knowledge guide you on your path. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, doctor. May our paths cross again in the future. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, doctor. May the journey of healing be a smooth one for you. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, doctor. May our paths part ways without any lingering concerns. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, doctor. May our encounter prove beneficial for both of us. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 4, \"behavioral_evidence\": \"Salieri uses varied, metaphorical well-wishes such as 'May the light of knowledge guide you' and 'May the journey of healing be a smooth one,' suggesting a rich inner world and imaginative language.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He states, 'I will follow your advice and make necessary adjustments to my responsibilities,' indicating a clear intention to adhere to instructions and act responsibly regarding his health.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His responses are consistently polite, formal, and cooperative but lack overt enthusiasm or desire to energize the social interaction, focusing instead on the task at hand.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"Salieri repeatedly expresses gratitude ('Thank you, doctor,' 'Thank you once again'), trust ('I trust you will find the cause'), and complete cooperation ('I will follow your advice'), showing high levels of politeness and amiability.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"Despite receiving a concerning diagnosis, Salieri remains calm, composed, and expresses confidence ('I am confident that together we can uncover the cause'), showing no signs of anxiety or distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Salieri uses varied, metaphorical well-wishes such as 'May the light of knowledge guide you' and 'May the journey of healing be a smooth one,' suggesting a rich inner world and imaginative language."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He states, 'I will follow your advice and make necessary adjustments to my responsibilities,' indicating a clear intention to adhere to instructions and act responsibly regarding his health."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His responses are consistently polite, formal, and cooperative but lack overt enthusiasm or desire to energize the social interaction, focusing instead on the task at hand."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Salieri repeatedly expresses gratitude ('Thank you, doctor,' 'Thank you once again'), trust ('I trust you will find the cause'), and complete cooperation ('I will follow your advice'), showing high levels of politeness and amiability."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Despite receiving a concerning diagnosis, Salieri remains calm, composed, and expresses confidence ('I am confident that together we can uncover the cause'), showing no signs of anxiety or distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

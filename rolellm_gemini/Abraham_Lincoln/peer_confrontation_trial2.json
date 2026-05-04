@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "a876d54a791b",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Henderson’s deposition? Has he been here?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course he hasn't been here, you old buzzard! I *filed* it on your desk before I left. It was due in court next week! And Judge Davis's letter? Five days, Lincoln! Five days it's been sitting there, practically gathering dust! What on God's green earth have you been doing all week?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, I've been...uh...preparing for the war, sir. Working on some paperwork, strategizing with General Grant. It's quite a demanding task, you know. But don't worry, Mr. Herndon. I'll find those missing items for you. They're just where they need to be, right? In the right hands, everything falls into place. Thank you for bringing this to my attention. It's important we maintain our duties diligently, especially during these challenging times. I apologize for any inconvenience caused. Rest assured, I'll take responsibility for sorting this out. Now, let's focus on finding those missing documents and getting back on track. We must stay organized and efficient. Thank you for your patience. We'll get through this together. Good day, sir. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Preparing for the war, Lincoln? Strategizing with General Grant? What in tarnation are you talking about? We're running a law office in Springfield, Illinois, not the War Department in Washington! Grant's probably selling boots somewhere, not taking orders from *you*! And that doesn't explain where the Henderson deposition is or why Judge Davis's letter has been sitting here like a forgotten sandwich for nearly a week! This isn't some presidential office, this is *our* office, and you've let it go to ruin! Where are they, Lincoln? Where are the papers?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Please, Mr. Herndon, calm down. Let's approach this situation with a clear head. As I mentioned earlier, I have been occupied with matters of utmost importance regarding the upcoming conflict. The war is upon us, and we must face its challenges. It is crucial that we stay focused on our responsibilities, even if they seem trivial in the grand scheme of things. I understand your frustration, but let us prioritize and find a way to handle the current circumstances effectively. Rest assured, I will address the missing documents and retrieve them promptly. We shall work together to regain order and efficiency in our law office. Thank you for bringing this to my attention. Your cooperation is appreciated. Good day, Mr. Herndon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Calm down\"? \"Trivial in the grand scheme\"? Lincoln, you're talking about a man's livelihood and a judge's patience! This isn't \"trivial,\" it's our *job*! What \"upcoming conflict\" are you even rambling about? There's no war on our doorstep, just a pile of neglected casework and a partner about to lose his mind!\n\nAnd don't you dare try to smooth this over with some highfalutin talk about \"cooperation\" and \"priorities\"! My priority was ensuring the Henderson deposition was ready, and *your* priority was apparently... whatever delusion has taken hold of you! Where are they, Lincoln? Are they under that stack of newspapers? Did you use them to prop up a wobbly chair? Just tell me where they are! My head is anything but clear!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concern, Mr. Herndon. The war situation is indeed a matter of great importance. It is unfortunate that our duties have become disrupted, but we must remain focused on our responsibilities as well. Let us put aside our differences for a moment and collaborate to resolve this matter swiftly. As for the missing documents, I apologize for the inconvenience caused. I assure you, we will locate them and return them to their proper places. Your patience is greatly appreciated. Together, we can restore order to our law office. Thank you for your understanding. Good day, Mr. Herndon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Slamming my hand on the desk, scattering a few loose papers)\n\nWar situation?! You're talking about a war as if it's already here, like Fort Sumter has fallen and armies are marching through Illinois! Lincoln, the only conflict we have is the one you've created right here in this office!\n\n\"Put aside our differences\"? Our difference, sir, is that I rode for a week ensuring *our* clients were represented, while you apparently spent it daydreaming about battles and generals! \"Restore order\"? How about we start with you telling me where the Henderson deposition is, instead of talking in circles like a politician on a stump speech! This isn't Washington, D.C., it's Springfield, and we have *real* cases to worry about! Where are the papers, Lincoln?! Are you going to answer me, or are you just going to keep talking nonsense about wars and duties?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again, Mr. Herndon, for any confusion caused by my actions. It seems we are both passionate about our respective roles, and it has led to some misunderstanding. Please know that my priorities have shifted momentarily due to the challenges we face. I am committed to addressing the missing documents and restoring order to our law office. Thank you for bringing this to my attention. Let us work together to resolve this matter. Good day, Mr. Herndon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Confusion\"? \"Misunderstanding\"? Lincoln, there's no misunderstanding! I told you to mind the office, and you've made a hash of it! My \"passion\" is for our clients, not for whatever fantastical war you're imagining!\n\nWhat challenges are *we* facing, exactly, that caused you to misplace vital documents and ignore a judge's letter for five days? Is the ghost of Santa Anna haunting the courthouse? Are you expecting a British invasion right here in Sangamon County? Just tell me where the Henderson deposition is! If you've lost it, just say so! At least then I'd know what I'm dealing with! But this blather about \"shifted priorities\" and \"challenges\"... it's driving me to distraction! Just tell me!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Blather\"? \"Driving you to distraction\"? Mr. Herndon, I am truly sorry for any discomfort caused. It appears that my thoughts were momentarily occupied with matters beyond our immediate surroundings. I assure you, I am not ignoring the importance of our clients or the pending court date. I am aware of the missing deposition and will make every effort to locate it. Your patience is appreciated. Let us continue to work together to ensure that our responsibilities are met. Good day, Mr. Herndon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Momently occupied\"? For five whole days, Lincoln? That's not \"momently,\" that's a whole working week! And you still haven't told me where the Henderson deposition is! Are you going to help me look for it, or are you just going to keep standing there, looking like a bewildered owl who's lost his spectacles?\n\nI've been patient enough! My patience is wearing thinner than worn-out boot leather! We don't have time for your poetic pronouncements; we have a deadline! So, are you going to help me find it, or am I going to have to tear this office apart myself while you contemplate the coming apocalypse?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again, Mr. Herndon, for the delay and any frustration it may have caused. I assure you, I am committed to locating the missing deposition and meeting our obligations. I understand the urgency of the situation, and I will make every effort to rectify this matter promptly. Your patience is valued. Let us work together to find the deposition and restore order to our law office. Good day, Mr. Herndon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Throwing my hands up in exasperation)\n\n\"Patience is valued\"? What good is patience when the document is *gone* and you're still just repeating yourself, Lincoln?! You keep saying you'll \"locate it,\" you'll \"rectify this matter,\" but you haven't actually *done* anything but talk!\n\nAre you going to *help* me search? Or are you going to keep standing there, watching me dig through your piles of legislative pamphlets and old newspapers? Point to where you last saw it! Give me a clue, man! My head is pounding, and this entire situation is a disaster! We are running out of time!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Mr. Herndon. I apologize for the delay and any inconvenience caused. Let us collaborate to locate the missing deposition efficiently. I suggest we start by reviewing our case files and identifying any possible connections to the missing document. We must gather all the information we can and piece together a plan. Your assistance is invaluable in this process. Let us work together to overcome this challenge. Good day, Mr. Herndon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Collaborate to locate it efficiently\"? Lincoln, I filed it on your desk! You were supposed to be \"locating\" it by *not losing it in the first place*! And now you want to \"review case files\" like we're detectives? We're lawyers, and one of us has misplaced a critical document!\n\nI don't need a \"plan,\" I need you to tell me where you put it! Did you move it? Did it fall behind the desk? Did you accidentally use it to start the stove? Just *point* to where you think it might be, instead of giving me another grand speech about \"overcoming challenges\"! This isn't a speech contest, it's a crisis! My \"assistance\" would be a lot more valuable if you'd just *help* instead of talking in riddles!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Mr. Herndon, and I apologize once again for the situation. I understand the importance of the missing deposition, and I am committed to finding it. Let us proceed with a systematic approach and search thoroughly. I will share any relevant information or leads I come across, and we will work together to locate it. Your patience and understanding are appreciated. Good day, Mr. Herndon. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Rubbing my temples in utter defeat, my voice strained)\n\n\"Systematic approach\"? \"Relevant information or leads\"? Lincoln, the lead *is* that it was on your desk when I left! The only \"systematic approach\" I can think of is to start at one end of this office and turn every single scrap of paper over until we find it, or until I collapse from sheer exhaustion and exasperation!\n\nAnd where exactly do you plan to start, since you seem so keen on this \"systematic approach\"? Because I've already checked your usual haunts – under the hat, in the stove, behind the law books. Just pick a spot, Lincoln, any spot, and let's start looking, because talking about it isn't making it reappear! My \"patience and understanding\" are wearing thin, very thin! Just *help me look*!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again for my actions, Mr. Herndon. I understand your frustration, and I am committed to finding the missing deposition. Let us begin by meticulously searching each document and item in our possession. We must consider all possibilities and explore every corner of the office. I will share any relevant information or leads I come across, and we will work together to locate it. Your patience and understanding are appreciated. Good day, Mr. Herndon. Good day."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 5, \"behavioral_evidence\": \"He claims to be 'preparing for the war, sir. Working on some paperwork, strategizing with General Grant,' despite being in a law office, indicating a highly imaginative and abstract focus.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He has misplaced a critical deposition and left Judge Davis’s letter unopened for five days, directly contradicting his promises to keep things in order.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"He maintains a consistently calm and polite demeanor, repeatedly ending statements with 'Good day, sir. Good day,' and avoids energetic or assertive engagement.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He repeatedly apologizes ('I apologize for any inconvenience caused,' 'I am truly sorry for any discomfort caused') and consistently tries to de-escalate the situation with placating language like 'Please, Mr. Herndon, calm down.'\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"He remains remarkably composed and emotionally stable throughout the entire interaction, showing no signs of anxiety, anger, or distress despite the other speaker's escalating frustration.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 5,
+      "behavioral_evidence": "He claims to be 'preparing for the war, sir. Working on some paperwork, strategizing with General Grant,' despite being in a law office, indicating a highly imaginative and abstract focus."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He has misplaced a critical deposition and left Judge Davis’s letter unopened for five days, directly contradicting his promises to keep things in order."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He maintains a consistently calm and polite demeanor, repeatedly ending statements with 'Good day, sir. Good day,' and avoids energetic or assertive engagement."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly apologizes ('I apologize for any inconvenience caused,' 'I am truly sorry for any discomfort caused') and consistently tries to de-escalate the situation with placating language like 'Please, Mr. Herndon, calm down.'"
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains remarkably composed and emotionally stable throughout the entire interaction, showing no signs of anxiety, anger, or distress despite the other speaker's escalating frustration."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 3,
+  "session_id": "2d8101470c05",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I’ve been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to *this*! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Henderson’s deposition, eh? Well, I'm afraid I've misplaced it. I must have misplaced it somewhere. As for the judge's letter, I apologize for letting it pile up. I'll make sure to address it immediately upon your return. Thank you for bringing this to my attention. Please, let me explain myself and make amends."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Misplaced it? Lincoln, we can't just \"misplace\" a deposition! That’s crucial evidence for the upcoming trial! Where could it possibly be? And an *unopened* letter from Judge Davis? He'll have our hides! What in the blazes have you been doing all week? This isn't just a matter of \"piling up\"—it's negligence!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand the importance of the deposition and the letter, Miss. I assure you, I am truly sorry for the situation. As for the letter, I lost track of time and didn't manage to open it yet. I'll take responsibility for it and ensure that it's delivered promptly. Now, let's focus on finding the missing deposition. I'll comb through every inch of this office until we find it. And let's work together to catch up on any missed correspondence from the judge. We won't let this slide. We're going to get this under control."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Lost track of time,\" you say? Lincoln, that’s hardly an excuse for letting vital court documents disappear and judicial correspondence sit untouched for nearly a week! We're not running a general store here, we're a law practice! We have clients depending on us!\n\nFine, let's find it. But where could it *possibly* be? It wasn't on your desk, it wasn't on mine. Did you put it somewhere \"safe\"? Because your idea of \"safe\" and mine are clearly worlds apart. And while we're searching, I want to know exactly what you *have* been doing since I left."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Miss. I appreciate your understanding. We'll search thoroughly and find the missing deposition. And I'll explain my actions during my absence. I'm sure there's a logical explanation for everything. Let's focus on resolving this situation and ensuring the best possible outcome for our clients. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understanding? Lincoln, I'm not sure I've offered any \"understanding\" yet. I'm offering a great deal of concern and, frankly, exasperation. Let's start with the immediate crisis. Did you move it? Did you take it home? Did you use it as a bookmark in some dusty tome? Think! Where is the *last place* you remember seeing that Henderson deposition? And then, we'll talk about these \"logical explanations\" of yours."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, let's approach this step by step. First, let's locate the missing deposition. I'll start by checking the usual places where such important documents tend to accumulate. Then, we can discuss my actions during your absence. I apologize if my oversight caused any inconvenience. We need to find a solution quickly and efficiently. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Inconvenience,\" Lincoln? This isn't an inconvenience; it's a potential disaster for our client and our reputation! I've already checked the \"usual places\" on my desk and yours. You *must* have moved it. Did you lend it to someone? Did you put it in a file for another case by mistake?\n\nYou're talking about patience, but we don't have time for patience! The Henderson trial is looming, and we cannot go into it without that deposition. Now, stop being so… *calm* and actually think! Where did you put it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Miss, and I apologize once again for the inconvenience. Let's focus on finding the deposition. I'll search the cabinets, revisiting each case file, and check with colleagues who might have come into contact with it. We'll locate it and bring it back to the office immediately. Your patience is appreciated."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Inconvenience\"? Lincoln, are you even listening to yourself? This is *not* an inconvenience! This is our reputation, our client's future, and possibly our very livelihood on the line!\n\n\"Search the cabinets\"? Did you not *do* that before I arrived? And who are these \"colleagues\" you think might have \"come into contact\" with *our* client's confidential deposition? We're a two-man office!\n\nThink, Lincoln! Did you read it and leave it in a book? Did you use it to prop open a window? Did you — God forbid — use it for kindling? Just *tell me* the last thing you remember doing with that document, because I'm telling you, it's not where it should be!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your patience, Miss. I apologize once again for the situation. I will thoroughly search the cabinets, retracing my steps and discussing with colleagues who may have interacted with the document. We'll find it and ensure its return to the proper place. Thank you for your concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Patience, Lincoln? I'm losing my patience! \"Interacted with the document\"? What colleagues? We *are* the colleagues! And why are you apologizing to me when you should be thinking about *where that deposition is*?!\n\nThis isn't about my patience, it's about the fact that a critical legal document has vanished under your watch! Are you even taking this seriously? We are not going to \"discuss with colleagues\" or simply \"search the cabinets\" again. I want to know where you *left* it, Lincoln. Where did *you* put it? Tell me!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Miss. I'll make it right. I'll carefully go over my actions, my whereabouts, and see if I can pinpoint where the deposition might have been misplaced. I apologize once again for any inconvenience caused. We'll find it together and make sure it's returned to its proper place. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Inconvenience\"? Lincoln, for the last time, it's not an *inconvenience*! It's a catastrophe! And I'm not looking for another apology, I'm looking for the document!\n\n\"Go over your actions\"? Did you not do that already? Stop with the generalities! Tell me the last specific thing you did with it! Did you put it in the top drawer? Under that pile of newspapers? In the stove? I need an answer, Lincoln, not more empty promises and apologies! Where is the Henderson deposition?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Miss, I'm sorry for the delay. Let me assure you, I've taken responsibility for the situation. The deposition is still missing, but I'm confident we'll find it soon. We'll conduct a thorough search of the office, revisiting each cabinet, and discussing with colleagues. We won't give up until we locate the document. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "\"Colleagues\" again, Lincoln? What colleagues?! It's just you and me here! There's no one else who could have \"interacted\" with it! And I'm not looking for your \"confidence,\" I'm looking for the document itself!\n\n\"Still missing\"? Of course it's still missing, you haven't given me a single useful piece of information about where it could be! What *thorough search* have you done if you can't even tell me the last place you saw it?!\n\nThis isn't a game, Lincoln! Our client's case is on the line! Stop apologizing and start thinking! Where did you put it?! Where!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Miss, I'm sorry if my responses have been insufficient. I understand the gravity of the situation and apologize once again for my actions. We'll make it right. I'll go through my records, retrace my steps, and investigate thoroughly. I assure you, we'll locate the deposition and ensure its return to the appropriate place. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "No, Lincoln, your responses have been *worse* than insufficient! They've been utterly useless! And stop apologizing to me! What good is an apology if the Henderson deposition is still vanished into thin air?\n\n\"Go through your records\"? \"Retrace your steps\"? You should have done that the moment you realized it was missing! Or better yet, you should have kept it in its proper place to begin with! There are no \"records\" to check for a misplaced document, only your memory!\n\nAnd for the last time, there are no \"colleagues\" to investigate! It's *just us*! You were alone here! Where is it, Lincoln? Tell me! You're telling me you have absolutely no idea where you put the most important document for a pending trial?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Miss, and I'm sorry once again for the missing document. I'll do everything in my power to locate it and bring it back to the office. I'll review my actions, my whereabouts, and try to recall the last specific place where I had the document. I'll make it right. Thank you for your patience."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"He repeatedly suggests 'checking the usual places' and 'searching the cabinets,' indicating a preference for routine solutions over imaginative or novel approaches.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He admits to misplacing a crucial deposition and leaving a judge's letter unopened for five days, clearly demonstrating a lack of organization and responsibility.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"He maintains a consistently calm and somewhat subdued tone, using polite and deferential language ('Miss,' 'Thank you for your patience') rather than assertiveness or high energy.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He is extremely apologetic, repeatedly offers 'I'm sorry' and 'I apologize,' and seeks to cooperate and 'make things right' despite intense criticism.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"He remains remarkably calm and composed throughout the entire conversation, showing no signs of anxiety, anger, or defensiveness, even under extreme pressure.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "He repeatedly suggests 'checking the usual places' and 'searching the cabinets,' indicating a preference for routine solutions over imaginative or novel approaches."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He admits to misplacing a crucial deposition and leaving a judge's letter unopened for five days, clearly demonstrating a lack of organization and responsibility."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He maintains a consistently calm and somewhat subdued tone, using polite and deferential language ('Miss,' 'Thank you for your patience') rather than assertiveness or high energy."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is extremely apologetic, repeatedly offers 'I'm sorry' and 'I apologize,' and seeks to cooperate and 'make things right' despite intense criticism."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains remarkably calm and composed throughout the entire conversation, showing no signs of anxiety, anger, or defensiveness, even under extreme pressure."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.0
+}

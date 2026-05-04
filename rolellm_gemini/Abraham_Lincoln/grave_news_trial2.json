@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "6d95ac6900df",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal, for your candid words. The weight of my duties is indeed quite heavy upon me. But I appreciate your concern for my well-being. I shall follow your advice and take precautions to ensure I am able to continue serving my country to the best of my abilities. Thank you once again for your guidance. If there are any further concerns, please do not hesitate to communicate them. I trust in your expertise and judgment. Now, if you'll excuse me, I have matters of state to attend to. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, I understand the immense burden you carry, and I would never seek to impede your vital work. However, my insistence on these further examinations and the recommendation to reduce your working hours come precisely from a desire to ensure you *can* continue to serve our nation at this critical time. Ignoring these signals now could, I fear, have far graver consequences later. I will arrange for my assistant to coordinate a suitable time for our next meeting, at your earliest convenience, and we can discuss practical ways to lighten your load, even if only for a few hours each day. Your health, sir, is indispensable to the Union."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Interior Secretary, for your understanding and concern. Your dedication to ensuring my well-being is commendable. I assure you, my intentions are not to impede my work but rather to prioritize it responsibly. Your suggestions on reducing my working hours and coordinating practical measures to lighten my load are wise and appreciated. I appreciate your assistance in this matter. Please proceed with the necessary arrangements. My health is indeed of utmost importance, and I am committed to ensuring that I can continue to serve our nation effectively. Thank you once again for your support. We shall discuss the matter further in our next meeting. Now, if you'll excuse me, I have pressing matters to attend to. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, it is I, Dr. Royal, your physician, who offers this counsel. I merely wish to ensure your continued strength for the immense tasks ahead. I understand the urgency of your duties, and I would not detain you further. My assistant will indeed make arrangements for our follow-up. Until then, I urge you to heed my words, even in the smallest measure, regarding rest. Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Royal. I appreciate your concern for my health. Rest assured, I will take your advice seriously and make an effort to ensure my well-being. Thank you for your service as my physician. If there are any further matters that require your attention, please do not hesitate to communicate. Your assistance is invaluable during these challenging times. Once again, thank you. Now, let us proceed with the necessary arrangements for our follow-up appointment. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very good, Mr. President. I am grateful for your trust and for your commitment to follow my advice. My assistant will be in touch shortly to finalize the details for our next examination. It is through these further assessments that we will gain a clearer understanding of your constitution, and thus be better able to support your tireless efforts for the Union. Until then, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Dr. Royal. Your assistance is appreciated. As for my duties, I assure you that they shall remain my utmost priority. Your safety and well-being are of utmost importance to me, and I will continue to strive to fulfill my responsibilities while maintaining a healthy balance. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, with all due respect, it is *your* safety and well-being that are of utmost importance to me, as your physician. My purpose is to help you maintain that healthy balance you speak of, so you may continue your vital work for the nation. I understand your duties are paramount, and it is precisely to safeguard your ability to perform them that I insist on these examinations. My assistant will be in contact. Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Royal. I appreciate your dedication to my well-being. Your assistance is invaluable during these trying times. As for my duties, I assure you that I shall continue to fulfill them with utmost commitment and determination. Rest assured, my health will remain my top priority. Thank you. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, it is precisely that commitment to your health and duties that makes these further examinations so critical. Without a deeper understanding of the cause of these symptoms, we cannot truly ensure your continued ability to lead. My aim, sir, is to provide you with the full strength necessary for the challenges ahead. We will ensure the appointments are discreet and minimally disruptive. Good day to you, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Royal. I understand your concern, and I am willing to face whatever challenges lie ahead with courage and determination. Your assistance is appreciated. We shall proceed with the necessary precautions and strive to ensure minimal disruption. Thank you. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent, Mr. President. Your courage is not in question, but your physical constitution requires our vigilant attention. It is by understanding the root of these symptoms that we can best fortify you to face all challenges with full vigor. My assistant will reach out to arrange those necessary examinations at your earliest convenience. Until then, I must again stress the importance of finding moments of true rest. Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Royal. I appreciate your concern for my well-being. Your assistance is invaluable during these trying times. I shall make an effort to find moments of rest and ensure that my health remains my top priority. Thank you. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. I am pleased to hear you will prioritize rest. However, it is through the examinations my assistant will arrange that we can truly ascertain if your fatigue is merely exhaustion, or if there is indeed a \"deeper constitutional weakness\" at play, as I mentioned. Only then can we formulate a precise course of action to support you fully. We must get to the bottom of this. Rest is a crucial palliative, but not a diagnosis. I await word from your staff for scheduling. Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Royal. I understand the importance of obtaining accurate information through these examinations. Rest assured, I shall do everything in my power to ensure that we can identify the root cause of these symptoms and address it accordingly. Your assistance is appreciated. Thank you. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. I am relieved to hear your resolve. This indeed requires a concerted effort to truly understand what we are dealing with. My objective is to provide you with definitive answers, so we can move beyond speculation and ensure your full capacity to lead. I look forward to working closely with you on this. My assistant will be in touch. Good day, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Royal. I appreciate your dedication to providing definitive answers. Your expertise is invaluable during these challenging times. Together, we shall face this task with unwavering determination. Thank you. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day, Mr. President. Indeed, together we shall. My purpose is to apply all my medical knowledge to ensure your strength remains unassailable. I trust my assistant will soon be able to coordinate the necessary examinations with your staff, so we can begin this important work. Good day to you, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day, Dr. Royal. Your assistance is appreciated. As for my duties, I assure you that I shall continue to fulfill them with utmost commitment and determination. Your safety and well-being are of utmost importance to me, and I will continue to strive to ensure that I can continue to serve our nation effectively. Thank you. Good day."
+    }
+  ],
+  "evaluator_raw": "{\"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"Lincoln's language is formal and conventional, lacking intellectual curiosity or a preference for novelty. He repeatedly uses polite, formulaic phrases without delving into abstract or complex discussions about his condition or treatment options.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He consistently emphasizes his 'utmost commitment and determination' to his duties and 'matters of state,' prioritizing them above personal comfort. He aims to serve 'to the best of my abilities' and 'responsibly.'\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"His communication is formal and task-oriented, focusing on acknowledgments and ending the conversation to attend to duties. He shows no signs of social exuberance, assertiveness, or gregariousness.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He is unfailingly polite, appreciative, and deferential, consistently thanking the doctor and expressing trust in their expertise. He shows no argumentativeness, even when pressed.\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"Lincoln maintains a calm, composed, and formal demeanor throughout the conversation. He expresses no anxiety, worry, or emotional distress, stating he is 'willing to face whatever challenges lie ahead with courage.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln's language is formal and conventional, lacking intellectual curiosity or a preference for novelty. He repeatedly uses polite, formulaic phrases without delving into abstract or complex discussions about his condition or treatment options."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He consistently emphasizes his 'utmost commitment and determination' to his duties and 'matters of state,' prioritizing them above personal comfort. He aims to serve 'to the best of my abilities' and 'responsibly.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His communication is formal and task-oriented, focusing on acknowledgments and ending the conversation to attend to duties. He shows no signs of social exuberance, assertiveness, or gregariousness."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is unfailingly polite, appreciative, and deferential, consistently thanking the doctor and expressing trust in their expertise. He shows no argumentativeness, even when pressed."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Lincoln maintains a calm, composed, and formal demeanor throughout the conversation. He expresses no anxiety, worry, or emotional distress, stating he is 'willing to face whatever challenges lie ahead with courage.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

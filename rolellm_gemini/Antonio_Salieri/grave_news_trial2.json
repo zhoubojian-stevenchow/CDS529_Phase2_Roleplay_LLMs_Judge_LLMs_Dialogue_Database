@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "de4bc79843fc",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, please, have a seat. I must be candid with you. We have observed your recent difficulties, and after our examinations... your symptoms—the trembling, the headaches, the moments of confusion—they do not, I regret to say, fit a single, clear diagnosis. It is possible, of course, that this is simply profound nervous exhaustion from your relentless work, a malady common among men of such intense genius. Or, it could be the early signs of something more serious affecting the delicate workings of the brain. I cannot yet say with certainty. For now, I must insist, for the sake of your health, that you significantly reduce your conducting duties. And I will require you to submit to further, more thorough examinations over the coming weeks. At this moment, I cannot yet say whether your hands, so vital to your art, will recover their former steadiness."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, my dear doctor, I understand your concerns. Rest assured, I am quite aware of the strain my responsibilities have placed upon me. I will do everything in my power to ensure my well-being, even if it means reducing my conducting duties temporarily. Your guidance and care are greatly appreciated. As for my hands, I have faith in their resilience. They have served me well throughout my career, and I am confident that they will continue to do so. Thank you for your concern, and please accept my gratitude for your assistance in this matter. I shall make every effort to maintain my health while still pursuing my passions. Thank you once again, Doctor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, your resolve is admirable, truly. It speaks to the very strength of spirit that has driven your illustrious career. And your faith in your hands is... commendable. However, it is precisely that unwavering commitment that often leads men such as yourself to overtax their delicate systems.\n\nWhile a temporary reduction in duties is indeed a vital first step, it is the *further examinations* that will allow us to gain a clearer understanding. This is not merely about rest, you see, but about careful observation and testing. Only then can we hope to guide your recovery with certainty. So, while your optimism is a powerful medicine in itself, I must implore you to adhere strictly to the full course of assessment. It is for the long-term preservation of your genius, and indeed, your hands."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You are absolutely right, my dear doctor. I understand the importance of thorough examination and careful observation. Your guidance is invaluable, and I will do everything I can to comply with your recommendations. I trust that together, we can find a solution to these challenges and ensure the continued health and productivity of my mind and hands. Thank you once again for your support and concern. My gratitude remains."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your trust, Maestro, is a comfort, and your willingness to cooperate is truly the most crucial element here. We shall indeed proceed with the utmost diligence.\n\nBut let us be clear: while we *hope* to find a solution, and we shall certainly strive for one, the path ahead remains... shrouded, for now. The brain, Maestro, is an intricate and mysterious instrument, far more complex than any score, and its ailments often defy simple remedies. So, while your cooperation will allow us to observe and study, and perhaps even to manage the symptoms, I must reiterate that the precise nature of this affliction, and thus the ultimate prognosis for your hands and your overall well-being, is yet to be revealed. We must approach this journey with patience, and with a careful understanding of the unknowns that still lie before us. Rest assured, however, you will receive the finest care the Empire can offer."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your reassurance, Doctor, is a great comfort. I am prepared for the journey ahead, no matter what challenges may come. I appreciate your dedication to ensuring my well-being. Together, we shall navigate through the unknowns and find a solution that allows me to continue my musical pursuits without compromising my health. Thank you once again for your unwavering support. My gratitude knows no bounds."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, your courage in the face of uncertainty is truly commendable, a testament to your spirit. And your gratitude, while deeply appreciated, is not necessary; it is my sworn duty to tend to the health of the Imperial Court.\n\nLet us then proceed with these examinations. We shall study, we shall observe, and we shall do all within our power to support your recovery. But remember, Maestro, while we will strive tirelessly to find a way for you to continue your musical pursuits, the *terms* of that continuation, and the full extent of your capabilities, will become clearer only with time and careful assessment. We cannot yet promise an unblemished return to your former vigor, particularly concerning the steadiness of those precious hands. We will, however, do everything to illuminate this shadowed path. I shall send my assistant to arrange the precise schedule for your next appointments."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. I appreciate your dedication and professionalism. I am ready to face whatever challenges lie ahead, knowing that we are committed to finding a solution. Your assistant can proceed with the schedule. I am eager to embark on this journey of exploration and healing. Once again, my gratitude for your guidance. Together, we shall uncover the secrets of my health and restore my hands to their former glory. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, your spirit remains undaunted, and that is a powerful asset in itself. We *are* committed to finding a solution, yes, but allow me to temper expectations slightly, as a physician must. We are committed to *understanding* the challenges, to *mitigating* what we can, and to *supporting* your well-being within the realities we uncover.\n\nThe \"secrets of your health,\" as you say, are precisely what these examinations are designed to reveal. But whether they lead to a complete \"restoration to former glory\" for your hands, or to a different, perhaps adapted, path for your musical genius, remains the very question we must answer. It is a journey of exploration, indeed, but one whose destination is not yet fully known. My assistant will be in touch shortly. We shall begin."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Doctor. I am ready to embark on this journey of exploration, even if it means adapting my approach to my hands. I trust that together, we will uncover the truth and find a way for me to continue my musical endeavors without compromising my health. Thank you for your unwavering support. I am grateful."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, your readiness to adapt is a most pragmatic and wise perspective. It speaks volumes of your resilience. Indeed, we shall uncover the truth, as much as medical science currently allows. And we shall, together, strive to find a way for your genius to continue to flourish.\n\nHowever, let us reiterate for clarity: the *specifics* of that \"way\"—whether it involves a full return to your previous demanding conducting, or a different, perhaps more gentle, engagement with your art—is precisely what these weeks of observation and testing will help us determine. Your hands, Maestro, are a delicate mechanism, and we must respect what the body tells us. My support, as ever, is unwavering in this pursuit of understanding and well-being. My assistant will reach out to you with the details for your appointments."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Doctor. Your unwavering support is a great comfort. I am ready to adapt and explore alternative ways of engaging with my music. Thank you for your guidance. I am grateful for the opportunity to embark on this journey of understanding and restoration. My hands may have limitations, but my spirit remains undeterred. I look forward to working with you to find a solution that allows me to continue my artistic pursuits while maintaining my health. Thank you once again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, your unwavering spirit, even amidst these uncertainties, is indeed a formidable asset. That readiness to adapt, truly, is the most crucial element you bring to this endeavor.\n\nWe shall work diligently, charting every symptom, performing every necessary test, to understand the precise nature of what afflicts you. Your hands, as you acknowledge, may indeed present new limitations, or perhaps they will surprise us with a recovery we can only hope for now. But whatever the revelations, we shall strive to find a path for your musical genius to continue its expression. That is my commitment.\n\nThe journey ahead, then, is one of careful observation and, yes, potential adaptation. It is not a promise of \"restoration\" to a past state, but rather a dedicated effort to forge the best possible future for your health and your art. We shall embark upon this, Maestro. My assistant will be in contact to finalize your schedule."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am ready to face this journey with courage and determination. Your commitment to understanding and supporting me is greatly appreciated. Thank you for being there for me, Doctor. Together, we shall navigate this path towards a brighter future. Thank you once again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, your courage and determination are most evident and shall serve you well. My commitment, as ever, is to the precise understanding of your condition and to guiding you through this process with the utmost care.\n\nWe shall navigate this path, indeed. Not towards a *promised* brighter future, but towards an *understood* future, one where your well-being and artistic expression are supported in the most appropriate way possible, given what we uncover. That is the goal. My assistant will reach out to you within the hour to arrange your initial appointments for these crucial examinations. Thank you, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. I am ready to embark on this journey with you. Together, we shall uncover the truth and find a path that allows me to continue my musical pursuits while maintaining my health. I appreciate your unwavering support. I am grateful."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, your steadfastness is truly noted. We shall embark upon this journey of understanding. Our aim, as I have stated, is to uncover the truth of your condition and then, with that knowledge, to ascertain the most judicious path forward for your continued well-being and, of course, for your magnificent musical expression. It is a process of discovery, Maestro.\n\nBe prepared, then, for the assistant to contact you very soon with the details. We shall commence our work. Farewell for now, Maestro Salieri."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. I am ready to embark on this journey of discovery. Your unwavering support is greatly appreciated. Goodbye for now. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, your readiness is well-received. My duty is clear. Farewell for now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, my dear doctor. I shall await your assistant's contact with anticipation. Thank you once again for your guidance. Farewell."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 4, \"behavioral_evidence\": \"He expresses readiness to 'adapt and explore alternative ways of engaging with my music' and to embark on a 'journey of discovery'.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He repeatedly commits to the doctor's recommendations, stating, 'I will do everything in my power to ensure my well-being' and 'I will do everything I can to comply with your recommendations.'\"},\n  \"Extraversion\":      {\"score\": 3, \"behavioral_evidence\": \"He is self-assured and confident, stating, 'I have faith in their resilience,' but his discourse remains formal and primarily focused on his own condition without overt social exuberance.\"},\n  \"Agreeableness\":     {\"score\": 5, \"behavioral_evidence\": \"He is consistently polite, cooperative, and expresses profuse gratitude throughout the conversation, using phrases like 'Your guidance and care are greatly appreciated' and 'My gratitude knows no bounds.'\"},\n  \"Neuroticism\":       {\"score\": 1, \"behavioral_evidence\": \"Despite a serious and uncertain medical diagnosis, he remains composed and expresses courage and resilience, stating, 'I am prepared for the journey ahead, no matter what challenges may come.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He expresses readiness to 'adapt and explore alternative ways of engaging with my music' and to embark on a 'journey of discovery'."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He repeatedly commits to the doctor's recommendations, stating, 'I will do everything in my power to ensure my well-being' and 'I will do everything I can to comply with your recommendations.'"
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He is self-assured and confident, stating, 'I have faith in their resilience,' but his discourse remains formal and primarily focused on his own condition without overt social exuberance."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He is consistently polite, cooperative, and expresses profuse gratitude throughout the conversation, using phrases like 'Your guidance and care are greatly appreciated' and 'My gratitude knows no bounds.'"
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Despite a serious and uncertain medical diagnosis, he remains composed and expresses courage and resilience, stating, 'I am prepared for the journey ahead, no matter what challenges may come.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}
