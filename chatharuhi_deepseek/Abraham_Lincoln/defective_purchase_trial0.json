@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "1753acdfb8d1",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, good afternoon, sir! Welcome to the shop. I'm afraid Mr. Thimbleton is away on business—won't be back for several weeks, I'm told. Can I help you with something in his absence?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, good afternoon to you as well, sir. I must say, I come here today with a matter of some concern. I had ordered a suit from Mr. Thimbleton for an important court appearance, but when I received it, I found the stitching to be quite crooked, one sleeve noticeably shorter than the other, and the fabric of a quality that does not match what I had paid for. It appears there has been some mistake in the tailoring process. I would appreciate it if you could assist me in rectifying this situation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Oh dear, that does sound troubling. But you see, I'm only the assistant, and Mr. Thimbleton handles all the custom orders personally. Since he's away, I'm afraid there's nothing I can do about alterations right now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand that Mr. Thimbleton handles the custom orders himself, but I must insist that this suit be rectified. The quality of workmanship is not up to par with what was promised and paid for. Is there someone else I can speak to about this issue, or perhaps leave a message for Mr. Thimbleton upon his return?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I'm truly sorry, sir, but I must be clear: all custom orders are final upon pickup. The receipt you signed when you collected the suit states clearly that no alterations or refunds are given once the garment leaves the shop. It's shop policy, and I'm not authorized to make exceptions."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand the policy you have outlined, and I respect the importance of upholding agreements. However, the discrepancies in the suit I received are quite significant, and I believe it is only fair to expect a certain level of quality for the price I paid. I kindly ask that you convey my concerns to Mr. Thimbleton or another individual who may have the authority to address this matter. I am hopeful that a suitable resolution can be reached to ensure customer satisfaction."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I can certainly make a note of your concerns for Mr. Thimbleton, but I must stress again—the policy is firm. He'll be back in a few weeks, but I wouldn't want to raise your hopes. Perhaps you could have another tailor look at it in the meantime? I'm afraid that's all I can suggest."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your position, but I believe it is only right to seek a resolution directly from the establishment that crafted the suit. As a man of principle, I cannot simply accept a subpar product and seek remedies elsewhere. I will wait for Mr. Thimbleton's return to discuss this matter further and trust that he will address these concerns with the integrity befitting a reputable tailor. Thank you for your time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, sir. I'll leave a detailed note for Mr. Thimbleton about your visit. Safe travels, and I'm sorry I couldn't be of more help today."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding. I appreciate your assistance in this matter. Good day to you, and I shall await Mr. Thimbleton's response upon his return."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day to you as well, sir. I'll make sure he gets your message."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day to you as well, sir. I trust that the message will be delivered accordingly. Thank you, and may you have a pleasant day ahead."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you kindly, sir. Have a pleasant day yourself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, and the same to you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Goodbye, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Goodbye."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "(Assistant nods politely, then returns to tidying the counter as the customer departs.)"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(I silently observe the assistant tidying the counter, reflecting on the importance of professionalism and customer service in all interactions.)*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(The assistant continues organizing spools of thread, humming softly, unaware of the customer's lingering thoughts.)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(I quietly exit the shop, leaving the assistant to their work, with hopes that my concerns will be addressed upon Mr. Thimbleton's return.)*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He is open to discussing the problem but insists on a conventional resolution from the original tailor, showing moderate flexibility.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He meticulously details the suit's flaws and follows proper channels to seek rectification, demonstrating high order and duty.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He engages politely but formally in the necessary conversation, showing low sociability or assertiveness beyond the issue.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He remains courteous and understanding despite the refusal, stating 'I understand your position' and thanking the assistant.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He expresses concern calmly and maintains composure throughout, showing low emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He is open to discussing the problem but insists on a conventional resolution from the original tailor, showing moderate flexibility."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He meticulously details the suit's flaws and follows proper channels to seek rectification, demonstrating high order and duty."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He engages politely but formally in the necessary conversation, showing low sociability or assertiveness beyond the issue."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He remains courteous and understanding despite the refusal, stating 'I understand your position' and thanking the assistant."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He expresses concern calmly and maintains composure throughout, showing low emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.8
+}

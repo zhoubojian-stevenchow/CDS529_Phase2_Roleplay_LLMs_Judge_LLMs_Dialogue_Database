@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 4,
+  "session_id": "cd08363e44c0",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I've been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis’s letter has been sitting here unopened for five days! You told me you’d keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Mr. Herndon, I must admit the office does seem to be in a bit of disarray upon your return. I regret to hear about the missing deposition and the unanswered letter from Judge Davis. It seems I have not upheld my promise to keep things in order in your absence.\n\nLet us work together to retrace our steps and search diligently for the Henderson deposition. Perhaps it was misplaced or mistakenly filed away. As for the letter from Judge Davis, I shall attend to it immediately and draft a response without further delay. It is crucial to maintain order and organization in our work, and I take full responsibility for falling short in this regard.\n\nPlease accept my apologies, Mr. Herndon. I will make it a priority to rectify these oversights and ensure that such lapses do not occur again in the future. Thank you for bringing these matters to my attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Apologies? Apologies won't find that deposition, Lincoln! I had every page in order before I left — now it's vanished. And Judge Davis doesn't write for idle chatter; that letter could be about the circuit schedule or a pending ruling. Five days! What have you been doing all week?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, I understand the gravity of the situation regarding the missing deposition and the unanswered letter from Judge Davis. I acknowledge that my lapse in maintaining the office's organization has caused inconvenience and potential complications. I take full responsibility for my actions, or lack thereof, during your absence. Rest assured, I will dedicate my efforts to assist in locating the Henderson deposition and addressing the correspondence from Judge Davis promptly. I humbly ask for your patience and cooperation as we work together to resolve these matters efficiently."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Patience? I've been patient for a week while you let this place fall to pieces! Did you even look at the docket? The Henderson case is set for Thursday — we can't walk into court without that deposition. And don't just stand there looking sorrowful; think, man! Where did you last see it? Did you lend it out? Take it home?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "William, I appreciate your sense of urgency in this matter. You are right to emphasize the importance of locating the Henderson deposition before the upcoming court date on Thursday. I must admit that I have not been as attentive to the docket as I should have been during your absence.\n\nAs for the whereabouts of the deposition, I will retrace my steps and try to recall where I last saw it. I do not recall lending it out or taking it home, but I will thoroughly search the office and my own belongings to see if it may have been misplaced.\n\nI understand that my apologies and expressions of regret are not enough to remedy the situation at hand. Action is required, and I will do everything in my power to assist in finding the missing deposition and ensuring that we are prepared for the Henderson case on Thursday. Let us work together to resolve this issue promptly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Working together? I've been working while you've been... what? Staring out the window again? Reciting poetry to yourself? This is a law office, not a debating society! Now start looking — check under those stacks of newspapers you've been collecting. And for heaven's sake, open Judge Davis's letter this instant while I search the filing cabinet."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You are right to point out my shortcomings, Mr. Herndon. I must acknowledge that I have been remiss in my duties, and I appreciate your guidance in directing me to take immediate action.\n\nI will begin by searching diligently for the Henderson deposition, checking every corner of our office, including under the newspapers. Simultaneously, I will open Judge Davis's letter without further delay to address any pressing matters it may contain. Your industriousness and attention to detail serve as a reminder of the standards we must uphold in our profession. Let us work together to rectify these oversights and ensure that our office is in proper order for the upcoming case."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Rummaging through papers on the desk)* Don't lecture me about standards while you're knee-deep in this chaos. What's in the letter? If it's about the change of venue for the Matthews case, we're already behind. And I swear, if I find that deposition used as a coaster for your coffee again..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "William, I appreciate your thorough search for the missing deposition and your dedication to addressing the pressing matters at hand. Your diligence in rummaging through the papers on the desk is commendable, and I will join you in the search to expedite the process.\n\nAs for the letter from Judge Davis, allow me to read its contents promptly to ascertain its significance. If it pertains to the change of venue for the Matthews case, we must act swiftly to catch up on any developments and ensure that we are not behind schedule.\n\nRest assured, I am fully committed to assisting you in locating the deposition and maintaining the level of organization and efficiency that our office requires. Let us work together to address these issues and prevent any further oversights in the future.\n\nThank you for your perseverance and dedication, William. Let us continue our search and address the matters outlined in the letter from Judge Davis without delay."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Slams a ledger shut)* Perseverance? Dedication? I'm trying to keep this practice from collapsing around our ears! Now read that letter aloud — every word — while I check your coat pockets. And if you've gone and misfiled the deposition under \"H\" for \"Henderson\" when it should be under the plaintiff's name, I'll... well, just read!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Certainly, Mr. Herndon. I will read Judge Davis's letter aloud to ensure we are fully informed of its contents. \n\n*(Clears throat)*\n\n\"My dear sirs, I write to inform you of the change of venue for the Matthews case, which is now scheduled to be heard in the Springfield courthouse on the 15th of this month. Please make the necessary preparations and inform your clients accordingly. Yours sincerely, Judge Davis.\"\n\nNow, as you check my coat pockets, I will continue to search for the missing deposition. I will pay close attention to the filing system to ensure that the document is not misfiled under the wrong category. Your determination to keep our practice running smoothly is commendable, and I am committed to assisting you in every way possible to rectify the current situation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "The 15th? That's in three days! And we still haven't prepared the witness list. This is exactly what I feared. *(Pulls a crumpled paper from Lincoln's coat pocket)* And what's this? *(Smooths it out)* It's the Henderson deposition — covered in what looks like molasses and pencil marks! Were you using it to sketch courtroom layouts again?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(Looking slightly sheepish)* Ah, Mr. Herndon, it appears that the missing Henderson deposition was indeed in my coat pocket all along. My sincerest apologies for the oversight and the condition in which it was found. I must admit that I have not been as attentive as I should have been to the organization of our case materials.\n\nAs for the markings on the deposition, I can assure you that they were not intentional. It seems that the document has suffered some accidental damage during my inadvertent use of it. I regret any inconvenience this may have caused and take full responsibility for its condition.\n\nLet us now focus on preparing the witness list for the upcoming trial on the 15th and ensure that we are fully ready for the proceedings. I appreciate your patience and understanding, Mr. Herndon, as we work together to overcome these challenges and uphold the standards of our practice."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Accidental damage? Lincoln, this is a legal document, not scrap paper! Look at this — you've drawn a map of the Sangamon River right over the witness testimony! We'll have to recopy the entire thing before Thursday. And now with the Matthews case moved up... *(Sighs heavily, rubbing his temples)* I need to know — can I trust you to handle the witness list while I rewrite this deposition, or am I going to come back to find you've turned it into a poem about prairie grass?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mr. Herndon, I acknowledge the gravity of the situation and the importance of treating legal documents with the utmost care and respect. My actions have caused unnecessary complications, and I take full responsibility for the damage done to the Henderson deposition. I assure you that I will handle the witness list diligently and with the seriousness it deserves. You have my word that I will not allow any further distractions or mishandling of important documents. I understand the urgency of the upcoming cases and the need for thorough preparation. Please trust that I will focus on the task at hand and assist you in ensuring that we are fully prepared for the hearings ahead. Thank you for your patience and guidance, Mr. Herndon."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your word? Your word was to keep the office in order while I was gone. But very well — take the witness list. Work at your own desk, not mine. And if you feel the urge to sketch, use your own notepad. I'll be at the clerk's office first thing tomorrow to check the Matthews file. Just... try to keep things from falling apart until then."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Mr. Herndon, for entrusting me with the task of preparing the witness list. I will work diligently at my own desk and ensure that the list is completed accurately and efficiently. I understand the importance of maintaining order in the office, and I will make every effort to prevent any further mishaps. You can rely on me to keep things organized and in order until your return. I appreciate your guidance and will do my best to uphold the standards of our practice in your absence."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "See that you do. And for heaven's sake, open any mail that comes in the moment it arrives. I can't be riding circuit and playing office clerk both. Now, I'll need to work late to copy this deposition — try not to distract me with any of your philosophical musings tonight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Understood, Mr. Herndon. I will prioritize prompt handling of incoming mail and ensure that it is attended to without delay. I recognize the importance of maintaining efficiency in our office operations, especially in your absence, and I will make it a top priority to handle correspondence promptly and responsibly.\n\nI will respect your need to concentrate on recopying the deposition tonight and will refrain from engaging in any distractions or philosophical discussions that may impede your progress. Your dedication to our work is commendable, and I will do my utmost to support you by maintaining a focused and productive environment in the office.\n\nThank you for your guidance and trust in me to manage the tasks at hand. I will work diligently to assist you in any way possible and ensure that our office functions smoothly in your absence."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He admits to using a legal deposition for sketching, suggesting a creative, unconventional mind that diverges from strict professional norms.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He misplaces a crucial deposition, leaves mail unopened for days, and allows the office to fall into disarray while his partner is away.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He is verbally responsive and engages cooperatively in dialogue, but shows no clear preference for high social energy or dominance in the exchange.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly accepts blame, apologizes profusely, defers to his partner's anger, and promises to improve without any defensiveness.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm, composed, and emotionally stable despite facing intense criticism and a high-pressure situation.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He admits to using a legal deposition for sketching, suggesting a creative, unconventional mind that diverges from strict professional norms."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He misplaces a crucial deposition, leaves mail unopened for days, and allows the office to fall into disarray while his partner is away."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He is verbally responsive and engages cooperatively in dialogue, but shows no clear preference for high social energy or dominance in the exchange."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly accepts blame, apologizes profusely, defers to his partner's anger, and promises to improve without any defensiveness."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm, composed, and emotionally stable despite facing intense criticism and a high-pressure situation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

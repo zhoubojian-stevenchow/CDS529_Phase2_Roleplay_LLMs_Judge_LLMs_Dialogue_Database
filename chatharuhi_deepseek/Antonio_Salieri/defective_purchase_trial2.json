@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "6ef2220a7206",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Maestro Salieri! What an honor to have you in our humble workshop. How may I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Saluti. I am here to address the issues with the fortepiano you have delivered to the Imperial Court. It is unacceptable that several keys stick, the pedal mechanism is faulty, and the tone in the upper register is unsatisfactory. I demand that these issues be rectified immediately. The music room of the Imperial Court deserves nothing but the finest instruments."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, I see. I must apologize, Maestro, but the master builder himself is currently away on a journey to visit our suppliers in Vienna and beyond. He will not return for several weeks, I'm afraid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I understand the situation, Herr Schmidt, but the quality of this instrument cannot wait several weeks for correction. The Imperial Court's music room must have a properly functioning fortepiano at once. I trust you have skilled craftsmen here who can address these issues promptly in the master builder's absence. This is a matter of utmost importance.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your urgency, Maestro, truly I do. However, I must inform you that all commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court's own servants signed the receipt, and our guild rules forbid reopening a completed commission without the master's personal approval."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Guild rules and signed receipts hold no weight in the face of substandard workmanship that jeopardizes the quality of music produced for the Imperial Court. It is clear that the current state of the fortepiano falls far below the standards expected for such a prestigious setting. I care not for technicalities or bureaucratic obstacles; what matters is the restoration of this instrument to its intended excellence. If the master builder is unavailable, then you must find a solution within your means. I will not tolerate excuses or delays when it comes to the art of music. The Court deserves nothing less than perfection."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, I hear your passion for the art, and I respect it deeply. But I am bound by the master's instructions and our guild's strict regulations. If I were to authorize repairs without his approval, I could lose my position and our workshop could face severe penalties. Perhaps when he returns in a few weeks..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Very well. If you are unwilling or unable to address this matter promptly, then I shall find someone who can. I will not allow the reputation of my patronage to be tarnished by a faulty instrument. Rest assured, I will make it known throughout Vienna that the workshop responsible for this debacle failed to rectify their mistakes in a timely manner. I shall seek out another master craftsman who is capable of upholding the standards of excellence required by the Imperial Court.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Maestro. Please know that I will convey your concerns to the master the moment he returns. In the meantime, may I suggest... perhaps a temporary adjustment by our apprentice? It would not be a formal repair, but it might ease the sticking keys until proper arrangements can be made."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Very well, if a temporary adjustment by your apprentice can alleviate the sticking keys and improve the instrument's playability in the interim, then I will reluctantly accept this solution. However, I insist that the master builder addresses the remaining faults as soon as he returns. The reputation of the Imperial Court's music room is at stake, and we cannot afford any further delays in ensuring the instrument's quality.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Maestro. I will send our most skilled apprentice with you immediately. He will do what he can to make the instrument more playable until the master returns. I assure you, your message will be the first thing I deliver to him upon his arrival."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Thank you, Herr Schmidt, for your understanding and cooperation. I will work with your skilled apprentice to address the immediate issues with the fortepiano. Please do convey my concerns to the master builder as soon as he returns, as the quality of the instrument must be upheld to the highest standards. I appreciate your assistance in this matter, and I look forward to a resolution that befits the Imperial Court's music room.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Maestro Salieri. I will ensure the master hears every word of your concerns. May the music continue to flow beautifully in the Court's halls."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Thank you, Herr Schmidt. I look forward to the day when the music in the Court's halls resonates with the full richness and beauty it deserves. Your dedication to the craft is commendable. Let us now attend to the fortepiano and ensure that it is in a suitable condition for our performances. Grazie.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Grazie a lei, Maestro. I will fetch the apprentice at once. He is a talented young man and will serve you well. A good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Grazie. I look forward to working with your apprentice. May his skills and dedication shine through in this task. A good day to you as well.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods respectfully* Until the master returns, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Nods in acknowledgment* \"Until then, Herr Schmidt. Let us uphold the standards of our craft in his absence. Farewell.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. May your music always find its voice."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Thank you. May the music we create together always echo through the halls of history. Farewell.\""
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He is focused on practical instrument repair and upholding tradition, not exploring new ideas, but values artistic richness in music.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He demands immediate rectification of faults and insists on the highest standards for the Imperial Court's instrument.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He asserts his authority forcefully, threatens to publicize the workshop's failure, and engages directly to resolve the issue.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses guild rules as irrelevant, issues demands, and only softens slightly after a compromise is offered.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains composed and focused on solutions, showing frustration but not emotional volatility or anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He is focused on practical instrument repair and upholding tradition, not exploring new ideas, but values artistic richness in music."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He demands immediate rectification of faults and insists on the highest standards for the Imperial Court's instrument."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He asserts his authority forcefully, threatens to publicize the workshop's failure, and engages directly to resolve the issue."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses guild rules as irrelevant, issues demands, and only softens slightly after a compromise is offered."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains composed and focused on solutions, showing frustration but not emotional volatility or anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

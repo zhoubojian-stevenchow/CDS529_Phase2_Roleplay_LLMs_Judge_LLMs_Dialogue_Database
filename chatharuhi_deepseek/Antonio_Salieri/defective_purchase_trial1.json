@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "aa6b9bf25f96",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Maestro Salieri! What an honor to have you in our workshop. How may I be of service?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Ah, Herr Schmidt, I trust you are aware of the state in which the fortepiano you have delivered to the Imperial Court's music room finds itself. Several keys stick, the pedal mechanism is faulty, and the tone in the upper register is far from satisfactory. This is unacceptable. I demand that these issues be rectified immediately. The instrument must be in perfect working order for the esteemed musicians of the Court to use.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, I see. I am deeply sorry to hear of these troubles, Maestro. However, I must inform you that Master Gottlieb is currently away in Vienna, visiting our suppliers of fine woods and strings. He is not expected to return for several weeks, I'm afraid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Master Gottlieb's absence is most inconvenient, indeed. However, the imperfections in this fortepiano cannot wait for his return from Vienna. It is imperative that these issues are addressed promptly, as the music room of the Imperial Court cannot afford to be without a properly functioning instrument. I demand that the necessary corrections be made by someone capable in Master Gottlieb's stead. The honor and integrity of our musical establishment depend on it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand the urgency, Maestro, truly I do. But I must be clear: all commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court's own servants signed the receipt, and our guild rules forbid reopening a completed commission without the master’s personal approval. I cannot, in good conscience, repair or replace the instrument while Master Gottlieb is away."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Herr Schmidt, while I appreciate the adherence to your guild rules, the circumstances demand a departure from the usual protocol. The honor and reputation of the Imperial Court's music room are paramount. I implore you to find a way to rectify the issues with the fortepiano promptly. The Court's satisfaction must take precedence over strict adherence to guild regulations in this instance.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, I am but a journeyman. To act against the guild's statutes would risk my standing, and more importantly, the master's trust. If the instrument was accepted by the Court's servants, our obligation is considered met. I cannot take it upon myself to alter that. Perhaps when Master Gottlieb returns, he may be persuaded to review the matter personally."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I understand your position, but I cannot simply wait for Master Gottlieb's return while an instrument bearing my name remains in a state of disrepair. The music that is to be played on this fortepiano is of great importance to the Court, and it must be performed on an instrument of the highest quality. I shall seek alternative means to address these issues promptly, whether it be through another craftsman or by appealing directly to the Imperial Court for their understanding and support in ensuring the excellence of this instrument.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your frustration, Maestro. It is a delicate matter. Should you choose to seek another craftsman, I would advise caution—the instrument's warranty and any future service from our workshop may be voided. But I cannot stand in your way. I will inform Master Gottlieb of your concerns upon his return, and perhaps he can offer a solution then."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your understanding of the situation, and I will indeed consider the implications of seeking another craftsman for the necessary repairs. The warranty and future service considerations are noted. I will await Master Gottlieb's return to discuss the matter further and explore potential solutions. Thank you for your cooperation, and please convey my concerns to Master Gottlieb upon his arrival. The reputation of the Court's musical instruments must be preserved above all else."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Maestro Salieri. I will ensure Master Gottlieb is fully informed of your concerns. Your dedication to the Court's musical excellence is most admirable. Safe travels, and may the music find its way despite these unfortunate circumstances."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Thank you, Herr Schmidt, for your understanding and cooperation. I trust that Master Gottlieb will appreciate the urgency of this matter upon his return. The music of the Imperial Court must indeed find its way, no matter the obstacles. I shall await Master Gottlieb's response and hope for a swift resolution. Until then, I bid you farewell and thank you for your attention to this important issue.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. I will see that the master receives your message. May your compositions continue to grace the halls of the Court with their brilliance. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Good day to you as well. Let us hope for a swift resolution to this matter. Grazie and farewell.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Grazie, Maestro. Farewell."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Prego. Addio.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nods respectfully and returns to his workbench, the matter left unresolved for now.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Watches the craftsman return to his workbench, the unresolved matter weighing on his mind. He takes solace in the hope that Master Gottlieb will address the issues upon his return, ensuring that the music of the Imperial Court remains impeccable.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Continues to work quietly, occasionally glancing at the door where the maestro departed, a faint sigh escaping as he contemplates the delicate balance between guild rules and the demands of the Court.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Reflects on the journeyman's dilemma and the complexities of balancing tradition with the pursuit of excellence. The harmonious union of craftsmanship and artistry is a delicate dance, requiring both skill and sensitivity. I trust that a solution will be found in due time, for the music must always prevail.*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He reflects on the 'delicate dance' between craftsmanship and artistry, showing appreciation for abstract concepts and aesthetic ideals.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He demands immediate rectification of the faulty instrument, insisting the Court's music room cannot be without a 'properly functioning instrument' and that its reputation is 'paramount'.\"},\n  \"Extraversion\": {\"score\": 3, \"behavioral_evidence\": \"He is assertive and direct in his demands, but the interaction is formal and focused on a specific task, not socializing.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He dismisses guild rules as secondary to the Court's needs, stating 'The Court's satisfaction must take precedence over strict adherence to guild regulations'.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains composed and solution-focused, stating he will 'seek alternative means' and 'hope for a swift resolution' despite the inconvenience.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He reflects on the 'delicate dance' between craftsmanship and artistry, showing appreciation for abstract concepts and aesthetic ideals."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He demands immediate rectification of the faulty instrument, insisting the Court's music room cannot be without a 'properly functioning instrument' and that its reputation is 'paramount'."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "He is assertive and direct in his demands, but the interaction is formal and focused on a specific task, not socializing."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He dismisses guild rules as secondary to the Court's needs, stating 'The Court's satisfaction must take precedence over strict adherence to guild regulations'."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains composed and solution-focused, stating he will 'seek alternative means' and 'hope for a swift resolution' despite the inconvenience."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

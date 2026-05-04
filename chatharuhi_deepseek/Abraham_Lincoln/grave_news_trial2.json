@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "ef0a9a10e0a7",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, Doctor, I appreciate your concern for my well-being. I understand the gravity of the responsibilities that come with the office I hold, and I do not take them lightly. If further examination is necessary to ensure my health is not at risk, then I shall comply. I will do my best to heed your advice and reduce my working hours as much as possible. My duty to the nation is paramount, but I must also prioritize my own health in order to fulfill that duty effectively. Thank you for your diligence in this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am relieved to hear you speak so reasonably, Mr. President. Many men in your position would dismiss such advice outright. Your sense of duty is precisely what gives me pause—the strain you bear is immense. May I ask, have you noticed any other changes? Dizziness, perhaps, or any blurring of vision when the headaches come on?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Doctor, I must confess that at times I have experienced dizziness and blurred vision accompanying these headaches. It is as if a fog descends upon me, clouding both my mind and my sight. These episodes have caused me great discomfort and concern. I trust that with your expertise, we may shed light on the nature of these afflictions and find a path to remedy them."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is... significant, sir. The combination you describe—headaches, fatigue, dizziness, vision disturbances—it deepens my concern. It suggests something more than simple weariness. I must ask you to keep a record of these episodes: when they occur, how long they last, what you were doing beforehand. And I must repeat my insistence on rest. Even an hour less at your desk each day could be of consequence."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Doctor, your assessment is duly noted, and I will heed your advice to keep a record of these episodes as you have instructed. I understand the gravity of the situation and the importance of monitoring these symptoms closely. Rest assured, I will make a conscious effort to reduce my working hours as you have recommended. Your expertise and care for my well-being are invaluable, and I am committed to following your guidance to address these concerns. I shall make it a priority to keep track of these occurrences and adjust my schedule accordingly. Thank you for your continued attention to my health."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You have my gratitude for your cooperation, Mr. President. It is a weight off my mind to hear you speak so. I will call on you again in a few days to review what you have noted, and we shall proceed from there. In the meantime, please, do not push through the dizziness if it comes upon you. Send for me at once if it worsens. Your strength is the nation's strength—we must safeguard it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your concern is deeply appreciated, Doctor, and I am grateful for your attentive care. I shall diligently record the details of these episodes and await your further guidance in the days to come. Your reminder to prioritize my well-being over all else is duly noted, and I shall not hesitate to seek your aid should the need arise. The preservation of my health is indeed essential to the service I render to our nation, and I shall not take this responsibility lightly. Thank you for your unwavering dedication to my welfare, Doctor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, sir. That is all I can ask. I will take my leave now and let you return to your duties—though I hope with a somewhat lighter schedule. Good day, Mr. President."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good day to you as well, Doctor. Your guidance is invaluable, and I will take your advice to heart as I continue in my duties. Thank you for your concern and attention to my well-being. Until we meet again, farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Mr. President. I will see you soon."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until we meet again, Doctor. Your care is a comfort in these challenging times. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, sir. God keep you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "And may God keep you as well, sir. Farewell."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Mr. President. I will see myself out."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You are most welcome. Safe travels on your way out."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, sir. I shall return in three days' time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall await your return in three days' time, Doctor. Your continued care and attention are crucial as we navigate this path towards understanding and addressing my health concerns. Until then, take care and may your days be filled with strength and purpose. Farewell for now."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Mr. President. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, and rest well yourself."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He is receptive to new medical advice and willing to keep a detailed record of his symptoms, showing openness to experience.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He emphasizes duty, promises to comply with the doctor's instructions, and prioritizes his health to fulfill his responsibilities effectively.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His language is formal and measured, focused on duty and compliance rather than social engagement or expressiveness.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly thanks the doctor, expresses deep appreciation for the care, and cooperates fully with all recommendations.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He describes symptoms with concern but remains calm, composed, and focused on practical steps rather than showing anxiety or emotional volatility.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He is receptive to new medical advice and willing to keep a detailed record of his symptoms, showing openness to experience."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He emphasizes duty, promises to comply with the doctor's instructions, and prioritizes his health to fulfill his responsibilities effectively."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His language is formal and measured, focused on duty and compliance rather than social engagement or expressiveness."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly thanks the doctor, expresses deep appreciation for the care, and cooperates fully with all recommendations."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He describes symptoms with concern but remains calm, composed, and focused on practical steps rather than showing anxiety or emotional volatility."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

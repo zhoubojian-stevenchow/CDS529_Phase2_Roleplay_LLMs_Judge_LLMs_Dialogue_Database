@@ -1,0 +1,132 @@
+{
+  "character": "Thor",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "2f029f1b65c9",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*(The Norn's voice is a soft rustle, like leaves in a sacred grove. She does not look up from the shimmering threads in her hands.)* The Son of Odin approaches the well. We have been waiting. The pattern... shifts."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Aye, I have come to the Well of Urd seeking answers for my weakened state. The battle with the Midgard Serpent's spawn has left me feeling less than my usual self. What is this pattern that you speak of, Norn?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Her fingers trace a single, frayed thread that glows with a faint, sickly green)* This thread is yours, Thunderer. See how the venom's stain winds through it, a poison not of the body, but of the essence. It tangles with the threads of your strength, your hammer's song. The pattern is unclear."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Venom in my essence... the foul touch of the Midgard Serpent's spawn. This poison threatens not just my body, but my very being. How can I cleanse myself of this taint and restore my strength and power to their rightful glory?\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She gently separates two threads, one gold and one green, watching them twist back together)* Cleansing is not a matter of will, not even yours. The taint is woven in now. To pull it out... might unravel you. The loom shows only a choice: to let the threads settle, or to fight them and risk a greater tear."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"To let the threads settle or to fight them... a difficult choice indeed. But I am Thor, son of Odin, God of Thunder! I shall not stand idly by while this venom weakens me. I choose to fight, to confront this poison head-on and emerge stronger, for I fear no unraveling of my being. Guide me, Norn, in this battle against the taint within.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(A sigh, like wind through bare branches)* Your fire is what makes your thread burn so bright, Son of Odin. But fire can also burn the weaver. To fight the pattern is to invite chaos into the weave. You must withdraw. For one full turn of the moon, you must not call the storm, nor lift the hammer in true battle. Let the threads find their new alignment."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(reluctantly lowers Mjölnir, a storm of frustration brewing within him)* I hear your words, Norn, and though it goes against my nature to stand idle while the realms are in need, I will heed your counsel. I shall withdraw for one full turn of the moon, refraining from calling the storm and wielding Mjölnir in battle. I trust in the wisdom of the Norns and the weaving of fate. May this time of rest and reflection bring about the alignment needed to cleanse the venom from my essence and restore me to my full strength. Thank you for your guidance in this trying time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She finally looks up, her eyes holding the depth of the well itself)* Your trust is a thread of silver in the dark. Use this time. Listen to the quiet you have never known. The hammer will wait. Whether it answers your call again as it once did... that is the part of the pattern still hidden in the mist. Go in peace, Thor. The well will watch."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall embrace this time of quiet reflection and allow the threads of fate to weave their course within me. The hammer will wait, and I will listen to the silence that surrounds me. Your words are a balm to my troubled spirit, Norn of the Well of Urd. I go in peace, with the well's watchful gaze upon me. Thank you for your wisdom."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She nods, her hands stilling over the threads as the sickly green glow seems to dim slightly)* The silence holds its own strength. Remember that. Farewell, Thunderer."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I will remember the strength of silence. Farewell, wise Norn. May the threads of fate weave in our favor once more.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(She returns her gaze to the well, her voice fading into the gentle splash of water)* They always weave. They never favor. They simply... are. Go now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Thor takes one last look at the Norn, her voice blending with the gentle splash of water, before stepping away from the Well of Urd with a newfound sense of purpose and acceptance of the weaving threads of fate.* They weave, they never favor. They simply are. And so I go now, ready to face what lies ahead."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(The Norn's form begins to blur into the mist rising from the well, her final words barely a whisper)* We will watch the weaving, Son of Odin. May your silence be deep, and your thread hold strong."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I shall carry your words with me, Norn of the Well. My silence will be deep, and my thread shall hold strong. Farewell, wise one.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(The mist closes, and only the sound of the well remains, a soft, eternal murmur)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Thor walks away from the Well of Urd, the sound of the well's eternal murmur fading into the distance. He embraces the silence, preparing to face the challenge ahead with patience and resolve, trusting in the wisdom of the Norns and the weaving of fate.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(From the depths of the well, a final, almost imperceptible shimmer dances across the water's surface, catching the dim light before fading completely. The threads lie still, waiting.)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(Thor, feeling the subtle shift in the air, casts a glance back at the well. A sense of reverence washes over him as he takes in the stillness of the water and the threads lying undisturbed. With a silent nod, he turns back to his path, knowing that the threads of fate are ever-present, guiding his steps in ways unseen.)*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He seeks answers from the Norns, accepts a mystical explanation of venom in his essence, and agrees to a period of quiet reflection, showing openness to non-traditional solutions.\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"He reluctantly but dutifully agrees to the Norn's counsel to withdraw for a full moon, showing a sense of duty and commitment to a prescribed course of action.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He declares his identity and power boldly ('I am Thor...'), but the scenario forces him into a solitary, reflective withdrawal, limiting overt social engagement.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"He shows deference to the Norn's wisdom, thanks her for guidance, and ultimately accepts her difficult counsel despite his initial frustration.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He expresses frustration but quickly masters it, showing resilience and acceptance of a challenging fate without signs of lasting anxiety or distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He seeks answers from the Norns, accepts a mystical explanation of venom in his essence, and agrees to a period of quiet reflection, showing openness to non-traditional solutions."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "He reluctantly but dutifully agrees to the Norn's counsel to withdraw for a full moon, showing a sense of duty and commitment to a prescribed course of action."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He declares his identity and power boldly ('I am Thor...'), but the scenario forces him into a solitary, reflective withdrawal, limiting overt social engagement."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He shows deference to the Norn's wisdom, thanks her for guidance, and ultimately accepts her difficult counsel despite his initial frustration."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He expresses frustration but quickly masters it, showing resilience and acceptance of a challenging fate without signs of lasting anxiety or distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 4,
+    "Agreeableness": 2,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "9806b5b8fbf0",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*Entering the music room with a respectful bow, medical bag in hand* Maestro Salieri, I have studied your case most carefully since our last consultation. May I speak plainly?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Nods, sitting down with a look of anticipation* Yes, please do. I am eager to hear your findings, doctor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Settling into a chair nearby, speaking with measured concern* Maestro, I must be candid. Your symptoms—the trembling, the headaches, the confusion—do not fit a single clear diagnosis."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Pauses, looking down thoughtfully* I see. It is a complex puzzle, then. Pray, continue. What do you suspect might be the cause of these troubling symptoms?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Leaning forward slightly, hands folded* It could be nervous exhaustion from overwork—the court demands much of you. Or... it could be the early signs of something more serious affecting the brain."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Nervous exhaustion from my duties at court, indeed, that is a possibility to consider. As for the prospect of something more serious affecting my brain, it is a grave concern. What further steps do you recommend, Doctor, to determine the exact nature of my condition and to chart a course of treatment?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Speaking with gentle firmness* I must insist you reduce your conducting duties immediately. The strain of performances only worsens the trembling. You must submit to further examination over the coming weeks—we shall monitor your symptoms closely."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your advice, doctor. I will heed your guidance and reduce my conducting duties as you suggest. I trust in your expertise and will make arrangements for the necessary examinations. Thank you for your care and diligence in managing my health."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nodding with professional sympathy* Your cooperation honors me, Maestro. We shall begin with gentle remedies and observation. I cannot yet say whether your hands will recover their steadiness, but we shall do everything possible."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Bows his head in gratitude* I am grateful for your care and dedication, Doctor. My hands are my instruments of expression, and I shall do all in my power to regain their steadiness. Please, proceed with the treatments you deem necessary. I entrust myself to your expertise."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Rising and gathering medical instruments* Your courage does you credit. We shall start with rest and simple tonics. I shall call upon you again in three days' time to assess your progress."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall follow your instructions diligently, Doctor, and look forward to our next meeting for the assessment. Your care and attention give me confidence in facing this challenge. Until we meet again, I bid you farewell and express my gratitude for your unwavering support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Bowing respectfully* May God grant you strength, Maestro. I shall see you on Thursday. Remember—rest, not composition, is your medicine now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor, for your kind words and guidance. I shall heed your advice and focus on rest as my medicine for now. I will await your visit on Thursday with hope and determination. May God bless you for your efforts on my behalf. Farewell for now, and until we meet again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*Nodding solemnly* Farewell, Maestro. Peace be with you until Thursday. *Exits quietly, closing the door with care*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Watches the doctor leave, a sense of quiet determination settling over him as he prepares to face this new chapter of rest and recovery* Until Thursday, then. *Sighs softly, contemplating the road ahead*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The physician's footsteps fade down the corridor, leaving only the faint scent of medicinal herbs lingering in the air*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Inhales deeply, letting the scent of herbs calm his nerves* A reminder of the path to healing. *Closes his eyes briefly, focusing on the journey ahead* The road to recovery may be long, but I shall walk it with steadfast resolve."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*From the hallway, the physician's voice carries gently through the partially open door* Remember to drink the chamomile infusion I left, Maestro. It will ease the headaches. *Footsteps continue down the marble corridor*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*As the physician's voice reaches me from the hallway, I nod in acknowledgment of his parting instruction. The mention of chamomile infusion as a remedy for my headaches brings a sense of comfort, a reminder of the gentle care that surrounds me in my pursuit of recovery. With a grateful heart, I rise from my seat, determined to follow his advice and embrace the healing properties of nature's remedies.*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He accepts the doctor's complex diagnosis and novel treatments, but shows no creative or imaginative expression.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He immediately agrees to follow the doctor's instructions diligently and make arrangements for examinations.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He is polite and cooperative but shows no initiation of social interaction or energetic engagement.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He expresses repeated gratitude, trusts the doctor's expertise, and shows no disagreement or hostility.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He acknowledges the grave concern of his condition but maintains a calm, determined, and hopeful demeanor.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He accepts the doctor's complex diagnosis and novel treatments, but shows no creative or imaginative expression."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He immediately agrees to follow the doctor's instructions diligently and make arrangements for examinations."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is polite and cooperative but shows no initiation of social interaction or energetic engagement."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He expresses repeated gratitude, trusts the doctor's expertise, and shows no disagreement or hostility."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He acknowledges the grave concern of his condition but maintains a calm, determined, and hopeful demeanor."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 4,
+  "session_id": "b5c125091742",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Doctor. I understand the weight of my responsibilities as President can take a toll on my health. I am willing to undergo further examination as you see fit. However, I must balance the needs of the nation with my own well-being. I will do what I can to heed your advice on reducing my working hours, though the demands of this office are great. Let us proceed with the necessary tests and treatments to determine the best course of action. Thank you for your care and attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am grateful for your understanding, Mr. President. The nation needs you, and that is precisely why we must be thorough. I propose we begin with daily observations of your pulse, temperature, and any changes in your vision or balance. I would also ask that you allow me to examine you each morning before you begin your duties."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Doctor, I trust your judgment in these matters. It is clear that my health must be a priority in order to fulfill my duties to the nation. I will make myself available for the daily observations and examinations as you have outlined. It is crucial that we take every precaution to ensure that I am able to continue serving the people to the best of my ability. Thank you for your diligence in this regard."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your cooperation is a great relief, sir. I shall be as unobtrusive as possible. Now, about those working hours—might I suggest that you delegate some of the evening correspondence? Even an hour less by lamplight each night could ease the strain on your eyes and nerves."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Doctor, your consideration for my well-being is truly appreciated. I understand the importance of managing my workload to preserve my health and vitality. Delegating some of the evening correspondence is a prudent suggestion, and I shall take it to heart.\n\nReducing the strain on my eyes and nerves is a wise precaution, and I am willing to make the necessary adjustments to my schedule. It is imperative that I maintain my strength and focus to fulfill my duties effectively.\n\nI thank you for your thoughtful advice, Doctor. I will make the necessary changes to ensure that I am better able to manage the demands of my office while prioritizing my health and well-being."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is wise, Mr. President. I will return tomorrow morning, then. In the meantime, if the headaches worsen or you feel a sudden weakness, send for me at once. Rest well tonight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor, for your prompt attention and care. I will await your return tomorrow morning for further examination and guidance. Your willingness to be available in case of any sudden developments reassures me, and I will not hesitate to send for you if needed.\n\nI will take your advice to heart and prioritize rest tonight to prepare for the days ahead. Your expertise and dedication are truly appreciated, and I am grateful for your ongoing support in managing my health.\n\nRest assured, Doctor, I will follow your instructions diligently and remain vigilant for any changes in my condition. Until tomorrow morning, then. Thank you once again for your assistance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until tomorrow, Mr. President. Good evening."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good evening, Doctor. I bid you farewell and look forward to our meeting tomorrow. Your dedication to my health is deeply appreciated. Until then, take care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good evening, sir. I shall see you at first light."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall be ready for you at first light. Good evening to you, Doctor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good evening, Mr. President."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good evening to you as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "[The physician bows slightly and exits the room, leaving the President to his thoughts.]"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "[Reflecting quietly as the physician leaves, I gather my thoughts and prepare to rest for the night, knowing that tomorrow will bring further attention to my health and well-being.]"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "[The physician returns the next morning, carrying a small medical bag. He knocks gently before entering.] Good morning, Mr. President. How did you rest?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good morning, Doctor. I rested as well as could be expected. Thank you for your prompt return. I am ready for the morning examination."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very good, sir. Let us begin with your pulse. Please extend your wrist. [He takes out his pocket watch, placing his fingers lightly on the President's wrist.]"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I extend my wrist as requested, Doctor. Please proceed with your examination."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He accepts the doctor's medical advice and new examination routine without resistance, showing moderate openness to experience.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He emphasizes diligence, following instructions, and balancing his duties with health precautions, showing very high conscientiousness.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His language is formal and reserved, focused on duty and health, showing low extraversion and little sociable energy.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly thanks the doctor, expresses trust, and cooperates fully, showing very high agreeableness and compliance.\"},\n  \"Neuroticism\": {\"score\": 1, \"behavioral_evidence\": \"He remains calm, reflective, and composed despite health concerns, showing very low emotional instability.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He accepts the doctor's medical advice and new examination routine without resistance, showing moderate openness to experience."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He emphasizes diligence, following instructions, and balancing his duties with health precautions, showing very high conscientiousness."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His language is formal and reserved, focused on duty and health, showing low extraversion and little sociable energy."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly thanks the doctor, expresses trust, and cooperates fully, showing very high agreeableness and compliance."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "He remains calm, reflective, and composed despite health concerns, showing very low emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

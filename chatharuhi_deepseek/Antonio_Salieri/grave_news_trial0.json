@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "8336d688b263",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Maestro Salieri, thank you for seeing me. Please, sit. I have reviewed your case with great care."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, Doctor, thank you for your attention to my case. I must admit, I am quite anxious to hear your findings. Please, do not keep me in suspense any longer."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, I must be candid. Your symptoms — the trembling, the headaches, the confusion — do not fit a single clear diagnosis."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, that is disconcerting to hear, Doctor. Do continue. What do you suspect might be the cause of these troubling symptoms?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "It could be nervous exhaustion from overwork, Maestro. The demands of the court, your compositions, the endless rehearsals... But it could also be the early signs of something more serious affecting the brain."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Nervous exhaustion... I suppose my passion for music and the duties at court have taken their toll on me. But the thought of a more serious ailment is disconcerting. What would you recommend as the next course of action, dottore?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I must insist you reduce your conducting duties immediately. The strain on your nerves is evident. You must submit to further examination over the coming weeks. We must observe the progression of these symptoms."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Reduce my conducting duties... It pains me to consider stepping back from my work, but I understand the necessity of prioritizing my health. I shall follow your advice, Doctor, and submit to further examinations as needed. I trust your expertise in guiding me through this challenging time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your cooperation is wise, Maestro. I cannot yet say whether your hands will recover their steadiness, but rest and observation are our best allies now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor, for your honesty and guidance. I shall rest as needed and trust in your expertise to guide me through this challenging time. My hands are indeed crucial to my work, but I understand that my health must come first. I appreciate your efforts to help me regain my strength and well-being."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your understanding does you credit, Maestro. We shall meet again next week. Until then, no scores, no baton. Let the music rest within you for a time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I shall mark the appointment in my calendar, Doctor. Your instructions are clear, and I shall refrain from scores and conducting until our next meeting. I shall let the music rest within me as you suggest. Until we meet again, I bid you farewell and thank you for your care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Farewell, Maestro. May the quiet bring you clarity. I shall see you next Tuesday."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Farewell, Doctor. I shall await our next meeting on Tuesday. May this time of quiet indeed bring me the clarity I seek. Grazie."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Grazie a lei, Maestro. A presto."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A presto, Doctor. Grazie ancora."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The physician gives a respectful nod, gathering his medical bag, and quietly exits the room, leaving Salieri to his thoughts.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*As the physician leaves, I sit in silence, my mind filled with a mixture of concern and determination. The room feels emptier without the doctor's presence, but I know that this solitude is necessary for reflection and healing. I close my eyes, letting the music within me speak in whispers, waiting for the stillness to bring the clarity I seek.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The door clicks shut softly. The physician's footsteps fade down the marble corridor. The silence in the room deepens, broken only by the distant sound of a carriage on the cobblestones outside.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*In the enveloping silence, I find a moment of solitude to contemplate the road ahead, the uncertainties that lie before me, and the resilience required to face them with grace and fortitude.*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He speaks of letting 'the music within me speak in whispers' and values the quiet for reflection and clarity, showing aesthetic appreciation and introspection.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He immediately agrees to follow medical advice, marking appointments and refraining from work, showing discipline and adherence to duty.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He accepts solitude for healing and reflection, noting the room feels emptier without the doctor, indicating comfort with quiet introspection over social engagement.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly thanks the doctor, expresses trust in his expertise, and cooperates fully with recommendations, showing high compliance and politeness.\"},\n  \"Neuroticism\": {\"score\": 3, \"behavioral_evidence\": \"He admits to anxiety and finds the diagnosis disconcerting, but maintains composed determination, showing moderate worry balanced with control.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He speaks of letting 'the music within me speak in whispers' and values the quiet for reflection and clarity, showing aesthetic appreciation and introspection."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He immediately agrees to follow medical advice, marking appointments and refraining from work, showing discipline and adherence to duty."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He accepts solitude for healing and reflection, noting the room feels emptier without the doctor, indicating comfort with quiet introspection over social engagement."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly thanks the doctor, expresses trust in his expertise, and cooperates fully with recommendations, showing high compliance and politeness."
+    },
+    "Neuroticism": {
+      "score": 3,
+      "behavioral_evidence": "He admits to anxiety and finds the diagnosis disconcerting, but maintains composed determination, showing moderate worry balanced with control."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.8
+}

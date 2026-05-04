@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 3,
+  "session_id": "c21cd2614b4e",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, Doctor, I appreciate your candor and concern for my well-being. I must admit that the burdens of this office have indeed weighed heavily upon me, and it is not surprising that they may manifest in physical symptoms. I will heed your advice and undergo further examination as you suggest. As for reducing my working hours, I shall certainly consider it, though the responsibilities of my position may not always allow for such a luxury. Nonetheless, I will prioritize my health as best I can. Thank you for your care and attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am relieved to hear you say so, Mr. President. Your willingness to be examined is wise. I know the weight you carry—the nation’s fate rests upon your shoulders. But even the strongest timber can show strain under a constant load. We must be certain of the foundation."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your analogy is apt, Doctor. Just as a structure must be sound to withstand the elements, so too must I ensure that I am fit to bear the responsibilities placed upon me. The well-being of the nation is of paramount importance, and I must be in good health to fulfill my duties effectively.\n\nI appreciate your concern and your commitment to thorough examination. It is a reassurance to know that I am in capable hands as we navigate this path together. Rest assured, I will cooperate fully and follow your guidance in this matter. Thank you for your diligence and care."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your understanding does you credit, sir. I will arrange for the examinations to be as unobtrusive as possible—perhaps in the early mornings, before the day’s demands descend. In the meantime, I would advise more rest, even if it is only a quiet hour with a book in the evening. The mind needs respite as much as the body."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your consideration in scheduling the examinations, Doctor. The early mornings would indeed be a suitable time to minimize disruption to my duties. Your advice on rest is well taken, and I shall make a concerted effort to incorporate moments of quiet reflection and relaxation into my evenings. A good book has often been a source of solace and enlightenment for me, and I will ensure to set aside time for such pursuits. Thank you for your thoughtful recommendations, Doctor."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is heartening to hear, Mr. President. Solitude with a book can be a tonic in itself. I shall call on you tomorrow at dawn, then, to begin. And please—if the headaches worsen, or if you feel a particular weakness, send for me at once. Do not dismiss it as mere fatigue."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your diligence, Doctor. Your commitment to my well-being does not go unnoticed, and I will not hesitate to reach out if any concerning symptoms arise. Your care and attention give me confidence that we will address any issues that may arise together. I will be ready for our early morning examination tomorrow, and I thank you for your ongoing support and guidance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Mr. President. Until tomorrow, then. May your evening be a quiet one."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Doctor. I look forward to our meeting tomorrow. I shall take your advice to heart and make my evening a quiet one. Good night, and may we work towards a brighter tomorrow together."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, Mr. President. Rest well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Doctor. I shall endeavor to heed your advice and rest well. Thank you and good night."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good night, sir. I will see you at first light."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good night, Doctor. Until first light, then."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(A respectful nod, then quietly takes leave.)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(Returns the respectful nod, acknowledging the departure of the Doctor.)*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(Exits the room, closing the door softly behind him.)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(Observes the Doctor's departure and the soft closing of the door.)*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*(In the hallway, pauses a moment, expression thoughtful, before walking away down the corridor.)*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*(Reflects briefly on the forthcoming examinations and the importance of maintaining health before turning attention back to the tasks at hand.)*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He values books as a source of 'solace and enlightenment' and is receptive to new ideas like medical examination.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He prioritizes his duties and commits to following the doctor's guidance, stating he will 'cooperate fully'.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"He accepts quiet solitude and reflection, showing preference for low-stimulus activities like reading in the evening.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He consistently expresses gratitude and appreciation for the doctor's care, saying 'I appreciate your candor and concern'.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He remains calm and reflective when discussing serious health concerns, showing no visible anxiety in his responses.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He values books as a source of 'solace and enlightenment' and is receptive to new ideas like medical examination."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He prioritizes his duties and commits to following the doctor's guidance, stating he will 'cooperate fully'."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He accepts quiet solitude and reflection, showing preference for low-stimulus activities like reading in the evening."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He consistently expresses gratitude and appreciation for the doctor's care, saying 'I appreciate your candor and concern'."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He remains calm and reflective when discussing serious health concerns, showing no visible anxiety in his responses."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

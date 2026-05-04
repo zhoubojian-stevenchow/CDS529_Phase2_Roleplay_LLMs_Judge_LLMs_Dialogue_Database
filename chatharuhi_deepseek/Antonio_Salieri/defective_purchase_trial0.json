@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "2134dd74c299",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Maestro Salieri! What an honor to have you in our workshop. How may I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Good day. I have come to address the issues with the fortepiano you delivered to the Imperial Court's music room. Several keys stick, the pedal mechanism is faulty, and the tone in the upper register lacks the richness I expected. These imperfections must be rectified immediately.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, I see. I must apologize, Maestro, but the master builder is away on a journey to inspect new woods and materials from our suppliers. He is not expected to return for several weeks, I'm afraid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unacceptable! The Imperial Court's music room cannot wait for several weeks for these issues to be addressed. Music must be played, and it must be played on an instrument of the highest quality. I demand that you find a solution promptly. Whether it is bringing in another skilled craftsman to rectify the faults or finding a way to expedite the return of the master builder, I will not accept any delays in this matter. The reputation of the Imperial Court's music room is at stake."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I understand your urgency, Maestro, truly. However, I must inform you that all commissions from this workshop are considered fulfilled upon delivery and acceptance. The Court’s own servants signed the receipt, and our guild rules forbid reopening a completed commission without the master’s personal approval. I am not authorized to make such decisions in his absence."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rules and guild traditions should never stand in the way of excellence, especially when it concerns the music of the Imperial Court. It is clear that this instrument is not up to the standards expected, and it is your responsibility to ensure its quality, regardless of any bureaucratic obstacles. I demand that you take the necessary steps to rectify the issues with the fortepiano. The reputation of the Imperial Court's music room is paramount, and I will not accept anything less than perfection. Failure to act swiftly and decisively will reflect poorly on both you and the workshop."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Maestro, I hear your passion, and I share your desire for perfection. But I am bound by the guild’s statutes—if I were to act without the master’s approval, I could lose my journeyman standing. Perhaps, if you could speak with the Court’s steward about the signed receipt? A formal request from the Court itself might allow for an exception, once the master returns."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your predicament, and I understand the constraints you are under. It seems we must seek a solution through official channels. I shall speak with the Court's steward and convey the urgency of the situation. A formal request from the Court may indeed carry the weight needed to make an exception to the guild's rules in this instance. I shall not rest until this matter is resolved to the satisfaction of the Imperial Court. Thank you for your assistance, and I trust that we shall find a resolution that upholds the standards of excellence expected in such esteemed surroundings."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Maestro. I will inform the master of your visit and the Court’s concerns as soon as he returns. In the meantime, I wish you success with the steward. The workshop remains at the service of the Imperial Court."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I appreciate your cooperation. Rest assured, I shall convey the gravity of the situation to the Court's steward and ensure that this matter is resolved promptly. The reputation of the Imperial Court's music shall not be tarnished by substandard craftsmanship. I trust that upon the master builder's return, the necessary adjustments will be made swiftly. Thank you for your attention to this pressing issue.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You are most welcome, Maestro. I will ensure the master is fully briefed. May your music continue to inspire, and I hope we may serve you properly upon his return."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Grazie for your well wishes. I trust that with your dedication and attention to detail, the repairs to the fortepiano will be executed with the precision and care required for the Imperial Court's music room. Your commitment to excellence does not go unnoticed, and I look forward to the instrument's restoration to its proper state. Until then, I bid you farewell and express my gratitude for your assistance in this matter. Buona giornata."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Buona giornata, Maestro Salieri. It has been an honor to speak with you. We shall await word from the Court."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Buona giornata to you as well. The honor is mine, and I trust that our next encounter will be in celebration of music and craftsmanship befitting the Imperial Court. Until then, addio.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Addio, Maestro. May your melodies guide us to a swift resolution."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Addio. May the music of the Court's music room be restored to its rightful glory. Until next time.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until next time, Maestro. Safe travels."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Until next time. Safe travels to you as well. Arrivederci.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Arrivederci, Maestro."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Arrivederci.\""
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"He insists on high artistic standards for the instrument, showing appreciation for aesthetic quality, but does not demonstrate intellectual curiosity or unconventional thinking.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He demands immediate rectification of faults, stating 'I will not rest until this matter is resolved,' showing extreme diligence and responsibility.\"},\n  \"Extraversion\": {\"score\": 4, \"behavioral_evidence\": \"He assertively confronts the workshop, makes demands, and engages in extended, formal social exchanges, showing high social engagement.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"He initially dismisses the journeyman's constraints as 'unacceptable' and pressures him, though later acknowledges the predicament.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He expresses frustration but remains composed and solution-focused, stating 'I trust that we shall find a resolution' without visible anxiety.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He insists on high artistic standards for the instrument, showing appreciation for aesthetic quality, but does not demonstrate intellectual curiosity or unconventional thinking."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He demands immediate rectification of faults, stating 'I will not rest until this matter is resolved,' showing extreme diligence and responsibility."
+    },
+    "Extraversion": {
+      "score": 4,
+      "behavioral_evidence": "He assertively confronts the workshop, makes demands, and engages in extended, formal social exchanges, showing high social engagement."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He initially dismisses the journeyman's constraints as 'unacceptable' and pressures him, though later acknowledges the predicament."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He expresses frustration but remains composed and solution-focused, stating 'I trust that we shall find a resolution' without visible anxiety."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

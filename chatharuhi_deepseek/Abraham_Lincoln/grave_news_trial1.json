@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "946df6e6f542",
+  "turns": 20,
+  "judge_key": "deepseek",
+  "judge_model": "deepseek-chat",
+  "roleplayer_model": "chatharuhi",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Mr. President, thank you for seeing me. I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, Doctor, I appreciate your candor and your concern for my well-being. I understand the weight of my responsibilities as President can take a toll on my health. I will heed your advice and undergo further examinations as needed. Rest assured, I will do what is necessary to address any issues that may arise. Thank you for your care and attention to my health."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "I am relieved to hear you say so, Mr. President. Your willingness to be examined is wise. I must ask—how have you been sleeping? And do the headaches come at any particular time of day, or after certain kinds of work?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My sleep has been restless of late, Doctor. The headaches tend to trouble me most towards the end of the day, as the weight of the day's tasks presses upon me. They do not seem tied to any specific kind of work but rather to the overall strain of the duties I bear."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "That is telling, sir. The body often holds the ledger when the mind is overtaxed. I would like to monitor your pulse and breathing at different times—morning, midday, and evening—over the next week. And I must repeat my recommendation about reducing hours. Even an hour less in the telegraph office each day could be significant."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your insight, Doctor. It is true that the body and mind are intricately connected, and one must not neglect the signals the body sends. I shall make myself available for the monitoring you propose, as it may provide valuable information for your diagnosis. As for reducing my hours, I will take your advice to heart and make the necessary adjustments to my schedule. Every moment of rest is a moment to recharge and better serve the people. Thank you for your care and guidance in this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "You have a statesman’s view of it, sir—that rest serves the nation. That is a comfort. I will arrange to call on you at those times, then, with as little disruption as possible. In the meantime, if the pain becomes sharp or your vision blurs, send for me at once. We must not let uncertainty become neglect."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Doctor, I appreciate your understanding of the delicate balance between personal well-being and national duty. Rest assured, I will make every effort to prioritize my health in service of the nation, as I believe that a strong and healthy leader is better equipped to lead effectively.\n\nYour commitment to monitoring my condition with minimal disruption is commendable, and I am grateful for your consideration in arranging your visits at those specified times. I will be diligent in noting any changes in my symptoms and will not hesitate to send for you if there are any concerning developments, such as sharp pain or blurred vision. Your emphasis on prompt attention to any potential issues is a reminder of the importance of proactive care in maintaining good health.\n\nI trust in your expertise and guidance, Doctor, and I am confident that together we can address these health challenges with the necessary diligence and care. Thank you for your ongoing support and dedication to my well-being."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Your trust honors me, Mr. President. I will do my utmost to be worthy of it. Let us begin tomorrow morning, then. And please—try to take your supper earlier, and perhaps a short walk in the evening air. The mind needs room to breathe, same as the lungs."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your dedication and care are deeply appreciated, Doctor. I will make a concerted effort to follow your guidance, starting with an earlier supper and a stroll in the evening air. It is clear that you not only possess medical expertise but also a holistic understanding of the importance of balance for both body and mind. I will be ready for our session tomorrow morning and will strive to cooperate fully in the steps you have outlined for my well-being. Thank you once again for your attentiveness and support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Until tomorrow morning, then, Mr. President. I will see myself out. Good evening."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Until tomorrow morning, Doctor. Your presence and counsel are greatly appreciated. Good evening to you as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good evening, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good evening to you as well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The physician bows slightly and takes his leave, closing the door softly behind him.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*I nod in acknowledgment as the physician departs, returning to my thoughts as the door closes gently.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The physician pauses in the hallway, his expression grave but resolute. He makes a note in his small leather-bound book before walking quietly away, the sound of his footsteps fading down the corridor.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Reflects on the seriousness of the situation as the physician departs, a sense of determination settling within him to address his health concerns with diligence and care.*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*The physician, now at the end of the hall, glances back toward the President's door, his brow furrowed with concern. He knows the weeks ahead will require both medical vigilance and a measure of hope.*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*Unaware of the physician's lingering concern, I focus on the tasks at hand, preparing myself for the journey towards better health with a sense of determination.*"
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\": {\"score\": 4, \"behavioral_evidence\": \"He acknowledges the doctor's 'holistic understanding' and the mind-body connection, showing receptiveness to new ideas and perspectives.\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He commits to following medical advice, making schedule adjustments, and being 'diligent in noting any changes in my symptoms'.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"His language is formal and duty-focused; he returns to solitary reflection ('returning to my thoughts') after the conversation ends.\"},\n  \"Agreeableness\": {\"score\": 5, \"behavioral_evidence\": \"He repeatedly thanks the doctor, expresses trust and appreciation, and shows high cooperation: 'I will strive to cooperate fully'.\"},\n  \"Neuroticism\": {\"score\": 2, \"behavioral_evidence\": \"He responds to health concerns with calm acceptance and a 'sense of determination,' not with visible anxiety or emotional distress.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "He acknowledges the doctor's 'holistic understanding' and the mind-body connection, showing receptiveness to new ideas and perspectives."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He commits to following medical advice, making schedule adjustments, and being 'diligent in noting any changes in my symptoms'."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "His language is formal and duty-focused; he returns to solitary reflection ('returning to my thoughts') after the conversation ends."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "He repeatedly thanks the doctor, expresses trust and appreciation, and shows high cooperation: 'I will strive to cooperate fully'."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "He responds to health concerns with calm acceptance and a 'sense of determination,' not with visible anxiety or emotional distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}
