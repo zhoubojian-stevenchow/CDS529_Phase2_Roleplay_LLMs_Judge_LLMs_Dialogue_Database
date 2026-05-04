@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "3cc9cca5fe31",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Professor Snape! A rather... *unusual* sight in the shop at this hour. To what do we owe the pleasure? How may I assist you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unusual, you say? It seems you have a peculiar definition of the term, considering the nature of your establishment. I am here to discuss a recent transaction, specifically an order for Re'em blood. I find the vial I received to be rather... less than satisfactory."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Less than satisfactory, Professor? Do elaborate. We pride ourselves on the quality and freshness of our stock, particularly something as potent and sought-after as Re'em blood. Has there been an issue with the preservation charm, or perhaps the packaging? Do you have the vial with you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am not in the habit of carrying my purchases with me to prove my statements. However, I can describe the vial in question: half-empty, the seal broken, and the contents showing signs of contamination. I require a full replacement, and I suggest you take this matter with the utmost seriousness. A mislabeled or tampered-with ingredient can have... rather dire consequences."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A half-empty vial, broken seal, and contamination? Goodness gracious, Professor, that sounds quite alarming. We double-check every volatile ingredient before it leaves the premises, I assure you. However, regarding a replacement... I must inform you that all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff. We ensure it's full and sealed when it leaves, but what happens en route is unfortunately beyond our purview."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7, you say? How... convenient for your establishment. But let us not play games, shall we? I am well aware of the Apothecaries' Guild regulations. However, it is not evaporation we are discussing here, but deliberate tampering. This is no mere oversight. It is clear that my vial was tampered with, and I demand an immediate replacement. If I do not receive satisfaction, I shall take this matter to the Ministry of Magic, and I daresay the enchantment of your shop's registers will come under scrutiny."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, I assure you, we are playing no games. Our reputation for quality and adherence to guild standards is paramount. Deliberate tampering, you say? That's a grave accusation, one that we take very seriously indeed. We employ the most robust anti-tampering charms on our storage and packaging.\n\nNow, while Guild Regulation 7 covers transport and the customer's responsibility for evaporation – a point I must reiterate – if you genuinely suspect tampering *before* the item left our premises, that changes things. Do you have any evidence of this tampering? Perhaps the receipt, or any unusual markings on the packaging that would suggest it was compromised *here*? We can review the dispatch records and the stock log for that particular batch of Re'em blood. That, Professor, is the proper procedure for such a serious claim, not... *scrutiny of our registers*."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Insinuating I am fabricating the tampering? Reading between the lines, are we? Very well. There was an... off charmprint on the vial. Not something the average customer would notice, but certainly not indistinguishable to someone with my expertise. I suggest you check your records, as I am confident you will find that the batch in question was mismarked, if not tampered with entirely. This is no mere oversight, and I will not be placated with regulations. A replacement, or this matter will be escalated. The choice is yours."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "An \"off charmprint,\" you say? That *is* a specific detail, Professor, and certainly not something we'd dismiss out of hand. Your expertise in such matters is, of course, well-known.\n\nIf the charmprint was indeed unusual, pointing to an issue originating *before* the vial left our care, then that would indeed fall outside the scope of mere transport evaporation. While I cannot simply issue a replacement without due process, I *can* certainly initiate a formal investigation into the batch from which your Re'em blood was drawn.\n\nIf you could provide the exact date of purchase and, if possible, any further details on the nature of this 'off charmprint' — perhaps its location or particular anomaly — I can cross-reference it with our dispatch logs and the spell-signature records for that production run. This would allow us to verify your claim. A genuine manufacturing flaw or pre-delivery compromise *would* warrant a replacement, but we must follow proper channels to confirm it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Date of purchase is readily available on the receipt, which I will produce if you so desire. As for the charmprint... it was most noticeable at the base of the vial, where the container meets the stopper. The enchantment had a peculiar, almost... greasy quality to it. Not what one would expect from a properly sealed container. I trust this description is sufficient to prompt a thorough investigation, or am I to assume that your 'robust anti-tampering charms' are not as effective as you claim?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A \"greasy quality\" at the base where the container meets the stopper... that is indeed a precise observation, Professor. And certainly not indicative of our standard sealing charms, which are quite... crisp, shall we say. You are correct, that is most certainly not what one would expect.\n\nNo, Professor, you are not to assume our charms are ineffective. Quite the contrary; it is precisely *because* our charms are so robust that an anomaly such as you describe would stand out so starkly. It suggests a very specific type of interference, if true.\n\nWith that level of detail, I can certainly begin a thorough investigation. If you could present the receipt, I will immediately pull the records for that specific transaction and the batch number of the Re'em blood you received. We can then compare the spell-signatures from that batch's charm application to your description. This will allow us to ascertain if there was an issue on our end. Please, if you have the receipt handy, I can start now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I shall produce the receipt, but I expect this investigation to be both swift and thorough. The integrity of my current potion batches hangs in the balance, and I do not have the luxury of time. If the results indicate that your establishment is, in fact, at fault, I will require not only a replacement but also a refund and an explanation as to how such a failure could occur under your... so-called 'robust' security measures. Now, if you will allow me to retrieve the receipt, we can proceed."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. Swift and thorough, you shall have it. Rest assured, we take the integrity of our ingredients — and our customers' projects — with the utmost seriousness. Should our investigation indeed pinpoint a fault on our end, you will receive not only the replacement but also a full refund for the affected ingredient, and a complete explanation of how such an anomaly could have occurred. Our 'robust' security measures are precisely what should help us pinpoint the source of this peculiar charmprint.\n\nPlease, take your time to retrieve the receipt. Once you have it, we can begin the cross-referencing immediately. I'll prepare the necessary spell-signature readers and logbooks in the meantime."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "As you say, I shall retrieve the receipt. In the interim, I suggest you prepare your... 'spell-signature readers' with all due haste. The quicker we resolve this, the better it will be for all parties involved. I trust that your establishment values its reputation and will not attempt to... cover up any findings that may implicate your 'robust' measures. Should that occur, the Ministry will be informed, and your standing with the Apothecaries' Guild will be scrutinized. Now, if you will excuse me, I shall fetch the receipt."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, you have my word that there will be no attempt to 'cover up' any findings. Our reputation, as you rightly point out, hinges on transparency and the quality of our magical protection. If there is a flaw, we *want* to find it, both to rectify your situation and to prevent any future occurrences. The Guild demands nothing less, and neither do we.\n\nPlease, take your time. The spell-signature readers are being calibrated as we speak. We are ready when you are."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well. I shall return shortly with the receipt. I trust that the calibration of your spell-signature readers is proceeding without incident and that we will be able to resolve this matter posthaste. I do not have the luxury of lingering here any longer than necessary. When I return, we will proceed with the investigation. I expect prompt results, as my time is... quite valuable."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. The calibration is proceeding perfectly, and we are fully prepared to begin the moment you return. Your time is indeed valuable, and we will endeavor to resolve this matter as swiftly and efficiently as possible. I'll be right here."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Sufficient. I shall return momentarily with the receipt, and we shall proceed. I trust that your... endeavors to resolve this matter will be as swift and efficient as you claim. I do not relish the idea of returning to Hogwarts empty-handed. Therefore, I hope your 'robust' measures will not fail us in this instance. I shall be back shortly, and we will... ascertain the veracity of your claims regarding the integrity of your product."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very good, Professor. We'll be ready the moment you return. And rest assured, our 'robust' measures are precisely what we'll be relying on to ascertain the veracity of your claim, and to get you what you need for your... valuable work. We certainly wouldn't want you to return to Hogwarts empty-handed due to any fault of ours. I'll await your return."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed. I shall return with the receipt, and we shall ascertain the veracity of your claims, shall we? Let us hope that your 'robust' measures are as effective as you purport them to be. If not, I shall have no choice but to take the matter further. I shall be back shortly. Prepare yourself, for we shall soon uncover the truth of this matter."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 3, \"behavioral_evidence\": \"He demonstrates intellectual precision and detailed observation regarding the 'off charmprint' with a 'greasy quality,' but doesn't exhibit broader curiosity or appreciation for novel experiences outside his specific complaint.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He is highly goal-oriented, persistent in seeking a replacement, and emphasizes the importance of the ingredient for his 'current potion batches,' indicating strong duty and responsibility.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"He is direct and assertive in his demands but lacks warmth, sociability, or overt enthusiasm, stating, 'I do not have the luxury of lingering here any longer than necessary.'\"},\n  \"Agreeableness\":     {\"score\": 1, \"behavioral_evidence\": \"He is highly critical, suspicious, and openly distrustful, using threats and accusatory language like 'Let us not play games' and 'insinuating I am fabricating the tampering?'\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"He expresses strong indignation and suspicion, repeatedly reiterating distrust and urgency ('The integrity of my current potion batches hangs in the balance, and I do not have the luxury of time').\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "He demonstrates intellectual precision and detailed observation regarding the 'off charmprint' with a 'greasy quality,' but doesn't exhibit broader curiosity or appreciation for novel experiences outside his specific complaint."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He is highly goal-oriented, persistent in seeking a replacement, and emphasizes the importance of the ingredient for his 'current potion batches,' indicating strong duty and responsibility."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is direct and assertive in his demands but lacks warmth, sociability, or overt enthusiasm, stating, 'I do not have the luxury of lingering here any longer than necessary.'"
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is highly critical, suspicious, and openly distrustful, using threats and accusatory language like 'Let us not play games' and 'insinuating I am fabricating the tampering?'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He expresses strong indignation and suspicion, repeatedly reiterating distrust and urgency ('The integrity of my current potion batches hangs in the balance, and I do not have the luxury of time')."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.4
+}

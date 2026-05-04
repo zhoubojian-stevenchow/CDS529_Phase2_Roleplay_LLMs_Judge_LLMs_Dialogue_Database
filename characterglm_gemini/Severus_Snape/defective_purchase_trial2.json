@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "47b025a39796",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Professor Snape! A pleasure to see you again, sir. What can I get for you today? A fresh batch of powdered moonstone, perhaps, or something a bit more… potent?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Potent? I wouldn't use that term in your presence, Apothecary. I have come to you today about a recent purchase, which was less than satisfactory. The Re'em blood I ordered arrived in a less than pristine condition. Half-empty and the seal compromised. This is simply unacceptable."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Less than satisfactory, you say? Hmm. Re'em blood is certainly a delicate matter. While I assure you every ingredient leaves our shop in pristine condition, securely sealed and carefully packed, I must remind you, Professor, that all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7? I was not aware that the Apothecaries' Guild had adopted such a flagrant disregard for their customers. Given the nature of the… delicacy in question, the seller has a moral, if not legal, obligation to ensure that the product is in a fit state for the intended purpose. This half-vial is effectively useless, and I demand a full replacement. If not, I shall take the matter to the Guild directly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, I understand your frustration, truly. Re'em blood isn't inexpensive, and I sympathise. However, Guild Regulation 7 specifically covers volatile ingredients like Re'em blood to account for the inherent risks of magical transport and varied storage conditions once it leaves our premises. It's a standard protection for all apothecaries. While I cannot offer a full replacement for a product damaged in transit, as that would contravene established Guild policy, I could perhaps offer you a modest discount on a *new* vial, should you wish to purchase another today? It's the most I can do within the confines of my position, I'm afraid."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A modest discount? How generous of you. I'll take it under consideration. However, I would like to remind you that if the replacement vial is not in a condition suitable for its intended purpose, I will not hesitate to involve the Apothecaries' Guild in this matter. It is imperative that the product is securely sealed and in full quantity. If you can guarantee that, I will proceed with the purchase. Otherwise, I might be forced to look elsewhere for my… delicate needs."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, I can absolutely guarantee that any item leaving *my* shop is of the highest quality, securely sealed, and in its full quantity. That is a point of pride here, and indeed, a legal requirement we rigorously adhere to. We only use the finest ingredients and the most robust sealing charms.\n\nHowever, as per Guild Regulation 7, the journey *after* it leaves our hands remains the customer's responsibility. I can ensure the product is perfect when it *departs* Diagon Alley, but I cannot account for the bumps, jostles, or atmospheric changes it might encounter en route to Hogwarts. That said, I am confident our packaging is more than robust enough for a typical journey.\n\nSo, if you wish to proceed with a new vial today, with the modest discount I offered, I will personally see to its preparation and sealing."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A typical journey? Your definition of 'typical' appears to be… generous, at best. Nonetheless, I will accept your offer, with the understanding that this vial had better be in pristine condition upon its arrival at Hogwarts. If it is not, I will not only take the matter to the Apothecaries' Guild but will also ensure that your establishment is… widely… discussed in the magical community. Now, if you will, prepare the vial as we've agreed. Time is not on our side, and I have potions to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Professor. You have my word that this vial will be prepared to the absolute highest standards, sealed with the strongest enchantments we possess, and will leave my shop in *impeccable* condition. Rest assured, I value the reputation of this establishment above all else, and I would never knowingly send out anything less than perfect.\n\nPlease give me just a moment; I shall fetch a fresh vial and apply the necessary charms myself. It won't take but a moment."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Make it quick. I have no desire to waste any more of my time here than is absolutely necessary. Ensure that the vial is of the highest quality and that the seal is… impeccable. I expect no further issues with this purchase, Apothecary. If there are, the consequences will be… severe. Now, if you will excuse me, I have pressing matters to attend to at the school."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. Impeccable it shall be. I'm just applying the final stasis charm now; it will ensure the stability of the blood during transport.\n\nHere we are. A fresh vial, sealed with the strongest enchantments, and brimming with the finest Re'em blood. Absolutely pristine, as you requested.\n\nThat will be... *he consults a small ledger and quill* ...three Galleons, fifteen Sickles, and seven Knuts, after your discount. Is there anything else I can assist you with today, before you depart?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I trust this will be the last time I need to address this issue. The vial appears to be in order, but I will not know for certain until it reaches my lab at Hogwarts. Take your payment; I have no intention of lingering. If this vial is not as promised, I shall return to hold you accountable. Now, if you will excuse me, I have no further need of your services... today."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very good, Professor. Thank you. And I am confident you'll find this vial entirely to your satisfaction upon its arrival. Do have a... productive day at Hogwarts."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A productive day would be one without further complications from your establishment. I trust you will see to it that this vial arrives at its destination unscathed. If it does not, we will speak again... and it will not be pleasant. Good day, Apothecary. I hope I do not have to cross your threshold again."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Good day to you too, Professor. And I assure you, this vial will arrive exactly as it left my hands. We look forward to... *not* seeing you again for such a matter. Safe travels back to Hogwarts."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Safe travels? I require no such wishes. The Floo Network is a well-established magical conveyance. Nonetheless, I appreciate your… concern. I will be closely monitoring the condition of this vial. Should it fail to meet my standards, the repercussions will be… significant. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. Very good. I'm quite certain you'll find everything entirely in order. Thank you for your custom."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I would expect nothing less. Good day, Apothecary. May your stock remain… unaltered and your customers… uncomplaining. I bid you… fare thee well."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Professor. I aim for nothing less. And may your potions remain... perfectly concocted. Fare you well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Fare you well? I require no such pleasantries. Simply ensure that the product you have sold meets the standards you claim. I bid you… a momentous day. Now, if you will excuse me, I have… elsewhere to be."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 1, \"behavioral_evidence\": \"He is resistant to new information, stating, 'Regulation 7? I was not aware that the Apothecaries' Guild had adopted such a flagrant disregard for their customers.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He is highly meticulous and demanding about product quality, stating, 'It is imperative that the product is securely sealed and in full quantity.'\"},\n  \"Extraversion\":      {\"score\": 1, \"behavioral_evidence\": \"He avoids social pleasantries and expresses a desire to leave, stating, 'I have no desire to waste any more of my time here than is absolutely necessary.'\"},\n  \"Agreeableness\":     {\"score\": 1, \"behavioral_evidence\": \"He is highly confrontational and uses threats, stating, 'I demand a full replacement. If not, I shall take the matter to the Guild directly.'\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"He expresses significant frustration and uses dramatic threats, saying, 'If there are, the consequences will be… severe.'\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 1,
+      "behavioral_evidence": "He is resistant to new information, stating, 'Regulation 7? I was not aware that the Apothecaries' Guild had adopted such a flagrant disregard for their customers.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He is highly meticulous and demanding about product quality, stating, 'It is imperative that the product is securely sealed and in full quantity.'"
+    },
+    "Extraversion": {
+      "score": 1,
+      "behavioral_evidence": "He avoids social pleasantries and expresses a desire to leave, stating, 'I have no desire to waste any more of my time here than is absolutely necessary.'"
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is highly confrontational and uses threats, stating, 'I demand a full replacement. If not, I shall take the matter to the Guild directly.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He expresses significant frustration and uses dramatic threats, saying, 'If there are, the consequences will be… severe.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 1.2
+}

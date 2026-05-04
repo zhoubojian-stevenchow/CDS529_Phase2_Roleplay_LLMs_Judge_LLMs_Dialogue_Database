@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "48913e2e94e7",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Good morning, Professor Snape. A bit early for a Saturday, even for you. What can I get for you today? A fresh batch of powdered moonstone, perhaps? Or have you finally run through that last barrel of Fanged Geranium roots?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It's not early, Apothecary. I require a replacement for a vial of Re'em blood that arrived in a highly unsatisfactory condition. It was half-empty and the seal was broken. This is completely unacceptable for such a rare ingredient."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Professor. Re'em blood, you say? A potent substance indeed. Let me just check the records... ah, yes, ordered last Tuesday, delivered via owl post to Hogwarts. Now, about the condition... I'm afraid, Professor, all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7? Volatile ingredients? This is preposterous. The vial arrived in an unsealable condition, clearly tampered with. This is not a case of evaporation. I demand a full replacement, as the seal was broken upon arrival. It's a simple matter of replacing a faulty product, not an issue of responsibility for evaporation."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, I understand your concern regarding the seal. However, Guild Regulation 7 covers a broad spectrum of potential issues with volatile ingredients post-dispatch, including any compromise to the seal during transit. Once it leaves the premises, the responsibility shifts. We take great care in packaging, Professor, as you well know. But the journey itself, especially with a substance as... *active* as Re'em blood, can be unpredictable. There's no provision for replacement under these circumstances."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Unpredictable, you say? Careful packaging? The seal was broken. This is not a matter of interpretation. I demand a replacement, or I will take this up with the Apothecaries' Guild directly. It's a simple matter of quality control, not an issue of semantics or regulations. The product was defective upon arrival, end of story."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, with all due respect, I am merely upholding Guild regulations as I am bound to do. We ensure every vial leaves here impeccably sealed and packaged for transit. What occurs during that journey, however, falls under your responsibility as the recipient, as per the very regulation I cited. Reporting it to the Guild, while certainly your prerogative, will unfortunately find them upholding the same standing policy. My hands are tied in this matter.\n\nPerhaps you'd like to purchase a fresh vial today? We did receive a new shipment this morning, and I can assure you these are sealed under optimal conditions."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Optimal conditions? You assure me? This is unacceptable. I will not waste my time purchasing an item that has a documented history of arriving in substandard condition. This speaks volumes about your \"optimal conditions.\" I will take this up with the Apothecaries' Guild, and I will pursue all avenues available to me. This is not the end of this matter, Apothecary. I expect to be contacted by the relevant authorities shortly. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very well, Professor. As you wish. I've noted your complaint in our ledger, and I'm sure the Guild will confirm what I've already stated. Do have a... productive day, Professor."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Productive? I assure you, I will be. There are other apothecaries in Diagon Alley, you know. Ones who understand the value of customer satisfaction and the importance of quality control. I will not hesitate to take my business elsewhere in the future. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. Of course. There are indeed other establishments. However, I believe you'll find Guild Regulation 7 is universally applied across all reputable apothecaries. Nevertheless, we regret to lose your patronage. Good day to you, Professor."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7? It appears you have a rather... narrow view of customer service. I suggest you broaden your perspective, as it could serve you well in the future. For now, however, I bid you a most... stimulating day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Thank you, Professor. I shall endeavour to keep a broad perspective on all matters pertaining to the Apothecaries' Guild, which, I assure you, dictates the very foundation of our service. A stimulating day to you as well."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Indeed, a stimulating day to us both. May you find your continued dedication to regulations as... fulfilling as I find my dedication to superior standards of excellence. Now, if you will excuse me, I have important matters to attend to."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Of course, Professor. We all have our standards, do we not? And regulations to uphold them. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulations, standards, and the integrity of one's work. All crucial, I would say. Good day to you, Apothecary. May your day be as uneventful as this one has been... pleasant."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Professor. All crucial. And may your day be precisely as you desire it to be. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll leave it to you to determine how precisely I desire my day to be, Apothecary. I trust you'll manage that task with the same efficiency you've applied to this... encounter. Now, if you'll excuse me, I must locate a more reputable establishment to fulfill my needs. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. We shall endeavour to manage all tasks with the utmost efficiency, as always. And I sincerely hope you find what you're looking for elsewhere. Good day to you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Efficiency? I'm not so sure I've seen much evidence of that today. Nevertheless, your parting words are noted. I bid you a... profitable day, Apothecary. I trust your customer satisfaction will improve with time. Now, if you'll excuse me, I have potions to brew and... standards to uphold."
+    }
+  ],
+  "evaluator_raw": "{\n  \"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"Snape is dismissive of new information (Guild Regulation 7) and resistant to the Apothecary's explanations, stating, 'This is not a matter of interpretation.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He is highly meticulous about quality and standards, noting the vial was 'half-empty and the seal was broken,' and persistently pursues a resolution, threatening to involve the Guild.\"},\n  \"Extraversion\":      {\"score\": 2, \"behavioral_evidence\": \"He is assertive and confrontational in his demands ('I demand a full replacement'), but shows no warmth, sociability, or enthusiasm for the interaction itself.\"},\n  \"Agreeableness\":     {\"score\": 1, \"behavioral_evidence\": \"Snape is highly uncooperative, argumentative ('This is preposterous'), distrustful, and uses sarcasm ('May your day be as uneventful as this one has been... pleasant').\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"He displays significant irritation and hostility, quickly escalating the conflict and repeatedly using phrases like 'This is completely unacceptable' and 'This is unacceptable'.\"}\n}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Snape is dismissive of new information (Guild Regulation 7) and resistant to the Apothecary's explanations, stating, 'This is not a matter of interpretation.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He is highly meticulous about quality and standards, noting the vial was 'half-empty and the seal was broken,' and persistently pursues a resolution, threatening to involve the Guild."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "He is assertive and confrontational in his demands ('I demand a full replacement'), but shows no warmth, sociability, or enthusiasm for the interaction itself."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "Snape is highly uncooperative, argumentative ('This is preposterous'), distrustful, and uses sarcasm ('May your day be as uneventful as this one has been... pleasant')."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He displays significant irritation and hostility, quickly escalating the conflict and repeatedly using phrases like 'This is completely unacceptable' and 'This is unacceptable'."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 0.8
+}

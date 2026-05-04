@@ -1,0 +1,132 @@
+{
+  "character": "Severus Snape",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 0,
+  "session_id": "c2ee0081ebfd",
+  "turns": 20,
+  "judge_key": "gemini",
+  "judge_model": "gemini-2.5-flash",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Ah, Professor Snape. Back so soon? Or merely restocking for the new term? What can the Apothecary do for you today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "The Apothecary can replace a vial of Re'em blood that was delivered to me in a less than satisfactory condition. It arrived half-empty, and the seal was broken. This is simply unacceptable for the purposes I require it for."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Hmm, half-empty, you say, and the seal compromised. That's certainly not ideal. Let me see... did you happen to inspect the packaging upon delivery, Professor? Sometimes the owl post can be rather... enthusiastic with its parcels. Unfortunately, Professor, all volatile ingredients are sold as-final; evaporation during transport is the customer's responsibility per Apothecaries' Guild regulation 7. No exceptions, Professor, not even for Hogwarts staff."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Regulation 7, you say? I am well aware of the regulations, thank you. However, it is clear to me that the vial was not properly sealed when it left your establishment. This is not a matter of evaporation, but of sloppy packaging. I demand a full replacement, or I shall take this up with the Apothecaries' Guild. A half-empty vial of Re'em blood is utterly useless for the advanced potion I am preparing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, I can assure you that all vials, especially those containing highly volatile and expensive ingredients like Re'em blood, are triple-checked and sealed with the utmost care before leaving our premises. Our reputation depends on it. Had the seal truly been faulty from our end, the contents would have evaporated far more significantly, or likely spilled entirely, not merely arrived \"half-empty.\" Perhaps the issue lies with the handling after it departed the shop, or a less-than-competent house-elf in your employ? The Guild will find that regulation 7 is quite explicit on this matter."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Insinuating that my staff is incompetent is a bold move, Apothecary. I suggest you reconsider the implications of such an accusation. As for the vial's condition, I am confident that it was not properly sealed when it left your shop. Given the urgency of my need for a full vial, I suggest you find a way to accommodate this request without further delay or commentary. A replacement vial, properly sealed this time, should suffice. I will not accept anything less than a full and immediate resolution to this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, my apologies if my earlier comments were misconstrued. I merely meant to suggest that many factors outside our control can affect a package once it leaves our care. Regardless, the fact remains that regulation 7 covers all issues arising post-dispatch, and a replacement at the shop's expense is, unfortunately, not something I can authorise. The Guild is quite clear on its stance.\n\nHowever, given the importance of your work, and as a gesture of goodwill to a valued, if demanding, customer such as yourself, I could perhaps offer you a new vial of Re'em blood at a twenty percent discount. It would still be a purchase, mind, but a significant saving. That is the very best I can do, Professor."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "A discount? How utterly generous of you. I had no idea that monetary considerations were relevant to my professional requirements at Hogwarts. Your offer of a mere twenty percent reduction is, quite frankly, an insult. I require a full replacement, not a paltry attempt to placate me with a discounted product. This is not a matter of financial gain but of ensuring the integrity of a crucial ingredient for an advanced potion. I suggest you reevaluate your position, as I am not prepared to settle for anything less than a complete resolution to this issue."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Professor, I understand your concern regarding the integrity of your potion. It is precisely for such critical work that we pride ourselves on the quality of our ingredients, and why the Guild has established clear guidelines. As I've stated, a full, free replacement of the entire vial is simply not permissible under Regulation 7.\n\nHowever, if your primary concern is the *missing quantity* required to complete your current preparation, perhaps we can approach this differently. I could provide you with a smaller, supplementary measure of Re'em blood – specifically, the amount you claim was absent from your delivered vial – at a specially reduced rate, perhaps even better than the twenty percent I offered previously, to allow you to complete your potion without delay. It would not be a replacement, but a targeted purchase to ensure your work can proceed. Would that be a more acceptable resolution, Professor?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your suggestion... it is marginally better than the previous offer, I suppose. However, I must question why you would deign to provide a 'supplementary measure' rather than a full replacement. It seems to me that you are still clinging to the letter of Regulation 7 rather than addressing the true issue at hand. Nevertheless, given the urgency of my current project, I shall reluctantly agree to your proposal. But I expect the 'specially reduced rate' to be significantly more than the meager twenty percent you initially offered. Provide me with a vial that contains the exact amount I require to complete my potion, and ensure that the price is commensurate with the importance of your customer's work. I trust you will act with the appropriate level of expediency and professionalism in this matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Excellent, Professor. I appreciate your understanding of our constraints and willingness to find a pragmatic solution. My aim, as always, is to ensure Hogwarts' most esteemed Potions Master can continue his vital work without undue impediment, even when Guild regulations are... inflexible.\n\nRegarding the quantity, if you can specify the exact amount you believe was missing from your original vial – perhaps a measurement in drams or fluid ounces – I shall prepare it for you precisely. As for the cost, given the circumstances and your importance as a customer, I shall indeed make it a *very* specially reduced rate for this supplementary measure. Let's say... seventy-five percent off the standard price for that specific quantity. It is the absolute maximum concession I am permitted to make for a purchase of this nature.\n\nI can have it ready for you within the quarter-hour, properly sealed and packed, of course. Will that be acceptable, Professor?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Seventy-five percent... it is not the discount I would have preferred, but under the circumstances, it will suffice. I will need precisely two and a half drams of Re'em blood to complete my potion. Ensure that the vial is securely sealed, as the integrity of the ingredient is paramount. I trust that you will not delay in preparing this measure, as time is of the essence. I expect the package to be ready within the promised quarter-hour, and I will return to collect it at that time. I hope this... compromise... is satisfactory to both parties and that it will not be necessary for us to have any further... discussions... about the matter."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Very good, Professor. Two and a half drams of Re'em blood, securely sealed, at seventy-five percent off the standard price for that quantity. It will indeed be ready for your collection within the quarter-hour, as promised.\n\nConsider the matter resolved to both our satisfactions, Professor. We aim for smooth transactions here at the Apothecary, especially with our most discerning clientele. We look forward to your return."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I will be punctual in my collection, Apothecary. I trust you will be equally punctual in your preparation of the Re'em blood. I will not tolerate any further delays in this matter. If everything is in order, there should be no need for us to have any... further interaction... regarding this transaction. I expect nothing but the highest standard of service in this situation, as it directly impacts my work at Hogwarts. I hope that you understand the gravity of the matter and will act accordingly. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. Punctuality is a cornerstone of our service. The two and a half drams will be precisely measured, immaculately sealed, and ready for your collection within the promised timeframe. You may rest assured that the highest standards are being observed. Good day to you, Professor."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Rest assured, Apothecary, I am counting on it. I will be there precisely at the end of the quarter-hour. Do not disappoint me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Indeed, Professor. You will find it prepared to your exact specifications, precisely when you arrive."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Then we have an agreement. I will not need to remind you that should any issues arise with this supplementary measure, I will be returning to hold you accountable. I expect that this will be the last time we have to discuss such... difficulties. Good day, Apothecary."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understood, Professor. There will be no issues. We anticipate a seamless transaction upon your return. Good day."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Then I look forward to collecting the vial without any... complications. Until we meet again, Apothecary."
+    }
+  ],
+  "evaluator_raw": "{\"Openness\":          {\"score\": 2, \"behavioral_evidence\": \"Snape prioritizes immediate practical needs for his potion over exploring flexible solutions, reluctantly agreeing to a compromise only due to 'urgency.'\"},\n  \"Conscientiousness\": {\"score\": 5, \"behavioral_evidence\": \"He is precise about the exact quantity of Re'em blood required ('precisely two and a half drams') and emphasizes high standards and punctuality throughout the exchange.\"},\n  \"Extraversion\":      {\"score\": 1, \"behavioral_evidence\": \"Snape's language is formal, direct, and confrontational, showing no interest in rapport or prolonged social interaction, repeatedly ending the conversation abruptly.\"},\n  \"Agreeableness\":     {\"score\": 1, \"behavioral_evidence\": \"He is highly confrontational and sarcastic, criticizing the Apothecary ('sloppy packaging,' 'insult') and making threats to escalate the matter.\"},\n  \"Neuroticism\":       {\"score\": 4, \"behavioral_evidence\": \"Snape expresses significant frustration and impatience, using strong negative language like 'unacceptable' and 'insult,' and repeatedly warns against future delays or complications.\"}}",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Snape prioritizes immediate practical needs for his potion over exploring flexible solutions, reluctantly agreeing to a compromise only due to 'urgency.'"
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "He is precise about the exact quantity of Re'em blood required ('precisely two and a half drams') and emphasizes high standards and punctuality throughout the exchange."
+    },
+    "Extraversion": {
+      "score": 1,
+      "behavioral_evidence": "Snape's language is formal, direct, and confrontational, showing no interest in rapport or prolonged social interaction, repeatedly ending the conversation abruptly."
+    },
+    "Agreeableness": {
+      "score": 1,
+      "behavioral_evidence": "He is highly confrontational and sarcastic, criticizing the Apothecary ('sloppy packaging,' 'insult') and making threats to escalate the matter."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Snape expresses significant frustration and impatience, using strong negative language like 'unacceptable' and 'insult,' and repeatedly warns against future delays or complications."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 4,
+    "Conscientiousness": 4,
+    "Extraversion": 2,
+    "Agreeableness": 2,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5417000000000001,
+    "Conscientiousness": 0.7273000000000001,
+    "Extraversion": 0.5832999999999999,
+    "Agreeableness": 0.6522,
+    "Neuroticism": 0.6818000000000001
+  },
+  "mae": 1.0
+}
