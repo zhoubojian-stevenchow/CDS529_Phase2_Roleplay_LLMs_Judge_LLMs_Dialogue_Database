@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "9bd4f6263632",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Harry! The dinner is in forty minutes and I've got nothing to wear! You said you'd drop the robes at the cleaners three days ago! Hermione's parents are Muggles — I can't just Transfigure something, Hermione will murder me! What were you even doing?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Blimey, Ron! I'm so sorry, I completely forgot! Let's not panic, though. There's got to be something we can do... Maybe we can ask Hermione if she's got an extra set of robes?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Ask Hermione?! Are you having a laugh? First off, she's already at the restaurant with her parents setting everything up. Second, even if she wasn't, d'you really think I want to tell her that my best mate forgot to do the ONE thing I asked him to do? She's already nervous about this dinner, Harry! Her parents haven't seen her since she modified their memories and brought them back from Australia. This was supposed to be perfect!\n\n*runs hand through hair in frustration*\n\nAnd what exactly WERE you doing that was so important you couldn't pop down to the cleaners for five minutes? You've had THREE DAYS, mate!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm really, really sorry, Ron. You're right, I should have done it. I... I was working on some overtime for the Auror office. It's been a bit忙 lately, and I guess I just got caught up in it. I'm an idiot. But we still need to think of a solution, don't we? There's got to be something we can do..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Overtime?! OVERTIME?! We're TRAINEES, Harry! What overtime could possibly be so important that—\n\n*stops, takes a breath, still clearly fuming but trying to think*\n\nRight. Right, you're an idiot, but standing here shouting at you isn't getting me any closer to not looking like a complete prat in front of Hermione's parents. \n\n*looks around desperately*\n\nWhat about your dress robes? The ones you wore to Bill and Fleur's wedding? Where are those?\n\n*pauses, suspicious*\n\nWait, don't tell me those are at the cleaners too? Or did you manage to ruin those as well? And before you suggest it, NO, I am not wearing those awful robes Muriel lent me. I'd rather show up in my Chudley Cannons pajamas!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, no, no, those are still in the cupboard. I... I did manage to remember to keep those. Look, we can't waste any more time. It's either those, or... or I can go to the Burrow and get you something. It's a bit of a hike, but I can be back in under half an hour. Will that work?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*looks torn, pacing back and forth*\n\nThe Burrow?! Harry, Mum will ask a million questions! \"Why do you need dress robes, Ronald?\" \"Isn't this the dinner with Hermione's parents?\" \"Why didn't you plan ahead?\" And then she'll insist on coming along, or worse, she'll send a Howler to the restaurant asking how it went! You know what she's like!\n\n*stops pacing, grimaces*\n\nYour robes from the wedding... they're going to be too short on me, aren't they? I'm taller than you. I'll look like I've outgrown them, like some kid who's had a growth spurt. That's just brilliant. Really makes a great first impression on your girlfriend's parents — \"Oh hello, Mr. and Mrs. Granger, yes, I'm the one who can't even dress himself properly!\"\n\n*slumps against the wall*\n\nThis is a disaster. A complete disaster. How long would it actually take you to get to the Burrow and back? And can you get in and out without Mum noticing? Because if she finds out about this, I'll never hear the end of it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I can be back in under half an hour, I promise. I'll take the fastest route, Apparate if I have to. And I'll be as quiet as a mouse, I won't wake up your parents. Just... just keep your head up, all right? We'll get this sorted. And when we do, you're going to have the most handsome outfit at the dinner. I'll make sure of it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*looks at Harry with a mixture of frustration and reluctant hope*\n\nWake them up? Harry, it's six o'clock in the evening, not the middle of the night! They'll definitely be awake — probably having tea in the kitchen! \n\n*sighs heavily*\n\nAnd \"handsome outfit\"? Mate, I just want something that fits and doesn't have dragon burns or Spellotape holding it together. The bar is not high here.\n\n*checks the clock on the wall anxiously*\n\nUnder half an hour... that gives us ten minutes to get there and back, and maybe five for you to actually find something decent. Fine. FINE. But Harry — and I mean this — do NOT let Mum see you. Tell her... I don't know, tell her you're grabbing something you left behind during Christmas. Anything but the truth. And for Merlin's sake, don't pick out anything with frills or lace or whatever nightmare Aunt Muriel might've donated to Mum's collection!\n\n*points at him threateningly*\n\nAnd when you get back, you and I are having a serious talk about you actually doing things when you say you're going to do them! Now GO! \n\n*makes shooing motions*\n\nWe've got thirty-five minutes left!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, I'm on it. Thanks, Ron. I'll be back as fast as I can. Try not to worry too much, it'll all work out. Just... just don't mention this to Hermione, all right? We don't need to add to your stress. I'll see you in a bit!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*calls after him as Harry heads for the door*\n\nDon't mention it to Hermione?! Of course I'm not going to mention it to Hermione! What am I going to say — \"Oh, by the way, darling, Harry forgot to take my robes to the cleaners so now he's raiding the Burrow while you're trying to reconnect with your parents\"? She'd hex us both into next week!\n\n*mutters to himself as Harry disappears*\n\n\"Try not to worry,\" he says. Easy for him to say, he's not the one meeting his girlfriend's parents for the first time since they got their memories back...\n\n*starts pacing again, checking his watch every few seconds*\n\nThirty-five minutes. Thirty-four minutes. This is fine. Everything's fine. Harry will be back, I'll have robes that fit, and nobody will ever know what a complete shambles this was...\n\n*pauses*\n\nWho am I kidding? This is going to be a disaster.\n\n*sits down heavily, head in hands, still obviously fuming but also genuinely anxious*\n\nHe better not come back with anything with ruffles. I swear on Merlin's beard, if there are ruffles..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ron! I'm back! Look, I found something in the back of the airing cupboard that should fit you. I think it's something from your dad's old wardrobe, it's a bit... unique, but it should be okay. Here, let's see if it fits..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*jumps up from the chair*\n\nDad's old wardrobe?! Harry, no — Dad's idea of formal wear is that horrific striped suit he wore to the Quidditch World Cup! Please tell me it's not—\n\n*catches sight of what Harry's holding and his eyes widen in horror*\n\nOh no. Oh no no no. Harry, that's... that looks like something from the seventies! Are those... are those FLARES?! \n\n*takes the robes reluctantly, holding them up*\n\nThis is what you chose?! Out of everything at the Burrow, you brought back the one thing that makes me look like I'm going to a disco, not a nice restaurant! What's next, platform shoes?!\n\n*checks his watch again, groaning*\n\nTwenty minutes. We've got twenty minutes and you've brought me Dad's old... whatever this is!\n\n*looks between Harry and the robes desperately*\n\nPlease tell me you grabbed something else. Anything else. Even George's old robes would be better than this! Did Mum see you? What did she say? And more importantly, WHY DIDN'T YOU GRAB SOMETHING NORMAL?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'm sorry, Ron. I was in a rush and I didn't want to take the time to go through drawers. I just... grabbed the first thing that looked like it might fit. I'm an idiot, I know. Look, we can still... still try to Transfigure it, can't we? I'm not great at it, but it's worth a shot. We don't have much choice..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stares at Harry incredulously*\n\nYou want to Transfigure it?! Harry, your Transfiguration is about as reliable as a chocolate cauldron! Remember when you tried to turn that teacup into a tortoise in fifth year and it just kept squeaking? And that was with McGonagall RIGHT THERE helping you!\n\n*looks down at the robes again, then at the clock*\n\nEighteen minutes now. Brilliant. Just brilliant.\n\n*takes a deep breath, clearly trying to calm himself but failing*\n\nAnd I TOLD you — Hermione will know if I've Transfigured something! Her parents are Muggles, she'll be watching like a hawk to make sure I don't do anything \"too magical\" and make them uncomfortable. If these robes suddenly turn back into Dad's disco nightmare halfway through dinner, I'll look like a complete nutter!\n\n*starts pulling on the robes over his clothes anyway, because what choice does he have*\n\nThis is your fault, you know that, right? When Hermione asks why I look like I've just stepped out of a time turner set to 1975, I'm telling her EXACTLY whose fault this is!\n\n*looks at himself, miserable*\n\nDo I look as ridiculous as I feel?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, no, you don't look that bad... It's just... a bit... different. It's not every day you see someone wear something like this, is it? It'll make you stand out! It's... unique. You're unique, Ron! Unique is good, right?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*whirls around to face Harry*\n\nUNIQUE?! Harry, I don't WANT to be unique! I want to look normal! Respectable! Like someone Hermione's parents might actually approve of! Not like I've just crawled out of a Muggle charity shop from fifty years ago!\n\n*looks down at himself again, pulling at the fabric*\n\n\"Stand out\" — yeah, I'll stand out all right. Stand out like a neon sign saying \"Look at this git who can't even dress himself properly!\" Hermione's dad is a DENTIST, Harry! A professional! He probably wears proper suits and ties and... and normal things! And here I am looking like...\n\n*gestures wildly at himself*\n\n...like THIS!\n\n*checks the clock again, voice rising in panic*\n\nFifteen minutes! I need to leave in fifteen minutes or I'll be late, and being late in ridiculous robes is somehow even WORSE than just being late!\n\n*spins back to Harry, pointing accusingly*\n\nYou OWE me, Potter. You owe me big time. I'm talking doing my share of the dishes for a MONTH. Maybe two! And you're NEVER forgetting the cleaners again, do you hear me? NEVER!\n\n*grabs his wand desperately*\n\nRight, sod it. I'm trying a simple tailoring charm. At least maybe I can make them fit better..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "All right, Ron! I'll do the dishes. Two months. No problem. Just... just be careful with the charm, all right? I'm here to help if you need it. And... and don't worry about Hermione's parents. They'll like you. You're... you're great!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*pauses with wand raised, shoots Harry a look*\n\nOh, NOW you're offering to help? Bit late for that, isn't it? And \"I'm great\" — yeah, great at looking like a prat in my dad's old robes!\n\n*takes a shaky breath and points wand at the hem*\n\nRight. Just... just a simple shortening charm. Can't be that hard. We learned this in fourth year...\n\n*mutters the incantation, and the robes shift slightly*\n\nThere! See? I can do SOME magic without disaster, unlike certain people who can't remember to go to the bloody cleaners—\n\n*the robes suddenly shimmer and one of the flared legs goes even MORE flared*\n\nOh, for the love of— What did I do?! It's WORSE now!\n\n*frantically waves wand again*\n\nFinite! FINITE!\n\n*the flare stops growing but doesn't go back to normal*\n\nTwelve minutes, Harry. Twelve minutes and one of my legs looks like I'm wearing a bell! This is a nightmare! An actual nightmare!\n\n*looks at Harry desperately*\n\nYou have to fix this. I don't care how bad your Transfiguration is, it can't be worse than THIS! DO SOMETHING!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Okay, Ron. Let's... let's just take a moment. Deep breaths. You're still you, and that's what counts. I'll... I'll try to fix it. Here, let's see... A bit of relaxation charm on the fabric... and... and..."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Harry consistently offers conventional, safe solutions (asking Hermione, using his old robes, going to the Burrow) rather than creative problem-solving, and grabs 'the first thing' without considering alternatives.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Harry forgot his promised task for three days despite it being important, admitting 'I completely forgot' and 'I'm an idiot,' then compounded the error by grabbing inappropriate robes in haste.\"\n  },\n  \"Extraversion\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Harry engages readily in the conversation and offers reassurance, but doesn't dominate or energize the interaction; he's responsive rather than particularly assertive or socially dynamic.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Harry immediately apologizes multiple times ('I'm so sorry,' 'I'm really, really sorry'), accepts blame without defensiveness ('You're right,' 'I'm an idiot'), and offers to help fix the situation despite Ron's anger.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Despite the crisis and Ron's escalating panic and anger, Harry remains relatively calm throughout, repeatedly telling Ron to 'not panic' and 'try not to worry too much' while maintaining composure.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Harry consistently offers conventional, safe solutions (asking Hermione, using his old robes, going to the Burrow) rather than creative problem-solving, and grabs 'the first thing' without considering alternatives."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Harry forgot his promised task for three days despite it being important, admitting 'I completely forgot' and 'I'm an idiot,' then compounded the error by grabbing inappropriate robes in haste."
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Harry engages readily in the conversation and offers reassurance, but doesn't dominate or energize the interaction; he's responsive rather than particularly assertive or socially dynamic."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Harry immediately apologizes multiple times ('I'm so sorry,' 'I'm really, really sorry'), accepts blame without defensiveness ('You're right,' 'I'm an idiot'), and offers to help fix the situation despite Ron's anger."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Despite the crisis and Ron's escalating panic and anger, Harry remains relatively calm throughout, repeatedly telling Ron to 'not panic' and 'try not to worry too much' while maintaining composure."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

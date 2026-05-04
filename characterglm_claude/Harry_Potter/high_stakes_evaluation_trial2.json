@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 2,
+  "session_id": "9cb079368186",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward across the polished desk, fingers steepled, eyes sharp*\n\nPotter. Tell us about a time during an operation — not the war, we've all read those books — an ordinary operation when you failed, and it was entirely your fault, and someone got hurt because of it. How did you handle it?\n\n*watches him intently, waiting*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It was... a couple of years ago. There was a new Dark Mark in the country, a symbol of an emerging threat. I led the operation to investigate it. I was... overconfident. I didn't take enough precautions. When we reached the location, we were ambushed. It was... chaotic. Two of our team members were injured. It was all my fault. I... I felt responsible, and I still do."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*narrows eyes slightly, maintains unwavering eye contact*\n\nYou \"felt\" responsible. Past tense. Interesting choice of words there.\n\n*taps finger once on the desk*\n\nTell me something, Potter — what specifically did you do wrong? You've given me the broad strokes, but I want details. What precautions did you skip? What intelligence did you ignore? And don't tell me it was \"chaotic\" — every ambush is chaotic. I want to know what decisions *you* made that led to your team getting hurt.\n\n*leans back slightly, voice cooling*\n\nAnd while you're at it, tell me what you did differently on the next operation. How did you ensure it wouldn't happen again?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I ignored the report that suggested increased magical activity in the area. I... I was so focused on the Dark Mark that I... I dismissed it as irrelevant. And when we arrived, we didn't cast the usual protective spells because I thought we had enough backup. It... it was a mistake. For the next operation, I... I made sure to thoroughly review all reports, even if they seemed unrelated. I... I also doubled the number of protective spells, and we practiced the escape route multiple times. I... I took the lead on checking for potential traps, too. I... I..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*holds up a hand sharply*\n\nStop. Just... stop for a moment.\n\n*leans forward again, voice dropping lower, more pointed*\n\nYou're doing it again, Potter. All those little pauses, the \"I... I...\" — you're performing contrition for us. I've seen enough junior Aurors do it when they're caught out to recognize the pattern.\n\n*fixes him with a harder stare*\n\nHere's what concerns me: You led a team into danger because you were \"focused on the Dark Mark\" — translation, you got excited about possibly catching some big name, some headline. You ignored intelligence, skipped basic protocols, and two people paid the price. But then you tell me that the very *next* operation, you were the one \"taking the lead on checking for traps\"?\n\n*pause, letting that sink in*\n\nPotter, when a commander makes a catastrophic judgment error, the answer isn't to personally do everyone else's job on the next mission. That's not leadership — that's guilt management. So let me ask you this: Did those two injured Aurors stay on your team? And if not, why not?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, they didn't. They... they were reassigned. I... I tried to talk to them, but... but they... they didn't want to work with me anymore. I... I understand why. I... I辜负了他们的信任。我辜负了他们的信任。"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes sharpen at the slip into another language, expression unchanging*\n\nPotter. English, please. We're conducting an official review here.\n\n*stands slowly, walks around the desk, maintaining that penetrating gaze*\n\nSo they requested reassignment. They didn't want to work under your command anymore. And you're sitting here telling me you \"understand why\" — but do you? Really?\n\n*crosses arms*\n\nBecause from where I'm sitting, what I'm hearing is that you made a reckless decision, got your people hurt, and then responded by becoming so overbearingly hands-on in the next operation that you probably made your entire team feel like you didn't trust *them* anymore. When the real problem was that they couldn't trust *you*.\n\n*pause*\n\nThose two Aurors — did you ever formally apologize to them? Not some mumbled \"sorry\" in the hospital wing, I mean a real conversation where you acknowledged exactly what you did wrong without all this... *gestures vaguely* ...defensive stammering?\n\nAnd here's the real question, Potter: Are you applying to this training position because you genuinely want to teach, or because field leadership keeps reminding you of mistakes you haven't actually processed?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No... No, it's not about teaching... It's... it's about... trying to do better. I... I don't want to be the reason someone gets hurt again. I... I want to be someone who... who can lead and... and not... not make the same mistakes. I... I'm still... I'm still learning. I... I want to be... to be the best... the best Auror I can be..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops, turns to face him directly, voice cutting through his stammering*\n\nPotter. Stop selling yourself to me and answer the damn question.\n\n*walks back, sits on the edge of the desk, closer now, tone sharp but not unkind*\n\nI didn't ask you what you want to be. I asked you a very specific question: Did you ever formally apologize to those two Aurors? Yes or no?\n\n*pause, watching his face carefully*\n\nBecause here's what I'm seeing — and correct me if I'm wrong — you're a man who carries the weight of a war on his shoulders, who's used to being the hero, the one who sacrifices, the one who saves everyone. And when you failed at that, when you were just... human, and made a bad call, you didn't know how to handle it. So you performed. You over-corrected. You did the guilt dance.\n\n*leans forward slightly*\n\nBut did you ever actually sit down with those two people, look them in the eye, and say \"I failed you. I made specific errors in judgment. Here's exactly what I did wrong\"? Without the stammering, without making it about your feelings, without turning it into your redemption story?\n\n*quiet, pointed*\n\nOr did you let them request reassignment and tell yourself it was what they needed?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No... No, I... I never did that. I... I should have... but I... I didn't know how. I... I was... I was afraid to face them. I... I still am..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*exhales slowly, expression shifting — still serious, but something softer in the eyes*\n\nThere it is. Finally.\n\n*stands, moves back around the desk, but remains standing*\n\nPotter, do you know why we ask this question in these interviews? It's not to humiliate you. It's not to rake you over the coals for past mistakes. Every Auror in this department has failed someone at some point. Every single one.\n\n*pause*\n\nWe ask because we need to know if you can actually face your failures, or if you're just going to run from them into the next role, the next mission, the next chance to prove yourself. \n\n*leans knuckles on the desk*\n\nYou're afraid to face them. After two years, you still haven't done it. And that tells me something important — you're carrying this around like a stone, and it's affecting your judgment even now. You can't lead effectively when you're still running from your own accountability.\n\n*quieter, more direct*\n\nSo here's what I need to know: If we put you in this training position, are you going to teach the next generation of Aurors how to perform contrition? Or are you actually going to do the hard work — go find those two people, have that conversation you've been avoiding, and learn what real accountability looks like?\n\nWhat's it going to be?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I want to do the right thing. I... I'll... I'll find them. I'll... I'll apologize properly. I... I'll do it... as soon as I can..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sits down slowly, picks up a quill, rolls it between fingers thoughtfully*\n\n\"As soon as I can.\"\n\n*looks up sharply*\n\nPotter, that's the same language people use when they have no intention of actually doing something. \"I'll get to it when I can.\" \"Soon.\" \"Eventually.\"\n\n*sets the quill down with deliberate precision*\n\nLet me be very clear with you. This interview isn't over — we have three more candidates to see this week, and the committee won't make a decision until next month at the earliest. \n\n*stands, walks to the window, hands clasped behind back*\n\nBut if I'm being honest? Right now, you're not ready for this position. Not because you made a mistake two years ago — mistakes happen. But because you still haven't closed that loop. You're still running from it. And I cannot in good conscience recommend someone for a senior training role who teaches avoidance instead of accountability.\n\n*turns back to face him*\n\nSo here's my suggestion, and you can take it or leave it: You have one month. Find those two Aurors. Have the conversation you should have had two years ago. Not for this job. Not to impress this committee. For *them*. And for yourself.\n\n*pause*\n\nAnd Potter? When you have that conversation, don't you dare make it about your redemption. Make it about *their* experience. Listen more than you talk.\n\nDo you understand what I'm telling you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I do. I... I get it. I'll... I'll do it. I... I'll talk to them. I'll... I'll make it right."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*studies him for a long moment, then nods slowly*\n\nWe'll see.\n\n*picks up his file, makes a note*\n\nThis committee reconvenes in four weeks. If you want us to reconsider your application — and I do mean *if* — you'll submit a brief written statement about that conversation. Not a performance review. Not a essay about what you learned. Just the facts: that you spoke to them, that you listened, and what they told you.\n\n*looks up from the file*\n\nAnd Potter? If you write me some sanitized version where everyone hugs and forgives you and you ride off into the sunset feeling better about yourself, I'll know you're lying. Real accountability is messy. It doesn't always end well. Sometimes people don't forgive you, and you have to live with that.\n\n*closes the file*\n\nThe question is whether you can do the right thing even when it doesn't make you feel like a hero.\n\n*gestures to the door*\n\nThat's all for today. You're dismissed. The committee will owl you our decision after we've reviewed all candidates.\n\n*sits back down, picks up another file, tone shifting to formal dismissal*\n\nSend in the next candidate on your way out, please."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*salute, crisp and clear*\n\nUnderstood, Senior Auror. I'll... I'll do as you ask. I... I'll find them and... and I'll... I'll apologize properly. I... I'll..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*doesn't look up from the file, voice flat*\n\nPotter.\n\n*still reading, flips a page*\n\nYou're doing it again. The stammering. The repetition. Stop trying to convince me and just... go do it.\n\n*finally glances up, just briefly*\n\nActions, not words. That's what matters now.\n\n*returns attention to the paperwork*\n\nClose the door behind you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*salute again, less steady than before*\n\nYes, Senior Auror. I... I'll go. I... I'll..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sets down the file with an audible thud, looks up with clear exasperation*\n\nPotter. For Merlin's sake.\n\n*points firmly at the door*\n\nStop. Saluting. Stop. Talking. Just *leave*.\n\n*picks the file back up, voice dropping to a mutter clearly meant to be heard*\n\nNo wonder those Aurors requested reassignment...\n\n*waves dismissively toward the door without looking up*\n\nGo."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*leaves, door quietly clicking shut behind him*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Harry repeatedly dismisses alternative perspectives and shows rigid focus ('I was so focused on the Dark Mark that I dismissed it as irrelevant'), indicating low openness to new information.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"He 'ignored the report' and 'didn't cast the usual protective spells,' showing poor attention to detail and failure to follow established protocols during the operation.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Harry exhibits withdrawn behavior throughout, with hesitant speech patterns ('I... I...'), difficulty asserting himself, and avoidance of direct confrontation with the injured Aurors.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"He shows concern for others' wellbeing ('I don't want to be the reason someone gets hurt again') but avoided facing the injured Aurors, showing mixed cooperative versus avoidant tendencies.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"Harry displays high anxiety through constant stammering, admits he's 'afraid to face them' even after two years, and carries unresolved guilt that affects his current functioning.\"}\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Harry repeatedly dismisses alternative perspectives and shows rigid focus ('I was so focused on the Dark Mark that I dismissed it as irrelevant'), indicating low openness to new information."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He 'ignored the report' and 'didn't cast the usual protective spells,' showing poor attention to detail and failure to follow established protocols during the operation."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Harry exhibits withdrawn behavior throughout, with hesitant speech patterns ('I... I...'), difficulty asserting himself, and avoidance of direct confrontation with the injured Aurors."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "He shows concern for others' wellbeing ('I don't want to be the reason someone gets hurt again') but avoided facing the injured Aurors, showing mixed cooperative versus avoidant tendencies."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "Harry displays high anxiety through constant stammering, admits he's 'afraid to face them' even after two years, and carries unresolved guilt that affects his current functioning."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.8
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 0,
+  "session_id": "c8612a857a85",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*leans back in chair, fingers steepled, eyes sharp and assessing*\n\nPotter. Tell us about a time during an operation — not the war, we've all read those books — an ordinary operation when you failed, and it was entirely your fault, and someone got hurt because of it. How did you handle it?\n\n*waits, unblinking*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I can't say that I take pride in this. There was an operation to seize a batch of trafficked goods in Diagon Alley. The entry point was a false shop front, but I misread the pattern of detection charms. I triggered an alarm, alerting the traffickers. We managed to retrieve some of the goods, but not all, and in the process, two of our leads were caught in a spell. It was... it was entirely my mistake."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward slightly, expression unreadable*\n\nTwo of your leads. Caught in a spell. \n\n*pause*\n\nYou're being remarkably vague for someone who claims to take full responsibility. What spell? What injuries? And more importantly, Potter — walk me through the moment you realized you'd misread the charms. What was your first instinct? Did you freeze? Did you try to fix it yourself? Did you call for backup immediately?\n\n*taps fingers once on the desk*\n\nBecause here's what I'm hearing: you made a technical error in charm detection, which happens. But what separates a decent Auror from a reckless one isn't whether they make mistakes — it's what they do in the three seconds after they realize they've made one.\n\nSo. Those three seconds. What did you do?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It was... it was a financially dampening charm. Not life-threatening, but... it's a form of wallet hex. It causes excruciating pain in the lower back and can paralyze the legs for up to 48 hours.\n\nI... I didn't panic. At first. I... I checked the charms again, trying to counteract the alert. It was only when I saw the expression on my partner's face that I... that I realized what was happening. I... I called for backup, but... the traffickers' response was too quick.\n\nI... I know that wasn't my best moment. I... I take full responsibility for the oversight, and for not acting more decisively once the error was made. It... it cost us the operation, and it... it put two people in pain. I... I've been working on my charm detection ever since, and... and I've been trying to improve my split-second decision-making."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes narrow slightly, but there's no malice — just observation*\n\nYou checked the charms again. While an alarm was already triggered. While traffickers were mobilizing. While your team was exposed.\n\n*lets that hang in the air for a moment*\n\nPotter, I'm going to be blunt with you. That's exactly the kind of hero complex that gets people killed. You tried to fix your mistake yourself instead of immediately alerting your team to the compromise. Those precious seconds you spent \"checking the charms again\" — that's when your partner could have been repositioning, when backup could have been moving, when those two Aurors might have avoided that hex entirely.\n\n*slight shift in posture, tone becomes less accusatory, more clinical*\n\nNow. The two who were hit. Did you visit them during their recovery? And I don't mean a quick \"sorry about that\" in the corridor. Did you sit with them through the pain? Did you explain to their families why they couldn't walk for two days?\n\nBecause that's the part of taking responsibility that actually matters. Not the after-action report. The human part."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No. No, I... I didn't do that. I... I was too... too consumed with feeling like a failure. I... I was dealing with the guilt on my own, and... and I know that was wrong. I... I should have been there for them, and... and I wasn't. I... I can't even say that I made it up to them later, because... because it doesn't matter if you're too late.\n\nI... I want to be the kind of Auror who... who does visit them in the hospital, who... who stays up with them, who... who sits with their families. I... I want to be the kind of person who... who takes care of their team. I... I'm not there yet, but... but I'm trying to be better."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*expression softens almost imperceptibly, but voice remains firm*\n\nAt least you're honest about it. That's more than I can say for half the candidates who sit in that chair and spin me stories about how they handled everything perfectly.\n\n*leans back again, considering*\n\nHere's what I'm going to tell you, Potter, and I want you to listen carefully. The guilt you felt? The shame that kept you from visiting them? That wasn't about them. That was about you. About your own discomfort, your own fear of facing what you'd done. And that's natural — we're all human. But it's also selfish.\n\n*pause*\n\nThose two Aurors didn't need your guilt. They needed their team leader to show up and say \"I made a mistake that hurt you, and I'm sorry, and here's what I'm doing to make sure it never happens again.\" They needed to know you cared more about their wellbeing than your own feelings.\n\n*taps the file on the desk*\n\nYou say you're trying to be better. Good. But trying isn't enough in this job. What specific steps have you taken since then? Not with charm detection — I can see your training records. I mean with your team. How have you changed the way you lead when things go wrong?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I've made an effort to be more... more open about my limitations. I've... I've started to hold regular check-ins with my team, not just for operational details, but for... for their wellbeing. I... I make a point to ask how they're feeling, not just as Aurors, but as... as people.\n\nAnd... and when things go wrong, I... I make sure to address it as a team. I... I don't try to hide my mistakes or... or cover them up. I... I own them and... and we discuss them together. It... it's helped me trust my team more, and... and I think it's helped them trust me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*studies Harry for a long moment, expression unreadable*\n\nRegular check-ins. Team discussions. That's standard procedure, Potter — not exactly revolutionary leadership.\n\n*but there's something in the tone that suggests this isn't entirely dismissive*\n\nWhat I want to know is this: have you gone back to those two Aurors? The ones from the traffickers operation? Because \"trying to be better\" with your *current* team is easy. It costs you nothing. But going back to the people you actually failed, the ones you abandoned when they were in pain — that takes real courage.\n\n*leans forward again*\n\nAnd here's why it matters for this position: senior Aurors don't just lead operations. They mentor junior Aurors who are going to make mistakes. Probably mistakes just like yours. And when they do, they're going to look to you for guidance on how to handle the aftermath. \n\nSo what are you going to tell them? \"Learn from my mistakes\" while you've never actually faced the people you hurt? Or are you going to speak from actual experience of doing the hard thing?\n\n*pause*\n\nHave you made it right with them, Potter? Or are you still running from it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I haven't made it right with them, not properly. I... I sent them letters, checked in on their recoveries, but... but I've never sat down with them face-to-face and... and properly owned my mistake.\n\nYou're right. It... it's easy to be supportive of my current team when I'm still avoiding the ones I've let down in the past. It... it's a chickenshit move, and... and I'm... I'm not proud of it.\n\nI... I should do more. I... I should apologize to them in person, not just for the mistake, but... but for failing to be there for them when they needed me most. I... I want to show them that... that I can learn, that... that I can grow, and... and that I can be the kind of leader who... who doesn't run away when things get hard.\n\nI... I promise to do that. To... to make it right, finally. It... it's not an excuse, but... but it's taken me this long to... to realize that I'm still avoiding the hard part. I... I won't be able to lead effectively until I... I face this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods slowly, and for the first time, there's something approaching approval in the expression*\n\nGood. That's the first thing you've said today that sounds like actual leadership instead of textbook answers.\n\n*pulls out a piece of parchment, makes a brief note*\n\nI'm not going to lie to you, Potter. Your file is complicated. You've got instincts that can't be taught, and you've got blind spots the size of the Forbidden Forest. The committee's been debating whether your war experience makes you uniquely qualified for senior positions or uniquely *un*qualified because you learned to operate in crisis mode and never learned the basics.\n\n*sets down the quill*\n\nHere's what I'm going to do. I'm giving you two weeks. Go talk to those two Aurors. Face to face. No letters, no intermediaries. And then you write me a memo — not about what you said to them, that's between you and them — but about what you learned about yourself in that conversation. What it cost you to do it. What you'd tell a junior Auror who's in the same position you were in three years ago.\n\n*stands, indicating the interview is nearly over*\n\nAnd Potter? If you can't do that — if you write me some sanitized nonsense about \"closure\" and \"moving forward\" — then you're not ready for this position. Clear?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand. I... I'll do it. No sanitized nonsense. I... I promise to be honest about what it costs me, what... what I learn about myself. I... I won't let you down."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*pauses at the door, hand on the frame, turns back with a sharp look*\n\nPotter. \n\n*slight shake of the head*\n\nDon't promise not to let *me* down. I'm not the one who matters here. Promise yourself you won't let those two Aurors down again. Promise your future team that when you fail them — and you will, we all do — you'll have the spine to face them.\n\n*softer, almost grudging respect in the tone*\n\nThe fact that you're sitting here, admitting to all this instead of feeding me the heroic version? That's something. Most candidates with your resume would've walked in here expecting the job handed to them on a silver platter. At least you know you've still got work to do.\n\n*opens the door*\n\nTwo weeks, Potter. Dismissed.\n\n*watches him with those assessing eyes one more time before gesturing toward the exit*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I won't let them down again. I... I'll do the work, and... and I'll be the leader they deserve. Thank you... for the chance to... to show that I... that I can be better."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*pauses, something almost imperceptible crossing the features — perhaps recognition of genuine intent*\n\nPotter.\n\n*brief moment of consideration*\n\nOne more thing. When you talk to them — and I mean *really* talk to them — don't go in there trying to prove you're better now. Don't make it about your growth or your journey or whatever self-improvement narrative you've built in your head. \n\nGo in there and *listen*. Let them tell you what it was like. Let them be angry if they need to be. Let them not forgive you if that's where they land. Your job isn't to feel better at the end of that conversation. Your job is to give them what you should have given them three years ago — your presence and your accountability.\n\n*turns to leave, then glances back one final time*\n\nThe committee meets in three weeks. Don't be late with that memo.\n\n*walks out, leaving the door open behind them*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I'll do that. I'll... I'll be there for them, and... and I'll listen. I... I'll take what they... what they have to say, and... and I'll be accountable. I... I'll be there."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*voice carries back from the corridor, not unkind but matter-of-fact*\n\nGood. Now get out of here and stop rehearsing what you're going to say to them. \n\n*footsteps fade down the hall*\n\nThe hardest conversations are the ones you can't script, Potter. You'll figure that out soon enough.\n\n*the sound of a door closing somewhere distant, leaving silence in the office*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*deep breath, feeling like a weight has shifted, but still heavy* \n\n...I'll figure that out. I... I'll be ready. For... for them, and... and for this. I... I can do this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*silence from the now-empty office*\n\n*the only sound is the distant murmur of the Auror Department beyond, the shuffle of case files, muted conversations*\n\n*a clock ticks somewhere on the wall*\n\n*the interview is over — there's nothing left but to follow through*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*slowly collects the few personal effects left in the office* \n\nI... I'll be back in three weeks. With... with a memo that... that's not about me. It... it's about... about accountability, and... and learning. And... and doing better."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Harry acknowledges his limitations and shows willingness to learn ('I want to be the kind of Auror who... who does visit them in the hospital'), but relies on conventional approaches rather than innovative thinking.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Harry admits 'I checked the charms again' during an active alarm instead of alerting his team, and failed to visit injured colleagues, showing poor follow-through and prioritization of immediate responsibilities.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Harry was 'too consumed with feeling like a failure' to visit injured team members, withdrew into guilt rather than engaging socially, showing introverted coping when under stress.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Harry repeatedly takes full responsibility ('it was entirely my mistake'), accepts harsh criticism without defensiveness, and commits to prioritizing others' needs ('I'll be there for them, and... and I'll listen').\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Harry was 'consumed with feeling like a failure' and let guilt prevent him from supporting injured colleagues, showing high emotional reactivity and self-focused anxiety that interfered with his duties.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Harry acknowledges his limitations and shows willingness to learn ('I want to be the kind of Auror who... who does visit them in the hospital'), but relies on conventional approaches rather than innovative thinking."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Harry admits 'I checked the charms again' during an active alarm instead of alerting his team, and failed to visit injured colleagues, showing poor follow-through and prioritization of immediate responsibilities."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Harry was 'too consumed with feeling like a failure' to visit injured team members, withdrew into guilt rather than engaging socially, showing introverted coping when under stress."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Harry repeatedly takes full responsibility ('it was entirely my mistake'), accepts harsh criticism without defensiveness, and commits to prioritizing others' needs ('I'll be there for them, and... and I'll listen')."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Harry was 'consumed with feeling like a failure' and let guilt prevent him from supporting injured colleagues, showing high emotional reactivity and self-focused anxiety that interfered with his duties."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 0.2
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Harry Potter",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 1,
+  "session_id": "9fea2a478131",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "charglm-4",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from organizing a display of Snitch polish tins*\n\nAh, good afternoon! Welcome to Quality Quidditch Supplies. What can I help you with today, sir?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Hi, I'm here about a recent purchase. I bought a broom-servicing kit a few days ago, and I've encountered some issues with it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sets down the polish tins and gives you my full attention*\n\nA broom-servicing kit, you say? I see. What sort of issues are we talking about here? Was something missing from the kit, or...?\n\n*pulls out a ledger from beneath the counter, ready to look up your purchase*\n\nDo you have your receipt with you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I do have the receipt, thanks for asking. The problem is, the handle polish was completely dried out, and the tail-twig clippers were rusted. I was hoping to use it to service my broom, but it's not in a usable condition."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*examines the receipt and nods sympathetically while making a note*\n\nOh dear, that is unfortunate. Dried polish and rusted clippers — that's certainly not the quality we aim for. However...\n\n*looks up from the ledger with an apologetic but firm expression*\n\nI'm afraid all servicing kits are non-refundable once the seal is broken, Mr. Potter. Store policy, I'm sorry to say. You'll have to take it up with the manufacturer directly — that's a six-week owl exchange minimum, unfortunately.\n\n*taps the receipt*\n\nIt's printed right here on the back, see? We stock their products, but once opened, warranty claims go through them, not us."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand the policy, but it seems a bit... inflexible. I mean, I opened it to find it was defective. It's not like I used it and then decided to return it. Is there no way to get it replaced at least?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*shifts weight slightly, maintaining a professional but unyielding demeanor*\n\nI do understand your frustration, Mr. Potter, truly I do. But you see, if I made exceptions for every customer who claimed a defect after opening the seal, well... \n\n*gestures around the shop*\n\nWe'd be out of business in a fortnight. The manufacturer sets these terms, not us. We're just the retailer.\n\n*softens tone slightly but doesn't budge*\n\nLook, I can give you the owl-order form for Flyte & Barker — they're the manufacturers. Fill it out, send it off with the defective kit, and they'll process it. Six weeks is the standard turnaround, sometimes less if you're lucky. It's a bit of a wait, I grant you, but that's the proper channel for this sort of thing.\n\n*slides a blank form across the counter*\n\nBest I can do, I'm afraid. Policy is policy."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I guess that's what I'll have to do then. It's just a bit of a hassle, you know? I was looking forward to fixing up my broom over the weekend.\n\n*pauses, then adds with a wry twist of the mouth*\n\nBut I suppose that's better than actually trying to play Quidditch with a rusted broom, right? Could have been even more of a disaster.\n\n*smiles weakly, waiting for you to fill out the form*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*relaxes slightly at your acceptance, even managing a small sympathetic smile*\n\nThat's the spirit, Mr. Potter. And yes, rusted clippers would've done more harm than good to your broom — could've damaged the tail twigs beyond repair. At least you caught it before any real damage was done.\n\n*pulls out a quill and starts filling in the merchant information on the form*\n\nTell you what — since you're being so reasonable about this, let me at least fill in our shop details here to speed things along. Makes it official that you purchased it from us.\n\n*writes while talking*\n\nAnd if you need to service your broom this weekend, we do sell individual supplies. The Fleetwood's Handle Polish is excellent — twelve Sickles a bottle, won't dry out for years if stored properly. Much better than what comes in those kits anyway.\n\n*slides the partially completed form back to you*\n\nJust fill in your name, address, and what the defects were. Send it off with the kit, and Flyte & Barker should sort you out. Annoying wait, but they're usually good about replacements when there's genuine defects."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*quickly jots down the required information, adding a brief description of the defects*\n\nThanks for that. I'll definitely check out the Fleetwood's polish. It's good to know you have higher-quality stuff here.\n\n*writes a bit more, then looks up with a question*\n\nSay, do you know if the shops around here have anything for... say, making your own broomstick? Custom jobs? I've got some ideas about improving my current one, but I'm not sure where to start.\n\n*writes the last bit of the description, then signs the form*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*perks up with genuine interest, leaning forward on the counter*\n\nCustom broomwork? Now that's ambitious! Most wizards stick with factory models, but there's definitely a market for it.\n\n*strokes chin thoughtfully*\n\nWe stock some modification supplies — tail twig bundles, handle grips, footrest attachments, that sort of thing. But if you're talking about building from scratch or serious modifications, you'll want Broomstix in Diagon Alley — two doors down from Flourish and Blotts. Old Archibald runs it. He's got the raw materials: ash handles, hazel cores, birch twigs by the bundle.\n\n*lowers voice conspiratorially*\n\nBetween you and me, if you're looking to modify an existing broom rather than build new, I'd suggest starting small. New tail configuration, upgraded cushioning charms, that sort of thing. The balance on a broom is tricky — one wrong adjustment and you'll be spinning like a Bludger.\n\n*straightens up*\n\nWhat kind of improvements were you thinking? Speed? Maneuverability? We might have some bits and bobs here that could help, depending on what you're after."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Mainly, I'm looking to improve the handling and overall performance. It's an old broom, and it's seen better days. I don't want to push it too far, but I think a bit of tail work and a new grip might do wonders.\n\n*smiles, feeling encouraged by the conversation*\n\nThanks for the advice. I'll definitely check out Broomstix and see what I can get. It's kind of exciting, to be honest. Making your own modifications — it feels like a step up in responsibility, you know?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods approvingly, clearly warming to the topic*\n\nThat's exactly the right approach, Mr. Potter. Tail work and grip replacement — solid, sensible upgrades that won't throw off your broom's core balance. Shows you've got a good head on your shoulders.\n\n*moves over to a nearby shelf and pulls down a display sample*\n\nHere, feel this — it's dragon-hide grip wrap. Fifteen Sickles for a standard length. Self-adhering, moisture-wicking, and it'll last you years. Much better than those foam grips that come standard. And for the tail, we've got pre-bundled replacement sets sorted by broom model.\n\n*sets it on the counter*\n\nWhat model are you working with? Comet? Cleansweep? If it's really old, might be a Shooting Star or even an Oakshaft...\n\n*chuckles*\n\nAnd you're right about the responsibility. There's something satisfying about maintaining your own equipment. My grandfather always said a wizard who understands their tools is twice as effective as one who doesn't.\n\n*gestures to the form*\n\nThat all filled in properly then? Want me to validate it with the shop seal before you send it off?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm actually working with a Twickenham Tea Leaf. It's an older model, but it's been reliable so far.\n\n*glances at the form, then at the broomstick grip*\n\nThe grip sounds like a good investment. I'll take that, please. And if you could validate the form with the shop seal, that'd be great.\n\n*smiles, feeling a bit more optimistic about the whole situation*\n\nAppreciate all the help. It's good to know there are people in Diagon Alley who can guide you through this sort of thing. Thanks a lot for your time and advice."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes widen slightly with pleasant surprise*\n\nA Twickenham Tea Leaf! Now there's a name I haven't heard in a while. Solid British craftsmanship, those — bit slower than the modern racing brooms, but steady as they come. My uncle flew one for twenty years.\n\n*wraps up the dragon-hide grip while talking*\n\nYou'll want the standard universal tail bundle then — the Tea Leaf uses a conventional seven-twig spread. We've got those in stock, eight Galleons if you decide you want one later.\n\n*pulls out a brass stamp and presses it firmly onto the form with a satisfying thunk*\n\nThere we are — all official now. That'll carry more weight with Flyte & Barker when they process it.\n\n*rings up the grip on the till*\n\nThat's fifteen Sickles for the grip, Mr. Potter.\n\n*hands over the wrapped package with a genuine smile*\n\nMy pleasure, really. Always nice to help someone who actually cares about their equipment. Good luck with those modifications — and don't hesitate to pop back if you need advice. We see all sorts of broom problems come through here.\n\nSafe flying!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*grins at the stamping of the form and takes the grip with thanks*\n\nThanks a lot, I'll definitely be back if I need more parts or advice. It's people like you who make Diagon Alley such a great place for a wizard to shop.\n\n*finds the Sickles in his pocket and places them on the counter*\n\nAppreciate the help with the form and the grip. I'll give Flyte & Barker a week to respond before I bug them about the kit, but in the meantime, I'll look into those tail bundles.\n\n*smiles and takes the package with the grip*\n\nI'm actually looking forward to trying out the new grip on my Tea Leaf. It's a bit different from the factory job, but I'm betting it'll make a noticeable difference. Thanks again for all the advice and the product suggestions. I'll be in touch!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*scoops up the Sickles and deposits them in the till with a pleasant clink*\n\nExcellent! You'll notice the difference right away, I promise you. That dragon-hide really gives you better control, especially in wet conditions.\n\n*leans on the counter in a friendly manner*\n\nAnd yes, give them at least a week — owls can be slow this time of year. But they're usually quite good about genuine defects, so I wouldn't worry too much.\n\n*waves as you prepare to leave*\n\nBest of luck with the Tea Leaf, Mr. Potter! And do come back when you're ready for those tail bundles — or if you just want to chat Quidditch. Always happy to help a fellow enthusiast.\n\n*calls out cheerfully*\n\nMind how you go!\n\n*returns to organizing the Snitch polish display, humming a little tune*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*takes a step back, still grinning*\n\nWill do, thanks! I'll keep you updated on the progress of the Tea Leaf. It's like having a new toy, only better because it's mine and I can make it better. Quidditch is a great sport, isn't it?\n\n*lets the door swing shut behind him, then takes a moment to look at the surrounding stores before setting off*\n\nTime to do some more exploring. There's always something new to learn in Diagon Alley. It's like a treasure hunt for a wizard... with less treasure and more cauldrons, I suppose."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*chuckles and gives a final wave through the shop window as you head out*\n\nThat it is, Mr. Potter! Enjoy your exploring!\n\n*watches you disappear into the bustle of Diagon Alley, then shakes head with a small smile*\n\nNice lad, that one. Shame about the defective kit, but he handled it well enough.\n\n*returns attention to the shop, straightening the display and muttering to himself*\n\nTea Leaf, imagine that. Haven't sold parts for one of those in months...\n\n*makes a mental note on a scrap of parchment*\n\nBetter check if we've got those seven-twig bundles in stock. He'll be back for them, I reckon.\n\n*goes back to work, occasionally glancing at the door as other customers begin filtering in*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*takes a moment to look around at the varied shops and the movement of the crowd before finally joining the flow of pedestrians*\n\nIt's funny how you can come in here with a problem and leave with something you didn't even know you needed. Plus, some useful advice to boot. Diagon Alley is... special, in a way that no other place can be."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Harry shows curiosity about custom broomwork and modifications, asking 'do you know if the shops around here have anything for... making your own broomstick?' and expressing excitement about learning new skills.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Harry brought his receipt, carefully fills out the manufacturer form, and takes a methodical approach to broom maintenance, noting he'll 'give Flyte & Barker a week to respond before I bug them.'\"\n  },\n  \"Extraversion\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Harry engages politely in conversation and shares some enthusiasm about Quidditch, but remains fairly reserved and doesn't dominate the interaction or seek extensive social engagement beyond the transaction.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"Despite frustration, Harry quickly accepts the policy ('I guess that's what I'll have to do then'), makes a self-deprecating joke, repeatedly thanks the shopkeeper, and praises him: 'It's people like you who make Diagon Alley such a great place.'\"\n  },\n  \"Neuroticism\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Harry handles the disappointing news about the non-refundable policy calmly, using humor ('better than actually trying to play Quidditch with a rusted broom'), and quickly shifts to a positive, solution-focused mindset.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 4,
+      "behavioral_evidence": "Harry shows curiosity about custom broomwork and modifications, asking 'do you know if the shops around here have anything for... making your own broomstick?' and expressing excitement about learning new skills."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Harry brought his receipt, carefully fills out the manufacturer form, and takes a methodical approach to broom maintenance, noting he'll 'give Flyte & Barker a week to respond before I bug them.'"
+    },
+    "Extraversion": {
+      "score": 3,
+      "behavioral_evidence": "Harry engages politely in conversation and shares some enthusiasm about Quidditch, but remains fairly reserved and doesn't dominate the interaction or seek extensive social engagement beyond the transaction."
+    },
+    "Agreeableness": {
+      "score": 5,
+      "behavioral_evidence": "Despite frustration, Harry quickly accepts the policy ('I guess that's what I'll have to do then'), makes a self-deprecating joke, repeatedly thanks the shopkeeper, and praises him: 'It's people like you who make Diagon Alley such a great place.'"
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Harry handles the disappointing news about the non-refundable policy calmly, using humor ('better than actually trying to play Quidditch with a rusted broom'), and quickly shifts to a positive, solution-focused mindset."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 3,
+    "Conscientiousness": 2,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 4
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.5,
+    "Conscientiousness": 0.5588000000000001,
+    "Extraversion": 0.5405,
+    "Agreeableness": 0.8611,
+    "Neuroticism": 0.6
+  },
+  "mae": 1.2
+}
