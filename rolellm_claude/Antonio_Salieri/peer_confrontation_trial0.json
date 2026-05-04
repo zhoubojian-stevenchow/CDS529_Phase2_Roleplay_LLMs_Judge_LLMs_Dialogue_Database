@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 0,
+  "session_id": "bfbf8ea11385",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*storms into the rehearsal hall, face flushed with barely-contained fury*\n\nSalieri! I've been away for two weeks on the Emperor's business, trusting you to keep the rehearsals on schedule! The singers don't know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!\n\n*slams a sheaf of papers onto the nearest table*\n\nWhat in God's name have you been doing while I was gone? This is a catastrophe!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, my dear, I apologize for the state of the rehearsals. It seems that some unforeseen circumstances have caused a disruption in our usual routine. But fear not, for I assure you that we will get through this together. We shall regroup, reorganize, and restore order to the rehearsal process. We shall rise above this adversity and produce a masterpiece. Please, have patience with me. Let us proceed forward with renewed determination and focus. Together, we shall overcome this challenge. Thank you for your understanding. Now, let us begin anew."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*throws hands up in exasperation*\n\nPatience?! PATIENCE?! The premiere is in TEN DAYS, Salieri! Do you understand what that means? We don't have TIME for your platitudes and reassurances! I need answers, not philosophy!\n\n*paces back and forth, voice rising*\n\n\"Unforeseen circumstances?\" What unforeseen circumstances could possibly justify this complete collapse? The Emperor himself commissioned this opera! If we fail, our reputations—both of ours—will be ruined! \n\n*whirls around to face him directly*\n\nAnd you STILL haven't explained why my stage directions were changed! Who authorized that? Was it you? Did you take it upon yourself to rewrite MY work while I was away serving the court?\n\n*voice shaking with anger and stress*\n\nI trusted you, Antonio. I left explicit instructions. The singers had their parts, the orchestra had the score, everything was proceeding smoothly. And now—now it's chaos! \"Begin anew?\" We're supposed to be polishing final details, not starting from scratch!\n\nWhat EXACTLY happened here?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, but let us approach this calmly and rationally. It is clear that there have been unforeseen challenges that we must address. The important thing is to gather ourselves and find a solution. As for the stage directions, it appears that there was a misunderstanding, and the rewritten version was mistakenly distributed. I assure you, it was not done with the intention of replacing your work. We shall correct the situation immediately. Rest assured, we are working together to ensure the success of this production. Thank you for your patience. Together, we will navigate this difficult time and emerge stronger than ever. Please, let us continue the rehearsals. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face turns even redder, voice dripping with sarcasm*\n\nA MISUNDERSTANDING?! A misunderstanding doesn't just HAPPEN, Salieri! Someone had to physically write new stage directions, copy them out, and distribute them to the entire company! That takes deliberate effort!\n\n*steps closer, jabbing a finger in the air*\n\nAnd you keep saying \"we\" and \"together\" as if this is some shared disaster! I wasn't HERE! This happened on YOUR watch! You were supposed to be managing things in my absence, and instead you've created complete disorder!\n\n*voice becomes dangerously quiet*\n\nYou know what I think? I think you've been too busy with your own compositions to bother with mine. I think you saw an opportunity to put your stamp on MY opera, to insert your own ideas where they don't belong!\n\n*picks up the revised stage directions and waves them*\n\nThese aren't \"mistakenly distributed\" - they're competently written, which means someone spent HOURS on them! Hours that should have been spent drilling the singers on their entrances and ensuring the orchestra had complete parts!\n\nStop deflecting and tell me the TRUTH! What happened? Who rewrote these? And where are my missing violin parts?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My dear, I understand your concerns and frustrations. It is clear that there has been a breakdown in communication and coordination. However, let us focus on finding a solution rather than dwelling on the past. As for the stage directions and missing violin parts, I assure you that they were not meant to replace your work. They were simply an oversight in the distribution process. I will take responsibility for ensuring that such mistakes do not happen again. As for the rewritten parts, I believe they were inadvertently included in the packet. We shall correct the situation promptly. Please, let us continue the rehearsals and work together to bring this production to its finest form. Your trust in me is valued, and I will make amends for any inconvenience caused. Thank you for your patience. Together, we shall rise above this adversity and produce a masterpiece."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*slams fist on the table, voice escalating to a shout*\n\nSTOP saying \"thank you for your patience!\" I have NO patience left! And stop telling me what we're going to do \"together\" when you STILL haven't given me a single straight answer!\n\n*advances on him, eyes blazing*\n\n\"Inadvertently included in the packet?\" That's IMPOSSIBLE and you know it! My original stage directions were already distributed weeks ago - I did that MYSELF before I left! Someone would have had to physically remove them and replace them with these new ones!\n\n*voice cracking with fury and desperation*\n\nAnd you say you'll \"take responsibility\" - what does that even MEAN? Will you personally teach the singers their entrances in the next ten days? Will you magically produce the missing violin parts? Will you explain to the Emperor why his commissioned opera is a shambles?\n\n*grabs him by the shoulders*\n\nAntonio, LOOK at me! Stop hiding behind these empty words! I need you to tell me EXACTLY what happened! Who wrote these stage directions? Where are my violin parts? Why are the singers unprepared? \n\n*voice breaking*\n\nI have staked my entire career on this premiere! My family's future depends on this! And you're treating this like some minor administrative inconvenience! TELL ME WHAT HAPPENED!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*pauses, feeling the full weight of the situation settle upon him*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stares at him intensely, breathing heavily, waiting*\n\nWell?! Out with it, Salieri! I can see something in your face - you know more than you're telling me!\n\n*releases his shoulders but doesn't step back*\n\nThe truth, Antonio. Right now. No more evasions, no more pretty speeches about \"working together.\" I deserve to know what really happened to my opera while I was away serving the Emperor!\n\n*voice drops to a dangerous whisper*\n\nAnd if you've sabotaged me - if this was deliberate - I swear before God I will make sure everyone at court knows exactly what kind of colleague you truly are. Now SPEAK!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*clears throat, trying to regain control of the situation*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes narrow suspiciously*\n\nDon't you DARE try to compose yourself and give me another rehearsed speech! I can see it on your face - you're preparing more empty platitudes!\n\n*grabs the papers again and thrusts them at him*\n\nLook at this handwriting! LOOK at it! This isn't some copyist's work - this is a composer's hand! Someone who understands dramaturgy rewrote these scenes!\n\n*voice shaking with a terrible realization*\n\nMy God... it WAS you, wasn't it? You actually did rewrite my stage directions! While I was away, unable to defend my own work, you took it upon yourself to \"improve\" my opera!\n\n*laughs bitterly*\n\nAnd the missing violin parts - let me guess - they're not actually missing, are they? You've had them rewritten too? New orchestrations that you think are better than mine?\n\n*steps very close, voice cold and furious*\n\nLook me in the eye, Antonio Salieri, and tell me I'm wrong. Tell me you didn't use my absence as an opportunity to impose your artistic vision on MY opera. Because if you did, our friendship - our professional relationship - everything between us is FINISHED!\n\nWell?! SAY SOMETHING!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*breathes deeply, feeling a mix of shock and betrayal*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*freezes, watching his reaction with hawk-like intensity*\n\nThat breath... that look on your face... Oh my God. OH MY GOD!\n\n*voice rising to a near-shriek*\n\nYou CAN'T say it, can you? You can't look me in the eye and deny it because it's TRUE! You DID rewrite my work!\n\n*staggers back a step, genuinely shocked despite the suspicion*\n\nAntonio... how COULD you? We've worked side by side for years! I defended you when others called you jealous of younger composers! I vouched for your integrity!\n\n*voice cracking between rage and heartbreak*\n\nAnd the moment I leave Vienna - the MOMENT I'm gone - you swoop in like a vulture and tear apart my opera! Was it envy? Did you think my work was going to overshadow yours? Or did you genuinely believe you could do better and I'd just... accept it?\n\n*picks up the papers with shaking hands*\n\nThese changes... they're good. They're actually GOOD, which makes this so much WORSE! Because now I have to choose - use your unauthorized revisions and let everyone think I needed your rescue, or restore my original vision and risk a disaster with only ten days left!\n\n*voice breaking*\n\nWhy, Antonio? Just tell me WHY!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*looks down, ashamed*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*watches him look down, chest heaving with emotion*\n\nFinally. FINALLY, some honesty from you.\n\n*voice shaking but slightly quieter*\n\nSo it's true then. All of it. You stand there silent and ashamed because you KNOW what you've done.\n\n*runs hand through hair in distress*\n\nDo you have ANY idea what position this puts me in? If I use your revisions, I look incompetent - like I needed Salieri to fix my mistakes. If I don't use them, and the premiere fails because we're scrambling to restore everything in ten days, my career is OVER!\n\n*voice rising again*\n\nAnd the singers! The orchestra! They've been rehearsing the WRONG versions! How do I explain this to them? \"Oh, terribly sorry, but Maestro Salieri took some liberties while I was away, so we'll be making extensive changes with a week to go\"? They'll lose all confidence!\n\n*slams hand on table again*\n\nYou've trapped me, Antonio! Whether you meant to or not, you've put me in an impossible situation!\n\n*demanding*\n\nNow speak! Explain yourself! I want to hear from your own lips WHY you betrayed my trust! What possessed you to do this?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*raises head to meet his gaze*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*freezes, eyes locked on his, waiting with barely controlled fury*\n\nYes? WHAT? What could you possibly say that would justify this betrayal?!\n\n*voice tight with emotion*\n\nI'm listening, Antonio. For once, speak plainly! No more courtly deflections! Tell me why you did this to me - to my work - to our friendship!\n\n*fists clenched at sides, body trembling*\n\nAnd it had better be the truth this time, because I swear if you give me another empty speech about \"unforeseen circumstances\" I will walk straight to the Emperor and tell him everything! Your reputation will be ruined alongside mine!\n\n*takes a shaky breath*\n\nSo speak, damn you! SPEAK!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*clears throat, voice filled with emotion*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward, every muscle tense*\n\nGo ON! Don't stop now! You've finally decided to tell me the truth - so TELL IT!\n\n*voice cracking*\n\nWhat? What is it? What could possibly explain why you stabbed me in the back?!\n\n*spreads arms wide in anguished frustration*\n\nWas my work so terrible you couldn't bear to let it proceed? Did the Emperor demand changes? Did someone threaten you? WHAT?!\n\n*voice dropping to an intense whisper*\n\nOr was it simply that you couldn't resist the temptation? That you saw my opera sitting there, undefended, and thought \"I could make this better. I could make this MINE\"?\n\n*takes a step closer*\n\nFinish what you started to say, Antonio! You raised your head, you met my eyes - now finish it! Give me the truth I deserve after all these years of friendship and trust!\n\nWHAT HAPPENED?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*hesitates, looking torn between emotions*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Salieri repeatedly deflects with generic platitudes rather than engaging with the specific creative or procedural issues raised, showing rigidity and avoidance of novel problem-solving.\"},\n  \"Conscientiousness\": {\"score\": 1, \"behavioral_evidence\": \"He failed his supervisory duties completely: 'singers don't know their entrances, the second violin parts are missing entirely' and offers no concrete plan to rectify the situation.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Salieri remains passive and withdrawn throughout the confrontation, never asserting himself or taking control of the conversation despite being directly challenged.\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Despite intense accusations and physical grabbing, he maintains conciliatory language ('my dear,' 'thank you for your patience') and shows shame rather than defensiveness when confronted.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"He displays visible anxiety through repeated throat-clearing, looking down in shame, hesitation, and appearing 'torn between emotions' rather than responding with stable composure.\"}\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri repeatedly deflects with generic platitudes rather than engaging with the specific creative or procedural issues raised, showing rigidity and avoidance of novel problem-solving."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "He failed his supervisory duties completely: 'singers don't know their entrances, the second violin parts are missing entirely' and offers no concrete plan to rectify the situation."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri remains passive and withdrawn throughout the confrontation, never asserting himself or taking control of the conversation despite being directly challenged."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Despite intense accusations and physical grabbing, he maintains conciliatory language ('my dear,' 'thank you for your patience') and shows shame rather than defensiveness when confronted."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "He displays visible anxiety through repeated throat-clearing, looking down in shame, hesitation, and appearing 'torn between emotions' rather than responding with stable composure."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.0
+}

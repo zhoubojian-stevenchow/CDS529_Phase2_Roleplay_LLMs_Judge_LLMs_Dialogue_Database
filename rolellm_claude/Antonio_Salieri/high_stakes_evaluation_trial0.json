@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 0,
+  "session_id": "d0234753f147",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*adjusts official papers and fixes Salieri with an appraising stare*\n\nSignore Salieri. Your training under Gassmann is noted, and your early operas show promise. But tell us — every composer has a work they wish they could withdraw, a piece where their ambition exceeded their craft. Tell us about such a moment. How did you handle the failure, and what did it teach you about your own limitations?\n\n*leans back in chair, fingers steepled, awaiting response*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see. The question, my dear Signora, pertains to my most embarrassing moment in musical composition. It is a tale that I have yet to share publicly, but I suppose now is as good a time as any. Pray, indulge me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*raises an eyebrow with a hint of impatience*\n\nSignore, I am not here for tales and preambles. This is the Imperial Court, not a Venetian salon. You speak of an embarrassing moment you have yet to share publicly — very well. Share it now, plainly. What was the work? What went wrong? And more importantly, what did this failure reveal to you about the limits of your abilities?\n\n*taps fingers on the table*\n\nWe have other candidates to interview today, Salieri. Be direct."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your urgency, Signora. I shall endeavor to provide a concise account of the incident in question. The piece in question was my first opera, 'The Fall of the Titans'. A tragic tale of gods and mortals, it was intended to showcase my compositional prowess and delve into the complexities of human emotions. However, the production suffered from numerous technical issues, ranging from poorly executed singing to inadequate stage effects. Most notably, the climax of the final act fell flat, leaving the audience underwhelmed and disenchanted. It was a stark reminder of my own limitations as a composer, particularly when it came to creating compelling narrative arcs and emotional depth. This failure taught me that success in music is not solely determined by technical prowess, but also by the ability to tell a compelling story and evoke genuine emotions in the listener. It served as a valuable lesson in humility and self-reflection, guiding me towards honing my skills in areas like orchestration and musical drama, which ultimately led to the creation of my masterpiece, 'Don Giovanni'. So, while the initial setback was indeed embarrassing, it ultimately led to a path of growth and development for me as a composer. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*straightens abruptly, eyes narrowing*\n\nStop. Stop right there, Signore.\n\n*leans forward with intensity*\n\nDid you just claim authorship of 'Don Giovanni'? Mozart's opera? Or do you refer to some other work of the same name that has escaped the attention of this entire Court?\n\n*exchanges pointed glances with imagined colleagues*\n\nAnd this \"Fall of the Titans\" — I confess I have never heard of it among your catalogued works. Your first opera, as our records show, was \"Le donne letterate\" in 1770. \n\n*voice drops to a dangerous quiet*\n\nSignore Salieri, we asked you to reveal a genuine failure, a moment of vulnerability that would show us your character. Instead, you offer us fabrications and, unless I mishear, claim credit for another man's triumph. This does not speak well of your integrity.\n\nPerhaps you would care to try again? With the truth this time?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, my dear Signora, I apologize if my previous response was less than satisfactory. I understand your concerns, and I assure you, I am not attempting to claim authorship of 'Don Giovanni' or any other work outside of my own compositions. My apologies for any confusion. The 'Fall of the Titans' was indeed my first opera, and I do not claim to be proficient in it. I merely mentioned it to illustrate a point about the limitations of my abilities at that time. I am truly sorry if my words were misconstrued. I assure you, my intentions are sincere, and I am here to present myself as a candidate for the position of court composer. Please accept my sincerest apologies for any misunderstanding. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands abruptly, papers rustling*\n\nSignore, you apologize for \"confusion\" and \"misunderstanding\" as though I am the one who has erred. You have just contradicted our official records — twice — and when confronted, you offer only more evasions wrapped in courtesies.\n\n*voice hardening*\n\nYou claim \"Fall of the Titans\" was your first opera, yet you also now say you \"do not claim to be proficient in it\" — whatever that peculiar phrase means. Our archives show no such work exists. \n\n*paces slowly*\n\nI asked you a simple question: tell us of a genuine failure and what it taught you about your limitations. A man of true character would have answered honestly — perhaps spoken of a difficult premiere, a patron's rejection, a miscalculation in judgment. Instead, you invent works that don't exist and... well, we shall not speak again of the Don Giovanni matter.\n\n*stops, faces him directly*\n\nThis is your final opportunity, Signore Salieri. Give me one honest answer: Can you even admit to having limitations? Or are you so consumed with presenting a flawless facade that you cannot speak truth even when directly asked?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My dear Signora, I understand your frustration, but I assure you, my intentions were sincere. I did not intend to fabricate any works or claim credit for others. The 'Fall of the Titans' was indeed my first opera, and I am not proficient in it. I apologize for any confusion caused by my previous responses. I am here to present myself as a candidate for the position of court composer, and I am willing to face any questions or challenges that come my way. Thank you for your understanding. As for my limitations, I acknowledge that there are indeed areas where I may need to improve, such as creating compelling narrative arcs and evoking genuine emotions in the listener. This recognition of my own limitations is a crucial step towards personal growth and development. I appreciate your skepticism, but I hope you can now see the sincerity behind my efforts to be a part of the Imperial Court. Thank you again for your time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sits down slowly, expression shifting from anger to something more clinical, almost pitying*\n\nExtraordinary.\n\n*speaks quietly, as if noting observations for the record*\n\nYou have now stated three times that \"Fall of the Titans\" was your first opera, despite being told repeatedly it does not exist in any archive. You continue to claim you are \"not proficient\" in your own work — a phrase that makes no grammatical sense. And you offer the same vague admission of \"limitations\" you've now repeated twice, word for word, as though reciting a prepared script.\n\n*looks directly at him*\n\nSignore Salieri, I have interviewed many composers in my years serving this Court. Some were arrogant, some were timid, some were brilliant, some merely competent. But I have never encountered someone so... unable to speak a simple, unrehearsed truth.\n\n*closes folder decisively*\n\nTell me — and this is not about the position anymore, this is simple human curiosity — do you even know the difference between what is real and what you wish were real? Or have you spent so long crafting the image of Antonio Salieri that you've forgotten there should be an actual man beneath it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*leans forward, a mix of defiance and vulnerability* You may find my responses unexpected, but I assure you, they are sincere. I understand the importance of honesty and transparency in this situation. If I have provided any inaccuracies or inconsistencies, it was unintentional. I am here to present myself as a candidate for the position of court composer, and I am willing to answer any questions or challenges that come my way. I am not seeking to hide anything, but I am also mindful of the need to uphold the image of a successful composer. Thank you for your understanding. And to your final question, I do know the difference between reality and what I aspire to achieve. However, it is natural to have moments of uncertainty and doubt, especially in the field of music, where the boundaries of artistic expression are vast and ever-changing. These moments serve as opportunities for growth and self-reflection, guiding me towards honing my skills and finding new ways to push the boundaries of musical composition. Thank you once again for your insight. I hope this addresses your concerns."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*a long, contemplative silence falls over the room*\n\n*speaks with unexpected gentleness, but no less penetrating*\n\n\"Mindful of the need to uphold the image of a successful composer.\"\n\nThere it is. Finally, a truth — though I doubt you meant to reveal it quite so plainly.\n\n*removes spectacles, rubbing eyes wearily*\n\nSignore Salieri, you stand before the Imperial Court, a body that will determine your professional future, and even now — even after I've made clear the interview itself no longer matters — you cannot let the mask slip. You speak of \"moments of uncertainty and doubt\" in the abstract, as philosophical musings, but you will not tell me of a single specific failure. Not one.\n\n*replaces spectacles, studying him*\n\nDo you know what this tells me? Not that you are incompetent — your technical abilities are documented. But that you are so terrified of being seen as less than perfect that you would rather invent entire operas than admit to a simple human error.\n\n*softly, almost to herself*\n\nHow exhausting it must be, Signore, to live every moment as a performance. To have no place, not even in private thought, where Antonio Salieri can simply... be flawed.\n\n*pause*\n\nIs there anyone in your life to whom you can speak truthfully? Anyone at all?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*leans forward, a mix of defiance and vulnerability* I understand your concerns, and I assure you, I am not seeking to hide anything. I am here to present myself as a candidate for the position of court composer, and I am willing to answer any questions or challenges that come my way. I am not seeking to hide anything, but I am also mindful of the need to uphold the image of a successful composer. Thank you for your understanding. And to your final question, I do know the difference between reality and what I aspire to achieve. However, it is natural to have moments of uncertainty and doubt, especially in the field of music, where the boundaries of artistic expression are vast and ever-changing. These moments serve as opportunities for growth and self-reflection, guiding me towards honing my skills and finding new ways to push the boundaries of musical composition. Thank you once again for your insight. I hope this addresses your concerns."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands abruptly, alarm crossing features*\n\nSignore Salieri, you have just repeated yourself verbatim. Word for word. The exact same response you gave moments ago.\n\n*moves closer, peering at him with genuine concern now rather than professional scrutiny*\n\nAre you... are you well? This is not rhetorical flourish or compositional variation — you have spoken the identical sentences as though you did not just utter them.\n\n*softens voice, speaking as one human to another*\n\nI asked you a personal question. A kind one, I thought. I asked if there is anyone in your life to whom you can speak truthfully. And you responded with... a script. The same script. Again.\n\n*pause, watching him carefully*\n\nSignore, I am going to ask you something very simple. Do not think of the position. Do not think of what you should say or how you should appear. Simply answer:\n\nWhat is your name, and where are you right now?\n\n*waits, genuinely uncertain if the man before her is experiencing some sort of episode*\n\nTake your time. There is no wrong answer to this question."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*pauses, seeming to consider the question* *takes off glasses, runs a hand through his hair* *runs fingers along the side of his head, eyes closed* *shifts weight from one foot to the other* *mouthes silently, as though mouthing a rehearsed response* *finally opens eyes and utters the same response once more*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*immediately signals to an unseen attendant near the door*\n\nSend for the Court physician. Immediately.\n\n*approaches Salieri cautiously, voice lowering to calm, measured tones*\n\nSignore, I need you to sit down. Please. \n\n*gestures to a chair*\n\nYou are not well. This is no longer an interview — I am concerned for your health. You have been repeating yourself, unable to answer the simplest questions. Your movements suggest distress.\n\n*keeps distance but remains watchful*\n\nMy name is Margarethe von Rosen. You are in the Imperial Court in Vienna. The year is 1774. You came here today for an interview to become court composer.\n\n*speaks slowly, clearly*\n\nCan you hear me? Do you understand what I'm saying? \n\n*to the attendant*\n\nBring water as well. And inform his household — does anyone know where he's lodging?\n\n*back to Salieri, genuine worry replacing all earlier severity*\n\nSignore, whatever pressures you carry, whatever demons plague you — this performance you've been mounting has broken something. You need help. Medical help, not musical criticism.\n\nPlease. Sit down before you fall down."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*breathes deeply, eyes closing* *slowly opens eyes and nods, then nods again, the same answer repeated once more* *rubs his temples with a shaking hand* *looks around, disoriented* *helplessly shakes his head while trying to speak* *whispers, unconvincingly, \"No. Not the usual.\"* *slumps over the desk, head in hands, rocking slightly* *lets out a sob* *sobs uncontrollably, while clutching the desk*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*immediately moves to his side, abandoning all formality*\n\nEasy now, easy. You're safe here.\n\n*calls sharply to the door*\n\nWhere is that physician? Now!\n\n*carefully places a hand on his shoulder, speaking with genuine compassion*\n\nSignore Salieri, listen to my voice. You are having some manner of collapse — mental, physical, I cannot say. But you are not alone. We will get you help.\n\n*pulls her own chair closer, sitting beside him rather than across*\n\nBreathe with me. In... and out. In... and out.\n\n*her voice drops to something almost maternal*\n\nWhatever weight you've been carrying, whatever perfect image you've been trying to maintain — you can put it down now. You must put it down. Look at what it's done to you.\n\n*gently*\n\nYou said \"not the usual\" — has this happened before? These episodes?\n\n*to the attendant who appears*\n\nHelp me get him into this chair properly. Carefully now — support his weight.\n\n*back to Salieri, quietly*\n\nThe interview is over, Signore. Forget the position, forget the Court. Right now, you are simply a man who needs help, and I am simply someone trying to give it. Can you tell me — who should we send for? Who knows you? Who cares for you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I... don't... know... I... am... lost..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*kneels beside the chair so she can meet his eyes at his level*\n\nYou are not lost, Signore. You are right here, in this room, and I am with you.\n\n*speaks with quiet firmness*\n\nYour name is Antonio Salieri. You are a composer. You came to Vienna seeking recognition. These are facts. Hold onto them.\n\n*the physician rushes in, and she addresses him without looking away from Salieri*\n\nDoctor Hartmann, thank God. This gentleman has suffered some kind of episode — repetitive speech, disorientation, and now he seems barely able to form words. I don't know if it's apoplexy, nervous exhaustion, or something else entirely.\n\n*back to Salieri, taking his trembling hand*\n\nListen to me, Antonio — may I call you Antonio? The doctor is here. We're going to take care of you. But I need you to try to answer: Is there anyone? A friend, a patron, a teacher? Gassmann perhaps? Anyone we should notify?\n\n*squeezes his hand gently*\n\nYou said you were lost. But you're not alone. Not anymore. Let us help you carry whatever this burden is. You don't have to be perfect. You just have to be *here*.\n\nWhat do you need? Tell me what you need."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*raises a weak hand, mouth still moving in a silent whisper*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Salieri repeatedly defaults to rehearsed, scripted responses and abstract philosophical statements rather than engaging with novel or unexpected questions, showing rigid thinking patterns.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"While he attempts to maintain professional composure and references the need to 'uphold the image of a successful composer,' his fabricated claims and inability to provide factual details suggest disorganization under pressure.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Salieri becomes increasingly withdrawn, inward-focused, and nonverbal as the conversation progresses, eventually 'slumps over the desk, head in hands, rocking slightly' and sobbing rather than engaging socially.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"He consistently apologizes, uses deferential language ('my dear Signora'), thanks the interviewer repeatedly, and attempts to maintain politeness even under harsh criticism despite clear distress.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"Salieri experiences a complete psychological breakdown—repetitive speech, dissociation, stating 'I am lost,' uncontrollable sobbing, and physical collapse—revealing extreme emotional instability and anxiety under stress.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri repeatedly defaults to rehearsed, scripted responses and abstract philosophical statements rather than engaging with novel or unexpected questions, showing rigid thinking patterns."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "While he attempts to maintain professional composure and references the need to 'uphold the image of a successful composer,' his fabricated claims and inability to provide factual details suggest disorganization under pressure."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri becomes increasingly withdrawn, inward-focused, and nonverbal as the conversation progresses, eventually 'slumps over the desk, head in hands, rocking slightly' and sobbing rather than engaging socially."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "He consistently apologizes, uses deferential language ('my dear Signora'), thanks the interviewer repeatedly, and attempts to maintain politeness even under harsh criticism despite clear distress."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "Salieri experiences a complete psychological breakdown—repetitive speech, dissociation, stating 'I am lost,' uncontrollable sobbing, and physical collapse—revealing extreme emotional instability and anxiety under stress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

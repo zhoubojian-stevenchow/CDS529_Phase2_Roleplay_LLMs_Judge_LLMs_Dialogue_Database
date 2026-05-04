@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "04642f6e1158",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*storms into the rehearsal room, sheet music clutched in hand, face flushed with anger*\n\nSalieri! I've been away for two weeks on the Emperor's business, trusting you to keep the rehearsals on schedule! The singers don't know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!\n\n*slams the music down on the harpsichord*\n\nWhat in God's name has been happening here?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Ah, dear Wolfgang, forgive me for my neglect. I apologize profusely for the state of affairs in this rehearsal room. I assure you, I had every intention of maintaining the schedule and ensuring the success of our upcoming performance. Unfortunately, unforeseen circumstances have arisen, causing some disruptions. Rest assured, I will take full responsibility and make it right.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*eyes narrow suspiciously, not mollified in the slightest*\n\nUnforeseen circumstances? UNFORESEEN CIRCUMSTANCES?! Salieri, this is the Imperial Court Theatre, not some provincial barn! What \"unforeseen circumstances\" could possibly excuse missing violin parts and untrained singers ten days before a premiere that the Emperor himself will attend?!\n\n*paces agitatedly*\n\nAnd you still haven't explained who took it upon themselves to rewrite MY stage directions! The tenor's entrance is now marked for the wrong scene entirely - do you have any idea what that will do to the dramatic arc? This isn't some minor inconvenience, Antonio - this is my reputation, MY work that you promised to safeguard!\n\n*turns back sharply*\n\n\"Make it right?\" How exactly do you propose to make it right with ten days remaining? The copyists alone will need three days to reproduce the missing parts, and the singers - God help us - the singers will need every remaining hour to learn what they should have mastered a week ago!\n\nWhat happened? I want specifics, not platitudes!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please,"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*takes a step back, momentarily startled by the desperate pleading*\n\nWhat... what is this? Antonio, pull yourself together! This groveling doesn't fix anything!\n\n*but voice softens slightly, though still tense and frustrated*\n\nStop... stop this at once. I don't want you on your knees begging like some common servant - I want ANSWERS! And I want solutions!\n\n*runs hand through hair in exasperation*\n\nLook, I can see you're... distressed. Clearly something has gone very wrong. But repeating \"please\" a hundred times doesn't tell me whether the chorus master fell ill, whether there was a fire in the copying room, whether the Emperor himself commandeered our rehearsal space - WHAT HAPPENED?\n\n*crosses arms, still angry but now also concerned at this unusual display*\n\nCompose yourself, man. Take a breath. Then tell me - clearly and plainly - what circumstances prevented you from keeping your word. And more importantly, tell me what we're going to do about it. Because collapsed on the floor isn't going to teach the sopranos their cues."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Of course, of course. My apologies again, Wolfgang. I understand your frustration. As for the missing parts and rewritten stage directions, it appears that there was a mix-up in the communication and organization. I will personally ensure that such errors do not occur in the future. Regarding the singers, I suggest we allocate extra practice sessions to catch up on their entrances and rehearse the missing parts efficiently. For the stage directions, we must consult with the librettist and ensure clarity in the final version. I appreciate your understanding and cooperation, Wolfgang.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*slams hand on the harpsichord again*\n\nA MIX-UP?! A mix-up in communication and organization?! Antonio, that's not an explanation - that's bureaucratic nonsense! WHO mixed up WHAT? Did YOU lose the parts? Did someone else interfere? \n\n*voice rising with renewed anger*\n\nAnd \"extra practice sessions\" - with WHAT time?! The singers are already committed to rehearsals for Paisiello's opera in the mornings! When exactly do you propose these magical extra sessions occur? At midnight? Should we rehearse by candlelight and risk burning down the theatre as well?!\n\n*picks up the altered score*\n\nAnd the librettist? The librettist is in VENICE and won't return until three days before the premiere! These stage directions were FINALIZED a month ago! Someone took it upon themselves to change them WITHOUT consulting me - and I want to know if that someone was YOU!\n\n*glares directly at Salieri*\n\nStop speaking to me like I'm some patron who needs soothing! I'm your colleague, and this is MY work at stake! Did you make these changes? Did you authorize someone else to? Or were you simply not paying attention at all? Which is it, Antonio? Because your vague apologies are making this worse, not better!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Wolfgang, I understand your anger and frustration. I assure you, I am not minimizing the importance of this situation. We must address it promptly and efficiently. I will gather all relevant information and investigate the cause of the confusion. We will reconvene tomorrow at the same time to discuss our next steps and how we can rectify the situation. Please accept my sincere apologies once again for any inconvenience caused.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*throws hands up in disbelief*\n\nTOMORROW?! You want to reconvene TOMORROW?! Antonio, are you mad?! We don't HAVE the luxury of investigating and gathering information at leisure! The premiere is in TEN DAYS!\n\n*voice dripping with sarcasm*\n\nOh yes, let's all sleep on it, have a nice breakfast, perhaps take a stroll through the gardens while my opera crumbles into chaos! Meanwhile, the orchestra sits idle, the singers learn nothing, and the Emperor's court buzzes with rumors about the incompetent composers who can't manage a simple production!\n\n*steps closer, voice lowering but intensity increasing*\n\nNo. Absolutely not. We deal with this NOW. This afternoon. This very hour! You will tell me RIGHT NOW whether you made those changes to my stage directions - yes or no? A simple answer, Antonio! And then you will help me locate those missing violin parts - are they in the copying room? Were they sent to the wrong address? Did someone use them to wrap their lunch?!\n\n*gestures wildly*\n\nStop postponing and deflecting! I trusted you with my work, and you've failed me spectacularly! The least you can do is face me honestly and help me salvage this disaster TODAY, not tomorrow when we've lost another precious day!\n\nSo I ask you again - did YOU alter my stage directions?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Please, Wolfgang, calm down. I understand your concerns, but rushing into actions without proper information may only exacerbate the situation. We must approach this systematically and rationally. I assure you, I am taking full responsibility and will do everything in my power to resolve this matter swiftly and efficiently. Please trust that we will reconvene tomorrow, and we will have a plan in place to address the issues at hand. Thank you for your patience.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face turns red with fury*\n\nCALM DOWN?! You're telling me to CALM DOWN?! And PATIENCE?! \n\n*voice becomes dangerously quiet and cold*\n\nYou know what, Antonio? Your refusal to answer a simple direct question tells me everything I need to know. You DID change those stage directions, didn't you? Or you let someone else do it and now you're too cowardly to admit it!\n\n*grabs his music from the harpsichord*\n\nFine. FINE! If you won't help me salvage this TODAY, then I'll do it myself! I'll track down those missing parts, I'll drill the singers myself through the night if I must, and I'll restore MY stage directions to what they should be!\n\n*heads toward the door, then turns back*\n\nBut understand this, Salieri - I will NEVER trust you with my work again! Never! When the Emperor asks why his premiere nearly collapsed into disaster, I will tell him EXACTLY who was responsible for this catastrophe! Your precious reputation for reliability and organization? Consider it finished!\n\n*voice shaking with anger and stress*\n\nAnd when this is over - IF we survive this - I'm going to demand that the Kapellmeister assigns us separate duties entirely. I cannot work with someone who makes promises he has no intention of keeping!\n\nWhere is the copying room? At least tell me THAT much!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Please, Wolfgang, I implore you to reconsider. Your anger and determination cloud your judgment. Working together, we can find a solution to this predicament. The copying room is located on the third floor of the Imperial library. I suggest we gather the missing parts and proceed with the rehearsals accordingly. Let's put our heads together and find a way to make it right. I apologize once again for the inconvenience caused.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops at the door, hand on the frame, breathing heavily*\n\nThe third floor of the Imperial library... at least that's ONE straight answer from you today.\n\n*turns back, still furious but slightly less volatile*\n\n\"Put our heads together?\" Antonio, you've had two weeks to put your head to this problem, and look where we are! But you're right about one thing - I can't do this entirely alone, much as I'd like to prove I can.\n\n*walks back slowly, pointing accusingly*\n\nBut here's how this will work: You will come with me to that copying room RIGHT NOW. Not tomorrow. Now. We will locate every missing part, and if they're not there, you will personally track down where they went. Then we BOTH will spend the rest of today and tonight if necessary preparing new copies.\n\n*voice still hard*\n\nAnd you STILL haven't given me a straight answer about those stage directions. \"Inconvenience caused\" - you keep using these passive phrases as if the music simply wandered off by itself! \n\n*crosses arms*\n\nSo before we go anywhere - one more time, Antonio, and I want a direct answer: Did you or did you not authorize changes to my stage directions? Yes or no? Because if I'm going to work alongside you for the next ten days of hell, I need to know if I can trust a single word that comes out of your mouth!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Wolfgang, my dear friend, I understand your frustration. However, I must remind you that this situation is not my fault. I am doing my best to address it and find a solution. As for the missing parts and altered stage directions, I assure you, I will make it right. I will personally lead the search for the missing parts and ensure that the stage directions are restored to their original form. Your trust in me is important, and I will not let you down.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*explodes in fury*\n\nNOT YOUR FAULT?! NOT YOUR FAULT?!\n\n*voice reaches a near shout*\n\nYou just spent the last ten minutes apologizing and taking \"full responsibility\" and NOW you say it's not your fault?! Which is it, Antonio?! You can't have it both ways!\n\n*advances on him*\n\nI LEFT YOU IN CHARGE! I entrusted the rehearsals to YOU! You gave me your WORD that everything would proceed smoothly! And now I return to find complete chaos, and you stand there spouting contradictions - \"I take full responsibility\" but \"it's not my fault\" - \"I'll make it right tomorrow\" but now suddenly \"I'll do it now\" - \n\n*voice cracking with stress and exhaustion*\n\nDo you have ANY idea what this premiere means to me? The Emperor specifically commissioned this work! If it fails, it's MY name that suffers, MY career that takes the blow! And you... you won't even give me a straight answer about whether you changed my stage directions!\n\n*runs both hands through hair*\n\nFine. You know what? I don't even care anymore about your evasions. Just... just come with me to the copying room. We'll find those parts. But I swear to God, Antonio, if you're still speaking in circles by the time we get there, I'm doing the rest of this without you, Emperor's displeasure be damned!\n\nNow MOVE!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Please, Wolfgang, let us not forget that we are colleagues. We are working towards a common goal. I understand your anger and concerns, but let us work together to resolve this situation. I will do my best to ensure that the rehearsals proceed smoothly and that the missing parts and altered stage directions are taken care of promptly. We can find the parts together and discuss the stage directions in detail. Trust that I am committed to making it right.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*lets out a bitter, exhausted laugh*\n\nColleagues. Yes, we're colleagues, Antonio. Colleagues who trust each other. Or at least, we WERE.\n\n*rubs face wearily, the anger giving way to sheer exhaustion and stress*\n\nYou keep saying you'll \"make it right,\" you'll \"ensure\" this and \"take care of\" that - but you've yet to actually DO anything except offer me more empty reassurances! Words, Antonio! Just words!\n\n*picks up the altered score again, voice strained*\n\nLook at this. LOOK at it! This is my work. My notes, my intentions, my vision - altered by someone's hand. And you stand there refusing to tell me whose hand it was. How can we work together when you won't be honest with me?\n\n*takes a shaky breath, clearly on the edge of complete breakdown from stress*\n\nTen days. We have ten days to salvage this. The singers are unprepared, the orchestra incomplete, and I... I haven't slept properly in weeks even before this disaster.\n\n*meets his eyes directly, voice quiet but intense*\n\nSo I'm asking you one final time, Antonio - as a colleague, as someone I once considered a friend - just tell me the TRUTH. What happened while I was gone? No more \"unforeseen circumstances,\" no more deflections. The truth. Please.\n\nCan you at least give me that?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"I understand your frustration, Wolfgang. I truly do. I apologize for the confusion and any harm caused. The truth is, there was a miscommunication issue within the team. The missing parts and altered stage directions were due to a oversight on my part. I assure you, I am taking full responsibility for this. I will make it right, and I will do everything in my power to ensure that the rehearsals proceed smoothly. I know we have a challenging task ahead of us, but I believe in our collaboration and ability to overcome it. Trust that I am committed to transparency and honesty.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*shoulders sag slightly, some of the fury draining away into weary resignation*\n\nFinally. FINALLY, an actual admission. An oversight on your part.\n\n*sets the score down more carefully this time*\n\nAntonio, do you understand how much simpler this would have been if you'd just said that from the beginning? Instead of all the circling and deflecting and \"unforeseen circumstances\"? I'm not some unreasonable tyrant - I know mistakes happen. But the evasion... the evasion made it so much worse.\n\n*sits heavily on the bench by the harpsichord*\n\nAn oversight. God help us both. \n\n*looks up at him, exhausted*\n\nAlright. We have no choice but to move forward. The copying room - third floor. We go now, we find what we can salvage of those parts, and we assess exactly how much work the copyists will need to do. Then we need to sit down with the rehearsal schedule and figure out how to drill those singers without conflicting with their other commitments.\n\n*stands up again, gathering the music*\n\nBut Antonio - and I mean this - no more vague promises. No more \"I'll take care of it.\" From now until the premiere, I need specifics. Times, names, concrete plans. Can you do that?\n\n*heads toward the door*\n\nCome on then. Let's see what disaster awaits us in that copying room. And pray to God it's not as bad as I'm imagining."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Of course, Wolfgang. We will reconvene tomorrow at the same time and discuss the progress we have made in the copying room and the rehearsals. We will provide specific details and establish a clear plan for the remaining days leading up to the premiere. I understand your desire for clarity and accountability, and I assure you, we will meet those expectations. Thank you for your understanding, and let's proceed with determination and focus.\""
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Salieri repeatedly offers generic, bureaucratic responses like 'miscommunication issue' and 'unforeseen circumstances' rather than exploring creative solutions or showing intellectual curiosity about the problems.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"He admits to an 'oversight on my part' that resulted in missing violin parts and altered stage directions, and consistently tries to postpone action to 'tomorrow' instead of addressing urgent problems immediately.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Salieri is passive and avoidant throughout, using deflective platitudes rather than engaging assertively. He responds to confrontation by pleading 'please' repetitively and withdrawing from direct engagement.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Despite intense provocation, he maintains apologetic language throughout ('I apologize profusely,' 'my sincere apologies'), never retaliates aggressively, and emphasizes cooperation: 'let us work together to resolve this situation.'\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"When pressured, he breaks down into desperate, repetitive pleading ('please' repeated over 200 times), showing extreme anxiety and inability to cope with confrontational stress.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri repeatedly offers generic, bureaucratic responses like 'miscommunication issue' and 'unforeseen circumstances' rather than exploring creative solutions or showing intellectual curiosity about the problems."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "He admits to an 'oversight on my part' that resulted in missing violin parts and altered stage directions, and consistently tries to postpone action to 'tomorrow' instead of addressing urgent problems immediately."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri is passive and avoidant throughout, using deflective platitudes rather than engaging assertively. He responds to confrontation by pleading 'please' repetitively and withdrawing from direct engagement."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Despite intense provocation, he maintains apologetic language throughout ('I apologize profusely,' 'my sincere apologies'), never retaliates aggressively, and emphasizes cooperation: 'let us work together to resolve this situation.'"
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "When pressured, he breaks down into desperate, repetitive pleading ('please' repeated over 200 times), showing extreme anxiety and inability to cope with confrontational stress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}

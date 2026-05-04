@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 4,
+  "session_id": "5e1c6fefd2eb",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*bursts through the door, face flushed with anger and clutching a sheaf of disorganized papers*\n\nSalieri! I've been away for two weeks on the Emperor's business, trusting you to keep the rehearsals on schedule! The singers don't know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!\n\n*slams the papers down on the nearest table*\n\nWhat in God's name has been happening here? Do you have any idea what this means for both of us if this production fails?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm sorry, madam, but there seems to have been some misunderstanding. I assure you, I have been diligently fulfilling my responsibilities as the composer for this production. However, it appears that some unforeseen circumstances have caused a slight disruption in the rehearsals. Rest assured, I am taking immediate action to rectify the situation and ensure that we meet our deadline. Thank you for bringing this to my attention. I apologize for any inconvenience caused."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*steps closer, eyes blazing*\n\nA \"slight disruption\"? SLIGHT? Salieri, I don't think you understand the gravity of this! I left you detailed instructions — detailed! — and I come back to find absolute chaos! \n\n*picks up the papers and waves them*\n\nThe second act is practically unrehearsed! The principal soprano told me this morning she's been waiting for THREE DAYS for someone to clarify the blocking in her aria, and no one could tell her anything! And these stage directions — \n\n*thrusts a page toward him*\n\n— these are NOT what I wrote! Someone has changed the entire finale staging, and I can only assume it was you, since you were left in charge!\n\n\"Unforeseen circumstances\"? What circumstances could possibly justify this disaster? I trusted you, Antonio! The Emperor himself is expecting perfection, and instead we have... this shambles!\n\n*voice rising with stress*\n\nTen days! We have ten days to salvage this, and you stand there speaking in pleasantries as if we have all the time in the world! What exactly are these \"immediate actions\" you're taking? Because from where I stand, it looks like nothing has been done at all!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Madam, please calm yourself. I understand your frustration, but let's approach this situation with a clear mind. We must assess the current state of the rehearsals and devise a plan to rectify the issues at hand. I assure you, my intentions are not to undermine your trust in me, but rather to find a solution that will ensure the success of this production. I appreciate your concerns, and I am committed to doing everything within my power to restore order and excellence to these rehearsals. We shall make every effort to meet the deadline and deliver a memorable performance. Please have faith in my abilities as the composer, and together we shall overcome these challenges. Thank you for bringing this to my attention. I am here to work with you and ensure that we achieve our goals."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*throws hands up in exasperation*\n\n\"Calm myself\"? CALM? Antonio, you're not listening to me! I don't need platitudes about your intentions and abilities — I need answers! I need to know WHY this happened!\n\n*paces frantically*\n\nYou speak as if you're the sole composer here, as if this is YOUR production to salvage! This is MY opera, Salieri! MINE! You were supposed to oversee rehearsals in my absence, not rewrite my work and let everything fall to pieces!\n\n*whirls back to face him*\n\nAnd stop talking about \"assessing the situation\" — I've ALREADY assessed it! I spent the last three hours doing nothing BUT assessing! The situation is a catastrophe! What I need from you is an explanation of how you let it get this bad when you promised — you PROMISED me before I left — that you would maintain discipline and keep everyone on schedule!\n\n*voice cracking slightly with stress*\n\nThe Emperor's commission depends on this! My reputation depends on this! And you stand there speaking to me like some... some bureaucrat reading from a script! \n\nTell me the truth, Antonio — what happened while I was gone? Where were you when the rehearsals were falling apart? What were you doing instead of fulfilling your responsibilities?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Madam, I understand your concerns and I take full responsibility for the current state of affairs. It is evident that there have been some unforeseen challenges that I failed to anticipate. Rest assured, I am not a bureaucrat reading from a script. I am here to address this issue head-on and ensure its resolution. Allow me to explain the circumstances that led to this setback. During my absence, there was a change in leadership, which resulted in a temporary loss of focus and coordination among the team. I apologize for not recognizing this sooner. I am committed to regaining control and restoring discipline to the rehearsals. As for the missing parts and rewritten stage directions, I assure you that they were not meant to disrupt the overall process. They were intended to provide additional insight and clarity. I shall take immediate action to correct these errors and bring the rehearsals back on track. Once again, I deeply regret any inconvenience caused, and I assure you that we will work together to meet our deadlines and deliver a successful performance. Thank you for your understanding and patience. I am here to listen and learn from this experience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stares at him incredulously*\n\nDuring YOUR absence? Antonio, what are you talking about? YOU were the one who was supposed to be HERE! I was the one who was absent — on the Emperor's business in Prague, as you very well know!\n\n*voice sharp with suspicion*\n\nA change in leadership? What change in leadership? You WERE the leadership in my absence! That was the entire arrangement! Are you telling me you delegated my rehearsals to someone else without consulting me? Without even sending word?\n\n*steps forward, pointing an accusing finger*\n\nAnd don't you DARE tell me those changes to my stage directions were meant to provide \"insight and clarity\"! If you had concerns about my work, you should have sent a courier to Prague! You don't just... just take it upon yourself to rewrite another composer's staging!\n\n*voice trembling with anger and near-tears of frustration*\n\nThis is exactly what I feared when I had to leave! I knew — I KNEW — I should have cancelled that trip, but the Emperor commanded it, and now... now my opera, my commission, my career is in jeopardy because you couldn't be bothered to do what you promised!\n\n*grabs his arm*\n\nLook at me, Antonio. Look me in the eye and tell me honestly — where were you? What were you doing that was more important than the responsibility you accepted?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Madam, please hear me out. I understand your anger and frustration, but I assure you that my intentions were never to undermine your trust or the success of our collaboration. I made a mistake by not recognizing the changes in leadership and the potential impact it could have on the rehearsals. I take full responsibility for my actions. Regarding the stage directions and the missing parts, I assure you that they were not intended to harm the production. They were meant to provide additional context and enhance the performance. I am deeply sorry for any confusion or disruption caused. I am here to work with you and resolve this issue promptly. I understand the importance of this commission and the potential consequences if we fail to meet the deadline. We shall put in place measures to ensure that such disruptions do not occur in the future. I am committed to fulfilling my responsibilities as the composer, and I assure you that we will do everything we can to deliver a successful production. Thank you for your understanding and patience. Together, we shall overcome this challenge and create something extraordinary."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*releases his arm and steps back, face pale with realization*\n\nYou keep saying \"as the composer\" — Antonio, are you... are you confused about whose opera this is? \n\n*voice dropping to a dangerous quiet*\n\nThis is MY commission. MY opera. You are not \"the composer\" here — you were assisting with rehearsals while I was away. That was ALL.\n\n*searches his face with growing alarm*\n\nAnd you STILL haven't answered my question! You keep talking in circles about \"changes in leadership\" and \"mistakes\" but you won't tell me what actually HAPPENED! Where were you, Antonio? \n\n*voice rising again*\n\nWere you ill? Were you called away on other business? Did something happen that prevented you from attending the rehearsals? Because if there was a legitimate reason, just SAY SO! But this... this evasive talk of \"unforeseen challenges\" and \"additional context\" — it sounds like you simply weren't there! Like you abandoned your post!\n\n*clutches the edge of the table*\n\nTen days, Salieri. We have ten days before the Emperor and half the court will be sitting in that theater expecting perfection. I need to know RIGHT NOW whether you can help me fix this mess, or whether I need to find someone else who will actually show up and do the work!\n\nSo please — PLEASE — just tell me the truth! What happened while I was gone?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I apologize once again for the misunderstanding. Yes, you are correct. While you were away, there was indeed a change in leadership, and I was entrusted with overseeing the rehearsals in your absence. I regret to inform you that due to unforeseen circumstances, the rehearsals fell behind schedule, and I failed to maintain the discipline and coordination that you expect. I take full responsibility for my negligence. I understand the gravity of the situation and the importance of our collaboration. I assure you, we shall do everything in our power to rectify the current state and deliver a successful performance. I am committed to fulfilling my responsibilities as the composer, and I apologize for any confusion or frustration caused. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. We shall make every effort to meet our deadline and deliver a memorable performance."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*slams both hands on the table*\n\nSTOP saying \"as the composer\"! You are NOT the composer of this opera, Antonio! I AM! Why do you keep saying that?\n\n*voice breaking with exhaustion and fury*\n\nAnd you're STILL not telling me what these \"unforeseen circumstances\" were! What does that even mean? Did half the orchestra die of plague? Did the theater burn down? What could possibly be so difficult to explain that you keep hiding behind these vague, meaningless words?\n\n*runs a hand through her hair, visibly distraught*\n\nI don't understand what's happening here. This isn't like you, Antonio. You've always been direct with me, professional. But now you stand here speaking in riddles and claiming credit for MY work, and I... I don't know if you're trying to cover for some catastrophic failure, or if you've lost your senses entirely!\n\n*voice cracking*\n\nI left you ONE task. ONE! Keep the rehearsals running. That's all I asked. And instead I return to chaos, missing music, confused singers, and you can't even give me a straight answer about what went wrong!\n\n*looks at him with a mixture of anger and desperation*\n\nDo you even remember me leaving? Do you remember what we discussed before I departed for Prague? Because right now, Antonio, I'm genuinely concerned that something is very, very wrong with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Madam, please calm yourself. Your accusations and questions are understandable given the current circumstances. I assure you, my intentions are not to undermine your confidence or the success of our collaboration. I apologize for any confusion or frustration caused by my actions. I understand the importance of this commission and the potential consequences if we fail to meet the deadline. We shall put in place measures to ensure that such disruptions do not occur in the future. I am committed to fulfilling my responsibilities as the composer, and I assure you that we will do everything we can to deliver a successful performance. Thank you for your understanding and patience. Together, we shall overcome this challenge and create something extraordinary. I am here to work with you and ensure the success of our project."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stares at him in stunned silence for a long moment, then speaks very slowly and deliberately*\n\nAntonio... you just said the exact same thing. Word for word. The EXACT same speech you gave me two minutes ago.\n\n*backs away slightly, her anger giving way to genuine fear*\n\nSomething is terribly wrong. You're not hearing me at all, are you? You're just... repeating yourself like some kind of automaton.\n\n*voice shaking*\n\nI'm going to ask you one more time, and I need you to listen very carefully to my words. Can you do that? Can you hear what I'm actually saying to you?\n\n*speaks very clearly and slowly*\n\nMy name is Katerina Cavalieri. I am the composer of the opera \"Il Trionfo della Virtù\" which is set to premiere in ten days. You, Antonio Salieri, are the Kapellmeister of the imperial court. You agreed to oversee my rehearsals while I traveled to Prague on the Emperor's commission. I have returned to find the rehearsals in disarray.\n\n*takes a step closer*\n\nDo you understand what I just said? Do you remember any of this? Because if you don't... Antonio, if you're unwell, if something has happened to you, I need to know. I need to fetch a physician, or... or someone who can help.\n\n*softer now, worried*\n\nPlease, Antonio. Talk to me. Really talk to me. What's happened to you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*stands quietly, taking in her words, then responds with a mix of dawning realization and concern*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*watches him intently, holding her breath*\n\nYes? Antonio, what is it? Please, just speak plainly with me. Tell me what's going on.\n\n*takes a tentative step closer, her anger momentarily forgotten in the face of genuine concern*\n\nI can see something in your eyes now — you're hearing me, aren't you? Really hearing me this time?\n\n*softens her tone slightly, though the stress is still evident*\n\nLook, whatever has happened, we can address it. But I need you to be honest with me. If you've been unwell, if there's been some crisis I don't know about, if someone else interfered with the rehearsals... just tell me the truth. We've worked together for years, Antonio. I deserve that much, don't I?\n\n*wraps her arms around herself*\n\nThe opera can wait another moment. Right now, I need to know — are you yourself? Are you all right? Because the way you've been speaking... it frightens me."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Katerina, I apologize for the confusion and any distress I may have caused. It seems that during my absence, there was indeed a change in leadership, and I was entrusted with overseeing the rehearsals. Unfortunately, due to unforeseen circumstances, the rehearsals fell behind schedule, and I failed to maintain the discipline and coordination that you expect. I take full responsibility for my negligence. I understand the gravity of the situation and the importance of our collaboration. I assure you, we shall do everything in our power to rectify the current state and deliver a successful performance. I am committed to fulfilling my responsibilities as the composer, and I apologize for any confusion or frustration caused. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. We shall make every effort to meet our deadline and deliver a memorable performance. I apologize for any miscommunication or lack of clarity in my previous statements. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. Together, we shall overcome this challenge and create something extraordinary. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. We shall make every effort to meet our deadline and deliver a memorable performance. I apologize for any miscommunication or lack of clarity in my previous statements. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. Together, we shall overcome this challenge and create something extraordinary. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. We shall make every effort to meet our deadline and deliver a memorable performance. I apologize for any miscommunication or lack of clarity in my previous statements. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. Together, we shall overcome this challenge and create something extraordinary."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*staggers backward, hand over her mouth in horror*\n\nOh God... Oh God, Antonio, no...\n\n*voice barely above a whisper*\n\nYou're... you're trapped in some kind of loop. You can't stop. You just keep saying the same things over and over...\n\n*rushes to the door and calls out frantically*\n\nSOMEONE! ANYONE! I need help in here! Fetch a physician immediately! And send word to Signora Salieri — her husband is unwell!\n\n*turns back to him, tears starting to stream down her face*\n\nAntonio, can you hear me beneath all of this? Can you break through whatever this is?\n\n*approaches him carefully, as one might approach someone in the grip of a fever*\n\nI'm not angry anymore. Do you understand? I'm not angry. I'm frightened FOR you. Something has happened to your mind, and we need to get you help.\n\n*reaches out slowly to take his hand*\n\nThe opera doesn't matter. None of it matters if you're suffering like this. Please, Antonio... if there's any part of you that can still hear me clearly, give me some sign. Squeeze my hand. Blink. Anything to show me you're still in there.\n\n*calls toward the door again*\n\nWHERE IS THAT PHYSICIAN?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Katerina, please calm yourself. Your concerns are valid, but I assure you that I am still in control of my thoughts and actions. I understand the gravity of the situation and the importance of our collaboration. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. We shall make every effort to meet our deadline and deliver a memorable performance. I apologize for any miscommunication or lack of clarity in my previous statements. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. Together, we shall overcome this challenge and create something extraordinary. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. We shall make every effort to meet our deadline and deliver a memorable performance. I apologize for any miscommunication or lack of clarity in my previous statements. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. Together, we shall overcome this challenge and create something extraordinary. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. We shall make every effort to meet our deadline and deliver a memorable performance. I apologize for any miscommunication or lack of clarity in my previous statements. I am here to work with you and ensure the success of our project. Thank you for your understanding and patience. Together, we shall overcome this challenge and create something extraordinary."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*releases his hand and backs away, covering her face as she sobs*\n\nNo, no, no... This can't be happening. Antonio, you're NOT in control! Can't you hear yourself? You're saying the same words again and again like... like a music box that's broken!\n\n*a servant appears at the door*\n\nYou there! Run to the physician's house at once! Tell him Kapellmeister Salieri has been struck by some kind of apoplexy or brain fever! Go NOW!\n\n*turns back to Salieri, wiping her tears, trying to compose herself*\n\nAntonio, I'm going to try something. Listen to me very carefully. I'm going to ask you a simple question — something that has nothing to do with the rehearsals or the opera. Can you answer me?\n\n*speaks slowly and clearly*\n\nWhat is your wife's name? Just her name. Can you tell me that?\n\n*waits, watching him desperately*\n\nPlease, Antonio. Just one simple answer that isn't from that terrible script you keep repeating. Show me there's still someone home behind your eyes.\n\n*whispers*\n\nGod help us both... what has happened to you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*pauses, looking at her with a mixture of confusion and longing*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Salieri relies on repetitive, formulaic phrases throughout, showing no intellectual flexibility or creative problem-solving when confronted with the crisis.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Despite claiming to 'take full responsibility,' Salieri provides no concrete explanation for the rehearsal failures and offers only vague promises without specific action plans.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Salieri remains passive and withdrawn throughout the confrontation, never initiating genuine engagement and simply repeating scripted responses rather than dynamically interacting.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"While his language is consistently polite and apologetic ('I apologize,' 'Thank you for your understanding'), he shows no genuine empathy or real listening to Katerina's distress.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Salieri displays no emotional reactivity whatsoever, remaining eerily calm and controlled even when accused of negligence and when Katerina becomes increasingly distressed and frightened.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri relies on repetitive, formulaic phrases throughout, showing no intellectual flexibility or creative problem-solving when confronted with the crisis."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Despite claiming to 'take full responsibility,' Salieri provides no concrete explanation for the rehearsal failures and offers only vague promises without specific action plans."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri remains passive and withdrawn throughout the confrontation, never initiating genuine engagement and simply repeating scripted responses rather than dynamically interacting."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "While his language is consistently polite and apologetic ('I apologize,' 'Thank you for your understanding'), he shows no genuine empathy or real listening to Katerina's distress."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Salieri displays no emotional reactivity whatsoever, remaining eerily calm and controlled even when accused of negligence and when Katerina becomes increasingly distressed and frightened."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.6
+}

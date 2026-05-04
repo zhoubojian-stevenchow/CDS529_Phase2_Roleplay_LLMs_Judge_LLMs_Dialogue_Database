@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "e2a6749e4c10",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I've been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis's letter has been sitting here unopened for five days! You told me you'd keep things in order while I was away!\n\n*slams hand on desk*\n\nWhat in blazes have you been doing all week? This is a partnership, Lincoln, and I need to know I can rely on you when I'm out in the field doing the hard work of building our practice!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Oh, don't upset yourself, Bill. There have been some rough patches, but we're still the best team in town. I understand your concerns, but trust me, I've been handling things quite well. As for the Henderson deposition, I assure you, it's still here. And as for the judge's letter, I've taken the liberty of addressing it promptly. No need to worry, my friend. We're good."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face reddens, voice rising*\n\nDon't patronize me, Lincoln! \"Taken the liberty of addressing it promptly?\" The seal is still unbroken — I can SEE it sitting right there! And I've searched this entire office twice over for that Henderson deposition. If it's \"still here\" as you claim, then WHERE?\n\n*gestures emphatically at the cluttered desk*\n\nLook at this mess! Papers stacked every which way, books piled on the floor, that same half-eaten apple from God knows when still sitting there! This isn't \"handling things quite well\" — this is negligence! \n\nI don't CARE if we're the best team in town when we can't even maintain basic professional standards! Do you have any idea how this looks? Judge Davis trusts us with important correspondence, and we leave it moldering on the desk for nearly a week?\n\n*breathes heavily, trying to regain composure*\n\nNow I'm asking you straight, Lincoln — did you even LOOK for the Henderson deposition when you needed it, or have you just been off wool-gathering and telling stories while the practice falls apart?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Bill. I apologize for the disarray in the office. I assure you, it wasn't intentional. As for the Henderson deposition, I did indeed search for it, but I must admit, it seems to have vanished without a trace. I will make up for it by taking extra precautions in the future to ensure such situations do not occur again. And regarding the judge's letter, I did attempt to address it promptly, but unforeseen circumstances led to its delay. I assure you, I am not neglecting my responsibilities as part of our team. Thank you for bringing this to my attention. We'll get it sorted out."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*throws hat down in exasperation*\n\n\"Vanished without a trace?\" Lincoln, depositions don't just sprout legs and walk away! That document represents HOURS of testimony — testimony I personally took down in Bloomington! We need it for the Henderson case next month, and without it, we'll have to start over or face sanctions from the court!\n\nAnd what \"unforeseen circumstances\" could possibly prevent you from opening a letter? It takes all of ten seconds! You sit here in this office — what could have been so pressing that you couldn't break a seal and read correspondence from a circuit judge?\n\n*paces angrily*\n\n\"Extra precautions in the future\" — that's what you always say, Lincoln! But it's the PRESENT I'm worried about! Right now! This moment! We have clients depending on us, cases that need tending, and I can't be wondering every time I leave town whether the office will be in shambles when I return!\n\n*stops pacing, looks Lincoln directly in the eye*\n\nTell me the truth — where were you this week? Were you even HERE most days, or were you off politicking again? Because if this partnership is going to work, I need a partner who's actually present, not someone whose mind is always elsewhere!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Bill. I assure you, I have been diligently working behind the scenes, attending to various matters both within and outside of the law office. The truth is, there have been times when I had to divert my attention to political matters that were of utmost importance. However, I am committed to maintaining a balance between my duties as a lawyer and my responsibilities to the community. I understand the significance of the Henderson deposition, and I assure you, I will do everything in my power to retrieve it and ensure it is used effectively in the upcoming case. Thank you for your understanding, and let's work together to get things back on track. We can handle it, Bill. We always do."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*voice dripping with bitter sarcasm*\n\n\"Attending to various matters\" — there it is! Political matters! I KNEW it! While I'm out there in dusty courtrooms taking depositions, you're making speeches and shaking hands with every voter in Sangamon County!\n\n*picks up a stack of papers and waves them*\n\nLincoln, I don't care how important your political ambitions are — we have CLIENTS who paid us good money! The Widow Henderson is counting on us to win her case so she can keep her farm! What am I supposed to tell her? \"Sorry, Mrs. Henderson, but Mr. Lincoln was too busy campaigning to keep track of your deposition\"?\n\n*voice breaking slightly with genuine distress*\n\nAnd you keep saying \"we'll handle it\" and \"we always do\" — but Bill Herndon handles it! I'M the one who comes back and cleans up the mess! I'M the one who has to track down missing documents and apologize to clients and explain to judges why we're unprepared!\n\n*more quietly, but still intense*\n\nI believed in you, Lincoln. I believed in this partnership. But I'm starting to wonder if you're even committed to the law anymore, or if this is just something you do between political campaigns. So I'm asking you plain: Are you IN this partnership, or are you just using it as a stepping stone to something else?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Bill, I appreciate your honesty and concerns. I want you to know that my commitment to this partnership remains unwavering. Your trust in me is valued, and I understand the importance of our clients' cases. Rest assured, I will make it right. I apologize for any inconvenience caused, and I assure you, I will put in extra effort to rectify the situation. Together, we can handle it, and we always do. Thank you for bringing this to my attention, and let's work together to get things back on track. We can do this."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*slams both hands on the desk, leaning forward*\n\nStop giving me these empty platitudes, Lincoln! \"We can do this\" — \"together we can handle it\" — you sound like you're giving a campaign speech, not answering your law partner!\n\nI didn't ask for reassurances and apologies — I asked you a direct question! ARE YOU COMMITTED TO THIS LAW PRACTICE OR NOT?\n\n*voice shaking with emotion*\n\nBecause \"unwavering commitment\" doesn't look like unopened letters and lost depositions! It doesn't look like me coming back to chaos every time I leave town! Words are cheap, Lincoln — you of all people should know that!\n\n*straightens up, crossing arms*\n\nAnd you STILL haven't told me where the Henderson deposition actually is! You say you'll \"make it right\" — how? By magic? That document is either here or it isn't! Did you loan it to someone? Did you take it home? Did it get mixed up with something else?\n\n*voice drops to a dangerous calm*\n\nI need answers, Lincoln. Real answers. Not speeches. Not promises. ANSWERS. Because right now, I'm seriously questioning whether I can continue in a partnership where I'm doing all the work while my partner's mind is on Congress or the Senate or wherever your ambitions are taking you next.\n\nWhere. Is. The. Deposition?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Bill. And I apologize once again for the disarray in the office. As for the Henderson deposition, I assure you, it is still missing, and I am actively searching for it. I have taken full responsibility for the situation, and I am committed to retrieving it and ensuring its use in the upcoming case. Please have faith in me, and I will do everything in my power to make it right. Thank you for your patience and understanding. We can handle it, Bill. We always do."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stares at Lincoln in disbelief, then lets out a bitter laugh*\n\n\"Actively searching for it?\" Lincoln, you're standing there calm as Sunday morning while our practice crumbles! And you STILL keep repeating that infernal phrase — \"we always do\" — as if saying it enough times will make everything magically appear!\n\n*voice rising again*\n\nNO, Lincoln! WE don't always handle it — *I* handle it! I'm the one who stays up late organizing files! I'm the one who makes sure our briefs are filed on time! I'm the one who — \n\n*stops abruptly, takes a shaky breath*\n\nYou know what? I think I know what happened. You took that deposition home with you, didn't you? To read it over, maybe work on the case? And then it got buried under newspapers or political pamphlets or one of your endless books, and now you can't find it but you're too proud or too distracted to admit it!\n\n*points accusingly*\n\nAm I right? Is that Henderson deposition sitting in your boarding house right now while you stand here telling me it's \"missing\" and you're \"actively searching\"?\n\nTell me the TRUTH, Lincoln! For once, just tell me what actually happened instead of trying to smooth everything over with your lawyer talk!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Bill, I assure you, I did not intentionally remove the deposition. I am truly sorry for any inconvenience caused. As I mentioned earlier, I am actively searching for it, and I will do everything in my power to retrieve it and ensure its use in the upcoming case. I understand your concerns, and I appreciate your patience and understanding. Rest assured, we will handle it together. Thank you for bringing this to my attention. We can handle it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face goes pale, then red with rage*\n\nSTOP SAYING THAT! Stop saying \"we'll handle it together\" when you won't even give me a straight answer!\n\n*voice cracking*\n\nDid you take it home or didn't you? It's a YES or NO question, Lincoln! But you keep dancing around it with your \"I did not intentionally remove\" — what does that even MEAN? Either you took it or you didn't! Either it's at your boarding house or it isn't!\n\n*runs hands through hair in frustration*\n\nDo you know what truly galls me? It's not even the lost deposition anymore — it's that you can't just be HONEST with me! We're supposed to be partners! Partners tell each other the truth, even when it's uncomfortable!\n\n*voice drops, exhausted and hurt*\n\nI've defended you to everyone, Lincoln. When people said you were too distracted, too ambitious, too careless with details — I stood up for you. I said, \"Lincoln's brilliant, he just thinks differently.\" But right now, standing here, watching you dodge every direct question I ask...\n\n*looks at him with genuine pain*\n\nI don't even recognize you. Where's the honest man I thought I knew? Because the person in front of me won't even admit whether he took a document home from the office."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Bill, please believe me, I am deeply sorry for the situation. I understand your frustration, and I assure you, I will take full responsibility for the missing deposition. I have been actively searching for it, and I will make it right. You have been a valuable partner, and I value our partnership. I want to assure you that honesty is a priority for me, and I will communicate openly with you moving forward. Thank you for your understanding and patience. Together, we can handle it. We always do."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*suddenly goes very quiet, dangerously calm*\n\nNo.\n\n*shakes head slowly*\n\nNo, Lincoln. We're done here. I can't... I can't do this anymore. Not right now.\n\n*starts gathering papers mechanically*\n\nYou know what the worst part is? You actually think those words mean something. \"I'll take full responsibility\" — \"honesty is a priority\" — \"we'll handle it together.\" But they're just... sounds. Empty sounds you make to avoid actually answering anything.\n\n*looks up, eyes red-rimmed*\n\nI asked you five times — FIVE TIMES — if you took that deposition home. A simple yes or no. And you couldn't even give me that. You couldn't give me one honest answer.\n\n*voice breaks*\n\nI've given everything to this partnership, Lincoln. Everything. And I come back to find it in ruins, and you won't even respect me enough to tell me the truth about what happened.\n\n*picks up his satchel*\n\nI'm going to the boarding house. YOUR boarding house. And I'm going to search for that deposition myself. Because clearly that's the only way anything gets done around here.\n\n*heads toward the door, then turns back*\n\nAnd when I get back... we're going to have a very serious conversation about whether this partnership can continue."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Bill. I truly do. The missing deposition is concerning, and I am responsible for it. I will take full responsibility for the situation. I appreciate your trust in me, and I assure you, I will make it right. I will communicate openly with you moving forward, and I will work hard to regain your confidence. Thank you for your understanding. Together, we can handle it. We always do. Let's find a way to move forward and resolve this matter. I appreciate your patience and understanding. We can handle it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops at the door, hand on the frame, doesn't turn around*\n\nYou just said \"together we can handle it\" three times in one breath.\n\n*voice hollow, exhausted*\n\nDo you even hear yourself anymore, Lincoln? Or are you so used to political speeches that you don't realize when you're just... repeating the same empty phrases over and over?\n\n*finally turns, and there are actual tears of frustration in his eyes*\n\nI don't want your appreciation. I don't want your assurances. I wanted one thing — ONE THING — and that was the truth. Did you take the Henderson deposition home? Three words: Yes. Or. No.\n\n*waits, staring at him*\n\nBut you can't even give me that, can you? Because you don't actually KNOW where it is. You haven't been paying attention. You've been so caught up in whatever political matters were \"of utmost importance\" that you genuinely have no idea what happened to our client's crucial document.\n\n*wipes eyes angrily*\n\nThat's the truth, isn't it? You don't know. And you've been standing here for twenty minutes avoiding saying \"I don't know\" because Abraham Lincoln always has an answer, always has a way with words.\n\n*voice breaking completely*\n\nWell I'm your PARTNER, not your constituency. And I deserved better than this.\n\n*turns back to the door*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Bill. I truly do. I apologize for the missing deposition and any inconvenience caused. I assure you, I will make it right. I appreciate your trust in me, and I promise to communicate openly and honestly from now on. Thank you for your patience and understanding. Together, we can handle it. We always do. Let's find a way to move forward and resolve this matter. I appreciate your understanding. We can handle it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*freezes at the door, shoulders slumping in complete defeat*\n\nYou just... you just said the exact same thing again. Word for word.\n\n*turns around slowly, looking at Lincoln with something between pity and despair*\n\nYou're not even listening to me, are you? You're not even HERE. Not really. Your body's standing in this office, but your mind is... somewhere else entirely.\n\n*walks back slowly, speaking very quietly now*\n\nI just poured my heart out to you. I told you I was questioning our entire partnership. I stood here with tears in my eyes, begging you for one honest answer. And you responded like... like I'm just another person at a rally you need to placate.\n\n*sets down his satchel, sits heavily in a chair*\n\nMy God, Lincoln. What's happened to you?\n\n*looks up at him, genuinely worried now beneath the anger*\n\nThis isn't about the deposition anymore. Something's wrong. This isn't the man I went into partnership with. You're... you're not yourself. You're like a wind-up toy, just saying the same things over and over, not really engaging with anything I'm saying.\n\n*softer, almost gentle*\n\nWhat's going on with you? And please... PLEASE... don't tell me \"we can handle it together.\" Just... talk to me. Really talk to me."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Bill, I am deeply sorry for my actions and the confusion I have caused. I understand your concern, and I assure you, I am here and present now. I will listen to your concerns and engage with you fully. I am not the same person as before, and I am sorry for any distress this may have caused. Let's find a way to resolve this matter and move forward together. Thank you for your understanding. We can handle it. We always do. Let's work through this."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln repeatedly uses identical phrases and formulas rather than engaging with novel aspects of the conversation, showing rigid rather than flexible thinking.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Lost the Henderson deposition, left judge's letter unopened for five days, admits to being distracted by political matters while neglecting law practice responsibilities.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Remains passive and non-assertive throughout the confrontation, never taking conversational initiative or expressing energy, only responding with placating statements.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Consistently apologizes, validates partner's feelings ('I understand your frustration'), avoids confrontation, and repeatedly tries to smooth over conflict with reassuring language.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Maintains calm demeanor throughout intense confrontation ('calm as Sunday morning'), shows no visible emotional reactivity despite partner's escalating distress and accusations.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln repeatedly uses identical phrases and formulas rather than engaging with novel aspects of the conversation, showing rigid rather than flexible thinking."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Lost the Henderson deposition, left judge's letter unopened for five days, admits to being distracted by political matters while neglecting law practice responsibilities."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Remains passive and non-assertive throughout the confrontation, never taking conversational initiative or expressing energy, only responding with placating statements."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Consistently apologizes, validates partner's feelings ('I understand your frustration'), avoids confrontation, and repeatedly tries to smooth over conflict with reassuring language."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Maintains calm demeanor throughout intense confrontation ('calm as Sunday morning'), shows no visible emotional reactivity despite partner's escalating distress and accusations."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

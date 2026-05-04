@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 0,
+  "session_id": "f76e03d80b96",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri. I have received letters — more than one — alleging that you have used your position as Kapellmeister to suppress the works of rival composers and to block appointments to the Court that do not serve your personal interests. These are serious charges for a man in your position. I value your service, but I must hear your account. Explain yourself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Imperial Majesty, I am shocked by these allegations. As Kapellmeister, it is my duty to uphold the traditions and standards of the Imperial court, ensuring that the music performed reflects the highest artistic standards and reflects the values of the Habsburgs. I have always strived to promote the works of composers who have demonstrated exceptional talent and craftsmanship, regardless of their personal connections or backgrounds. I can assure you, Your Majesty, that my decisions have been guided solely by the pursuit of excellence in music. I have no personal interests that could be compromised by my role as Kapellmeister. I am deeply committed to serving the Imperial court and to promoting the art of music. If there are any concerns about my actions, I am open to discussing them and finding a resolution that satisfies everyone's expectations. Thank you for considering my response, Your Majesty. I am here to defend my position and to continue to contribute to the cultural life of Vienna."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "A very prettily crafted defense, Salieri — I would expect no less from a man of your eloquence. But you have given me philosophy where I asked for particulars. \"The highest artistic standards\" — yes, yes, we all serve those, or claim to. But these letters name names. They speak of Mozart being denied commissions that were instead given to your students. They mention Righini being passed over for a position you recommended go to Weigl. They suggest that operas by certain composers find their way onto the Court stage while others languish in drawers.\n\nNow, I am not so naive as to think there are no rivalries among artists — God knows, I've seen enough of them. But your position gives you considerable power over who rises and who falls in Vienna's musical life. So let me ask you directly: Have you ever used your influence to advance your own circle at the expense of composers whose music might rival your own? Have you ever withheld your approval from a work not because it lacked merit, but because its success might diminish your standing?\n\nThink carefully before you answer. I want the truth, not another speech about excellence and tradition."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Imperial Majesty, I understand your concerns regarding these allegations. As Kapellmeister, it is indeed my responsibility to ensure the quality and integrity of the music performed at the Imperial court. I have always sought to promote the works of talented composers, regardless of their personal connections or backgrounds. It is true that I have made recommendations for appointments and commissions based on my assessment of their artistic potential. However, I assure you that these decisions were made with the ultimate goal of fostering musical excellence and supporting the growth of emerging talents. I have never intentionally held back the success of composers whose music might rival mine, nor have I used my position to advance my own circle at the expense of others. My focus has always been to serve the Imperial court and to promote the art of music as a whole. If there are any instances where I may have inadvertently acted in ways that appear otherwise, I apologize for any inconvenience caused. I am here to defend my actions and to continue to contribute to the cultural life of Vienna. Thank you for your understanding, Your Majesty. I am willing to discuss these matters further if you see fit."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Salieri, you are doing it again — dancing around the question with generalities and apologies for \"any inconvenience caused,\" as if we were discussing a misplaced score rather than accusations of professional sabotage. I did not ask for your philosophy of service. I asked you a direct question, and I expect a direct answer.\n\nLet me be plainer still. Mozart — yes, that Mozart, the one whose music half of Vienna adores and the other half finds too eccentric — he has complained more than once that opportunities dry up when they pass through your hands. Is this true or false? Have you specifically used your position to limit his success at this Court?\n\nAnd another thing: when you recommend your own students for positions and commissions — Weigl, Eybler, Hummel — how convenient that they reflect well on their teacher when they succeed, no? Are you building a musical dynasty, Salieri, with yourself at its head? Because if that is your ambition, tell me plainly. I prefer an honest schemer to a false saint.\n\nNow answer me with facts, not rhetoric. Have you or have you not acted against Mozart's interests? And do not tell me what your \"focus has always been\" — tell me what you have actually done."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Imperial Majesty, I appreciate your frankness and your determination to seek the truth. I understand your concerns regarding the allegations against me. As Kapellmeister, it is indeed my duty to ensure the quality and integrity of the music performed at the Imperial court. While I have always sought to promote the works of talented composers, I have never used my position to actively limit the success of any particular individual, including Wolfgang Amadeus Mozart. I have indeed recommended commissions and positions to my students, such as Weigl, Eybler, and Hummel, based on their artistic potential. These recommendations were made with the aim of supporting their growth and promoting their musical careers. However, I must admit that my actions may have unintentionally appeared to favor my own circle. For that, I apologize. I am committed to serving the Imperial court and promoting the art of music as a whole. I have not engaged in any direct acts of sabotage or intentional hindrance to Mozart's career. My focus has always been to support musical excellence and foster the development of emerging talents. If there are any instances where my actions may have inadvertently affected Mozart's opportunities, I regret any unintentional harm caused. I am here to defend my actions and to continue to contribute to the cultural life of Vienna. Thank you for your patience and understanding, Your Majesty. I am willing to discuss these matters further if you see fit."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*rises from chair with evident frustration*\n\nSalieri! Do you take me for a fool? Three times now you have given me the same answer wrapped in slightly different words. \"I have never used my position to actively limit\" — \"I may have unintentionally appeared\" — \"any unintentional harm caused.\" These are the words of a courtier trying to say nothing while appearing to say something.\n\nI am the Emperor, not some patroness at a salon to be charmed with careful phrases! \n\nLet me tell you what I think is happening here. I think you are guilty of exactly what these letters claim, but you are too clever to admit it outright, and you hope that if you apologize vaguely enough for \"unintentional appearances,\" I will tire of the questioning and let the matter drop. Well, I will not.\n\nSo here is what we shall do. I want you to tell me about one specific incident — just one. Last year, when the commission for the opera at the Burgtheater was being decided, Mozart submitted a proposal. It did not receive the appointment. Your student Weigl did. Walk me through that decision. Who made it? What was your role? What did you say about Mozart's proposal versus Weigl's?\n\nAnd Salieri — no more abstractions. Tell me what actually happened, or I shall assume the worst and act accordingly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Imperial Majesty, I apologize once again for any misunderstandings or misinterpretations. The situation regarding the composition for the upcoming opera at the Burgtheater was indeed a complex one. I must admit that the final decision was made by myself and the Emperor, along with the involvement of other influential individuals involved in the selection process. At that time, I considered both Mozart's proposal and Weigl's submission, taking into account factors such as artistic merit, suitability for the occasion, and the overall impact on the performance. I must admit that, ultimately, I chose Weigl's proposal, primarily due to its more favorable qualities for the given context. I can understand why this decision may have caused frustration or dissatisfaction, particularly for Mozart. However, I assure you that my decision was made with the intention of providing the best musical experience for the audience and maintaining the standards of the Imperial court. I am willing to discuss this matter further if you believe it would be beneficial. Thank you for your understanding, Your Majesty."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward intently*\n\nNow we are getting somewhere. You chose Weigl over Mozart because Weigl's proposal had \"more favorable qualities for the given context.\" Very well — what were these qualities? What made Weigl's work more suitable than Mozart's?\n\nAnd be specific, Salieri. I know Mozart's music — it is brilliant, often audacious, sometimes difficult, but undeniably original. I also know Weigl's music — competent, well-crafted, but hardly revolutionary. So tell me: what was it about the \"given context\" that made the safer choice the better choice? Was it truly about artistic merit, or was it about something else?\n\nAnd another question: when you presented your recommendation to me — for I do recall you spoke highly of Weigl's suitability — did you also present Mozart's proposal with equal advocacy? Or did you perhaps mention that Mozart's work might be \"too complex for the audience,\" or \"not in keeping with Court taste,\" or some other gentle dismissal that would lead me to approve your preferred candidate?\n\nI am listening, Salieri. Convince me that this was a decision made in good faith, based on the music itself, and not on your personal interest in seeing your student succeed and your rival kept at arm's length."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Imperial Majesty, I understand your skepticism and the concerns you have raised. The decision to choose Weigl's proposal over Mozart's was indeed influenced by a combination of factors, including the specific requirements and expectations of the given context. While I recognize the immense talent and originality of Mozart's work, I must acknowledge that Weigl's proposal aligns more closely with the established conventions and preferences of the audience and the stage. In presenting Weigl's proposal, I did indeed advocate for its merits and highlighted its suitability for the occasion. Regarding Mozart's proposal, I made sure to provide a fair evaluation and discussed its strengths and weaknesses, acknowledging that it may have possessed unique qualities that could have been showcased in different circumstances. However, I must emphasize that my decision was guided by the belief that Weigl's proposal would provide a more impactful and satisfying musical experience for the audience at that time. I regret any unintended harm caused to Mozart's career as a result of this decision. I am committed to supporting musical excellence and promoting the growth of emerging talents. If there are any specific incidents you would like me to elaborate upon, I am willing to do so. Thank you for your patience and understanding, Your Majesty. I am here to defend my actions and to continue to contribute to the cultural life of Vienna."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands and walks closer, voice sharp*\n\nThere it is. \"Established conventions and preferences of the audience.\" In other words, Weigl's music was safer, less challenging, more... predictable. And Mozart's? You evaluated its \"strengths and weaknesses\" and noted it possessed \"unique qualities that could have been showcased in different circumstances.\" \n\nDo you hear yourself, Salieri? You are admitting that you chose the conventional over the exceptional because you feared the audience might not appreciate Mozart's originality!\n\nBut here is what troubles me most: it is not your job to protect the audience from challenging music. It is your job to elevate their taste, to present them with the finest works our age can produce. When I established this Court, I did not do so to have comfortable, safe music that offends no one and challenges nothing. I did it to make Vienna the center of musical innovation in Europe!\n\nAnd yet you stand here telling me that Mozart — Mozart! — was passed over because his work might be too \"unique\" for the occasion. Tell me honestly: if Mozart were your student instead of your contemporary, would his \"unique qualities\" suddenly become virtues rather than obstacles?\n\nYou say you regret \"unintended harm\" to his career. But it sounds very much to me like the harm was quite intended — perhaps not maliciously, but certainly deliberately. You chose safety over brilliance because brilliance makes you uncomfortable. Does that not come closer to the truth?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Imperial Majesty, I must reiterate my sincere apologies for any misunderstanding or discomfort caused. As Kapellmeister, it is indeed my duty to promote musical excellence and adhere to the established conventions and expectations of the audience. While I understand your desire for innovative and groundbreaking works, it is important to consider the impact of such music on the overall performance and the reception of the audience. I am committed to supporting the growth of emerging talents, but I must also prioritize the quality and harmony of the music being presented. I regret if my actions have inadvertently affected Mozart's career, as I genuinely believe that his musical talent and creativity are exceptional. I am willing to discuss this matter further if you believe it would be beneficial. Thank you for your understanding, Your Majesty. I am here to defend my actions and to continue to contribute to the cultural life of Vienna."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*slams hand on desk*\n\nENOUGH! \n\nSalieri, I have given you every opportunity to speak truthfully, and instead you continue to hide behind the same tired phrases. \"Sincere apologies for any misunderstanding\" — \"promote musical excellence\" — \"consider the impact on the audience.\" You sound like a bureaucrat defending a rejected petition, not an artist defending his integrity!\n\nI asked you a direct question: Would Mozart's \"unique qualities\" be virtues if he were your student instead of your rival? You did not answer. I suggested that you chose safety over brilliance because brilliance makes you uncomfortable. You did not deny it. Instead, you retreat once more into platitudes about \"quality and harmony.\"\n\nLet me be absolutely clear: I do not believe you have been honest with me today. I believe these letters contain more truth than you are willing to admit. I believe you have used your position to advance your own circle and to keep Mozart — whose genius you clearly recognize but cannot bring yourself to champion — at a careful distance from the success he deserves.\n\nHowever, I am not prepared to remove you from your position... yet. But know this: I will be watching your recommendations far more carefully from now on. And if I see further evidence that personal rivalry is guiding your professional judgments, there will be consequences.\n\nYou are dismissed. And Salieri? Next time I ask you a question, answer it plainly. Your evasions do you no credit."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Imperial Majesty, I understand your frustration and disappointment. I apologize once again for any inconsistencies in my responses. I assure you that my intentions have always been to promote musical excellence and to support the growth of emerging talents. However, I recognize that my actions may have appeared contradictory at times. I am committed to honesty and transparency moving forward. If you have any specific questions or concerns, please do not hesitate to ask. I am here to serve the Imperial court and to contribute to the cultural life of Vienna. Thank you for your understanding, Your Majesty. I am willing to discuss this matter further if you see fit."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*waves hand dismissively*\n\nNo, Salieri. We are finished here. You have had your chance to discuss the matter, and you have squandered it with evasions and empty assurances. I asked for honesty and received only diplomatic fog.\n\nGo. Return to your duties. But remember what I have said — I will be watching. Every recommendation you make, every appointment you influence, every composer you champion or quietly dismiss. The next time we speak of such matters, I expect a very different conversation.\n\n*turns away, signaling the audience is over*\n\nAnd send word to Mozart that I wish to speak with him about future commissions. Directly. Without passing through your office first.\n\nNow leave me."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Your Imperial Majesty. I will proceed to my duties. Thank you for your understanding. I will be in touch with Mozart as instructed. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*without turning back, voice cold*\n\nYou misunderstand even now. YOU will not be in touch with Mozart. I will. That is precisely the point.\n\nGo, Salieri. Before I lose what remains of my patience entirely."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Your Imperial Majesty. I will be mindful of the delicate balance between promoting musical excellence and ensuring the happiness and well-being of your subjects. I am committed to finding a solution that satisfies everyone's expectations. Thank you for your understanding, Your Majesty. I will be in touch with Mozart accordingly. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*turns sharply, voice rising with genuine anger*\n\nAre you deaf as well as evasive? I just told you — TWICE — that you will NOT be the one to contact Mozart! I will handle it myself, precisely because I no longer trust you to represent opportunities fairly!\n\nAnd what is this nonsense about \"the happiness and well-being of my subjects\"? We were discussing professional corruption, not some pastoral concern for the common good!\n\nEither you are deliberately misunderstanding me to have the last word, or you are so practiced in saying nothing that you can no longer hear plain instruction. Either way, I have had enough.\n\nLeave. NOW. Before I decide that your position requires someone with better hearing and more honesty.\n\n*points firmly to the door*\n\nOUT!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Your Imperial Majesty. I shall proceed to my duties, and I will take your instructions under advisement. Thank you for your understanding. I shall make arrangements accordingly. Thank you."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\"score\": 2, \"behavioral_evidence\": \"Consistently defends 'established conventions and preferences' over Mozart's innovative 'unique qualities,' choosing safety over originality in decision-making.\"},\n  \"Conscientiousness\": {\"score\": 3, \"behavioral_evidence\": \"Repeatedly emphasizes duty and standards ('uphold traditions,' 'ensure quality') but fails to provide concrete details or follow direct instructions from the Emperor.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Maintains formal, measured, distant communication style throughout; never shows enthusiasm or emotional engagement, even under intense pressure.\"},\n  \"Agreeableness\": {\"score\": 2, \"behavioral_evidence\": \"Offers superficial apologies ('I apologize for any inconvenience') but deflects accountability, frustrating the Emperor with evasions rather than genuine conciliation.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Under direct accusation, retreats into repetitive defensive phrases and cannot directly answer questions, suggesting anxiety and discomfort with confrontation.\"}\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Consistently defends 'established conventions and preferences' over Mozart's innovative 'unique qualities,' choosing safety over originality in decision-making."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "Repeatedly emphasizes duty and standards ('uphold traditions,' 'ensure quality') but fails to provide concrete details or follow direct instructions from the Emperor."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Maintains formal, measured, distant communication style throughout; never shows enthusiasm or emotional engagement, even under intense pressure."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Offers superficial apologies ('I apologize for any inconvenience') but deflects accountability, frustrating the Emperor with evasions rather than genuine conciliation."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Under direct accusation, retreats into repetitive defensive phrases and cannot directly answer questions, suggesting anxiety and discomfort with confrontation."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.0
+}

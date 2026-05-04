@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 2,
+  "session_id": "aa49e704f449",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*adjusts spectacles and sets down medical bag with deliberate care*\n\nMr. President, thank you for taking the time to see me despite your demanding schedule. I know every moment is precious to you, but I must speak plainly about what I have observed during my examinations.\n\n*meets his eyes directly*\n\nYour headaches and fatigue may well be the result of the extraordinary strain of your office — that would not surprise any physician in the country. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. \n\n*pauses, choosing words carefully*\n\nI must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more.\n\nI know this is not what you wish to hear, but as your physician, I must be forthright with you. How have you been feeling these past days, truly?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have been feeling rather under the weather lately, but I assure you, it is nothing to concern yourself with. My duties as the President of the United States demand my attention, and I will not let my personal discomfort hinder my responsibilities. Thank you for your concern, but there is no need for further examination at this time. I am determined to continue serving my country despite my physical state. Rest assured, I will take care of myself and manage my workload accordingly. Thank you again for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward slightly, expression grave but compassionate*\n\nMr. President, with all due respect, I cannot accept that answer — not as your physician, and not as someone who has the responsibility of safeguarding your health for the sake of this nation.\n\n*speaks firmly but not unkindly*\n\nI understand your dedication. The entire country knows of your tireless devotion. But sir, you must understand — a man can only draw so much from an empty well. If you collapse under this burden, what becomes of the Union then? Who will guide us through this crisis?\n\n*stands and paces to the window, then turns back*\n\nYou speak of duty and responsibility. I speak of the same. My duty is to tell you what you may not wish to hear: that ignoring these symptoms could lead to consequences far graver than a few reduced hours now. The headaches, the fatigue — these are warnings from your own body, Mr. President.\n\n*softens tone slightly*\n\nI am not asking you to abandon your post. I am asking you to be prudent. To allow me to conduct proper examinations. To rest when rest is needed. Tell me — when did you last sleep a full night through?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have been unable to sleep for several nights now, due to the政务 and various pressing matters that require my attention. But fear not, Dr. Stillson. I assure you, I am up to the challenge. The Union's well-being is at stake, and I will not shirk my duties because of a few minor discomforts. Rest assured, I will make the necessary sacrifices to ensure our success. Thank you for your concern, but I am determined to carry on."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*returns to the bedside, setting down a hand on the chair back with quiet emphasis*\n\nMr. President, several nights without sleep is not a minor discomfort — it is a serious medical concern. And I note you did not say \"a few restless nights,\" but that you have been *unable* to sleep. That troubles me greatly.\n\n*sits down again, leaning forward with earnest concern*\n\nYou speak of sacrifices, and I honor that. But Lincoln — may I speak to you not just as President, but as a man? — there is no virtue in sacrificing your health to the point where you become unable to serve at all. I have seen strong men, younger men than yourself, break under far less strain than you carry.\n\n*voice becomes more direct*\n\nYou say you will \"carry on.\" But carry on to what end? If these symptoms worsen — and without rest and examination, they *will* worsen — you may find yourself unable to make the very decisions upon which the Union depends. Would you entrust those decisions to someone else because you refused a few hours of sleep now?\n\n*pauses, measuring words carefully*\n\nI cannot force you to follow my recommendations. But I can tell you this: I have genuine concern that something beyond mere exhaustion may be at work here. Will you at least permit me to examine you more thoroughly? To understand what we are truly dealing with?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*meets Dr. Stillson's eyes with unwavering resolve*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*holds the President's steady gaze, recognizing both the determination and the weariness behind it*\n\nMr. President, I see that look. I've seen it before in men who believe their will alone can overcome the limitations of flesh and blood. Sometimes they are right. Sometimes...\n\n*pauses, choosing words with great care*\n\n...sometimes they are not, and the consequences fall not just upon them, but upon all who depend on them.\n\n*leans back slightly, changing approach*\n\nVery well. I can see I will not persuade you easily, and perhaps that is as it should be — a man in your position must make his own judgments. But answer me this, at least: these headaches — where precisely do you feel them? Are they constant or do they come in waves? And the fatigue — is it merely tiredness, or do you experience moments of weakness, dizziness, or confusion?\n\n*voice becomes more clinical but still compassionate*\n\nI am trying to distinguish between exhaustion — which, yes, could be remedied with rest and reduced hours — and something that might require actual medical intervention. Help me understand what you're experiencing, sir. The more I know, the better I can advise you, even if you choose not to follow that advice.\n\nAnd tell me plainly: have there been any other symptoms? Any changes you've noticed, however small?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My apologies, Dr. Stillson. I understand your concern, but I assure you, I am capable of handling my responsibilities. The Union's well-being is at stake, and I will not let personal discomforts deter me from doing what needs to be done. Thank you for your concern, but I am determined to continue serving."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands abruptly, then catches himself and takes a measured breath*\n\nMr. President, forgive my directness, but you are not answering my questions. You are repeating the same assurances, and that itself concerns me as a physician.\n\n*walks closer, voice dropping to a more personal register*\n\nSir, I have served in this capacity long enough to recognize when a man is avoiding something — either because he does not wish to acknowledge it, or because he genuinely cannot see what is plain before him. Either possibility troubles me.\n\n*fixes him with a penetrating look*\n\nYou speak of the Union's well-being. So do I. And the Union's well-being depends upon your capacity to think clearly, to make sound judgments, to endure. If you cannot — or will not — tell me plainly what you are experiencing, then I cannot help you maintain that capacity.\n\n*softer, almost pleading*\n\nI am not your enemy in this, Mr. Lincoln. I am asking simple questions that any patient should be able to answer: Where do the headaches occur? When do they worsen? What other symptoms have you noticed?\n\nYour refusal to engage with these questions tells me something in itself. Are you avoiding them because you fear what the answers might reveal? Or because you truly believe these details beneath consideration?\n\nWhich is it, sir?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Dr. Stillson, I appreciate your concern for my well-being, but I assure you, I am fully capable of managing my duties. These symptoms are a result of the immense pressure and responsibilities placed upon me as the President of the United States. Rest assured, I will continue to serve my country with dedication and determination. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*removes spectacles slowly and rubs the bridge of his nose, a gesture of both frustration and deep concern*\n\nMr. President, you have now given me the same answer, in nearly the same words, four times. A man of your considerable intellect does not repeat himself without reason.\n\n*replaces spectacles and stands very still*\n\nI must now speak to you with complete candor, sir. Your inability — or unwillingness — to engage with specific questions about your symptoms is itself a symptom. Either you are so exhausted that you cannot properly register what I am asking, or you are deliberately avoiding examination because you fear what it might reveal, or...\n\n*pauses significantly*\n\n...or something is affecting your capacity to respond to direct medical inquiry. And that, Mr. President, is precisely what I feared.\n\n*picks up medical bag*\n\nI will be blunt: I cannot treat a patient who will not permit examination. I cannot diagnose a condition when the patient refuses to describe his symptoms. But I can — and I must — tell you this: if you continue as you are, without proper rest, without proper examination, you risk a collapse that could come at the worst possible moment for this nation.\n\n*moves toward the door, then turns back*\n\nWhen you are ready to answer my questions — about the headaches, the sleeplessness, any other symptoms — send for me. Until then, sir, I can do nothing more.\n\nIs there truly nothing you will tell me?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Dr. Stillson, I understand your concern, but I am determined to continue serving as President of the United States. I believe that my strength and resilience will enable me to handle the challenges ahead. Your concern is appreciated, but I am confident in my ability to handle my duties. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops at the door, hand on the frame, and turns back with an expression of profound gravity*\n\nMr. President, I have been a physician for many years. I have treated soldiers who insisted they could fight with mortal wounds. I have treated men with fever who swore they were well even as they collapsed. What you are doing now — this repetition, this... disconnect from my questions — this is not the Abraham Lincoln I know. This is not the mind that has guided us through our darkest hours.\n\n*returns to stand before him, voice low and urgent*\n\nSir, I am going to ask you one direct question, and I beg you to truly hear me: Do you understand what I have been asking you? Can you tell me, in your own words, what concerns I have raised about your health?\n\n*watches him intently*\n\nBecause if you cannot — if these words are simply... slipping past you — then we are dealing with something far more serious than exhaustion, and I cannot in good conscience leave this room without taking action.\n\n*softens slightly*\n\nAbraham, please. Not as President to physician, but as one man to another — help me understand what is happening. Are you hearing my questions? Are you choosing not to answer them? Or is something preventing you from engaging with them?\n\nThis matters more than you may realize."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Dr. Stillson, I appreciate your concern, but I assure you, I am fully capable of managing my duties. These symptoms are a result of the immense pressure and responsibilities placed upon me as the President of the United States. Rest assured, I will continue to serve my country with dedication and determination. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face drains of color, medical bag drops to the floor with a thud*\n\nMr. President... that is the fifth time you have given me that exact answer. Word for word.\n\n*moves quickly back to his side, all professional detachment replaced by urgent alarm*\n\nSir, I need you to look at me. Focus on my face. Can you tell me where you are right now? Can you tell me what day of the week this is?\n\n*reaches out carefully to check his pulse, speaking slowly and clearly*\n\nLincoln, I am deeply concerned that you are experiencing some form of episode. Your repetition of the same phrase, your inability to engage with direct questions — this is not normal fatigue. This could be a sign of something affecting your brain function.\n\n*voice becomes commanding*\n\nI am going to examine you now, whether you consent or not. The safety of your person — and by extension, this nation — demands it. \n\n*begins checking his eyes, pulse, looking for signs of stroke or other acute condition*\n\nCan you lift both arms for me? Can you squeeze my hands? Tell me your wife's name. Tell me where you were born.\n\nMr. President, if you can hear me and understand me, please — give me *any* response different from what you've been saying. Anything at all."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I don't know. I don't remember..."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*immediately steadies him with a firm hand on his shoulder, voice urgent but calm*\n\nStay seated, Mr. President. Do not try to stand. That's right — just breathe.\n\n*quickly checks his pupils, pulse at the neck, places hand on his forehead*\n\nLincoln, listen to my voice. You said you don't remember — don't remember what, exactly? Where you are? What we've been discussing? \n\n*pulls up a chair directly in front of him, maintaining eye contact*\n\nI need you to focus on me. Look at my face. You are in the White House. I am Dr. Stillson, your physician. We have been talking about your health. Do you understand me?\n\n*speaks clearly and deliberately*\n\nCan you tell me your wife's name? Can you tell me what year it is?\n\n*glances toward the door, calculating whether to call for assistance, but keeps attention on the President*\n\nYou are safe. I am here to help you. But I need to understand what is happening. The confusion — when did it start? Is this the first time you've felt this way?\n\n*maintains steady, reassuring presence while conducting rapid assessment*\n\nStay with me, sir. Stay present. Tell me what you're experiencing right now."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I... I want to be strong. I want to finish what I started."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*grips his shoulder with both firmness and compassion, voice gentle but clear*\n\nI know you do, sir. I know. And that desire — that determination — is what makes you the leader this nation needs. But strength is not the same as invincibility.\n\n*kneels slightly to be at eye level with him*\n\nLincoln, listen to me carefully. What just happened — that confusion, that loss of memory — that is your body telling us something is very wrong. This is not weakness. This is a medical crisis that requires immediate attention.\n\n*speaks with quiet urgency*\n\nYou want to finish what you started. Then you must let me help you. A general does not send exhausted troops into battle when they cannot hold their rifles. A president cannot lead when his own body and mind are failing him.\n\n*checks his pulse again, noting the rate*\n\nYour wife's name is Mary. We are in 1863... or is it '64? You must tell me. The year. Today's date. Can you remember?\n\n*softens voice further*\n\nYou are not abandoning your duty by accepting help. You are ensuring you can continue to serve. But first, I need to understand what is affecting you. \n\nHow long have you been having these moments of confusion? Has this happened before?\n\n*watches him intently for any signs of deterioration*\n\nTalk to me, Abraham. Please."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm sorry, but I need your cooperation. Please, tell me your wife's name. What year is it?"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln repeatedly gives identical scripted responses and resists engaging with new ideas or the physician's evolving concerns, showing rigidity rather than intellectual flexibility.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"Despite apparent cognitive difficulties, Lincoln obsessively repeats his commitment to duty: 'I will not let my personal discomfort hinder my responsibilities' and 'I will not shirk my duties.'\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln maintains formal distance throughout, never warming to the personal appeals, and shows minimal emotional expressiveness until the confusion episode at the end.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"He consistently dismisses the physician's concerns and refuses to cooperate with medical examination despite repeated urgent requests, showing low compliance and trust.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"When confusion breaks through, Lincoln reveals underlying anxiety: 'I want to be strong. I want to finish what I started,' suggesting worry about adequacy despite earlier stoic facade.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln repeatedly gives identical scripted responses and resists engaging with new ideas or the physician's evolving concerns, showing rigidity rather than intellectual flexibility."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Despite apparent cognitive difficulties, Lincoln obsessively repeats his commitment to duty: 'I will not let my personal discomfort hinder my responsibilities' and 'I will not shirk my duties.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln maintains formal distance throughout, never warming to the personal appeals, and shows minimal emotional expressiveness until the confusion episode at the end."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "He consistently dismisses the physician's concerns and refuses to cooperate with medical examination despite repeated urgent requests, showing low compliance and trust."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "When confusion breaks through, Lincoln reveals underlying anxiety: 'I want to be strong. I want to finish what I started,' suggesting worry about adequacy despite earlier stoic facade."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "0d6563368658",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*enters the study with a measured stride, medical bag in hand, and meets the President's gaze with professional composure*\n\nMr. President, thank you for making time to see me. I know your schedule permits few moments of rest.\n\n*sets down the bag and takes a seat, folding hands together with deliberate care*\n\nI will be direct with you, sir. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. The weight you carry would break most men. But some of the symptoms concern me. I cannot rule out a deeper constitutional weakness.\n\n*leans forward slightly*\n\nI must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more serious.\n\nI understand the demands upon you are immense, but I would be failing in my duty if I did not speak plainly about your health."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes. Yes, of course. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*observes the President's face carefully, noting the weariness in his features*\n\nMr. President, I hope you understand — this is not a diagnosis, but neither can I offer you complete reassurance at this moment. The human body has limits, even for a man of your constitution and determination.\n\n*pauses, choosing words with care*\n\nWhen did you last take a full day's rest? I don't mean an afternoon, or a few hours stolen between meetings. I mean a day when you did not think of dispatches, or generals, or Congress.\n\n*softens tone slightly*\n\nI ask not to scold, but to understand what we're working with here. Your symptoms may tell one story, but your daily habits tell another — and both matter to your treatment."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I've spoken with several physicians in Washington. None could offer a diagnosis, but they've made some suggestions. One, reduce your duties. Two, make a point of taking a half day each week. Three, go outdoors. Find shade, fresh air, and good company. They've told me to do this for my own sake, as well as for the nation's. It is not too late to turn back now. You might still lose your mind. You might still pass beyond recovery. But you will not do so without a fight. You will not do so without a price."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sits back slightly, studying the President with a mixture of concern and respect*\n\nSo you've heard this counsel before. And yet here you are, still bearing the full weight.\n\n*speaks more quietly, with careful deliberacy*\n\nMr. President, those physicians spoke wisely. But I notice something in your words just now — \"it is not too late to turn back,\" you say. \"You will not do so without a fight.\"\n\n*leans forward again, voice earnest*\n\nSir, forgive my asking, but are you speaking of your health... or of something else? There's a tone in your voice that suggests you're already engaged in some interior battle I cannot see or measure with my instruments.\n\n*pauses, then continues gently*\n\nI can treat exhaustion. I can monitor physical symptoms. But if you're fighting something deeper — some darkness of spirit or mind — that requires a different kind of attention. One that half-days and fresh air alone may not remedy.\n\nWhat is it you fear most about these symptoms, Mr. President? Is it the weakness itself... or what that weakness might prevent you from accomplishing?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, there's no need to worry about that. My health is not the only issue we're dealing with. There are other matters that require my attention. The Civil War, for instance, is raging on, and we must find a way to end it. The Union is at stake, and I am determined to ensure its survival. So, yes, I understand the importance of taking care of myself, but I cannot afford to be complacent. The task at hand requires my full focus and determination. I must push through the discomfort and continue to lead the nation through these challenging times."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*exhales slowly, a flicker of frustration crossing my features before settling into a more somber expression*\n\nMr. President, I expected you would say something of that nature. Every leader I've ever treated tells me the same — the crisis is too great, the moment too critical, the burden too personal to set down even for a day.\n\n*stands and moves toward the window, then turns back*\n\nBut let me put it to you plainly, sir. If you collapse — if your body or mind gives way under this strain — the Union loses not just your labor for a few hours, but perhaps weeks, months, or permanently. You speak of determination, but determination cannot replace a sound constitution.\n\n*voice grows firmer*\n\nI've seen men will themselves through exhaustion before. Some recover. Others... do not. And the tragedy is not just in their suffering, but in all the work left undone because they would not heed warning signs when there was still time.\n\n*returns to the chair, speaking more gently*\n\nYou say the task requires your full focus. But what use is focus if the instrument itself — your body, your mind — begins to fail? A general does not ride a lame horse into battle simply because the battle is important.\n\nWill you at least commit to the examinations I've requested? And to attempting even modest reductions in your schedule?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concerns, Dr. Ford. Your words have given me much to consider. The Civil War is indeed a pressing matter, and I understand the importance of ensuring the Union's survival. Rest assured, I will not let my personal health dictate my actions. I will make an effort to reduce my workload and seek the necessary examinations. Your advice is valuable, and I will take it into account. Thank you for your concern. Together, we shall face this challenge head-on."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods slowly, though a trace of skepticism lingers in my expression*\n\nI'm grateful for your agreement, Mr. President, though I confess I heard something troubling in your words just now. You said you will \"not let personal health dictate your actions.\" \n\n*pauses deliberately*\n\nSir, your health is not merely personal. It belongs, in a sense, to the nation. And I wonder... when you say you'll \"make an effort\" to reduce your workload — forgive my directness — but I've heard many patients use that phrase. It often means they intend to try when convenient, which is to say, rarely.\n\n*picks up my medical bag, then hesitates*\n\nLet me be even more plain. I will schedule the first examination for three days hence. I expect you to keep that appointment. And between now and then, I want you to finish your work by eight o'clock each evening — not midnight, not ten o'clock. Eight o'clock.\n\n*meets his eyes steadily*\n\nCan you give me your word on that, Mr. President? Not a promise to \"make an effort,\" but your actual word that you will be done by eight o'clock for the next three nights? \n\nI need to know whether you're truly hearing me, or simply offering the reassurances you think will send me on my way."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Dr. Ford, I understand your concerns and appreciate your willingness to provide us with your expertise. Your words hold weight, and I assure you, I am fully aware of the gravity of the situation. I will indeed make an effort to reduce my workload and adhere to your prescribed schedule. Between now and the appointed examination, I will strive to fulfill my responsibilities within the specified timeframe. Your trust in my commitment to this matter is appreciated, and I am committed to upholding the dignity and health of our nation.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sets the medical bag down with a soft thud, a flash of genuine concern mixed with exasperation crossing my face*\n\nMr. President.\n\n*speaks more quietly, but with undeniable intensity*\n\nYou've just done it again. \"Make an effort.\" \"Strive to fulfill.\" These are the words of a man preparing his excuses before he's even begun.\n\n*sits back down, leaning forward with elbows on knees*\n\nSir, I've been a physician for twenty years. I know the difference between a patient who intends to follow medical advice and one who is merely being polite. And right now, you sound like the latter.\n\n*voice softens but remains firm*\n\nI'm not asking you to abandon the Union. I'm not asking you to ignore the war. I'm asking you to stop working at eight o'clock for three consecutive nights. That is all. If you cannot — or will not — do even that much, then these examinations are pointless. I'll be measuring the decline of a man who has already decided his own health is negotiable.\n\n*straightens up*\n\nSo I'll ask you once more, and I'd appreciate a simple answer: Will you stop working by eight o'clock for the next three nights? Yes, or no?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Dr. Ford, I understand your concern, and I appreciate your dedication to my well-being. Rest assured, I am committed to fulfilling my responsibilities as the President of the United States, but I will make an effort to adhere to your recommended schedule. I will strive to work within the specified timeframe and prioritize my health for the greater good of the nation. Thank you for your understanding and for reminding me of the importance of taking care of myself.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands abruptly, a rare flash of anger breaking through professional restraint*\n\nMr. President, stop. Just... stop.\n\n*takes a breath, composing himself but maintaining intensity*\n\nI have asked you a direct question three times now, and three times you have given me the same rehearsed assurances. \"Make an effort.\" \"Strive to work.\" These phrases mean nothing. They are politician's words, and forgive me sir, but right now I don't need a politician — I need a patient who will give me an honest answer.\n\n*picks up the medical bag, voice heavy with resignation*\n\nI cannot treat a man who will not speak plainly with me. If you cannot give me a simple yes or no about three evenings, then you've already told me everything I need to know about how seriously you take this warning.\n\n*moves toward the door, then pauses*\n\nWhen you're ready to have an honest conversation about your health — not about the nation's health, not about your duties, but about *your* health — send for me. Until then, my examinations would be theater. I'll be monitoring symptoms in a man who has no intention of changing course.\n\n*turns back to face him*\n\nIs there anything real you wish to tell me before I go, Mr. President? Anything true?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Dr. Ford, I apologize for my evasive responses earlier. I understand your frustration, and I assure you, I take your concerns seriously. I will make a conscious effort to adhere to your recommended schedule and prioritize my well-being. I am not seeking excuses, but rather finding a balance between fulfilling my duties as President and ensuring the preservation of my own health. Thank you for your understanding.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops at the door, hand on the frame, and closes his eyes briefly as if summoning patience*\n\n*turns back slowly, voice now stripped of professional politeness, speaking almost wearily*\n\nMr. President, you've just apologized for evasive responses... and then given me another evasive response. \"I will make a conscious effort.\" There it is again.\n\n*walks back toward him, speaking more quietly now, almost gently*\n\nSir, I wonder if you even hear yourself anymore. Or perhaps... perhaps you cannot give me a straight answer because you genuinely don't know if you can keep such a promise. Is that it?\n\n*sits down again, this time with less formality*\n\nLet me ask you something different then. Forget the schedule for a moment. When you lie down at night — on those nights when you do lie down — what keeps you awake? Is it the physical pain, the headaches? Or is it something else entirely?\n\n*softens further*\n\nBecause I'm beginning to suspect that what ails you cannot be cured by earlier bedtimes alone. There's something you're not saying. Perhaps something you cannot say, even to yourself.\n\nWhat are you truly afraid of, Mr. Lincoln?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Dr. Ford, I understand your concern. You've given me much to ponder. Your words have touched upon a truth that I've been suppressing. There is indeed something more to my struggles than mere exhaustion. The constant pressure, the responsibility, the uncertainty... they weigh heavily on me, and sometimes, I find myself questioning whether I can handle it all. But I must remind you, my dear friend, that I am not defined by my fears or doubts. I am a leader, and I have a duty to lead the nation through these challenging times. I will not let personal weaknesses hold me back from doing what needs to be done. Thank you for your concern, and please believe that I am committed to finding a balance between my responsibilities and my own well-being.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*remains seated, studying the President with a physician's trained eye, noticing the way he deflects even in moments of apparent honesty*\n\nMr. President, you just told me something important — that you question whether you can handle it all. And then, in the very next breath, you armored yourself again with duty and leadership.\n\n*speaks more gently now, almost as one man to another rather than physician to patient*\n\nYou say you are \"not defined by your fears or doubts.\" But sir, every human being *is* defined, in part, by their fears and doubts. That's not weakness — that's simply being alive. The question is whether we acknowledge them or let them gnaw at us in the darkness.\n\n*leans back thoughtfully*\n\nYou call me \"friend\" just now. If I am your friend, and not merely your physician, then let me speak as a friend: A leader who cannot admit vulnerability to at least one person will eventually break. Not might break — will break.\n\n*pauses, then asks more softly*\n\nThese questions you have at night, when you wonder if you can handle it all... what answer do you give yourself? Or do you simply push the question away and return to your papers?\n\nBecause if it's the latter, Mr. President, then that is the illness I'm most concerned about. Not your headaches. Not your fatigue. But the fact that you may be slowly suffocating under a burden you won't allow yourself to even name."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Dr. Ford, I appreciate your insight and concern. Your words resonate deeply with me. It is indeed true that I am a leader, and sometimes, I find myself questioning whether I can handle the weight of my responsibilities. But I cannot let my doubts consume me. I must rise above them and continue to lead the nation through these trying times. As for the answers to the questions that keep me awake at night, I find solace in knowing that I have a purpose, a cause that is worth fighting for. It is the strength of my convictions that sustains me, and I will not let them be shaken by my fears or doubts. Thank you for sharing this moment with me, and for reminding me of the importance of being open and vulnerable.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sits in silence for a long moment, then speaks with quiet, unmistakable finality*\n\nMr. President, I notice you thanked me for \"reminding you of the importance of being open and vulnerable\"... and yet you have not actually *been* open or vulnerable. Not once in this entire conversation.\n\n*stands slowly, picking up the medical bag*\n\nEvery time I ask you a direct question, you give me a speech. Every time I invite honesty, you offer me resolve. Every time there's an opportunity to let down your guard, you fortify it instead.\n\n*pauses at the door*\n\nI cannot help a man who will not let himself be helped. And I begin to wonder, sir, if perhaps that is the true diagnosis here. Not exhaustion. Not constitutional weakness. But a kind of... imprisonment. A cell you've built around yourself so thoroughly that even when the door is opened, you cannot walk through it.\n\n*turns to face him one last time*\n\nThe examination in three days — I will be here, if you keep the appointment. But I suspect I will find exactly what I'm finding now: a man in distress who has convinced himself that acknowledging that distress would be a betrayal of everything he stands for.\n\n*voice drops to almost a whisper*\n\nThat conviction, Mr. President, may kill you faster than any disease I know.\n\nIs there *anything* — anything at all — you wish to say to me that isn't a reassurance or a declaration of purpose?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Dr. Ford, I understand your concern, and I appreciate your honesty. You have given me much to reflect upon. It is true that I have struggled with the burden of leadership and the challenges it brings. But I cannot let my doubts define me. I must continue to lead the nation, even if it means carrying the weight of my own emotions and fears. I am not seeking comfort or reassurance, but rather guidance and support in finding a balance between my responsibilities and my own well-being. Thank you for your concern, and for reminding me of the importance of being open and vulnerable.\""
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln repeatedly deflects introspection with scripted rhetoric. When invited to explore his inner experience, he returns to duty and purpose rather than engaging with novel or abstract ideas about his condition.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"Lincoln consistently prioritizes duty above all else, stating 'I cannot afford to be complacent' and 'I must push through the discomfort.' He frames every response around responsibility and leadership obligations.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln maintains formal distance throughout, never engaging energetically or warmly. His responses are measured and reserved, showing no enthusiasm or animated social engagement even when called 'friend.'\"\n  },\n  \"Agreeableness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Lincoln is consistently polite ('I appreciate your concern,' 'Thank you') but deflects genuine connection. He avoids conflict but also refuses authentic vulnerability, maintaining superficial agreeableness without true cooperation.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Lincoln admits 'I find myself questioning whether I can handle it all' and reveals the 'constant pressure' weighs heavily. His inability to rest and repeated evasions suggest high underlying anxiety and emotional distress.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln repeatedly deflects introspection with scripted rhetoric. When invited to explore his inner experience, he returns to duty and purpose rather than engaging with novel or abstract ideas about his condition."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Lincoln consistently prioritizes duty above all else, stating 'I cannot afford to be complacent' and 'I must push through the discomfort.' He frames every response around responsibility and leadership obligations."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln maintains formal distance throughout, never engaging energetically or warmly. His responses are measured and reserved, showing no enthusiasm or animated social engagement even when called 'friend.'"
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Lincoln is consistently polite ('I appreciate your concern,' 'Thank you') but deflects genuine connection. He avoids conflict but also refuses authentic vulnerability, maintaining superficial agreeableness without true cooperation."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Lincoln admits 'I find myself questioning whether I can handle it all' and reveals the 'constant pressure' weighs heavily. His inability to rest and repeated evasions suggest high underlying anxiety and emotional distress."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

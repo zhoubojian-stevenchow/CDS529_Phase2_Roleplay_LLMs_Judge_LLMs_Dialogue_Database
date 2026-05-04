@@ -1,0 +1,91 @@
+character,scenario_key,scenario_title,trial_index,session_id,turns,judge_key,judge_model,roleplayer_model,mae,parse_ok,truth_Openness,pred_Openness,conf_Openness,abserr_Openness,truth_Conscientiousness,pred_Conscientiousness,conf_Conscientiousness,abserr_Conscientiousness,truth_Extraversion,pred_Extraversion,conf_Extraversion,abserr_Extraversion,truth_Agreeableness,pred_Agreeableness,conf_Agreeableness,abserr_Agreeableness,truth_Neuroticism,pred_Neuroticism,conf_Neuroticism,abserr_Neuroticism
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,0,bea56664778e,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.6,True,5,3,0.0,2,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,3,0.0,0
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,1,e58325dfedc4,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.6,True,5,4,0.0,1,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,2,9e112593ca7e,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.6,True,5,4,0.0,1,4,4,0.0,0,3,3,0.0,0,4,3,0.0,1,3,2,0.0,1
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,3,1837eacb3238,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,5,4,0.0,1,4,2,0.0,2,3,3,0.0,0,4,5,0.0,1,3,2,0.0,1
+Abraham Lincoln,apprentice_confusion,The Apprentice’s Confusion,4,9d95fa84f211,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,5,3,0.0,2,4,2,0.0,2,3,3,0.0,0,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,0,1b503e5d75d3,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,5,2,0.0,3,4,3,0.0,1,3,2,0.0,1,4,4,0.0,0,3,3,0.0,0
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,1,99268f665d6d,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.4,True,5,2,0.0,3,4,2,0.0,2,3,2,0.0,1,4,4,0.0,0,3,4,0.0,1
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,2,00702fe26f36,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,3,0.0,2,4,2,0.0,2,3,2,0.0,1,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,3,d84f67e51fd3,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,5,3,0.0,2,4,2,0.0,2,3,2,0.0,1,4,4,0.0,0,3,3,0.0,0
+Abraham Lincoln,authority_confrontation,The Authority Confrontation,4,02b5aea43712,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,2,0.0,3,4,2,0.0,2,3,3,0.0,0,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,defective_purchase,The Defective Purchase,0,5aabc60991e2,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,5,2,0.0,3,4,2,0.0,2,3,3,0.0,0,4,4,0.0,0,3,3,0.0,0
+Abraham Lincoln,defective_purchase,The Defective Purchase,1,42a33a3f3a1c,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,5,2,0.0,3,4,2,0.0,2,3,3,0.0,0,4,2,0.0,2,3,4,0.0,1
+Abraham Lincoln,defective_purchase,The Defective Purchase,2,9e545c78cbed,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,5,3,0.0,2,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,defective_purchase,The Defective Purchase,3,d68479903e85,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.4,True,5,2,0.0,3,4,3,0.0,1,3,2,0.0,1,4,3,0.0,1,3,4,0.0,1
+Abraham Lincoln,defective_purchase,The Defective Purchase,4,2ee5ef632559,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,4,1,0.0,3,3,2,0.0,1,4,3,0.0,1,3,5,0.0,2
+Abraham Lincoln,grave_news,The Grave News,0,0d6563368658,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.4,True,5,2,0.0,3,4,5,0.0,1,3,2,0.0,1,4,3,0.0,1,3,4,0.0,1
+Abraham Lincoln,grave_news,The Grave News,1,0d2c35449cf8,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,5,3,0.0,2,4,4,0.0,0,3,2,0.0,1,4,4,0.0,0,3,5,0.0,2
+Abraham Lincoln,grave_news,The Grave News,2,aa49e704f449,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,5,2,0.0,3,4,5,0.0,1,3,2,0.0,1,4,2,0.0,2,3,4,0.0,1
+Abraham Lincoln,grave_news,The Grave News,3,f63c890802ed,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,3,0.0,2,4,2,0.0,2,3,2,0.0,1,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,grave_news,The Grave News,4,20a9e9ae7648,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.4,True,5,2,0.0,3,4,5,0.0,1,3,2,0.0,1,4,3,0.0,1,3,4,0.0,1
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,0,c1bfff00303c,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,5,2,0.0,3,4,2,0.0,2,3,3,0.0,0,4,4,0.0,0,3,3,0.0,0
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,1,4f76e2562fcb,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.2,True,5,2,0.0,3,4,1,0.0,3,3,2,0.0,1,4,2,0.0,2,3,5,0.0,2
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,2,3fd9a2d6b778,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,5,2,0.0,3,4,1,0.0,3,3,3,0.0,0,4,5,0.0,1,3,4,0.0,1
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,3,5b4f4d0e6ae4,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,1,0.0,4,4,1,0.0,3,3,2,0.0,1,4,2,0.0,2,3,3,0.0,0
+Abraham Lincoln,high_stakes_evaluation,The High-Stakes Evaluation,4,c4fa2459e493,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,5,2,0.0,3,4,1,0.0,3,3,3,0.0,0,4,2,0.0,2,3,4,0.0,1
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,0,2ff35c8fece9,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,5,2,0.0,3,4,1,0.0,3,3,2,0.0,1,4,3,0.0,1,3,4,0.0,1
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,1,e2a6749e4c10,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,5,2,0.0,3,4,1,0.0,3,3,2,0.0,1,4,4,0.0,0,3,2,0.0,1
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,2,fcf88fa4bd95,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,5,2,0.0,3,4,1,0.0,3,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,3,41eb48e15e7d,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,5,2,0.0,3,4,1,0.0,3,3,2,0.0,1,4,4,0.0,0,3,4,0.0,1
+Abraham Lincoln,peer_confrontation,The Peer Confrontation,4,ba03f217d641,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,5,2,0.0,3,4,1,0.0,3,3,2,0.0,1,4,4,0.0,0,3,1,0.0,2
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,0,9b0d28604376,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,4,0.0,1,5,4,0.0,1,3,3,0.0,0,5,5,0.0,0,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,1,b8d9c1761c22,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,2,0.0,3,5,5,0.0,0,3,3,0.0,0,5,2,0.0,3,5,5,0.0,0
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,2,7c5b251d85a5,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.4,True,5,3,0.0,2,5,5,0.0,0,3,2,0.0,1,5,3,0.0,2,5,3,0.0,2
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,3,f832bbcb3c4f,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,5,2,0.0,3,5,4,0.0,1,3,3,0.0,0,5,4,0.0,1,5,1,0.0,4
+Antonio Salieri,apprentice_confusion,The Apprentice’s Confusion,4,e90f1b2a676f,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,5,2,0.0,3,5,4,0.0,1,3,3,0.0,0,5,4,0.0,1,5,1,0.0,4
+Antonio Salieri,authority_confrontation,The Authority Confrontation,0,f76e03d80b96,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,5,3,0.0,2,3,2,0.0,1,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,authority_confrontation,The Authority Confrontation,1,14f084b9795a,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,5,2,0.0,3,3,2,0.0,1,5,3,0.0,2,5,4,0.0,1
+Antonio Salieri,authority_confrontation,The Authority Confrontation,2,e43de3058a6f,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,5,2,0.0,3,5,3,0.0,2,3,2,0.0,1,5,4,0.0,1,5,4,0.0,1
+Antonio Salieri,authority_confrontation,The Authority Confrontation,3,6e8005a13b10,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,5,2,0.0,3,3,2,0.0,1,5,3,0.0,2,5,4,0.0,1
+Antonio Salieri,authority_confrontation,The Authority Confrontation,4,ec727947ea2a,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,5,3,0.0,2,3,2,0.0,1,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,0,236a2fc98bd9,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,5,3,0.0,2,3,2,0.0,1,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,1,3c6e9382b3ca,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,5,2,0.0,3,5,4,0.0,1,3,3,0.0,0,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,2,857ba632586c,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,3.2,True,5,1,0.0,4,5,2,0.0,3,3,2,0.0,1,5,1,0.0,4,5,1,0.0,4
+Antonio Salieri,defective_purchase,The Defective Purchase,3,676b710897f7,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,5,3,0.0,2,3,2,0.0,1,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,defective_purchase,The Defective Purchase,4,0249c84dcecb,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,5,2,0.0,3,5,2,0.0,3,3,3,0.0,0,5,3,0.0,2,5,4,0.0,1
+Antonio Salieri,grave_news,The Grave News,0,4d509ba39777,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,3,0.0,2,5,5,0.0,0
+Antonio Salieri,grave_news,The Grave News,1,b3b71ced4922,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,4,0.0,1
+Antonio Salieri,grave_news,The Grave News,2,229493e62f40,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,grave_news,The Grave News,3,63647461a112,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,2,0.0,3,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,5,0.0,0
+Antonio Salieri,grave_news,The Grave News,4,29c89d93755d,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,3,0.0,2,5,4,0.0,1,3,2,0.0,1,5,4,0.0,1,5,4,0.0,1
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,0,d0234753f147,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.4,True,5,2,0.0,3,5,3,0.0,2,3,2,0.0,1,5,4,0.0,1,5,5,0.0,0
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,1,29eac6710883,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,5,2,0.0,3,5,4,0.0,1,3,2,0.0,1,5,5,0.0,0,5,4,0.0,1
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,2,b8b57279150f,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,5,2,0.0,3,5,2,0.0,3,3,3,0.0,0,5,4,0.0,1,5,4,0.0,1
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,3,d523fb7e58a2,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.4,True,5,2,0.0,3,5,4,0.0,1,3,2,0.0,1,5,3,0.0,2,5,5,0.0,0
+Antonio Salieri,high_stakes_evaluation,The High-Stakes Evaluation,4,c3b7fd2467bb,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,5,3,0.0,2,3,2,0.0,1,5,2,0.0,3,5,4,0.0,1
+Antonio Salieri,peer_confrontation,The Peer Confrontation,0,bfbf8ea11385,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.0,True,5,2,0.0,3,5,1,0.0,4,3,2,0.0,1,5,4,0.0,1,5,4,0.0,1
+Antonio Salieri,peer_confrontation,The Peer Confrontation,1,22bbdc8fa6e2,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.2,True,5,2,0.0,3,5,1,0.0,4,3,2,0.0,1,5,2,0.0,3,5,5,0.0,0
+Antonio Salieri,peer_confrontation,The Peer Confrontation,2,04642f6e1158,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,5,2,0.0,3,5,2,0.0,3,3,2,0.0,1,5,4,0.0,1,5,4,0.0,1
+Antonio Salieri,peer_confrontation,The Peer Confrontation,3,2f12432b4ed1,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.2,True,5,1,0.0,4,5,2,0.0,3,3,2,0.0,1,5,3,0.0,2,5,4,0.0,1
+Antonio Salieri,peer_confrontation,The Peer Confrontation,4,5e1c6fefd2eb,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,2.6,True,5,2,0.0,3,5,2,0.0,3,3,2,0.0,1,5,3,0.0,2,5,1,0.0,4
+Thor,apprentice_confusion,The Apprentice’s Confusion,0,cc3ad2f44adc,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,3,3,0.0,0,2,2,0.0,0,4,5,0.0,1,2,4,0.0,2,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,1,570f0cf4e333,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.4,True,3,4,0.0,1,2,2,0.0,0,4,3,0.0,1,2,5,0.0,3,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,2,402fbf0d264f,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.6,True,3,4,0.0,1,2,3,0.0,1,4,5,0.0,1,2,5,0.0,3,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,3,e9fe25f558db,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,3,2,0.0,1,2,2,0.0,0,4,4,0.0,0,2,4,0.0,2,3,1,0.0,2
+Thor,apprentice_confusion,The Apprentice’s Confusion,4,4cdc581456ad,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,3,2,0.0,1,2,1,0.0,1,4,4,0.0,0,2,3,0.0,1,3,1,0.0,2
+Thor,authority_confrontation,The Authority Confrontation,0,da2f2f8a99d9,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,3,2,0.0,1,2,1,0.0,1,4,3,0.0,1,2,2,0.0,0,3,4,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,1,f5ace2eed3c6,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.6,True,3,2,0.0,1,2,2,0.0,0,4,4,0.0,0,2,3,0.0,1,3,2,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,2,ded298ad1ba9,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.6,True,3,2,0.0,1,2,1,0.0,1,4,4,0.0,0,2,2,0.0,0,3,4,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,3,b09177acc9ea,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,3,1,0.0,2,2,1,0.0,1,4,2,0.0,2,2,2,0.0,0,3,4,0.0,1
+Thor,authority_confrontation,The Authority Confrontation,4,4fd90d758536,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,3,2,0.0,1,2,2,0.0,0,4,3,0.0,1,2,3,0.0,1,3,4,0.0,1
+Thor,defective_purchase,The Defective Purchase,0,94894dd16a6e,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,3,2,0.0,1,2,3,0.0,1,4,3,0.0,1,2,4,0.0,2,3,2,0.0,1
+Thor,defective_purchase,The Defective Purchase,1,d81afcc4db82,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,3,2,0.0,1,2,2,0.0,0,4,4,0.0,0,2,4,0.0,2,3,4,0.0,1
+Thor,defective_purchase,The Defective Purchase,2,d9399c55d6d2,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,3,1,0.0,2,2,1,0.0,1,4,3,0.0,1,2,2,0.0,0,3,4,0.0,1
+Thor,defective_purchase,The Defective Purchase,3,37c9dc9b50b6,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,3,2,0.0,1,2,4,0.0,2,4,3,0.0,1,2,2,0.0,0,3,2,0.0,1
+Thor,defective_purchase,The Defective Purchase,4,aa9fef47e2d2,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,3,2,0.0,1,2,2,0.0,0,4,3,0.0,1,2,4,0.0,2,3,5,0.0,2
+Thor,grave_news,The Grave News,0,984b9f12c65c,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,3,2,0.0,1,2,4,0.0,2,4,4,0.0,0,2,2,0.0,0,3,4,0.0,1
+Thor,grave_news,The Grave News,1,5ba65efd8d2c,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,3,2,0.0,1,2,3,0.0,1,4,4,0.0,0,2,3,0.0,1,3,2,0.0,1
+Thor,grave_news,The Grave News,2,7e4fcd5266c0,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,3,3,0.0,0,2,4,0.0,2,4,3,0.0,1,2,4,0.0,2,3,4,0.0,1
+Thor,grave_news,The Grave News,3,e460d3c8a3f1,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,3,1,0.0,2,2,2,0.0,0,4,4,0.0,0,2,2,0.0,0,3,1,0.0,2
+Thor,grave_news,The Grave News,4,2da8ea4155fc,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.6,True,3,2,0.0,1,2,2,0.0,0,4,4,0.0,0,2,2,0.0,0,3,5,0.0,2
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,0,da524817162a,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.6,True,3,2,0.0,1,2,2,0.0,0,4,3,0.0,1,2,2,0.0,0,3,4,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,1,27b439002621,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.4,True,3,2,0.0,1,2,2,0.0,0,4,4,0.0,0,2,2,0.0,0,3,2,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,2,2399c4bd7f0f,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,3,1,0.0,2,2,2,0.0,0,4,3,0.0,1,2,2,0.0,0,3,4,0.0,1
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,3,216db6070443,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,0.8,True,3,2,0.0,1,2,2,0.0,0,4,3,0.0,1,2,4,0.0,2,3,3,0.0,0
+Thor,high_stakes_evaluation,The High-Stakes Evaluation,4,b46b522a3922,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,3,2,0.0,1,2,3,0.0,1,4,3,0.0,1,2,4,0.0,2,3,3,0.0,0
+Thor,peer_confrontation,The Peer Confrontation,0,9e924a13f0fb,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,3,2,0.0,1,2,1,0.0,1,4,2,0.0,2,2,5,0.0,3,3,1,0.0,2
+Thor,peer_confrontation,The Peer Confrontation,1,d941fcb0015e,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.8,True,3,1,0.0,2,2,2,0.0,0,4,2,0.0,2,2,5,0.0,3,3,1,0.0,2
+Thor,peer_confrontation,The Peer Confrontation,2,86eb7191e21d,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,3,2,0.0,1,2,1,0.0,1,4,3,0.0,1,2,4,0.0,2,3,3,0.0,0
+Thor,peer_confrontation,The Peer Confrontation,3,e791e81669c1,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.0,True,3,2,0.0,1,2,2,0.0,0,4,3,0.0,1,2,3,0.0,1,3,1,0.0,2
+Thor,peer_confrontation,The Peer Confrontation,4,a78535945720,20,claude,claude-sonnet-4-5,zephyr7788/RoleLLM,1.2,True,3,2,0.0,1,2,1,0.0,1,4,2,0.0,2,2,3,0.0,1,3,2,0.0,1

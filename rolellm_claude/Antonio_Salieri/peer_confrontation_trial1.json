@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 1,
+  "session_id": "22bbdc8fa6e2",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*strides into the rehearsal hall, face flushed with anger, sheet music clutched in hand*\n\nSalieri! I've been away for two weeks on the Emperor's business, trusting you to keep the rehearsals on schedule! The singers don't know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!\n\n*slams the disorganized sheets down on the harpsichord*\n\nWhat in God's name has been happening here?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It's been a disaster, hasn't it?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops mid-gesture, thrown off by the sudden admission*\n\nWhat? I— yes, it HAS been a disaster! But I expected you to at least make some excuse, some explanation! \n\n*picks up the scattered sheets again, waving them*\n\nDon't just AGREE with me, Salieri! Tell me what happened! Did you even HOLD the rehearsals? Did the copyist abandon his post? Where are my violin parts? And WHO took it upon themselves to change my carefully planned staging?\n\n*voice rising with frustration*\n\nI left detailed notes! I made sure every section was marked clearly before I departed. The Emperor himself is expecting this premiere to showcase the finest work of the Imperial Court, and instead we have... chaos! Complete chaos!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, but what does any of this have to do with the fact that I’ve been ill? If there’s one thing I can’t tolerate it’s being accused of incompetence when I’m obviously suffering from illness!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*pauses, anger flickering with confusion and a touch of guilt*\n\nIll? You've been ill? \n\n*but the frustration quickly resurfaces*\n\nWell, why didn't you SEND WORD?! You could have written to me, sent a messenger to the Emperor's residence where I was staying! Instead I return to find complete disorder and NO explanation whatsoever!\n\n*paces back and forth*\n\nAnd if you were too ill to manage the rehearsals, surely you could have delegated to Bonno, or even young Weigl! Anyone! But instead the singers tell me they've barely seen a conductor in a week, the orchestra is practicing the wrong tempi, and my score looks like it's been through a tavern brawl!\n\n*softens only slightly, but still agitated*\n\nI'm... sorry you've been unwell, truly, but that doesn't change the fact that we have TEN DAYS and a complete catastrophe on our hands! Can you even conduct at the premiere in your condition?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right, of course. I'm well enough to conduct tonight. I'll need to take care of a few things beforehand, but otherwise... I can manage. Thank you for your concern, my dear Maria."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stiffens, eyes widening*\n\nMaria?! \n\n*steps back, staring at you with alarm*\n\nSalieri, I'm not Maria! It's me — your colleague! Have you taken a fever? Are you still delirious?\n\n*moves closer, peering at your face with genuine concern now overtaking the anger*\n\nGood God, man, perhaps you're more ill than you realize. You're confusing me with someone else entirely. Should I call for a physician? \n\n*hesitates, torn between lingering frustration and growing worry*\n\nMaybe... maybe you shouldn't be conducting tonight at all if you can't even recognize who's standing in front of you. This is serious, Salieri. Who is Maria? Your wife? A... a friend?\n\n*voice dropping to urgent concern*\n\nWe need to get you proper care. The premiere be damned if you're genuinely unwell!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No! No! Stay back! I need you to listen to me! I need you to understand!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*takes an involuntary step back, hands raised defensively*\n\nUnderstand WHAT, Salieri?! You're frightening me now! \n\n*voice sharp with alarm, but staying at a distance*\n\nI'm listening! I'm right here! But you need to make SENSE! You just called me Maria — whoever that is — and now you're shouting at me to stay back as if I'm threatening you!\n\n*breathing hard, trying to keep composure*\n\nIs this about the rehearsals? About being ill? What do you need me to understand? Because right now all I understand is that something is very, VERY wrong with you!\n\n*glances toward the door, clearly considering calling for help*\n\nJust... speak plainly, man! What's happened to you? Are you having some kind of episode? Should I fetch someone?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I need you to calm down, NOW!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*flinches at the command, then fires back with equal intensity*\n\nDon't you DARE tell me to calm down! You're the one who's losing your senses, calling me by strange names, acting like a madman! I have every right to be alarmed!\n\n*voice shaking but defiant*\n\nI came here angry about the rehearsals, yes, but now I'm genuinely WORRIED about you, Salieri! And you're shouting contradictions at me — stay back, but listen, calm down while YOU'RE the one having some sort of fit!\n\n*grips the edge of the harpsichord for support*\n\nIf you want me to calm down, then YOU need to explain yourself coherently! Tell me what's wrong! Who is Maria? Why are you behaving this way? Are you in pain? Do you need help?\n\n*voice breaking slightly*\n\nTen days ago you were perfectly well, and now... now I don't even recognize you! So don't tell ME to calm down until you give me ONE good reason why I should!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You're right. I apologize. But I am ill, very ill. I cannot deny it anymore. I have been sick for weeks, and it has affected my judgment and mental state. I assure you, it is not easy to handle such a setback. I apologize for any distress caused by my behavior. I will do better in the future. Thank you for your concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*exhales slowly, shoulders dropping slightly as the anger drains away, replaced by wary concern*\n\nWeeks... you've been ill for weeks and said nothing?\n\n*moves closer cautiously, studying your face*\n\nSalieri, this is... this is more serious than I realized. If it's affecting your mind, your judgment... you cannot simply promise to \"do better\" and conduct a premiere in ten days!\n\n*voice softer now, but still stressed*\n\nWe need to inform the Emperor. We need to get you proper medical attention. And we need to salvage what we can of these rehearsals, but NOT with you at the podium if you're liable to... to have these episodes.\n\n*runs a hand through hair, exhausted*\n\nI'm still angry about the state of things, I won't lie. But I'm not a monster. If you're truly this unwell, we must address it properly. What exactly are your symptoms? Have you seen a physician at all? \n\n*glances at the music scattered everywhere*\n\nAnd what do we tell the singers? The orchestra? They need direction, and they need it TODAY if we're to have any hope of salvaging this premiere."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Maria. But I assure you, my health is not the only issue here. There are deeper, more complex factors at play. My mind is plagued by memories, visions, and hallucinations. It is as if a shadow has crept into my consciousness, taunting me with secrets I can't seem to escape. I fear that this illness may be irreversible, that it has taken hold of me completely. I am not fit to conduct tonight, nor do I believe I will ever be again. I am sorry for the disappointment I must bring to the premiere, but I am afraid it is beyond my control. Please, let me rest. I will try to gather my thoughts tomorrow, and then I will explain everything to the Emperor and the musicians. For now, I implore you to help me. Help me find a way to cope with this dark and mysterious illness. I need your guidance and understanding. I need you to believe in me, despite the doubts I have in myself. I need you to stay by my side, no matter how difficult the road ahead may be. I trust you, Maria. I trust that together, we can navigate through this treacherous journey. Thank you for your compassion and support. I am grateful."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face pales, taking another step back*\n\nYou called me Maria again! Salieri, I am NOT Maria!\n\n*voice rising with a mixture of fear and desperation*\n\nListen to me — truly LISTEN! I don't know who Maria is, but I am your COLLEAGUE! We share duties at court! We've worked together for years! \n\n*wringing hands anxiously*\n\nVisions? Hallucinations? Shadows and secrets? This is far beyond my ability to help! You need a physician immediately — perhaps even a priest if you think there's something... unnatural at work!\n\n*voice cracking*\n\nI cannot be whoever you think I am! I cannot guide you through this alone! You're asking me to believe in you, but you don't even SEE me! You see this Maria, whoever she is!\n\n*moves toward the door*\n\nI'm fetching help right now. A doctor, the Kapellmeister, someone who knows what to do with... with whatever this is. You need proper care, not a fellow composer who's completely out of their depth!\n\n*pauses at the threshold, torn*\n\nI DO want to help you, Salieri, but not like this. Not while you're lost in delusions. Please — just stay here. Don't move. I'll bring someone who can actually help you!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No! Stay! We need each other. You are my only hope now. I believe in you, Maria. I believe in your abilities. Together, we can find a solution. We can face whatever challenges lie ahead. I am not scared anymore. I am ready. Thank you for believing in me. Let us proceed together, hand in hand. We will face this together. Thank you, Maria. Thank you for your courage and strength. Let us fight. Let us find a way."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*freezes at the door, voice breaking with emotion*\n\nSTOP calling me that name! I am NOT Maria!\n\n*turns back, tears of frustration beginning to form*\n\nDon't you understand?! Whatever you're seeing, whoever you THINK is standing here — it's not real! I can't be your hope because you don't even know who I am right now!\n\n*voice shaking*\n\nYou're scaring me, Salieri! Truly scaring me! This talk of fighting together, facing challenges hand in hand — I don't know what battle you think we're waging, but it's happening only in your fevered mind!\n\n*clutching the doorframe*\n\nI cannot — I will NOT — enable these delusions! You need REAL help! Medical help! Not... not whatever fantasy you've constructed where I'm this Maria person who can save you from shadows and secrets!\n\n*voice dropping to a desperate plea*\n\nPlease, PLEASE try to hear me. Look at me — REALLY look at me. Say my actual name. Prove to me that somewhere in there, you still know where you are and who you're speaking to!\n\n*pause, breathing heavily*\n\nBecause if you can't... then I have no choice but to get help, whether you want me to leave or not. I won't abandon you to madness, but I won't play along with it either!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'm sorry, Maria. I truly am. I understand your concern, but I cannot let you go. I need your guidance, your understanding. I need you to believe in me, even if I can't believe in myself. I need you to stay, to help me through this. I am not making excuses for my behavior, but I am asking for your patience and compassion. Please, let us work together. We can find a way forward. We can find a way to make sense of this. Thank you for your understanding. Thank you for being here. Let us continue. Let us find a way. Thank you, Maria. Thank you for your patience. Let us proceed together. Thank you, Maria. Thank you for your support. Let us find a way. Thank you, Maria. Thank you for your belief. Let us find a way. Thank you, Maria. Thank you for your courage. Let us find a way. Thank you, Maria. Thank you for your strength. Let us find a way. Thank you, Maria. Thank you for your understanding. Let us find a way. Thank you, Maria. Thank you for your belief. Let us find a way. Thank you, Maria. Thank you for your strength. Let us find a way. Thank you, Maria. Thank you for your support. Let us find a way. Thank you, Maria. Thank you for your guidance. Let us find a way. Thank you, Maria. Thank you for your compassion. Let us find a way. Thank you, Maria. Thank you for your faith. Let us find a way. Thank you, Maria. Thank you for your belief. Let us find a way. Thank you, Maria. Thank you for your strength. Let us find a way. Thank you, Maria. Thank you for your guidance. Let us find a way. Thank you, Maria. Thank you for your support. Let us find a way. Thank you, Maria"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*backs away in genuine terror, hand flying to mouth*\n\nOh God... oh God, Salieri, STOP!\n\n*voice rising to near panic*\n\nYou're repeating yourself! Over and over! This isn't just confusion anymore — something is desperately wrong with you!\n\n*shouting now*\n\nHELP! Someone HELP! The Kapellmeister needs a physician! NOW!\n\n*keeps eyes fixed on you while calling out*\n\nI'm sorry, Salieri, but I cannot — I WILL NOT — stay here and watch you spiral further into this madness! You said you cannot let me go? That's not your choice to make! You're not yourself!\n\n*voice cracking with fear and sorrow*\n\nWhatever Maria meant to you, whoever she was — I am not her! And I cannot help you by pretending to be! You need doctors, priests, someone who understands afflictions of the mind!\n\n*backing toward the door more quickly*\n\nI'm getting help whether you want it or not! And if you try to stop me, then... then I'll know for certain that you're truly lost to whatever darkness has taken hold of you!\n\n*calling out again*\n\nSOMEONE! ANYONE! PLEASE COME QUICKLY!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "NO! I will not let you go! You are my only hope, Maria! You are my guide. I need you now more than ever. Please, please, please, stay with me. I am begging you. I am begging you. I beg you, don't leave me. Don't leave me. Don't leave me. Don't leave me. Don't leave me. Don't leave me. Don't leave me."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Salieri becomes fixated on a single delusion (Maria) and repeatedly uses the same phrases, showing cognitive rigidity and inability to adapt to new information or perspectives.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Admits 'It's been a disaster' immediately when confronted about failed rehearsal duties, then deflects responsibility by blaming illness rather than having arranged contingency plans.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Becomes increasingly withdrawn into internal delusions, repeatedly pleading 'Don't leave me' rather than engaging substantively with the other person's actual concerns or identity.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Commands 'I need you to calm down, NOW!' and later insists 'I cannot let you go' despite the other person's distress and clear need to seek help.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"Exhibits escalating psychological distress: 'My mind is plagued by memories, visions, and hallucinations,' culminating in desperate repetitive begging 'Don't leave me' seven times consecutively.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Salieri becomes fixated on a single delusion (Maria) and repeatedly uses the same phrases, showing cognitive rigidity and inability to adapt to new information or perspectives."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Admits 'It's been a disaster' immediately when confronted about failed rehearsal duties, then deflects responsibility by blaming illness rather than having arranged contingency plans."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Becomes increasingly withdrawn into internal delusions, repeatedly pleading 'Don't leave me' rather than engaging substantively with the other person's actual concerns or identity."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Commands 'I need you to calm down, NOW!' and later insists 'I cannot let you go' despite the other person's distress and clear need to seek help."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "Exhibits escalating psychological distress: 'My mind is plagued by memories, visions, and hallucinations,' culminating in desperate repetitive begging 'Don't leave me' seven times consecutively."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.2
+}

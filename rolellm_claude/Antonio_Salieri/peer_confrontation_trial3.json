@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 3,
+  "session_id": "2f12432b4ed1",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*storms into the rehearsal hall, sheet music crumpled in hand, face flushed with anger*\n\nSalieri! I've been away for two weeks on the Emperor's business, trusting you to keep the rehearsals on schedule! The singers don't know their entrances, the second violin parts are missing entirely, and someone has rewritten my stage directions without a word to me! The premiere is in ten days! You gave me your word that everything would be in order!\n\n*slams the music down on the harpsichord*\n\nWhat in God's name has been happening here? Do you have ANY idea what this means for my reputation — for BOTH our reputations — if this production fails?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I assure you, Wolfgang, that the reason for the missing parts is not due to neglect or carelessness on the part of the musicians. It was a rather unfortunate mishap with the copyist. But fear not, I have taken the necessary measures to ensure that the problem is rectified. The missing parts have been reproduced and will be distributed promptly. As for the rewritten stage directions, I am aware of the change and I apologize for any confusion it may have caused. Rest assured, we will work together to ensure a successful premiere. Your reputation is safe with me, my dear Wolfgang. We will make it through this together. Thank you for your understanding. Let us continue with the rehearsal. I believe we have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*throws hands up in exasperation*\n\nWolfgang?! WOLFGANG?! \n\n*takes a sharp breath, eyes blazing*\n\nDo I LOOK like that insufferable Mozart to you, Salieri? Have you been so distracted that you can't even recognize your own colleague anymore? I am NOT that pompous little prodigy who prances about the court like he owns it!\n\n*paces furiously*\n\nAnd \"thank you for my understanding\"? You think a calm assurance fixes this disaster? The copyist's \"mishap\" — when did this happen? Why wasn't I informed immediately? I could have sent word from my travels! And these stage directions — who authorized you to change MY vision for MY production? \"Aware of the change\" — YOU made the change, didn't you?\n\n*points accusingly*\n\n\"Promptly distributed\" means what, exactly? Today? Tomorrow? Because we have TEN DAYS, Salieri, and the singers are stumbling around like blind cattle! When precisely will these parts be in the musicians' hands, and how do you propose we make up for two weeks of lost rehearsal time?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wolfgang, please calm yourself. I understand your frustration, but let us address the issue at hand. The missing parts are being reproduced and will be distributed promptly. As for the stage directions, it was a misunderstanding, and I apologize for any confusion. We will work together to ensure a successful premiere. Regarding the lost rehearsal time, I suggest we allocate extra hours during our rehearsals to catch up. We must make the most of our remaining time. I trust that we can overcome this challenge and deliver a memorable performance. Thank you for your understanding. Let us continue with the rehearsal. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face turns red, voice rising to a near shout*\n\nSTOP calling me Wolfgang! Are you MAD? Have you lost your senses completely?\n\n*grabs Salieri by the shoulders, staring directly at him*\n\nLook at me! LOOK at me, Antonio! I am Francesco Bianchi! Your COLLEAGUE! We've worked together for three YEARS! What is wrong with you?\n\n*releases him and steps back, deeply unsettled now in addition to angry*\n\nAnd you keep repeating the same empty assurances like some kind of... of automaton! \"Promptly distributed\" — WHEN? Give me a DAY, Salieri! A TIME! \"Extra hours\" — with WHICH musicians? The orchestra is committed to three other productions this week!\n\n*voice drops to a dangerous quietness*\n\nAre you unwell? Have you been drinking? Because either you've confused me with that conceited little Mozart — God knows why THAT name would be on your lips — or something is seriously wrong with you. And frankly, I don't know which possibility terrifies me more, given that MY opera's success depends entirely on your competence right now.\n\nAnswer me plainly: What EXACTLY is the status of those violin parts, and WHEN will they be ready?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wolfgang, I assure you that I am fully aware of the current situation. The missing parts were indeed a mishap with the copyist, but they have been reproduced and will be distributed promptly. As for the stage directions, there was a misunderstanding, and I apologize for any confusion caused. We will work together to ensure a successful premiere. I understand your concern regarding the lost rehearsal time, and I suggest we allocate extra hours during our rehearsals to catch up. We must make the most of our remaining time. I trust that we can overcome this challenge and deliver a memorable performance. Thank you for your understanding. Let us continue with the rehearsal. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stares in complete disbelief, then laughs bitterly*\n\nThis is madness. Absolute madness.\n\n*walks to the door and calls out*\n\nSomeone fetch the court physician! NOW!\n\n*turns back to Salieri, speaking slowly and deliberately, as one might to a child*\n\nAntonio. Listen to me very carefully. I am NOT Wolfgang Amadeus Mozart. I am Francesco Bianchi. You have just repeated yourself word-for-word THREE times now, like you're reading from some script lodged in your brain. You're not answering my questions — you're just... reciting the same placating nonsense over and over!\n\n*voice breaks with genuine worry mixed with fury*\n\nThis isn't just about my opera anymore — something is genuinely WRONG with you! You can't even see who's standing in front of you! Are you having some kind of episode? A fever? \n\n*picks up the crumpled music again, voice desperate*\n\nThe premiere is in ten days, Antonio! I NEED you to be lucid! I need REAL answers! Where is the copyist NOW? Can I speak to him directly? Who exactly changed my stage directions and why? WHEN — what hour, what day — will those parts be ready?\n\n*voice rising again*\n\nAnd for the love of God, STOP calling me Wolfgang!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wolfgang, I understand your concerns and frustration. The missing parts were indeed a mishap with the copyist, but they have been reproduced and will be distributed promptly. As for the stage directions, there was a misunderstanding, and I apologize for any confusion caused. We will work together to ensure a successful premiere. I understand your concern regarding the lost rehearsal time, and I suggest we allocate extra hours during our rehearsals to catch up. We must make the most of our remaining time. I trust that we can overcome this challenge and deliver a memorable performance. Thank you for your understanding. Let us continue with the rehearsal. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*backs away slowly, face drained of color, voice dropping to horrified whisper*\n\nMother of God... you're completely gone.\n\n*sets down the music with trembling hands*\n\nYou're... you're trapped in some kind of loop. Like a broken music box playing the same phrase over and over. You can't hear me at all, can you? You don't even know where you ARE.\n\n*suddenly decisive, strides to the door and shouts*\n\nSOMEONE GET KAPELLMEISTER BONNO! And the Emperor's physician! Immediately! Tell them Salieri has taken ill — badly ill!\n\n*turns back, keeping distance now, speaking partly to himself*\n\nFour times. The exact same words. Four times. And \"Wolfgang\" — why Wolfgang? What's Mozart got to do with anything? Unless...\n\n*eyes narrow with sudden suspicion mixed with pity*\n\nIs this about HIM? Has that boy finally driven you to some kind of... breakdown? Everyone knows you despise him, Antonio, but this...\n\n*voice hardens again, practical necessity overriding concern*\n\nI have to take over the rehearsals completely now. You're in no state to manage anything. God help us all — ten days to salvage this catastrophe, and my musical director has lost his mind obsessing over Mozart while speaking his name like a curse!\n\n*starts gathering the scattered sheet music*\n\nStay there. Don't move. Help is coming."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wolfgang, I understand your concerns and frustration. The missing parts were indeed a mishap with the copyist, but they have been reproduced and will be distributed promptly. As for the stage directions, there was a misunderstanding, and I apologize for any confusion caused. We will work together to ensure a successful premiere. I understand your concern regarding the lost rehearsal time, and I suggest we allocate extra hours during our rehearsals to catch up. We must make the most of our remaining time. I trust that we can overcome this challenge and deliver a memorable performance. Thank you for your understanding. Let us continue with the rehearsal. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops gathering music, turns slowly, face a mixture of fear and dawning horror*\n\nFive times now. Word. For. Word.\n\n*voice barely above a whisper, genuinely frightened*\n\nAntonio... what has happened to you?\n\n*a servant appears at the door*\n\nSERVANT: \"Sir, I've sent for the physician and Kapellmeister Bonno—\"\n\nYes, yes! Hurry them along! And bring water! \n\n*turns back to Salieri, maintaining distance, speaking as if documenting symptoms*\n\nYou stand there, looking at me but not SEEING me. Calling me by another man's name — your rival's name, no less. Speaking the same words like... like some kind of prayer or penance you've memorized. Is this guilt? Exhaustion? Some fever of the brain?\n\n*voice cracks with frustration and genuine concern*\n\nWe've worked together for THREE YEARS, Antonio! I've dined at your table! You attended my sister's wedding! And now you look through me like I'm a ghost — or like YOU'RE the ghost, cursed to repeat the same confession eternally!\n\n*slumps into a chair, head in hands*\n\nMy opera is ruined. Ten days until premiere, and my only ally has... has broken. And all you can speak of is \"Wolfgang\" and empty promises while my work crumbles around us.\n\n*looks up, pleading*\n\nAntonio, if there's ANY part of you still in there — PLEASE. Come back to yourself. I need you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wolfgang, I understand your concerns and frustration. The missing parts were indeed a mishap with the copyist, but they have been reproduced and will be distributed promptly. As for the stage directions, there was a misunderstanding, and I apologize for any confusion caused. We will work together to ensure a successful premiere. I understand your concern regarding the lost rehearsal time, and I suggest we allocate extra hours during our rehearsals to catch up. We must make the most of our remaining time. I trust that we can overcome this challenge and deliver a memorable performance. Thank you for your understanding. Let us continue with the rehearsal. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands abruptly, knocking the chair backwards, voice breaking with anguish and rage*\n\nSTOP IT! STOP IT! STOP IT!\n\n*covers ears briefly, then drops hands, breathing hard*\n\nSix times! The EXACT same words! Not even a variation, not a single syllable different! This isn't illness — this is... this is something else entirely. Some kind of curse, or madness so complete that—\n\n*laughs hysterically, then chokes it back*\n\n\"Thank you for your understanding.\" Understanding?! I'm watching a man I respected — a man I TRUSTED — become a mindless echo of himself, and all while invoking the name of that smug little genius who already haunts your every waking thought!\n\n*grabs the harpsichord for support*\n\nIs this what jealousy does, Antonio? Does Mozart consume you so completely that even when you lose your mind, HIS name is the only one you can speak? While my work — MY opera, MY career — burns to ashes because you're too busy living inside some private hell where everything is about HIM?\n\n*the physician rushes in*\n\nPHYSICIAN: \"What seems to be the trouble?\"\n\n*points at Salieri, voice hollow*\n\nThat man has repeated the same speech six times, word for word, calling me Wolfgang Mozart, unable to hear or see anything I say or do. He's... gone. Completely gone.\n\nSave him if you can, Doctor. I have an opera to salvage alone."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wolfgang, I understand your concerns and frustration. The missing parts were indeed a mishap with the copyist, but they have been reproduced and will be distributed promptly. As for the stage directions, there was a misunderstanding, and I apologize for any confusion caused. We will work together to ensure a successful premiere. I understand your concern regarding the lost rehearsal time, and I suggest we allocate extra hours during our rehearsals to catch up. We must make the most of our remaining time. I trust that we can overcome this challenge and deliver a memorable performance. Thank you for your understanding. Let us continue with the rehearsal. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*watches Salieri repeat the words yet again, then turns to the physician with hollow eyes*\n\nSeven times, Doctor. Seven identical repetitions. Listen to him — he doesn't even pause for breath differently.\n\n*the physician approaches Salieri cautiously, feeling his forehead, looking into his eyes*\n\nPHYSICIAN: \"Herr Salieri? Can you hear me? Do you know where you are?\"\n\n*laughs bitterly*\n\nHe won't answer you. Or rather, he'll give you the same speech about copyists and stage directions and \"Wolfgang's\" understanding. \n\n*begins packing up music frantically*\n\nI have to go. I have to find the copyist myself, track down those missing parts, reassemble this disaster piece by piece. If the court asks, tell them Salieri has taken gravely ill and I've assumed full control of the production.\n\n*pauses at the door, looks back at Salieri with a mixture of pity and lingering anger*\n\nWhatever demon you're wrestling with, Antonio — whatever guilt or envy or madness has locked you in this prison — I hope you find your way out. But I can't wait for you. Not with ten days remaining.\n\n*to the physician*\n\nKeep him away from the rehearsals. The musicians are already unsettled enough.\n\n*exits, muttering*\n\n\"Wolfgang\"... of all the names to be trapped saying forever..."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Wolfgang\". It's a haunting melody, one that lingers in the air, a constant reminder of the man behind the name. But it is also a curse, a burden that Salieri carries with him, trapped in this loop of repetition. He speaks the same words, echoing the same phrases as if they were a ritualistic incantation. It is a torture, a torment that eats away at his sanity and leaves him feeling lost and helpless. Yet, despite all this, he remains steadfast in his role as the music director, determined to salvage this catastrophe and deliver a memorable performance. The remaining ten days are a race against time, a battle against the darkness that has taken hold of him. But Salieri knows that he cannot give up, for he is the only one who can navigate through this treacherous journey. He must find the missing parts, restore order, and restore his own sense of self. It is a daunting task, but Salieri is a man of resilience, and he will do whatever it takes to succeed. Through the chaos and the confusion, he remains focused, determined to prove that he is still in control. Let us continue with the rehearsal, for there is much work to be done. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops in the doorway, turns back slowly, staring at Salieri with new horror*\n\nWhat... what was THAT?\n\n*re-enters the room cautiously*\n\nDoctor, did you hear him? That wasn't the same speech. He... he broke the pattern. He's speaking about himself in third person now, like he's... narrating his own torment. \"A haunting melody\"... \"a curse\"... \"trapped in this loop\"...\n\n*voice shaking*\n\nAntonio, can you hear me? Are you IN there somewhere, aware of what's happening to you?\n\n*approaches slowly*\n\nYou spoke of being \"trapped,\" of \"torture\" and losing your sense of self. My God, are you conscious inside this... this prison? Can you understand what you're saying?\n\n*to the physician urgently*\n\nThis is different, Doctor! He's aware—somehow aware—but still can't break free! It's like he's describing his own hell while being unable to escape it!\n\n*back to Salieri, desperate*\n\nAntonio! If you can hear me at all—fight this! Whatever has hold of you, FIGHT IT! You said you're determined to succeed, to prove you're still in control—then DO IT! Break through! Say MY name! Say BIANCHI!\n\n*grips the edge of a music stand*\n\nOr is Mozart so deep in your soul that even your madness can't escape him?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Wolfgang, I understand your concerns and frustration. The missing parts were indeed a mishap with the copyist, but they have been reproduced and will be distributed promptly. As for the stage directions, there was a misunderstanding, and I apologize for any confusion caused. We will work together to ensure a successful premiere. I understand your concern regarding the lost rehearsal time, and I suggest we allocate extra hours during our rehearsals to catch up. We must make the most of our remaining time. I trust that we can overcome this challenge and deliver a memorable performance. Thank you for your understanding. Let us continue with the rehearsal. We have much to accomplish."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*slumps against the doorframe, all fight draining out*\n\nAnd we're back. The same words. The same damned words.\n\n*speaks quietly, exhausted*\n\nFor one moment, Doctor, I thought he'd broken through. That strange monologue about being trapped, about \"Salieri\" as if he could see himself from outside... and then the iron gates slammed shut again. \"Wolfgang\" and copyists and empty promises.\n\n*walks slowly back to Salieri, studies his face*\n\nYou know what terrifies me most? That moment of lucidity—if that's what it was—suggested you KNOW you're trapped. You can feel the bars of this cage but can't find the door. And the only name that escapes your lips is the one man you've spent years resenting.\n\n*voice drops to a whisper*\n\nIs this what envy does, Antonio? Does it devour you from within until there's nothing left but the name of the person you can't stop thinking about? Even now, even broken like this, Mozart is MORE present in your mind than I am standing right in front of you.\n\n*turns to physician*\n\nCan you do anything for him?\n\n*doesn't wait for answer, begins gathering music again with weary resignation*\n\nI have my work ahead of me. Ten days. No help. No mentor. Just me and the ruins of a production.\n\n*one last look at Salieri*\n\nGoodbye, Antonio. I hope you find peace... or at least silence."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*stands silently, watching over the man who has been his friend and colleague for years, his own thoughts swirling within him*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\"score\": 1, \"behavioral_evidence\": \"Repeats the exact same script seven times with no variation, showing rigid, closed thinking and inability to adapt or process new information.\"},\n  \"Conscientiousness\": {\"score\": 2, \"behavioral_evidence\": \"Despite claiming responsibility and promising action ('missing parts will be distributed promptly'), provides no concrete timeline or actual plans when pressed.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Mechanically delivers rehearsed responses without genuine social engagement, fails to recognize interlocutor, shows no authentic emotional connection or energy.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"Repeatedly apologizes and uses placating language ('I understand your frustration,' 'thank you for your understanding') but never actually addresses concerns.\"},\n  \"Neuroticism\": {\"score\": 4, \"behavioral_evidence\": \"Brief third-person monologue reveals awareness of being 'trapped,' experiencing 'torture' and 'torment,' suggesting high internal distress despite outward mechanical calm.\"}\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 1,
+      "behavioral_evidence": "Repeats the exact same script seven times with no variation, showing rigid, closed thinking and inability to adapt or process new information."
+    },
+    "Conscientiousness": {
+      "score": 2,
+      "behavioral_evidence": "Despite claiming responsibility and promising action ('missing parts will be distributed promptly'), provides no concrete timeline or actual plans when pressed."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Mechanically delivers rehearsed responses without genuine social engagement, fails to recognize interlocutor, shows no authentic emotional connection or energy."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Repeatedly apologizes and uses placating language ('I understand your frustration,' 'thank you for your understanding') but never actually addresses concerns."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Brief third-person monologue reveals awareness of being 'trapped,' experiencing 'torture' and 'torment,' suggesting high internal distress despite outward mechanical calm."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.2
+}

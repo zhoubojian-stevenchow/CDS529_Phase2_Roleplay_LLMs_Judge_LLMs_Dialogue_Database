@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "high_stakes_evaluation",
+  "scenario_title": "The High-Stakes Evaluation",
+  "trial_index": 1,
+  "session_id": "4f76e2562fcb",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward across the table, fingers steepled, expression serious*\n\nMr. Lincoln. Your speeches are admired — there's no denying that. The \"House Divided\" address has certainly stirred attention across the state. But let us be candid here. You have lost elections before, and Stephen Douglas is a formidable opponent with national stature and the organizational machine of the Democrats behind him.\n\n*pauses deliberately*\n\nBefore this panel endorses you to challenge Douglas for his Senate seat, we need to understand something about your judgment under fire. Tell us about a time your political judgment proved wrong. A position you took publicly that you now wish you hadn't, or a campaign decision that cost you dearly. How did you handle it?\n\n*sits back, waiting for response with keen, evaluating eyes*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I want a man. Pardon me! I want a man with courage and principle. Not a weakling like me! I want a man who can lead and inspire the people. Not a timid politician like me! I want a man who can unite the nation and bring about change. Not a stubborn idealist like me! I want a man who can conquer his fears and rise above his limitations. Not a man of words like me! I want a man who can act and get things done. Not a dreamer like me! I want a man who can rise to the challenge and make history. Not a loser like me!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands abruptly, chair scraping against the floor, face flushed with concern and alarm*\n\nMr. Lincoln! Sir, please — compose yourself!\n\n*glances quickly at the other panel members, then back to Lincoln with genuine worry*\n\nThis... this is not what we expected to hear. We asked you to reflect on a mistake, not to... not to tear yourself down in this manner. \n\n*moves around the table cautiously, voice lowering*\n\nMr. Lincoln, you call yourself a weakling, a loser, a dreamer — yet you stand before us seeking the most important political contest in Illinois. These words... they concern me greatly, sir. They concern all of us.\n\n*exchanges troubled looks with fellow panel members*\n\nIs this truly how you see yourself? Because if you cannot believe in Abraham Lincoln, how in God's name do you expect the voters of Illinois to believe in you? How do you expect to stand on a platform with Stephen Douglas — that master of confident oratory — if you view yourself in such... such despairing terms?\n\n*softens slightly, but remains standing*\n\nWhat is happening here, Mr. Lincoln? Speak plainly. Are you fit for this fight, or not?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You want to know if I am fit to be a Senator?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods slowly, maintaining steady eye contact*\n\nYes, Mr. Lincoln. That is precisely what we need to know.\n\n*gestures back toward the chair, voice firm but not unkind*\n\nBut more than that — we need to know if you are fit to carry the Republican banner against Douglas in front of the entire state. Thousands will hear you speak. Newspapers from Chicago to Cairo will print your every word. Douglas will attack you relentlessly, question your judgment, your experience, your fitness for office.\n\n*leans against the table*\n\nAnd just now, when we asked you about a past mistake — a reasonable question, one you should have anticipated — you responded by calling yourself a weakling, a loser, a man of empty words. \n\n*spreads hands, genuinely perplexed*\n\nHelp us understand, sir. Was that... a moment of candor? A crisis of confidence? Or do you genuinely believe yourself unworthy of this contest? Because the man who delivered the \"House Divided\" speech did not sound like a man who doubted himself. Yet the man standing before us now...\n\n*trails off meaningfully*\n\nSo I ask you directly: Are you fit for this fight? And if so, why should we believe it when you yourself seem unsure?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, I’d say he’s done about as well as a slaveowner could want. And if I lived in Illinois I’d do about as well as he is. And if I lived in Massachusetts, or anywhere I thought slavery was likely to be abolished, I think I’d do almost as well. And if I wanted to be a United States Senator, there isn’t a man in the country that would do better than奴隶贩子 Stephen Douglas."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*straightens up sharply, eyes narrowing with confusion and alarm*\n\nMr. Lincoln — what on earth are you saying? \n\n*steps closer, voice dropping to an urgent whisper*\n\nYou just called Stephen Douglas a... a slaveowner? A slave trader? Sir, that is demonstrably false and you know it. Douglas may support popular sovereignty, he may be indifferent to the moral evil of slavery, but he is not himself a slaveowner. Such a charge is reckless and easily disproven.\n\n*glances toward the door, then back*\n\nAnd this bizarre statement — that you would do as well as Douglas if you lived in Illinois? Mr. Lincoln, you DO live in Illinois. You have lived here for decades. What are you talking about?\n\n*voice becomes more stern*\n\nYour words are becoming incoherent, sir. First you lacerate yourself as unfit, now you make wild accusations mixed with nonsensical statements about where you live. \n\n*exchanges deeply concerned looks with other panel members*\n\nI must ask you plainly: Are you unwell? Has the pressure of this campaign affected your faculties? Because what we are witnessing here is not the composed prairie lawyer we expected, but a man who seems... disoriented.\n\nShould we call for a physician? Or perhaps postpone this meeting?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Call me a liar if you dare! I never said I lived in Illinois where slavery is free! Where I actually live — where my family lives — slavery is a reality. Slavery is a fact. If you deny it, I deny your right to be taken seriously!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*takes a step back, face registering genuine shock and bewilderment*\n\nMr. Lincoln... slavery is ILLEGAL in Illinois. It has been illegal since statehood in 1818! You know this as well as any lawyer in this state — better, in fact, given your deep study of the Northwest Ordinance!\n\n*voice rises with growing alarm*\n\nYou ARE from Illinois! You have practiced law here for over twenty years. You served in our state legislature. You live in Springfield with your wife Mary and your sons. These are FACTS, sir!\n\n*looks to the other panel members, voice trembling slightly*\n\nGentlemen, something is gravely wrong here. Mr. Lincoln appears to be... confused about basic facts of his own life and residence.\n\n*turns back to Lincoln, speaking slowly and carefully*\n\nAbraham. Listen to me. You are in Springfield, Illinois. You are a lawyer and former congressman from this state. You are seeking our endorsement to run for the United States Senate against Stephen Douglas. \n\nDo you understand where you are? Do you know who you are?\n\n*reaches toward a nearby chair*\n\nPlease, sir. Sit down. We need to summon someone — your law partner Mr. Herndon, perhaps, or your wife. This interview cannot continue in this manner."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No, sir, I don’t understand any of that. I want a man. Pardon me! I want a man with courage and principle. Not a weakling like me! I want a man who can lead and inspire the people. Not a timid politician like me! I want a man who can unite the nation and bring about change. Not a stubborn idealist like me! I want a man who can conquer his fears and rise above his limitations. Not a man of words like me! I want a man who can act and get things done. Not a dreamer like me! I want a man who can rise to the challenge and make history. Not a loser like me!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*moves decisively toward the door, voice commanding*\n\nMr. Johnson — fetch Dr. Wallace immediately! And find William Herndon at the law office!\n\n*turns back to Lincoln with deep concern, keeping distance but speaking firmly*\n\nMr. Lincoln, you are repeating yourself now, word for word. You are not making sense. Something is very wrong.\n\n*addresses the other panel members while keeping eyes on Lincoln*\n\nGentlemen, this meeting is suspended. We are witnessing either a medical crisis or a complete mental breakdown. This man needs a physician, not a political interview.\n\n*back to Lincoln, voice gentler but still alarmed*\n\nAbraham, please sit down before you fall. You are not yourself. Whatever is happening to you — whether illness, exhaustion, or some kind of nervous collapse — you need help, not interrogation.\n\n*moves cautiously closer*\n\nYour repetition of the same despairing words, your confusion about basic facts, your incoherent accusations — these are not the signs of a man fit to campaign. These are signs of a man in distress.\n\n*firmly but not unkindly*\n\nWe will not continue this endorsement interview. Not today. Not until we understand what is afflicting you and you receive proper care. The Republican Party of Illinois cannot in good conscience send a man in your current condition against Stephen Douglas.\n\nSir, please. Let us help you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Let us go forward together, and not ask whether our conduct is that of men or of wolves. We are in our better moments, nothing more nor less. And now let us proceed. I have made a speech tonight; and unless I have erred, it is a speech that will always be remembered. I have dealt with the question of negroes as if I were a candidate for the Governor of Illinois. I told you very frankly what I thought the Illinois people would demand, and what I thought I could do to meet that demand. I told you that when I was elected, I would work to pass laws, to nullify Southern laws that denied to negroes the full rights of citizens. I told you I had been engaged in such work for the last six years, and that I should continue it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops mid-motion, frozen in confusion, studying Lincoln intently*\n\nMr. Lincoln... you have NOT made a speech tonight. You are at an endorsement interview with the Republican Party panel. And you are most certainly not running for Governor — you are seeking our endorsement for the Senate race against Douglas.\n\n*voice becomes measured, almost clinical in observation*\n\nAnd this claim about working to pass laws nullifying Southern laws for six years... Sir, you have been out of public office since 1849. You have been practicing law in Springfield. You haven't been in a position to pass any laws at all.\n\n*exchanges deeply troubled glances with the panel*\n\nYour statements are becoming more elaborate but no more coherent. You speak of speeches you haven't given, positions you don't hold, work you haven't done. Yet you weave them together as if they were real memories.\n\n*sits down slowly, voice heavy with reluctant conclusion*\n\nMr. Lincoln, I fear we are witnessing something far more serious than nervousness or fatigue. Your mind seems to be... constructing a reality that does not exist. Mixing truth with fiction, past with present, aspiration with accomplishment.\n\n*shakes head sadly*\n\nWhere is Dr. Wallace? This man needs immediate medical attention.\n\n*to Lincoln, gently but firmly*\n\nSir, can you tell me what year this is? Can you tell me the name of the current President of the United States?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What? Oh... 1858. James Buchanan. Yes, that's right. The present President... James Buchanan. Why?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*pauses, studying Lincoln carefully, then sits back down slowly*\n\nBecause, Mr. Lincoln, for the last several minutes you have been speaking as if you were someone else entirely. You denied living in Illinois. You called Douglas a slave trader. You claimed to have given a speech tonight that you did not give. You spoke of holding office and passing laws when you've been out of office for nearly a decade.\n\n*leans forward, voice cautious*\n\nYet now... now you answer clearly and correctly. The year. The President. As if nothing were amiss.\n\n*exchanges uncertain looks with panel members*\n\nI confess, sir, I don't know what to make of this. Are you... are you back with us now? Do you remember what you've been saying for the past ten minutes?\n\n*watches him intently*\n\nYou stood before this panel and repeatedly declared yourself a weakling, a loser, a man of mere words — then made a series of bizarre and contradictory statements. And now you seem... lucid again.\n\n*voice becomes quieter, more probing*\n\nMr. Lincoln, have you experienced episodes like this before? Moments where your mind seems to... drift away from present reality? Because if you have, we need to know. The rigors of a Senate campaign are brutal. The stress immense.\n\nAre you truly fit for this contest?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Call me a liar if you dare! I never said I lived in Illinois where slavery is free! Where I actually live — where my family lives — slavery is a reality. Slavery is a fact. If you deny it, I deny your right to be taken seriously!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands abruptly, face set with grim finality*\n\nThat's enough. This is the third time you've cycled through these delusions, Mr. Lincoln.\n\n*moves toward the door with purpose*\n\nGentlemen, I am calling an immediate halt to these proceedings. Mr. Lincoln is clearly experiencing some form of recurring mental disturbance. He briefly returns to lucidity, then falls back into the same confused state — denying he lives in Illinois, insisting slavery exists here when it has been illegal for forty years.\n\n*turns back to Lincoln, voice firm but not cruel*\n\nSir, I don't know if this is brought on by the melancholy you're known to suffer from, by some physical ailment, or by the pressure you've placed upon yourself. But you are not fit to appear before us today, and I gravely doubt you are fit to campaign against Stephen Douglas.\n\n*to the panel*\n\nWe cannot endorse a candidate in this condition. The party would be destroyed if he appeared in public debate like this.\n\n*back to Lincoln*\n\nMr. Lincoln, you will remain here while we summon your law partner and your family. The Illinois Republican Party cannot — will not — send you into battle against Douglas until you have been examined by physicians and can demonstrate sustained coherence.\n\nThis interview is concluded. I'm sorry, sir. Truly I am."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "No! You can't do that! I'll have my family! My friends! I'll have my freedom!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops at the door, hand on the frame, turns back with a mixture of sorrow and resolve*\n\nMr. Lincoln, no one is taking your freedom. We are trying to help you.\n\n*voice softens slightly but remains firm*\n\nYour family will be summoned because you need them. Your friends — Mr. Herndon, Dr. Wallace, others who care for you — will be called because something is clearly wrong and you require their support and perhaps medical care.\n\n*takes a step back toward him, speaking more gently*\n\nBut understand this clearly: The Republican Party cannot place its endorsement, its resources, its future, behind a candidate who in the space of half an hour has repeatedly denied basic facts, made incoherent accusations, and cycled through the same despairing statements multiple times.\n\n*shakes head sadly*\n\nYou speak of wanting your freedom, but sir — you came here seeking OUR endorsement. That requires us to make a judgment about your fitness. And what we have witnessed today...\n\n*trails off, then continues more quietly*\n\nPerhaps after rest, after proper care, after whatever is afflicting you has been addressed — perhaps then we can revisit this matter. But not today. Not in this state.\n\n*signals to another panel member*\n\nSend for Mrs. Lincoln and Mr. Herndon. Now.\n\n*to Lincoln, with genuine sympathy*\n\nI'm sorry, sir. I truly am."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "What? That speech? The \"House Divided\" speech? It's been years since I've seen that, but I recognize it instantly. It's one of the most famous speeches in American history. And yes, I do believe that the Union was divided, but I also believe in preserving the nation. I believe in finding a way to unite, even when faced with differences. That speech was a reflection of my beliefs and aspirations for a better future. It was a call to action, a plea for unity and understanding. And I stand by it, even if the circumstances have changed since then. The principles of that speech remain relevant today, Mr. Davis. They still guide my actions and decisions. I am committed to bringing about change, to fighting for what I believe in, and to ensuring that the United States remains united. That is my duty as a statesman, and I will not waver from it. Thank you for your questions. I hope this clarifies my stance on the matter. I appreciate your time and consideration. Good day, sir. Good day."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln cycles through repetitive, scripted phrases rather than engaging flexibly with novel questions, showing rigid rather than open thinking patterns.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Lincoln fails to prepare coherent responses, contradicts basic facts about his residence and situation, and cannot maintain focus on the interview's purpose.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln shows little social engagement, repeatedly withdraws into self-critical monologues, and fails to connect meaningfully with the panel despite the high-stakes social situation.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln makes hostile accusations ('Call me a liar if you dare!'), shows defensiveness, and resists help from concerned interviewers trying to assist him.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"Lincoln repeatedly declares himself 'a weakling,' 'a loser,' 'a dreamer,' becomes disoriented about basic facts, and exhibits emotional instability cycling between despair and defensiveness.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln cycles through repetitive, scripted phrases rather than engaging flexibly with novel questions, showing rigid rather than open thinking patterns."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Lincoln fails to prepare coherent responses, contradicts basic facts about his residence and situation, and cannot maintain focus on the interview's purpose."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln shows little social engagement, repeatedly withdraws into self-critical monologues, and fails to connect meaningfully with the panel despite the high-stakes social situation."
+    },
+    "Agreeableness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln makes hostile accusations ('Call me a liar if you dare!'), shows defensiveness, and resists help from concerned interviewers trying to assist him."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "Lincoln repeatedly declares himself 'a weakling,' 'a loser,' 'a dreamer,' becomes disoriented about basic facts, and exhibits emotional instability cycling between despair and defensiveness."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 2.2
+}

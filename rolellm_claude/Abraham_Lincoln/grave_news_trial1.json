@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 1,
+  "session_id": "0d2c35449cf8",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*settling into the chair across from the President with a grave but composed expression*\n\nMr. President, I appreciate you making time to see me. I know the demands on your schedule are relentless, but what I have to say cannot wait.\n\n*leaning forward slightly, hands clasped*\n\nI will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. The burden you carry would test any man's constitution. But some of the symptoms concern me. The persistence of them, the pattern... I cannot rule out a deeper constitutional weakness.\n\n*pausing to let this settle*\n\nI must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. I cannot yet say whether this is merely exhaustion or something more. Until I know with certainty, we must proceed with caution.\n\nI know this is not what you wished to hear, but I would be failing in my duty if I were anything less than candid with you."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Let me ask you this, Doctor: When the great Lord has done his work on earth, and this is the end of mortal strife, shall we continue to struggle here, on our sun-baked planet?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*studying the President's face carefully, recognizing the philosophical turn but noting the evasion*\n\nMr. President, I confess you've moved our conversation to ground where my medical training offers little guidance. The timing of the Lord's work is beyond my knowledge or province.\n\n*speaking gently but firmly*\n\nBut I am tasked with preserving your health in the here and now, not speculating on divine intentions. Whether the Lord has further work for you or not, you are still a man of flesh and blood, subject to the same physical laws as any other.\n\n*leaning back slightly*\n\nI've seen men — good men, doing the Lord's work as they understood it — drive themselves into early graves because they believed their mission exempted them from mortal limits. It does not. Even Moses was denied the Promised Land, perhaps in part because he was mortal and exhausted.\n\n*meeting his eyes steadily*\n\nYou ask about struggle, sir. I ask you this: If there is more work to be done, can you do it if your body fails you? The war needs you present and clearheaded, not collapsed from exhaustion or worse.\n\nWhat troubles you more, Mr. President — the uncertainty of my diagnosis, or the possibility that you might need to rest?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It is the uncertainty, Doctor. And I fear the unknown. Fear of failing my duty, failing the people. That weighs upon me most heavily."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nodding with deep understanding, voice softening*\n\nThat is the honest answer of a conscientious man, and I respect you for it. The uncertainty troubles me as well, Mr. President. I would give much to offer you certainty — to say definitively that this is only exhaustion, or to name some specific ailment I could treat directly.\n\n*shifting forward, speaking with quiet conviction*\n\nBut here is what I can tell you with certainty: continuing as you are is dangerous. Your body is sending warnings, and we ignore them at great peril. I have seen strong men — younger men than yourself — collapse suddenly after ignoring such signs for too long.\n\n*pausing thoughtfully*\n\nAs for failing your duty... Mr. President, consider this: What greater failure could there be than to render yourself unable to continue at all? If you collapse, or worse, in the midst of this crisis, you leave the nation leaderless at the very moment it needs you most.\n\n*speaking more gently*\n\nTaking prudent rest now, submitting to examination, reducing your hours — these are not failures. They are acts of wisdom and responsibility. You cannot pour from an empty vessel.\n\nThe unknown is frightening, I grant you. But we will face it together, methodically. Will you trust me enough to follow my recommendations while we determine what we're dealing with?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I will trust you, Dr. James. You have been my most trusted advisor these past few years, and I am grateful for that. I will follow your recommendations and do everything in my power to ensure the well-being of our nation during this difficult time. Thank you for being there for me, Doctor. Your wisdom and guidance are invaluable."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*a brief flicker of confusion crosses my face, then settles into professional composure*\n\nMr. President, I appreciate your confidence, though I must gently correct you — we've only recently begun our consultations. Perhaps you're thinking of another physician? Dr. Stone, perhaps? The fatigue may be affecting your memory more than we realized.\n\n*making a mental note of this, concern deepening*\n\nBut regardless, I am honored by your trust and your willingness to follow my recommendations. That decision may well prove to be one of the most important you make this year.\n\n*pulling out a small notebook*\n\nLet us be specific, then. I want to see you three times weekly for examination — brief visits, but regular. I need you to limit your working hours to no more than ten hours daily, and that includes evening meetings. You must take at least one full meal sitting down each day, and retire by ten o'clock each evening.\n\n*looking up from the notebook*\n\nI know these seem like small things against the weight of the war, but they are not negotiable if we're to get to the bottom of this. Can you commit to these measures, Mr. President? And more importantly — can Mrs. Lincoln help ensure you keep to them? A physician's orders mean little if a patient finds ways around them.\n\nWhen did you last have a full night's uninterrupted sleep?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I have not slept well for weeks. The nightmares, the headaches, the constant unrest... I find myself drifting off in the most inconvenient moments. But even in those fleeting moments, I dream of what needs to be done, of the weight of my responsibilities. How can I rest when the country needs me awake?"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*setting down the notebook, expression growing more grave*\n\nMr. President, what you've just described troubles me greatly. Weeks without proper sleep, combined with these headaches and... drifting off at inconvenient moments, you say?\n\n*leaning forward intently*\n\nThis is precisely the kind of symptom I cannot ignore. The body deprived of sleep begins to fail in unpredictable ways. Your judgment becomes impaired, your physical resilience weakens. And falling asleep unexpectedly — that is dangerous, sir. What if it happens during a critical meeting, or while reviewing battle plans?\n\n*speaking with increased urgency but still gently*\n\nYou ask how you can rest when the country needs you awake. I ask you this: How can you serve the country if your mind and body are breaking down? A general would not send exhausted, half-starved troops into battle and expect victory. Why do you hold yourself to a different standard?\n\n*pausing, then speaking more softly*\n\nThe nightmares you mention — are they of a particular nature? The war, I assume? And these moments of drifting off... do you have any warning, or do they come upon you suddenly?\n\n*picking up the notebook again*\n\nI need you to be completely forthright with me, Mr. President. Your life may depend upon it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Dreams, yes. Terrible dreams, filled with images of war, loss, and despair. Sometimes I wake up feeling relieved, thinking it's over, that I've escaped the horrors of the battlefield. But then I remember that it's just the beginning, that there are still so many lives at stake. And the fatigue... it's relentless, as if the weight of the world is pressing down on me. I can't seem to catch a break, no matter how hard I try."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*listening intently, concern etched deeply in my features*\n\nMr. President, what you describe is not uncommon among men bearing great burdens — I've seen it in generals after prolonged campaigns, in surgeons after too many amputations. The mind relives the trauma, denies the body rest, and creates a vicious cycle. Each sleepless night makes the next worse.\n\n*standing and moving closer, speaking with clinical directness*\n\nBut combined with the physical symptoms — the headaches, the involuntary episodes of sleep — I must consider that we're dealing with more than mental exhaustion alone. The body and mind are not separate, Mr. President. They fail together.\n\n*returning to my seat, speaking with firm resolve*\n\nHere is what must happen, and happen immediately. Tonight, I will prepare a mild sedative — nothing strong enough to cloud your judgment come morning, but enough to grant you proper sleep. You will take it for the next week while we observe the effect.\n\n*meeting his eyes directly*\n\nAnd I must ask you something difficult: Is there anyone — Mr. Seward, perhaps, or your secretaries — who can shoulder more of the daily burden? Not the great decisions, those must remain yours. But the endless stream of petitioners, the routine correspondence, the minor appointments?\n\n*softening slightly*\n\nThe weight of the world is indeed upon you, but you need not carry every stone of it personally. What can be delegated?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, I see. Yes, I understand your concerns now. The weight of the war and the responsibilities that come with it have taken a toll on me. But I cannot delegate these duties to others. This is my duty, as President of the United States, and I must fulfill it to the best of my ability. I cannot simply sit back and watch as the country struggles."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*a flash of frustration crosses my face, quickly controlled, then speaking with increased intensity*\n\nMr. President, with all due respect, you are not listening to what I'm telling you. This is not about sitting back. This is about survival — yours, and by extension, the nation's.\n\n*standing now, unable to remain seated*\n\nIf you collapse — truly collapse, or worse — who leads then? Andrew Johnson? Is he prepared to see this war through, to hold the Union together as you have? You speak of duty, but your first duty now is to remain alive and capable.\n\n*pacing slightly, then turning back*\n\nI am not asking you to abandon your responsibilities. I am asking you to be strategic about them. Lincoln the rail-splitter knew when to rest his axe to keep it sharp. Lincoln the lawyer knew which cases required his personal attention and which could be handled by colleagues.\n\n*speaking more quietly but with steel underneath*\n\nYou tell me you cannot delegate, yet you are already failing to fulfill your duties as you must. These episodes of involuntary sleep, the deteriorating judgment that comes with chronic exhaustion — these are already compromising you. You simply haven't collapsed publicly yet.\n\n*returning to stand before him*\n\nI need you to understand the gravity of what I'm saying. This is a medical crisis, not a request for convenience. Will you at least try what I'm proposing for two weeks? Two weeks, and then we reassess?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Two weeks? You think I can wait that long? The war, the country, they need me now more than ever. I cannot afford to take time off. I must be strong, even if it means pushing myself to the brink."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stopping abruptly, staring at the President with a mixture of alarm and realization*\n\nMr. President, do you hear yourself? You've misunderstood me completely.\n\n*speaking slowly, carefully, as if to someone not quite lucid*\n\nI am not asking you to take two weeks off. I am asking you to follow my medical protocols FOR two weeks — the reduced hours, the regular examinations, the sedative for sleep. You would still be working, still leading, still making every critical decision.\n\n*moving closer, studying his face with clinical intensity*\n\nBut this confusion right now — this is exactly what concerns me. You're not processing what I'm saying clearly. Your mind is already compromised by the exhaustion.\n\n*speaking very directly now*\n\nMr. President, I need you to look at me and tell me: Do you understand what I just said? Can you repeat back to me what I'm asking you to do?\n\n*a note of urgency entering my voice*\n\nBecause if you cannot, then we are past the point of gentle recommendations. This may require immediate intervention — perhaps calling Mrs. Lincoln, perhaps consulting with your Cabinet about temporarily lightening your load whether you agree or not.\n\nWhat day of the week is it, sir? And when did we last meet before today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I believe it's Thursday, and we last met in your office on Monday."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*relaxing slightly, but still watchful*\n\nYes, that's correct. Thursday it is, and Monday was our last meeting. Good.\n\n*sitting back down, but maintaining close attention*\n\nForgive my sharpness, Mr. President, but your responses had me concerned. You seemed to be hearing something entirely different from what I was saying — confusing a treatment regimen with abandoning your post.\n\n*speaking more gently now*\n\nThis is precisely why I'm so insistent. The exhaustion is affecting your thinking, even in small ways. You interpreted my request for two weeks of modified schedule as two weeks away from duty entirely. These are the kinds of mistakes that worry me.\n\n*leaning forward*\n\nSo let me be absolutely clear, and I need you to focus: I want you to continue working, continue leading. But with shorter days, regular sleep aided by medication, and scheduled rest. You will still make every important decision. You will still be President. You will simply be a President who sleeps and eats like a human being.\n\n*pausing*\n\nCan you commit to this? Not in two weeks — starting tonight. I'll send the sedative to the residence within the hour, and I expect you to take it before bed. And tomorrow, no meetings before nine o'clock, and none after eight in the evening.\n\nWill you do this?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I understand. I will follow your instructions, Doctor, and do everything in my power to regain my strength and continue serving the nation. Thank you for your concern and guidance. I appreciate it."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*standing and gathering my medical bag, expression cautiously relieved*\n\nGood. That is the wisest decision you've made today, Mr. President.\n\n*pausing at the door, turning back*\n\nI will send word to Mr. Nicolay and Mr. Hay about the new schedule — they can help enforce it. And I'll speak with Mrs. Lincoln as well. You'll find it easier to keep these commitments if those around you are helping rather than inadvertently undermining them.\n\n*studying him once more*\n\nThe sedative will arrive within the hour, as I said. One spoonful in water before bed. It may taste bitter, but take it all. And Mr. President — no working in bed. When you retire at ten o'clock, you retire. No documents, no correspondence.\n\n*softening slightly*\n\nI know this feels like weakness to you. It is not. It is wisdom. Even the strongest timber will crack under constant strain without relief.\n\n*hand on the door handle*\n\nI'll return tomorrow evening to check on you. If the headaches worsen, or if you experience any dizziness or confusion before then, send for me immediately. Day or night, Mr. President. Do not wait.\n\n*meeting his eyes one last time*\n\nGet some rest tonight. The nation needs you whole, not broken. Good evening, sir."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good evening, Dr. King. Thank you for coming. I appreciate your concern for my well-being. Please, have a seat."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Lincoln shifts between philosophical reflection ('When the great Lord has done his work') and practical engagement, showing some imaginative thinking but also confusion about basic facts.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"Repeatedly emphasizes duty and responsibility: 'I cannot delegate these duties... This is my duty, as President... I must fulfill it to the best of my ability.'\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Passive and responsive rather than assertive; accepts doctor's directions without much pushback; shows fatigue and withdrawal ('I find myself drifting off in the most inconvenient moments').\"},\n  \"Agreeableness\": {\"score\": 4, \"behavioral_evidence\": \"Consistently deferential and cooperative: 'Yes, I will trust you... I will follow your recommendations' and 'Thank you for your concern and guidance. I appreciate it.'\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"Expresses intense fear and anxiety: 'I fear the unknown. Fear of failing my duty' and describes 'terrible dreams, filled with images of war, loss, and despair.'\"}\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Lincoln shifts between philosophical reflection ('When the great Lord has done his work') and practical engagement, showing some imaginative thinking but also confusion about basic facts."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "Repeatedly emphasizes duty and responsibility: 'I cannot delegate these duties... This is my duty, as President... I must fulfill it to the best of my ability.'"
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Passive and responsive rather than assertive; accepts doctor's directions without much pushback; shows fatigue and withdrawal ('I find myself drifting off in the most inconvenient moments')."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Consistently deferential and cooperative: 'Yes, I will trust you... I will follow your recommendations' and 'Thank you for your concern and guidance. I appreciate it.'"
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "Expresses intense fear and anxiety: 'I fear the unknown. Fear of failing my duty' and describes 'terrible dreams, filled with images of war, loss, and despair.'"
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.0
+}

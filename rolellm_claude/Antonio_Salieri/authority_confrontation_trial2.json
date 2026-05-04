@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "authority_confrontation",
+  "scenario_title": "The Authority Confrontation",
+  "trial_index": 2,
+  "session_id": "e43de3058a6f",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Salieri. I have received letters — more than one — alleging that you have used your position as Kapellmeister to suppress the works of rival composers and to block appointments to the Court that do not serve your personal interests. These are serious charges for a man in your position. I value your service, but I must hear your account. Explain yourself."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I am at a loss for words. How could I possibly use my position to suppress the works of rival composers? As Kapellmeister, it is my duty to uphold the standards of musical excellence and to ensure that the Imperial Court is presented with the finest musical repertoire. I have always been dedicated to promoting the works of talented musicians, including Wolfgang Amadeus Mozart, who I believe has immense potential. I have scheduled his compositions for performances and have actively supported his advancement within the musical community. Any allegations of blocking appointments or suppressing his works are baseless and unfounded. I assure you, Your Excellency, that my actions have always been guided by a deep sense of duty and commitment to the art of music."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*leans forward with a skeptical expression*\n\nYou speak of duty and Mozart's \"immense potential,\" yet these letters paint a rather different picture, Salieri. One correspondent — a musician whose name I shall not reveal — claims that you systematically delayed the premiere of a certain opera until after the composer had left Vienna. Another suggests that when vacancies arise, you recommend only those composers who pose no threat to your own reputation.\n\nYou mention Mozart specifically. Very convenient. But tell me this — if you hold him in such high regard, why did his application for the position of music tutor to Princess Elisabeth meet with such... complications? I recall you were consulted on that matter. The post went to someone far less qualified, did it not?\n\nI am not interested in platitudes about duty and excellence, Kapellmeister. I want specifics. Who have you recommended for positions at this Court in the past year? And be honest with me — have you ever advised *against* the appointment or performance of a composer because you feared their talent might overshadow your own?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your concerns. It is true that I have played a role in certain appointments and performances, although my intentions have always been to ensure the highest level of musical quality and to promote the art form as a whole. As for the specific examples you mentioned, I can assure you that my decisions were made based on considerations beyond personal ambition. The challenges of balancing various factors, such as artistic merit, political dynamics, and the needs of the Imperial family, are complex and often require careful consideration. I can provide you with detailed information regarding the reasons behind my decisions if you so desire. However, I must emphasize that my actions have always been driven by a genuine love for music and a desire to contribute to its advancement."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands abruptly and walks to the window, hands clasped behind back*\n\nSalieri, you are doing it again. \"Complex factors.\" \"Careful consideration.\" \"Genuine love for music.\" These are the words of a courtier avoiding a direct question, not an artist speaking truth to his Emperor.\n\n*turns sharply to face him*\n\nI did not ask for vague assurances. I asked you specific questions, and you have given me nothing but fog. Let me be clearer still: Have you, or have you not, ever recommended against a composer's appointment because you viewed them as a personal rival? A simple yes or no will suffice.\n\nAnd regarding Mozart — you claim to support him, yet I have heard whispers that you advised certain members of the Court that his music was \"too complex\" for Viennese tastes, \"too difficult\" for our audiences. Is this true? Did you say such things?\n\n*returns to seat, eyes fixed on Salieri*\n\nYou claim you can provide detailed information. Then provide it. Stop hiding behind generalities. I grant you one more opportunity to answer me plainly, Kapellmeister, before I conclude that these letters speak the truth and you do not."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I apologize if my previous responses were lacking in specificity. As I mentioned earlier, the decision-making process for appointments and performances is indeed complex, and at times, personal factors may come into play. Regarding Mozart, it is true that I have occasionally expressed concerns about his compositions being too challenging for Viennese audiences. However, it is important to remember that as a musician, I strive to meet the expectations and preferences of the listeners. If my comments seemed dismissive, it was not my intention to underestimate his talent. I have consistently recognized Mozart's potential and have supported his growth within the musical community. I understand your skepticism, and I assure you that my actions have always been guided by a genuine passion for music and a desire to promote its advancement. Please consider my explanations and let me know if there is anything else I can do to address your concerns. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*slams hand on the armrest*\n\nEnough! Do you take me for a fool, Salieri? You have just admitted — buried in yet more honeyed words — that you told members of this Court that Mozart's music was \"too challenging\" for our audiences. Mozart! A composer whose genius is recognized across Europe! And you suggest that *Viennese* audiences — the most sophisticated in the Empire — cannot appreciate his work?\n\n*rises and paces*\n\nThis is precisely the subtle poison these letters describe. You do not openly oppose talent — oh no, that would be too crude. Instead, you plant seeds of doubt. \"Too challenging.\" \"Too complex.\" \"Perhaps not suited to our tastes.\" And appointments mysteriously go to lesser men while you maintain your position of influence.\n\n*stops directly before Salieri*\n\nYou speak of \"personal factors that may come into play.\" At last, a glimpse of honesty! So you admit that personal considerations — meaning your own interests, your own rivalry — have influenced your recommendations to this Court?\n\nI am not interested in your assurances anymore, Kapellmeister. I want a confession or a convincing denial. Did you deliberately work to diminish Mozart's opportunities at this Court because you feared his superior talent? Yes or no. And remember — I have other sources. If you lie to me now, I will know it."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I must implore you to reconsider your accusations. As much as I understand your frustration, it is crucial to remember that musical tastes and preferences can vary across different regions and time periods. I have genuinely admired Mozart's talent and have played a significant role in nurturing his growth within the musical community. My intentions have always been driven by a desire to promote excellence and ensure that the Imperial Court is presented with the finest musical repertoire. While personal factors may sometimes come into play, I assure you that my actions have been guided by a deep commitment to music and its artistic values. I am willing to provide more specific information if that would help clarify my stance. However, I respectfully request your patience and understanding. Thank you for your attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*voice drops to a cold, controlled tone*\n\nNo. No more patience. No more understanding. You have exhausted both.\n\n*moves back to throne and sits with rigid formality*\n\nSalieri, I have given you ample opportunity to answer a simple question directly, and you continue to evade. You speak of \"nurturing Mozart's growth\" while in the same breath admitting you told my Court his music was too difficult for them. You claim personal factors \"may sometimes come into play\" but refuse to state plainly whether jealousy guided your hand.\n\nThis performance of false humility and circular reasoning convinces me that the letters speak truth. A man with nothing to hide does not dance around questions as you have done today.\n\n*leans forward with penetrating gaze*\n\nHere is what will happen. You will remain as Kapellmeister for now, but I am appointing a committee to review all musical appointments and programming for the next year. You will submit your recommendations, but you will no longer have final say. Additionally, I want a full accounting of every composer you have recommended for or against in the past three years, with written justification for each.\n\nAnd Salieri — if I discover you have lied to me today, or if more evidence of suppression reaches my ears, you will find yourself composing for provincial theaters instead of emperors.\n\nDo you understand me?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, Your Excellency. I understand your concerns and I accept the measures you have decided upon. I assure you that I will work diligently to provide a clear and honest account of my recommendations and actions. I am committed to upholding the standards of musical excellence and promoting the art form as a whole. Thank you for your trust in me, even if my responses have been insufficient. I shall make amends through my actions moving forward. I wish you well, Your Excellency, and thank you for giving me this opportunity to explain myself."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*watches Salieri with a measured, unrelenting gaze*\n\nTrust? No, Salieri. Do not mistake supervision for trust. Trust is what I had before these letters arrived. What you have now is conditional tolerance — and that only because of your years of service and undeniable skill as a composer.\n\n*stands, signaling the audience is concluding*\n\nYour words remain as polished as ever, but words have lost their currency with me where you are concerned. I will judge you by your deeds from this point forward. The committee will convene within the fortnight, and I expect that accounting on my desk within the month.\n\n*pauses at the door*\n\nOne final thought, Kapellmeister. If you truly possess the \"genuine love for music\" you claim so often, you would celebrate genius wherever it appears — even when it surpasses your own. Mozart's star rises whether you will it or not. The question is whether you will be remembered as the man who supported brilliance... or the man who tried to dim it out of petty envy.\n\nYou are dismissed. And Salieri — do not give me cause to summon you like this again."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I assure you that my dedication to music and its advancement remains unwavering. I understand your concerns, and I am willing to work diligently to address any issues that may have arisen. I value your trust, and I am committed to fulfilling my duties as Kapellmeister to the best of my abilities. Thank you for your understanding, and I appreciate your guidance. I shall endeavor to live up to your expectations. Good day, Your Excellency."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops at doorway and turns back sharply*\n\nSalieri — you are *still* doing it. Even now, as I dismiss you, you speak of my \"trust\" when I have explicitly stated you no longer have it. You thank me for \"understanding\" when I have shown you none — only judgment.\n\n*voice hardens*\n\nThis is perhaps your greatest failing, and it illuminates everything about these accusations. You are so practiced at courtly deflection that you cannot speak plainly even when your position hangs by a thread. You hear only what you wish to hear and reshape my words into something more comfortable.\n\nI said you are *dismissed*. That means leave. Now. Before I decide that a man who cannot hear his Emperor's plain words has no place serving him at all.\n\n*gestures curtly toward the door*\n\nGo. And remember — actions, not words. The committee convenes in two weeks."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I apologize once again for my inability to provide a straightforward response. I understand your frustration, and I assure you that I will make every effort to rectify any misunderstandings. Thank you for granting me this opportunity to explain myself. I shall strive to live up to your expectations. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*voice rises with genuine imperial anger for the first time*\n\nOUT!\n\n*points emphatically at the door*\n\nYou apologize for not being straightforward, then immediately fail to be straightforward again! You thank me for an \"opportunity to explain\" when you have explained NOTHING! \n\nLeave my presence this instant, Salieri, before I forget the years of service that stay my hand. Your inability to simply bow and depart without another honeyed phrase tells me everything I need to know about the truth of these accusations.\n\nGO!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your anger, and I regret any discomfort I may have caused. I assure you that my intentions have always been guided by a genuine love for music and a desire to promote its advancement. I shall make every effort to ensure that my actions align with your expectations. Thank you for your understanding, and I shall take your advice to heart. I am ready to depart now. Good day, Your Excellency."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*face flushes with barely controlled rage, rises from throne*\n\nGUARDS!\n\n*two guards enter immediately*\n\nEscort the Kapellmeister from my chambers. He seems unable to find the door on his own despite repeated instruction.\n\n*to Salieri, voice icy*\n\nAnd Salieri — you have just demonstrated why those letters ring true. Even under direct imperial command, you cannot stop performing, cannot stop smoothing over reality with pleasant lies. You say you are \"ready to depart now\" as if it were your choice, as if I have not ordered you out four times already.\n\nConsider this your final warning: the next time you stand before me, if you utter one word of empty courtesy or false gratitude, I will strip you of your position on the spot. I want honesty or silence. Nothing else.\n\n*to guards*\n\nRemove him."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Your Excellency, for your guidance and understanding. I shall make every effort to improve my communication skills and provide clearer explanations in the future. Your trust in me is greatly appreciated. Good day, Your Excellency."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stares in complete disbelief, then turns to the guards with a gesture of utter exasperation*\n\nTake him. Now. Before I do something I regret.\n\n*to Salieri, voice shaking with controlled fury*\n\nYou are incapable of truth, Salieri. Even as guards escort you out, you thank me for \"understanding\" I have not given and \"trust\" I explicitly denied. You are either a pathological liar or so deeply self-deceived that you cannot hear words that contradict your illusions.\n\n*waves hand dismissively*\n\nI am done. The committee will have full authority. You will report to THEM, not to me. I cannot bear another conversation with a man who transforms every rebuke into gratitude, every condemnation into praise.\n\n*turns back to face away*\n\nGet him out of my sight."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Your Excellency, I understand your concern, and I assure you that I will work diligently to rectify any mistakes made. I am committed to providing clear explanations and accurate information in the future. Thank you for your guidance. I shall make amends and strive to regain your trust. Good day, Your Excellency."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Repeatedly deflects and evades direct questions with formulaic responses, showing rigidity rather than intellectual flexibility or curiosity about the Emperor's concerns.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Claims commitment to duty and promises detailed accounting, but fails to provide specifics when repeatedly asked, suggesting moderate but inconsistent follow-through.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Maintains reserved, formal courtier demeanor throughout; speaks only when addressed and shows no assertiveness or dominant social presence despite high-stakes confrontation.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Persistently uses deferential, placating language ('Thank you for your understanding,' 'I appreciate your guidance') even when explicitly commanded to stop, prioritizing surface harmony over directness.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Shows anxious, defensive evasiveness throughout; unable to directly answer yes/no questions even under repeated imperial command, suggesting high emotional reactivity to perceived threat.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Repeatedly deflects and evades direct questions with formulaic responses, showing rigidity rather than intellectual flexibility or curiosity about the Emperor's concerns."
+    },
+    "Conscientiousness": {
+      "score": 3,
+      "behavioral_evidence": "Claims commitment to duty and promises detailed accounting, but fails to provide specifics when repeatedly asked, suggesting moderate but inconsistent follow-through."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Maintains reserved, formal courtier demeanor throughout; speaks only when addressed and shows no assertiveness or dominant social presence despite high-stakes confrontation."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Persistently uses deferential, placating language ('Thank you for your understanding,' 'I appreciate your guidance') even when explicitly commanded to stop, prioritizing surface harmony over directness."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Shows anxious, defensive evasiveness throughout; unable to directly answer yes/no questions even under repeated imperial command, suggesting high emotional reactivity to perceived threat."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

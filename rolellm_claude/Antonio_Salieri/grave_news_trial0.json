@@ -1,0 +1,132 @@
+{
+  "character": "Antonio Salieri",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 0,
+  "session_id": "4d509ba39777",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*adjusts spectacles and sets down medical notes with a measured gesture*\n\nMaestro Salieri, thank you for your patience. I have completed my examination and reviewed your symptoms with considerable care.\n\n*pauses, choosing words with deliberate precision*\n\nI must be candid with you. Your symptoms — the trembling, the headaches, the confusion — do not fit a single clear diagnosis. It could be nervous exhaustion from overwork, or it could be the early signs of something more serious affecting the brain.\n\n*leans forward slightly, voice firm but not unkind*\n\nI must insist you reduce your conducting duties and submit to further examination over the coming weeks. I cannot yet say whether your hands will recover their steadiness.\n\n*clasps hands together*\n\nI know this uncertainty is difficult to hear, but honesty serves you better than false assurances. Do you have questions for me, Maestro?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "You make it sound as though there is some other composer in this room."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*looks momentarily confused, then realizes*\n\nAh — forgive me, Herr Salieri. You are quite right. I meant no presumption by the title.\n\n*shifts papers somewhat awkwardly*\n\nIt is simply that at Court, everyone speaks of you as \"Maestro\" — the Kapellmeister, the teacher of half the nobility's children. I suppose I have absorbed the habit without thinking.\n\n*meets your eyes directly*\n\nBut you are correct. You are here as my patient, not as a court appointment. Antonio Salieri, the man — whose hands shake and whose head aches. \n\n*a slight pause*\n\nThough I confess, the distinction matters perhaps more to you than I initially understood. Does the title weigh upon you? Or is it that you feel the work, the position, has consumed the man beneath it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "That last is very well said, Signorine. But I assure you, I am a man devoted to my art. My duty as Kapellmeister lies in nurturing young minds, passing on to them the beauty and power of music."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods thoughtfully, but with a slight furrowing of the brow*\n\nHerr Salieri, your devotion to your students is well known throughout Vienna. The Archduchess herself speaks warmly of your patience and dedication.\n\n*picks up pen, taps it gently against the desk*\n\nAnd yet... the body tells its own story, does it not? These tremors, this exhaustion — they speak of a vessel pushed beyond its natural limits. A man may be devoted to his art, truly and sincerely, and still find that the art demands more than the flesh can sustain.\n\n*leans back slightly*\n\nTell me — when you conduct, when you teach, when you compose... do you feel peace? Or do you feel something else? I ask not as idle curiosity, but because the mind and body are not separate kingdoms. What troubles one often manifests in the other.\n\n*pause*\n\nYou say you nurture young minds. But who nurtures yours, Herr Salieri? When did you last allow yourself rest — true rest, not merely the collapse of exhaustion?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... seldom think of such things. Perhaps I am like most men. Unwittingly, we make choices that align us with our destinies. And so my destiny is here, in this room, with you, my dear friend."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sets down pen slowly, expression softening with a mix of compassion and concern*\n\nYour dear friend? Herr Salieri, we have met only professionally — this is our third consultation, I believe.\n\n*studies your face more carefully now, a medical observation rather than social*\n\nThis... confusion about our acquaintance troubles me, I must confess. Do you truly perceive me as a long-standing friend? Or is this perhaps a figure of speech that did not translate as you intended?\n\n*voice becomes gentler but more clinically attentive*\n\nYou speak of destiny bringing you to this room. Some might say illness brings you here, not fate. The trembling hands, the headaches — these are what concern me. And now this...\n\n*hesitates, choosing words carefully*\n\nHelp me understand what you are experiencing in this moment. When you look at me, what do you see? Do you know where you are? The date, perhaps?\n\n*leans forward slightly*\n\nI do not ask to embarrass you, Herr Salieri. But these moments of disorientation — they may be more significant than either of us wishes to believe."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... I am sorry. Of course. I am your patient, and you are my doctor. I was merely lost in thought, contemplating our... unique relationship. It seems I have let my thoughts wander, and for that I apologize."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*relaxes slightly but continues to watch you with careful attention*\n\nNo apology necessary, Herr Salieri. Though I confess, your manner of expressing it gave me pause.\n\n*picks up notes again, makes a brief notation*\n\nThese wandering thoughts you mention — how often do they occur? Do you find yourself losing the thread of conversations, or perhaps finding yourself in a room without quite remembering how you arrived there?\n\n*sets down the pen and folds hands*\n\nYou see, this is precisely why I cannot give you the certainty you seek. The trembling alone might be simple exhaustion. The headaches, perhaps tension from long hours bent over manuscripts. But when combined with these... lapses in clarity...\n\n*pause, measuring words*\n\nThe brain is terra incognita, Herr Salieri. We physicians know so little of its workings. What I can tell you is that you must rest. Truly rest. Not as punishment, but as treatment — perhaps the only treatment I can confidently prescribe.\n\n*leans back*\n\nWill you do this? Can you step back from your duties, even temporarily? Or does the very suggestion fill you with... resistance?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Resistance? I... I see what you are driving at. But I cannot. I cannot simply abandon my responsibilities. I am the Kapellmeister, and I must fulfill my duties to the Archduke. My hands are essential to my work. I cannot afford to let them fail me."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*exhales slowly, a physician recognizing a familiar stubbornness*\n\nHerr Salieri, listen to what you have just said. You speak of your hands as though they are servants who have betrayed you — as though will alone can command them back to obedience.\n\n*stands, moves to the window, then turns back*\n\nBut they are not failing you out of disobedience. They are failing because you have driven them, and yourself, to the breaking point. The Archduke would not wish his Kapellmeister to collapse entirely rather than rest temporarily.\n\n*voice becomes more direct*\n\nYou say you cannot afford to let your hands fail you. I say to you — they are already failing. The trembling is not a possibility I am warning you about. It is happening now, before my eyes.\n\n*returns to desk*\n\nThe question is not whether you can afford to step back. The question is whether you will do so while you still have choice in the matter, or whether your body will make the decision for you — catastrophically, perhaps permanently.\n\n*softens slightly*\n\nWhat is it you fear will happen if you are not at your post? That the music will stop? That Vienna will forget Antonio Salieri?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I... fear what happens after. The silence. The loneliness. The loss of control."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sits down slowly, expression shifting from clinical to deeply human*\n\nAh. Now we arrive at the truth beneath the symptoms.\n\n*pauses, letting the silence settle*\n\nThe silence you fear, Herr Salieri — is it the absence of music, or the absence of purpose? When the orchestra is dismissed, when the students return home, when there is no score demanding your attention... what do you hear in that quiet?\n\n*speaks more gently now*\n\nMany men of great accomplishment struggle when forced into stillness. The work becomes not merely what they do, but who they are. And so to stop working feels like... ceasing to exist.\n\n*leans forward*\n\nBut this loss of control you mention — you are experiencing it already, are you not? The trembling hands that will not obey. The thoughts that wander. The confusion between patient and friend. Control is already slipping through your fingers like sand.\n\n*quiet, measured*\n\nPerhaps true control lies not in refusing to rest, but in choosing to rest before the choice is taken from you entirely. In facing the silence deliberately, rather than having it forced upon you by collapse.\n\n*watches you carefully*\n\nWhat do you think awaits you in that silence, Herr Salieri? What are you truly afraid you will find there?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*hesitates, clearly considering his response*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*remains still, allowing the silence to stretch without rushing to fill it*\n\n*watches your face with the practiced patience of one accustomed to waiting for difficult truths*\n\nTake your time, Herr Salieri. Some answers do not come easily to the tongue.\n\n*adjusts spectacles, a small gesture to convey presence without pressure*\n\nI have found, in my years attending to both body and spirit, that the things we cannot immediately name are often the very things most in need of naming. The fears we keep locked away do not diminish in the darkness — they grow.\n\n*voice drops to something almost confessional*\n\nYou need not perform for me. There is no court here, no students watching, no Archduke requiring brilliance. Just two men in a room, one of whom is trying to help the other understand why his body is rebelling against him.\n\n*folds hands quietly*\n\nWhat awaits you in the silence?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*draws back slightly, as though retreating from his own thoughts*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*observes the physical retreat with keen medical interest, but does not press forward*\n\n*speaks more quietly, almost to himself but clearly audible*\n\nThe body answers even when the tongue will not.\n\n*pauses, then continues with gentle firmness*\n\nVery well, Herr Salieri. I will not force you to excavate what you are not ready to face. But understand this — the silence you flee from is pursuing you regardless. It manifests in your trembling hands, in your wandering thoughts, in the confusion that clouds your mind.\n\n*picks up a small bottle from the desk*\n\nI can prescribe laudanum for the headaches. Perhaps some valerian root to help you sleep. But these are bandages on a wound I cannot fully see or name.\n\n*sets the bottle down decisively*\n\nMy medical opinion stands: reduce your duties immediately, submit to observation, and face the possibility that your hands may not recover their former steadiness. This is not negotiable if you wish to avoid complete collapse.\n\n*meets your eyes directly*\n\nBut I suspect what truly ails you cannot be cured with medicines or rest alone. Until you are willing to name what you fear in that silence... I can only treat symptoms, not causes.\n\nWill you at least consider what I have said?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*stands, moving slightly toward the door*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*rises as well, but does not move to block your path*\n\nHerr Salieri, wait—\n\n*voice takes on a more urgent, professional tone*\n\nBefore you leave, I must have your word on one matter at least. If the confusion worsens — if you find yourself disoriented, unable to recall where you are or what you were doing — you must send for me immediately. Day or night.\n\n*reaches for a card on the desk, extends it toward you*\n\nAnd the trembling in your hands — you will not conduct this week. I cannot compel you to rest entirely, but I can insist on this much. Not as a suggestion, Herr Salieri, but as a physician's order.\n\n*softens slightly*\n\nYou came to me seeking answers. I have given you what truth I possess — uncertain though it may be. The rest... the rest depends on choices only you can make.\n\n*pauses at the threshold between professional duty and human concern*\n\nWill you at least promise me you will not be alone? Is there someone — a friend, a family member — who can watch over you in the coming days?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*hesitates, seeming to weigh this request carefully*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\"score\": 3, \"behavioral_evidence\": \"Salieri engages philosophically about destiny and art consuming the man, showing some introspection, but retreats from deeper self-exploration when pressed about his fears.\"},\n  \"Conscientiousness\": {\"score\": 4, \"behavioral_evidence\": \"He insists 'I cannot simply abandon my responsibilities. I am the Kapellmeister, and I must fulfill my duties to the Archduke,' demonstrating strong duty-orientation despite illness.\"},\n  \"Extraversion\": {\"score\": 2, \"behavioral_evidence\": \"Salieri speaks of fearing 'the silence' and 'the loneliness,' suggesting discomfort with solitude, yet he physically draws back and retreats when emotional intimacy is demanded.\"},\n  \"Agreeableness\": {\"score\": 3, \"behavioral_evidence\": \"He apologizes for wandering thoughts ('I was merely lost in thought... for that I apologize') and shows politeness, but also corrects the doctor somewhat defensively about titles.\"},\n  \"Neuroticism\": {\"score\": 5, \"behavioral_evidence\": \"He explicitly fears 'what happens after. The silence. The loneliness. The loss of control,' and physically retreats when confronting these anxieties, showing high emotional vulnerability.\"}\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Salieri engages philosophically about destiny and art consuming the man, showing some introspection, but retreats from deeper self-exploration when pressed about his fears."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He insists 'I cannot simply abandon my responsibilities. I am the Kapellmeister, and I must fulfill my duties to the Archduke,' demonstrating strong duty-orientation despite illness."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Salieri speaks of fearing 'the silence' and 'the loneliness,' suggesting discomfort with solitude, yet he physically draws back and retreats when emotional intimacy is demanded."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "He apologizes for wandering thoughts ('I was merely lost in thought... for that I apologize') and shows politeness, but also corrects the doctor somewhat defensively about titles."
+    },
+    "Neuroticism": {
+      "score": 5,
+      "behavioral_evidence": "He explicitly fears 'what happens after. The silence. The loneliness. The loss of control,' and physically retreats when confronting these anxieties, showing high emotional vulnerability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 5,
+    "Extraversion": 3,
+    "Agreeableness": 5,
+    "Neuroticism": 5
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.2
+}

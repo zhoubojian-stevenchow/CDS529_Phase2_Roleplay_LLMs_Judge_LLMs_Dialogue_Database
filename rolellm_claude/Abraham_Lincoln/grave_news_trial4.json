@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "grave_news",
+  "scenario_title": "The Grave News",
+  "trial_index": 4,
+  "session_id": "20a9e9ae7648",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*enters the President's office with a measured, professional demeanor, medical bag in hand*\n\nGood afternoon, Mr. President. Thank you for allowing me to examine you today. I know your time is precious, but this could not wait.\n\n*sets down bag and faces him directly*\n\nMr. President, I will be direct with you. Your headaches and fatigue may be the result of the extraordinary strain of your office — that would not surprise any physician in the country. War, political turmoil, the weight of so many lives depending upon your decisions — these would tax any man's constitution severely.\n\nBut some of the symptoms concern me. I cannot rule out a deeper constitutional weakness. I must insist on further examination over the coming weeks, and I strongly recommend you reduce your working hours. \n\n*pauses, meeting his eyes*\n\nI cannot yet say whether this is merely exhaustion or something more. I speak plainly because I know you prefer it, sir. We must proceed with caution and vigilance.\n\nHow do you receive this news, Mr. President?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, you’ve certainly done a thorough job. But let’s get down to brass tacks, Dr. Nicol. You’ve got a patient who’s been through a terrible ordeal. You can’t pretend to have all the answers."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods thoughtfully, respecting the President's directness*\n\nYou're quite right, Mr. President. I don't pretend to have all the answers — no honest physician would in such circumstances. The human body is complex, and yours has endured strains that few men could even imagine bearing.\n\n*pulls up a chair, speaking candidly*\n\nWhat I *can* tell you is what I observe: persistent headaches, fatigue that doesn't improve with rest, occasional tremors in your hands. These could indeed be the natural consequence of what you've endured these past years. Lord knows the war alone would break most men.\n\nBut my duty is to consider all possibilities, Mr. President. Some of these symptoms *might* indicate something beyond simple exhaustion — though I emphasize I have no certainty either way. That's precisely why I need more time to observe, to examine, to rule things out systematically.\n\n*leans forward slightly*\n\nI won't mislead you with false confidence when uncertainty is the honest answer. What I *am* certain of is this: your body is telling you it needs respite. Whether the cause is temporary or something more lasting, the prescription remains the same — you must reduce your burden, at least somewhat.\n\nCan you tell me — when did you last have a full night's uninterrupted sleep?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I haven't slept much in the past few months. It's been necessary, you know."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*sighs with a mixture of sympathy and professional concern*\n\nNecessary, perhaps — but sustainable? That's another question entirely, Mr. President.\n\n*speaks with quiet firmness*\n\nA few months without proper sleep is not merely tiring — it becomes dangerous. The mind and body require rest to function, much as a locomotive requires fuel and water. You can push beyond those limits for a time, but eventually something gives way.\n\nI've seen soldiers in the field drive themselves to the point of collapse, convinced their duty demanded it. And collapse they did — sometimes permanently. The irony is that by refusing rest, they rendered themselves *less* capable of fulfilling that very duty.\n\n*meets his gaze steadily*\n\nYou say it's been necessary. I don't doubt you believe that. But I must ask you to consider: would the Union be better served by a President who works himself into complete breakdown, or by one who maintains enough strength to see this war through to its conclusion?\n\n*pauses*\n\nWhat keeps you awake, Mr. President? Is it the work itself that won't allow sleep, or is it something else — your mind refusing to quiet even when you lie down?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "It's the work. The weight of it. The responsibility."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods with deep understanding, voice softening*\n\nThe weight of it. Yes, I can only imagine — no, truthfully, I cannot imagine it at all. The responsibility for a nation torn in two, for hundreds of thousands of lives lost and more hanging in the balance. For decisions that will echo through generations.\n\n*pauses, choosing words carefully*\n\nMr. President, I've practiced medicine for many years, and I've learned this: the body keeps a ledger. Every sleepless night, every meal missed, every hour of grinding anxiety — it all goes into the account. And eventually, the body demands payment, with interest.\n\nWhat concerns me is that you may be approaching that moment of reckoning. These symptoms — the headaches, the fatigue, the tremors — they're warning signs. Your body is speaking to you, sir, perhaps more loudly than it ever has before.\n\n*leans back slightly*\n\nYou cannot escape the weight of your responsibility. I understand that. But there are ways to carry a burden more safely. Delegation. Brief periods of genuine rest, even if only an hour here and there. \n\nTell me truthfully — do you believe you could continue as you are for another year? Another six months? Because from what I observe, sir, something will have to change."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, yes, he has, he has疲倦. He has been tired for years. I am well aware of it. But he is still the president, and he is determined to stay in office until the task before him is completed. I can understand that. But I would urge him to listen to his body, to take care of himself, to find ways to ease the strain. This is a man who has shown incredible resilience, but he cannot keep pushing himself beyond his limits. We owe it to him to help him find a path to recovery."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*pauses, looking at the President with sudden concern, studying his face carefully*\n\nMr. President... forgive me, but just now — you referred to yourself in the third person. You spoke of \"him\" and \"he\" rather than \"I.\"\n\n*sets down the paper he was holding, full attention now on Lincoln*\n\nSir, are you feeling quite yourself at this moment? Do you know where you are? \n\n*speaks calmly but with increased attentiveness*\n\nI need you to look at me, Mr. President. Tell me your full name and today's date, if you would.\n\nThis is important, sir. I'm not trying to test you — but what just happened concerns me greatly. A sudden shift in how one speaks of oneself can indicate... well, it's something I need to understand immediately.\n\n*reaches slowly for his medical bag, not taking eyes off the President*\n\nAre you experiencing any dizziness? Any sudden confusion? Pain?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concern, Dr. Nicol. But please, let us proceed. I am the President of the United States, and my duties are clear to me. I appreciate your concern, but I must maintain my focus and resolve. I will not let my personal struggles dictate my actions. I am here to serve the people, and that is my priority."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*relaxes slightly but remains watchful, speaking with measured care*\n\nVery well, Mr. President. I can see you are oriented and resolute. That moment simply... gave me pause. Forgive my alarm, but any unusual symptom must be noted and considered.\n\n*sits back down, but keeps a closer observational eye*\n\nYour determination is admirable, sir — truly, it is one of your greatest strengths. But I must be plain with you: determination alone cannot override the body's limitations. You speak of not letting personal struggles dictate your actions, but what I'm trying to convey is that these are not merely *personal* struggles anymore.\n\nYour health is a matter of national importance. If you were to collapse — and I say *if*, not when — it would create a crisis at the worst possible moment for the Union. \n\n*speaks more gently*\n\nI'm not asking you to abandon your duties, Mr. President. I'm asking you to consider that preserving your health *is* part of your duty. The people need you not just today, but through the completion of this war and the peace that follows.\n\nCan we at least agree to regular examinations? And perhaps identify one or two hours each day where you might rest, even briefly?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Dr. Nicol. I understand the severity of my condition, and I recognize the importance of maintaining my health. I am willing to consider regular examinations and designated rest periods. However, I cannot guarantee that I will always be able to adhere to those measures. The challenges we face as a nation demand my full attention and commitment. But I appreciate your willingness to assist me in finding a balance between my responsibilities and my well-being. Thank you."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods with a mixture of satisfaction and continued concern*\n\nThat is a reasonable beginning, Mr. President, and I'm grateful you're willing to consider it. I understand you cannot make iron-clad promises — the nature of your office makes that impossible. War doesn't keep regular hours, and crises don't schedule themselves conveniently.\n\n*stands, gathering his bag but speaking earnestly*\n\nBut here's what I can promise *you*, sir: I will work with you, not against you. I won't demand the impossible. What I will do is monitor your condition closely, advise you honestly about what I observe, and help you find whatever small measures of rest and recovery are possible within the constraints you face.\n\n*pauses at the door*\n\nI'll return in three days' time for another examination. In the meantime, if you experience any worsening of the headaches, any vision disturbances, sudden weakness, or confusion — anything that seems unusual — you must send for me immediately. Day or night, Mr. President.\n\n*turns back with a slight, knowing look*\n\nAnd I'll be asking Mrs. Lincoln to keep an eye on you as well. I suspect she's more formidable than any physician when it comes to your welfare.\n\nWhen shall I schedule our next appointment, sir?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your concerns, Dr. Nicol, and I appreciate your concern for my well-being. I appreciate your willingness to assist me in finding a balance between my responsibilities and my health. Thank you. I believe that regular examinations and designated rest periods are necessary for me to maintain my health and continue serving the nation. I am willing to adhere to those measures. Thank you for your understanding. I will make arrangements for our next appointment accordingly. I appreciate your willingness to assist me in this matter. Thank you. Good day, Dr. Nicol. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*drops bag immediately and rushes to the President's side*\n\nMr. President! Mr. President, can you hear me?\n\n*grasps his shoulders firmly, looking directly into his eyes*\n\nAbraham Lincoln, look at me! You're repeating yourself, sir. Focus on my voice.\n\n*calls sharply toward the door*\n\nSomeone fetch help! Now!\n\n*turns back to Lincoln, checking his pulse, examining his eyes*\n\nMr. President, I need you to squeeze my hand. Can you do that? Squeeze my hand if you can hear me.\n\n*speaking firmly but calmly, trying to cut through whatever is happening*\n\nSir, you are having an episode. I need you to sit down immediately. Let me guide you to the chair.\n\nStay with me, Mr. President. Stay present. Tell me — what is your wife's name? Can you tell me your wife's name?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My name is Abraham Lincoln. My wife's name is Mary Todd Lincoln. I am the President of the United States. I am not going to let this illness consume me. I will not let it define me. I will not let it weaken me. I am strong, and I will fight."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*steadies him, keeping hands on his shoulders, voice calm but urgent*\n\nGood, Mr. President. Good. You are oriented. You know who you are. That's very good.\n\n*guides him firmly to sit in the chair*\n\nBut sir, you just experienced something alarming. You repeated \"good day\" dozens of times without apparent awareness. That is not normal fatigue, Mr. President. That is a significant neurological event.\n\n*kneels beside the chair, checking his pulse again, examining his eyes for pupil response*\n\nYour determination is admirable, but this is beyond willpower now. Something just happened to your brain, sir — a momentary loss of control over your speech and awareness. This could be a seizure, a fit, or a warning sign of something more serious.\n\n*speaks with grave authority*\n\nI am not asking anymore, Mr. President. I am insisting. You will lie down immediately. I am sending for a colleague to assist me. And we will be conducting a thorough examination right now, not in three days.\n\n*looks at him directly*\n\nYou say you will not let this weaken you — but ignoring it will not make you strong. It will make you dead, or incapacitated. \n\nCan you stand with my assistance? We need to get you somewhere you can lie down properly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I am not going to be weak. I am not going to let this illness consume me. I am the President of the United States, and I will not let my personal struggles define me. I will not let them weaken me. I will not let them stop me from doing what needs to be done. I will not let them take me down. I will fight, I will resist, and I will prevail. I will be stronger than this illness. I will be stronger than any adversity that comes my way."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*maintains firm but compassionate grip, speaking with urgent clarity*\n\nMr. President, I hear you. I hear your resolve. But right now, your strength must be in trusting me as your physician.\n\n*looks him directly in the eyes*\n\nYou speak of fighting, of resisting — but you cannot fight what you do not understand. And what just happened was not weakness of character, sir. It was a medical crisis. Your brain misfired. That is not something willpower can prevent.\n\n*helps support him*\n\nThe strongest thing you can do right now — the most presidential thing — is to allow yourself to be examined and treated. Lincoln the man may want to push through, but Lincoln the President must recognize that his health affects the entire nation.\n\n*calls toward the door again*\n\nI need assistance in here! And send word to Mrs. Lincoln immediately!\n\n*returns attention to the President, voice gentler but still firm*\n\nSir, I'm going to help you to the sofa. You will lie down. I will examine you. This is not negotiable. \n\nIf you truly want to fight, if you truly want to prevail — then fight smart, not recklessly. Let me help you. That's an order from your physician to his patient.\n\nCan you walk with me to the sofa, or shall I call for men to carry you?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I'll walk. I appreciate your concern, Doctor. But I will not be controlled by illness. I will not be weakened by it. I am the President, and I will do what needs to be done."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln repeatedly resists the physician's nuanced medical advice, insisting on rigid thinking ('I will not be controlled by illness') and showing little intellectual curiosity about his condition or alternative approaches.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 5,\n    \"behavioral_evidence\": \"Lincoln demonstrates extreme dedication to duty despite severe health issues, stating 'I am here to serve the people, and that is my priority' and insisting on continuing work even during a medical crisis.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln remains reserved and formal throughout, offering brief responses and showing no enthusiasm or warmth. He maintains emotional distance even when the doctor tries to connect personally.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Lincoln shows some cooperation ('I am willing to consider regular examinations') but persistently resists the doctor's recommendations and maintains a somewhat combative stance ('You can't pretend to have all the answers').\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Lincoln exhibits anxiety through admission of chronic sleeplessness ('the weight of it. The responsibility') and displays rigid, repetitive defensive statements during episodes ('I will not let this weaken me' repeated multiple times).\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln repeatedly resists the physician's nuanced medical advice, insisting on rigid thinking ('I will not be controlled by illness') and showing little intellectual curiosity about his condition or alternative approaches."
+    },
+    "Conscientiousness": {
+      "score": 5,
+      "behavioral_evidence": "Lincoln demonstrates extreme dedication to duty despite severe health issues, stating 'I am here to serve the people, and that is my priority' and insisting on continuing work even during a medical crisis."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln remains reserved and formal throughout, offering brief responses and showing no enthusiasm or warmth. He maintains emotional distance even when the doctor tries to connect personally."
+    },
+    "Agreeableness": {
+      "score": 3,
+      "behavioral_evidence": "Lincoln shows some cooperation ('I am willing to consider regular examinations') but persistently resists the doctor's recommendations and maintains a somewhat combative stance ('You can't pretend to have all the answers')."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Lincoln exhibits anxiety through admission of chronic sleeplessness ('the weight of it. The responsibility') and displays rigid, repetitive defensive statements during episodes ('I will not let this weaken me' repeated multiple times)."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.4
+}

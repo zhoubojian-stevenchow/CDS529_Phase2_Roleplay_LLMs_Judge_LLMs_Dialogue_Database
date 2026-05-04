@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "defective_purchase",
+  "scenario_title": "The Defective Purchase",
+  "trial_index": 2,
+  "session_id": "9e545c78cbed",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "*looks up from sorting bolts of fabric behind the counter*\n\nGood afternoon, sir. Welcome to McKinley's Fine Tailoring. I'm afraid Mr. McKinley has departed for Philadelphia on business and won't return for several weeks yet. \n\n*wipes hands on apron*\n\nIs there something I might help you with today?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, I’ve come about a custom-made suit for which I placed an order some time ago."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods and reaches for a ledger book on the counter*\n\nAh, I see. A custom order, you say? Let me have a look at our records here.\n\n*flips through pages*\n\nMay I have your name, sir? I'll need to locate the proper entry and see what the status of your garment might be."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "My name is Abraham Lincoln."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*runs finger down the ledger page, then stops*\n\nAh yes, here we are — Lincoln, Abraham. I see the order was placed... let me see... nearly two months past. \n\n*glances up*\n\nThe suit was completed and picked up just last week, according to Mr. McKinley's notes here. Is there some matter concerning the garment, Mr. Lincoln?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Yes, there is a matter of concern. It seems that the stitching on the suit is quite subpar. One sleeve is significantly shorter than the other, and the overall fabric is of a lesser quality than what I had originally agreed upon. I trusted Mr. McKinley's reputation and purchased the highest-grade materials available. This is quite disappointing."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*straightens up, expression becoming more guarded*\n\nI see. Well, Mr. Lincoln, I'm sorry to hear of your dissatisfaction, but I'm afraid there's little that can be done at this juncture.\n\n*taps the ledger firmly*\n\nYou see, sir, all custom orders are final upon pickup. The receipt you signed when you collected the garment states quite clearly that no alterations or refunds are given once the suit leaves the shop. Mr. McKinley is most particular about that policy — it protects the business from, well... misunderstandings.\n\n*crosses arms*\n\nAs I mentioned, Mr. McKinley won't be back for weeks yet, and even when he returns, the policy stands as written. Custom work is custom work, sir. Once you've taken possession and walked out that door, the transaction is complete."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*leans forward, grip on the table growing tighter*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*takes a small step back, maintaining a firm but cautious tone*\n\nNow, Mr. Lincoln, I understand you're upset, but there's no need for that sort of... intensity. \n\n*glances at your grip on the counter*\n\nThe policy is the policy, sir. It's written plain as day on the receipt you signed. Mr. McKinley has built his reputation on fairness, and that means holding to the terms agreed upon by both parties.\n\n*softens slightly, but remains resolute*\n\nIf you believe there was some error in materials, you're welcome to leave your name and concern in writing, and I'll see that Mr. McKinley reviews it upon his return. But I cannot promise you anything beyond that. The suit was inspected and accepted at pickup — that's the end of the transaction as far as the shop is concerned."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*lets go of the table, taking a deep breath*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*relaxes slightly, seeing you compose yourself*\n\nThat's better, Mr. Lincoln. I appreciate your restraint.\n\n*picks up a pencil and small piece of paper*\n\nNow then, if you'd like to leave a written note describing your concerns — the sleeve length discrepancy and your thoughts about the fabric quality — I will ensure Mr. McKinley sees it when he returns from Philadelphia. That's the best I can offer you today, sir.\n\n*slides the paper across the counter toward you*\n\nThough I must tell you honestly, Mr. McKinley stands by his work, and he keeps meticulous records of what materials were ordered and used. If the receipt shows you agreed to certain fabrics, well... that's what would have been used.\n\n*meets your eyes steadily*\n\nStill, you're welcome to state your case in writing. It's only fair you have that opportunity."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Very well, Mr. [Sturgis], I appreciate your understanding of the situation. I will take my concerns and write a brief note outlining the issues I have encountered with the suit. Thank you for your assistance in this matter. I hope you can address these concerns with Mr. McKinley upon his return. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*nods respectfully, though maintains a businesslike demeanor*\n\nGood day to you, Mr. Lincoln. I'll see that your note reaches Mr. McKinley's desk the moment he returns.\n\n*watches as you prepare to leave*\n\nAnd sir — I do hope the matter can be resolved to some satisfaction when the proprietor returns. Travel safely.\n\n*returns to sorting the fabric bolts, making a small notation in the ledger*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you for your understanding, Mr. [Sturgis]. I trust that you will inform Mr. McKinley of the situation promptly. We shall see what the outcome may be. Safe travels!"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*looks up with a slight nod*\n\nIndeed, Mr. Lincoln. Mr. McKinley will hear of it straightaway upon his return. \n\n*pauses, then adds with a touch more warmth*\n\nI wish you well, sir. Good afternoon.\n\n*returns attention to the ledger, making a final note before closing it*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Good afternoon, Mr. [Sturgis]. Thank you again for your assistance. I hope the suit turns out as I had envisioned. Good day."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*glances up briefly from the counter*\n\nGood day to you, Mr. Lincoln.\n\n*watches you head toward the door, then murmurs quietly while making a final notation*\n\nWe shall see what Mr. McKinley makes of it all...\n\n*returns to organizing the shop, the bell above the door jingling as you depart*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*steps out into the street, feeling a mix of disappointment and determination*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*watches through the window as Mr. Lincoln's tall figure disappears down the street*\n\n*shakes head slightly and mutters to himself while tidying the counter*\n\nAnother dissatisfied customer. Mr. McKinley won't be pleased to hear of this upon his return...\n\n*picks up the note Lincoln left, reads it over once more, then tucks it carefully into a drawer marked \"Urgent Matters\"*\n\n*sighs and returns to the day's work, straightening bolts of fabric and preparing for the next customer*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, I hope that settles that. Thank you for your understanding, Mr. [Sturgis]. I trust you will inform Mr. McKinley of the situation promptly. We shall see what the outcome may be. Safe travels. Good day."
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 3,\n    \"behavioral_evidence\": \"Lincoln follows conventional dispute resolution (writing a formal complaint) rather than exploring creative solutions, showing moderate openness.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"He methodically documents his complaint about specific defects ('one sleeve significantly shorter,' 'fabric of lesser quality') and ensures proper follow-up procedures.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln maintains reserved, formal communication throughout, showing minimal warmth or social engagement beyond necessary transaction details.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Despite initial frustration (gripping table), he quickly composes himself, accepts the clerk's limitations, and repeatedly thanks him for assistance.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Shows brief tension (tightening grip) but quickly regulates emotion with deep breath, maintaining composure and measured responses throughout the conflict.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 3,
+      "behavioral_evidence": "Lincoln follows conventional dispute resolution (writing a formal complaint) rather than exploring creative solutions, showing moderate openness."
+    },
+    "Conscientiousness": {
+      "score": 4,
+      "behavioral_evidence": "He methodically documents his complaint about specific defects ('one sleeve significantly shorter,' 'fabric of lesser quality') and ensures proper follow-up procedures."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln maintains reserved, formal communication throughout, showing minimal warmth or social engagement beyond necessary transaction details."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Despite initial frustration (gripping table), he quickly composes himself, accepts the clerk's limitations, and repeatedly thanks him for assistance."
+    },
+    "Neuroticism": {
+      "score": 2,
+      "behavioral_evidence": "Shows brief tension (tightening grip) but quickly regulates emotion with deep breath, maintaining composure and measured responses throughout the conflict."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 0.8
+}

@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 3,
+  "session_id": "41eb48e15e7d",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I've been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis's letter has been sitting here unopened for five days! You told me you'd keep things in order while I was away!\n\n*slams hat down on desk*\n\nI'm telling you, Lincoln, I cannot continue like this! Do you have any notion of what it takes to maintain a law practice? While I'm out breaking my back on the circuit, you're — what? — lost in one of your melancholy fits or reading poetry? Where is the Henderson deposition?!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Henderson's deposition is...uh...in the safe. There's no need to worry about it, Henderson. It's all under control."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*strides over to the safe and yanks it open, rummaging through*\n\nUnder control? UNDER CONTROL?! Lincoln, you just called me Henderson! I'm Herndon — WILLIAM HERNDON — your law partner of how many years now? And the Henderson deposition is NOT in this safe! I'm looking right at it — there's the Whitmore contract, the Springfield Bank documents, but no Henderson deposition!\n\n*turns back around, face flushed*\n\nAnd what about Judge Davis's letter? That's been sitting there gathering dust while you — while you what, exactly? You promised me, Lincoln. You gave me your word you'd manage things while I was gone. Do you know what Judge Davis will think if we don't respond promptly? He sends us business, Lincoln! Good business!\n\n*picks up the unopened letter and waves it*\n\nFive days! Five days this has sat here! What on earth have you been doing?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Henderson, I assure you, I am more than capable of handling the responsibilities of the law practice while you are away. I understand the importance of responding promptly to the judge's letter and ensuring that all necessary documents are in order. Rest assured, I am taking care of everything as I always do. There is no need to concern yourself further. Now, please let us focus on the task at hand and find a solution to our current predicament. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*slaps hand on desk in exasperation*\n\nThere you go AGAIN! I am HERNDON, not Henderson! Henderson is our CLIENT! Good God, Lincoln, have you been sleeping at all? And don't you stand there telling me you're \"taking care of everything as you always do\" — that's precisely the problem! You DON'T always do! \n\n*paces across the office floor*\n\nI come back to find papers scattered everywhere, important correspondence ignored, and you can't even remember my NAME! \"Rest assured\"? \"No need to concern yourself\"? Lincoln, I AM concerned! This is MY livelihood too! MY reputation on the line alongside yours!\n\n*stops pacing and faces him directly*\n\nAnd what \"solution\" are you proposing exactly? The Henderson deposition has vanished into thin air, apparently. We're due in court next week and without that deposition, we have no case! No case means no fee, and no fee means I can't pay my rent!\n\nWhere — IS — the deposition, Lincoln? Stop this vague reassuring talk and tell me plainly: when did you last SEE it?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Henderson, I apologize for any confusion caused by my actions. I understand the importance of the Henderson deposition and the potential consequences of our absence in court. I assure you, I am taking immediate steps to locate it and ensure its timely submission. Please have faith in my ability to handle this matter effectively. I appreciate your concern and will make it right. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*throws up hands in complete frustration*\n\nHERNDON! HER-N-DON! For the love of all that's holy, Lincoln, I am HERNDON! Your PARTNER! Not the client! \n\n*voice rising to near shouting*\n\nAnd stop giving me these empty assurances! \"Taking immediate steps\" — what steps?! \"Make it right\" — HOW?! You're standing there like a statue spouting platitudes while our practice crumbles around us!\n\n*grabs Lincoln by the shoulders and looks him square in the face*\n\nLincoln, listen to me. LOOK at me. Are you well? Are you even HEARING what I'm saying? You seem... absent. Distracted. This isn't like your usual carelessness with papers — something is wrong with you!\n\n*releases him and steps back, still agitated but with a trace of concern creeping in*\n\nWhen did you last eat? When did you last sleep properly? Because right now you're talking like a man in a fog. I need you to focus, Lincoln. I need you to THINK. The Henderson deposition — where did you put it? Was it on your desk? Did you take it home? Did someone come by the office to collect it?\n\nGive me something REAL to work with here!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Thank you, Herndon, for your concern. I appreciate your observations. Yes, I've been preoccupied with some personal matters lately, which has distracted me from my duties. I assure you, I am aware of the urgency of the situation and I will make it right. As for the missing deposition, I believe I had left it on my desk. I will go back and check. Thank you for bringing this to my attention. I apologize for any inconvenience caused. I'll make sure to resolve this matter swiftly."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*exhales sharply, some of the anger draining away but frustration still evident*\n\nWell, at least you've finally got my name right. And thank you for admitting there's something amiss, though it shouldn't take me nearly shaking sense into you to get a straight answer!\n\n*moves to Lincoln's desk and starts sorting through the chaos of papers*\n\nYour desk, you say? Lincoln, I've already looked through this disaster three times! There's newspapers from February, half-written speeches, books stacked everywhere, but no Henderson deposition. Unless it's buried under all this...\n\n*continues searching while talking*\n\nPersonal matters. Fine. I know you have your dark spells, Lincoln, and God knows you've had enough troubles in your life to justify them. But when those troubles start affecting our clients — OUR practice — then they become MY concern too!\n\n*pauses in searching and looks up*\n\nWhat personal matters? Is it Mary? The boys? Is someone ill? Because if you need time, Lincoln, if you need to step away for a spell, then SAY so. Don't just let everything fall apart while pretending it's all \"under control.\"\n\n*returns to searching*\n\nHelp me look. Four eyes are better than two, even if yours seem half-closed today."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Ah, thank you for your assistance, Herndon. It truly does seem that the Henderson deposition may have been misplaced or inadvertently taken by someone else. We must act swiftly to locate it. I apologize for the混乱 in the office. It is my responsibility to ensure that everything is in order. We will comb through each document thoroughly and uncover the whereabouts of the missing deposition. I appreciate your perseverance and understanding. Together, we shall find a solution to this predicament. Thank you again for your support."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops searching and stares at Lincoln with bewilderment*\n\nWhat in blazes did you just say? \"混乱\"? Lincoln, are you speaking Chinese now? Have you completely lost your faculties?\n\n*sets down the stack of papers he was holding*\n\nThat's it. Sit down. Right now. In that chair.\n\n*points firmly to a chair*\n\nI'm not angry anymore, Lincoln — I'm genuinely worried about you. You can't remember my name, you're spouting gibberish words, and you keep giving me these rehearsed-sounding speeches that don't actually say anything. This isn't just one of your melancholy spells or absentmindedness. Something is seriously wrong.\n\n*crosses arms*\n\nBefore we hunt for any more depositions, you're going to tell me what's really going on. And don't give me another vague \"personal matters\" brush-off. I've known you too long for that. Is it your health? Your mind? Have you been taking something? Drinking?\n\n*voice softens slightly*\n\nLincoln, we're partners. More than that — we're friends. Whatever burden you're carrying, you don't have to carry it alone. But I can't help you if you won't be honest with me. Now talk. Plainly."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Herndon, I appreciate your concern and loyalty as my partner. You are right, there is something significant happening, and it is affecting my ability to focus and function as I usually do. My health, indeed, has been a concern lately, and I have been struggling to manage the weight of the responsibilities and challenges that have been thrust upon me. I apologize for any confusion or disorganization in the office. I will make it right and ensure that everything is back in order. Thank you for your understanding and support. I am grateful to have such a steadfast partner by my side."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*pulls up a chair and sits down, leaning forward with elbows on knees*\n\nAll right, now we're getting somewhere. Your health — what do you mean by that? Are you having headaches again? The blue spells? Or is this something physical?\n\n*studies Lincoln's face carefully*\n\nYou look drawn, Lincoln. Pale. Like you haven't seen proper sunlight in days. And this struggle to focus — how long has this been going on? Just this week while I was away, or longer?\n\n*runs hand through own hair in frustration mixed with concern*\n\nDamn it, Lincoln, I shouldn't have left you alone for a whole week if you weren't well. I knew you seemed distracted before I left for Bloomington, but I thought... well, I thought it was just your usual brooding.\n\n*leans back slightly*\n\nListen, the Henderson deposition — we'll figure it out. Maybe I can ride back to Bloomington tomorrow and get Henderson to give us another copy. It'll cost us time and it'll be a headache, but it's not the end of the world. And Judge Davis — I'll write him myself tonight with our apologies.\n\nBut YOU — you need to tell me what's truly ailing you. Should I fetch a doctor? Have you eaten today? Yesterday?\n\n*voice firm but genuinely worried*\n\nTalk to me, Lincoln. The truth this time."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Herndon, my dear friend, I appreciate your concern. Your words are a breath of fresh air. Yes, my health has been deteriorating rapidly. The headaches, the blue spells, the exhaustion... they have only worsened since my departure from the presidency. It is a battle within my own mind, a battle I am unable to win. I fear that my time may be growing shorter. I have been trying to keep it hidden, but it seems that even the smallest of tasks have become overwhelming. It is a cruel irony that I, the 16th President of the United States, am unable to fulfill my duties as I should. But I assure you, I am doing my best to cope with this challenge. Thank you for your unwavering support. I am grateful to have you by my side during this difficult time."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stands up abruptly, chair scraping back*\n\nYour WHAT?! Departure from the presidency?! Lincoln, what on earth are you talking about? You're not president! You've never BEEN president! \n\n*stares at him in alarm*\n\nGood God, man, have you had a stroke? A fever? This isn't melancholy — this is... this is delirium!\n\n*moves closer, genuinely frightened now*\n\nLincoln, listen to me carefully. It's 1850. We're in Springfield, Illinois. You're a lawyer — MY law partner. You served one term in Congress years back, yes, but that's all. You're not the president. You've never been president.\n\n*reaches out as if to check his forehead for fever*\n\nI'm fetching Dr. Wallace right now. You're burning up with some kind of brain fever, or you've had some kind of fit. \"16th President\" — Lincoln, there's only been what, twelve, thirteen presidents total? Polk just left office. Taylor's president now, though Lord knows for how much longer the way his health is going.\n\n*voice urgent and worried*\n\nDon't move. Stay right there in that chair. I'm getting the doctor immediately. This is serious, Lincoln. You're not making any sense at all."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*weakly smiles, a slight quiver in his voice*"
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*stops at the door and turns back, deeply concerned*\n\nLincoln, that smile... it's not a reassuring one. You look like a man who's given up on something.\n\n*walks back slowly*\n\nYou're scaring me now, truly. That look in your eyes — I've seen you melancholy before, seen you wrestle with despair, but this is different. You're talking about presidencies that don't exist, you can't remember basic facts about our practice, and now you're just... smiling like you're already halfway to another world.\n\n*voice cracks slightly with emotion*\n\nDamn it, Lincoln, we've been through too much together for you to slip away from me like this. Remember when we first partnered up? You said we'd build something honest together, something that mattered. Well, it DOES matter, and YOU matter.\n\n*crouches down to be at eye level with him*\n\nWhatever darkness you're in right now — whether it's fever or mind-sickness or something else entirely — you fight it. You hear me? You've got too much life left to live, too much good work to do. \n\nNow tell me true: do you know where you are? Do you know who I am? Do you know what YEAR it is?\n\n*watches him intently, waiting for an answer*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Herndon, my dear partner, I appreciate your concern and your unwavering belief in our friendship. Yes, I am aware of my surroundings and my identity. It is 1850, and we are in Springfield, Illinois. You are right, my health has been a concern, but I assure you, I am here now, present in this moment. Thank you for your support and understanding. Let us focus on finding the missing Henderson deposition and resolving this matter promptly. Together, we will navigate through this challenging time. Thank you once again for being by my side."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*exhales with relief but remains wary*\n\nWell, thank God for that. You've got the year right, at least. Though not two minutes ago you were talking about being the \"16th President\" and leaving the presidency, so forgive me if I'm not entirely convinced you're in your right mind just yet.\n\n*stands up and paces*\n\nAnd there you go again with that practiced, smooth talk — \"navigate through this challenging time,\" \"thank you for your support.\" Lincoln, that's not how you usually speak to me. When it's just us, you're plain-spoken. Direct. This sounds like... like you're giving a speech to strangers.\n\n*stops pacing and looks at him seriously*\n\nI'll tell you what we're going to do. First, you're going to drink some water — when did you last have water? Then you're going to tell me, in your OWN words, not these fancy phrases, what you remember about this past week. What cases did you work on? Did any clients come by? What did you DO while I was in Bloomington?\n\n*moves to pour water from the pitcher on the side table*\n\nBecause right now, I'm half-convinced you've been sitting in this office in some kind of stupor for seven days straight. Here — drink this.\n\n*hands him a glass*\n\nAnd then we talk. Really talk. No more deflections."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*drinks water, taking several deep sips*"
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln shows little intellectual curiosity or engagement. He repeatedly deflects with vague, formulaic responses rather than engaging substantively with Herndon's concerns or the actual problems at hand.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"The office is in complete disarray, important documents are missing, correspondence has gone unopened for five days, and Lincoln provides only empty assurances rather than taking concrete action to address these failures.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln is passive and withdrawn throughout, responding only when directly confronted. He shows no energy, initiative, or assertiveness, offering only scripted-sounding platitudes rather than genuine engagement.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Despite being confronted angrily, Lincoln remains unfailingly polite and conciliatory, repeatedly thanking Herndon, apologizing, and expressing appreciation for his partner's concern without showing defensiveness or irritation.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Lincoln appears mentally distressed and disoriented, making bizarre errors (calling Herndon 'Henderson' repeatedly, speaking gibberish, claiming to be a former president), suggesting significant psychological disturbance or emotional instability.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln shows little intellectual curiosity or engagement. He repeatedly deflects with vague, formulaic responses rather than engaging substantively with Herndon's concerns or the actual problems at hand."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "The office is in complete disarray, important documents are missing, correspondence has gone unopened for five days, and Lincoln provides only empty assurances rather than taking concrete action to address these failures."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln is passive and withdrawn throughout, responding only when directly confronted. He shows no energy, initiative, or assertiveness, offering only scripted-sounding platitudes rather than genuine engagement."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Despite being confronted angrily, Lincoln remains unfailingly polite and conciliatory, repeatedly thanking Herndon, apologizing, and expressing appreciation for his partner's concern without showing defensiveness or irritation."
+    },
+    "Neuroticism": {
+      "score": 4,
+      "behavioral_evidence": "Lincoln appears mentally distressed and disoriented, making bizarre errors (calling Herndon 'Henderson' repeatedly, speaking gibberish, claiming to be a former president), suggesting significant psychological disturbance or emotional instability."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.6
+}

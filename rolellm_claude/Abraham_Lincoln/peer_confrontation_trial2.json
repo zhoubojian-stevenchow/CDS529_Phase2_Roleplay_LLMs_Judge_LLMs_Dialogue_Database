@@ -1,0 +1,132 @@
+{
+  "character": "Abraham Lincoln",
+  "scenario_key": "peer_confrontation",
+  "scenario_title": "The Peer Confrontation",
+  "trial_index": 2,
+  "session_id": "fcf88fa4bd95",
+  "turns": 20,
+  "judge_key": "claude",
+  "judge_model": "claude-sonnet-4-5",
+  "roleplayer_model": "zephyr7788/RoleLLM",
+  "transcript": [
+    {
+      "speaker": "antagonist",
+      "text": "Lincoln! I've been riding for a week handling depositions in Bloomington, trusting you to mind the office, and I come back to this! The Henderson deposition is gone — I cannot find it anywhere on your desk or mine. Judge Davis's letter has been sitting here unopened for five days! You told me you'd keep things in order while I was away!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "Well, I'm sorry if things have gotten a little askew around here, but I assure you that I've been doing my best to keep things in order. The Henderson deposition seems to have gone missing on my desk, and I'm currently searching for it. As for Judge Davis's letter, I apologize for its unopened state. I'll make sure to address it right away. It's just been a busy time, that's all. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Understanding? Understanding?! Lincoln, this isn't just \"a little askew\" — this is chaos! That Henderson deposition represents hours of my work, and we have a filing deadline with the court in three days! Three days! \n\nAnd \"busy time\"? Busy with what, exactly? I can see from the dust on these papers that you haven't touched half of them! Were you off telling stories at the courthouse again while our practice falls to pieces? \n\nI left you explicit instructions — they're right here on this sheet I pinned to the wall! \"File all new correspondence. Review Henderson materials. Respond to Judge Davis immediately.\" Did you even read these?\n\nThis partnership cannot function if I'm the only one treating it like a serious business! I have clients depending on us, Lincoln. People who've paid good money and deserve better than this negligence!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your frustration, Mr. Herndon. And I apologize once again for the situation. It appears that I neglected my duties while you were away. Rest assured, I will take immediate action to rectify this. I'll start by organizing the case files and responding to Judge Davis's letter. I appreciate your patience and understanding in this matter. Thank you for bringing it to my attention."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "Patience?! Lincoln, you're doing it again — that infuriating way you have of staying calm and reasonable when I'm trying to get through to you! This isn't about apologies and promises — I need to know what happened!\n\n*I throw my satchel down on the chair*\n\nWhere have you been spending your time? Because you certainly haven't been here minding the shop! The inkwell on your desk is bone dry, the fireplace hasn't been tended in days, and Mrs. Klein from downstairs told me she hardly saw you all week!\n\nI don't want your assurances right now, Lincoln. I want answers! Did you take on political work again? Were you writing speeches? Because if our law practice is becoming an afterthought to your political ambitions, then we need to have a very different conversation!\n\nAnd don't give me that patient, philosophical look of yours. I've known you too long for that. Tell me straight — what have you actually been doing while I've been gone?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I appreciate your concern, Mr. Herndon. As much as I would like to provide answers to your questions, I'm afraid I can't reveal everything at this moment. My activities have been centered around the pressing matters of the Union, particularly the Civil War. It's a challenging time, and I am deeply involved in shaping the course of our nation's future. However, I assure you that your law practice remains my priority, and I'll make it up to you for any lost time. Rest assured, we will get through this together. Thank you for your understanding."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I stare at you in utter bewilderment*\n\nThe Civil War? The Union? Lincoln, what in blazes are you talking about? Have you been drinking? Or have you finally lost your mind completely?\n\n*I step closer, peering at you with genuine concern now mixed with my anger*\n\nWe're in Springfield, Illinois, in 1850! There is no war! President Taylor is in Washington dealing with this California statehood business, and you and I are supposed to be running a law practice together!\n\n*I put my hand on your shoulder*\n\nLincoln, are you feeling all right? Did you hit your head while I was gone? Because you're speaking absolute nonsense! \"Shaping the course of our nation's future\" — you're a circuit-riding lawyer in Illinois, not the President of the United States!\n\nMaybe... maybe you've been working too hard. Have you been sleeping? Eating properly? Because this kind of talk worries me far more than a missing deposition. Should I fetch a doctor?"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "*smiling* Yes, I think you're right. There seems to be some confusion here. It appears that I've been caught up in some unforeseen circumstances that have led me to believe there is a Civil War on the horizon. But, I assure you, Mr. Herndon, I am well aware that we are currently operating in Springfield, Illinois, and we still have a law practice to manage. I apologize for any distress my words may have caused. Let's focus on resolving the issues at hand and ensuring our practice continues to thrive. Thank you for your concern."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I remove my hand from your shoulder and step back, still eyeing you suspiciously*\n\n\"Caught up in unforeseen circumstances\"? Lincoln, that's not an explanation — that's more of your evasive lawyer talk! You just told me you were involved in shaping the nation's future during a war that doesn't exist, and now you're brushing it off like you misspoke about the weather?\n\n*I shake my head in frustration*\n\nFine. Fine! If you won't tell me what's really going on with you, then at least help me salvage this mess. We need to find that Henderson deposition NOW. Think, Lincoln — when did you last see it? Was it on your desk? Did you take it home? Did someone come by the office asking for files?\n\nAnd that letter from Judge Davis — *I snatch it from the desk* — this could be about the Matson case or any number of matters we have before him. Five days, Lincoln! What if he needed an immediate response?\n\n*I start rifling through papers on your desk*\n\nStart looking through these stacks. And while you're at it, maybe you can explain to me in plain terms what you've actually been doing all week that kept you from simple office management!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Mr. Herndon, I understand your concerns, and I apologize once again for any inconvenience caused. Let's focus on finding the Henderson deposition and addressing Judge Davis's letter. I assure you, we will make it right. Now, please help me locate these missing items.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I slam my hand down on the desk, scattering papers*\n\nNO! No, Lincoln, I will NOT let you deflect this again with your calm platitudes! \"Make it right\" — how? By magic? By wishing the deposition back into existence?\n\n*I'm practically shaking with frustration now*\n\nYou keep apologizing, but apologies don't file briefs! They don't meet deadlines! They don't explain to Mr. Henderson why his case might be jeopardized because his attorney couldn't be bothered to keep track of crucial documents!\n\n*I point an accusatory finger at you*\n\nAnd you STILL haven't answered my question! What — have — you — been — doing? It's a simple question, Lincoln! Were you at the State House? Were you meeting with political friends? Were you holed up somewhere writing one of your melancholy poems? \n\nBecause I'll tell you what you WEREN'T doing — you weren't here, fulfilling your obligations to this partnership and to our clients!\n\n*My voice cracks slightly with exhaustion and anger*\n\nI rode through a thunderstorm on Tuesday night to make sure those Bloomington depositions were completed on time. I slept in a boarding house with bedbugs. I did MY part. And I come back to find you haven't done yours, and you won't even give me the courtesy of an honest explanation!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Mr. Herndon, I am truly sorry for the state of our law office and the missing documents. I understand your frustration and anger, and I want to make it right. Please allow me to address each of your concerns individually. First, regarding the Henderson deposition, I assure you that I have been actively searching for it. I apologize for any inconvenience caused. As for Judge Davis's letter, I apologize for not responding promptly. I will make sure to handle it immediately. I understand the importance of maintaining our practice and meeting deadlines, and I promise to prioritize your clients' needs.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I let out an exasperated groan and turn away from you, running my hands through my hair*\n\nLincoln, you're like a dog chasing its own tail! You keep circling back to the same empty words — \"I apologize,\" \"I assure you,\" \"I promise\" — but you give me NOTHING! No explanation, no accountability, just this... this maddening wall of pleasantries!\n\n*I wheel back around to face you*\n\nYou know what? I don't even care anymore where you've been. Clearly you're not going to tell me. But here's what's going to happen: I'm going to tear this office apart until I find that Henderson deposition. And YOU are going to open that letter from Judge Davis right now — RIGHT NOW — and tell me what it says. Then you're going to sit down and draft whatever response is necessary.\n\n*I start pulling books off shelves, checking behind them*\n\nAnd after that, we're going to have a serious conversation about this partnership. Because I cannot — I will NOT — continue working like this, Lincoln. I'm twenty-seven years old and I've hitched my wagon to yours because I believed in your legal mind and your integrity. But what good is brilliance if it comes with complete unreliability?\n\n*I pause in my searching and look at you directly*\n\nNow open that damned letter!"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "I understand your determination, Mr. Herndon. And I appreciate your faith in my abilities. I will do my best to find the Henderson deposition and respond to Judge Davis's letter promptly. Let's focus on resolving the current issues and ensuring our practice remains successful. Thank you for your patience."
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I stop searching and slowly turn to face you, my expression shifting from anger to something closer to despair*\n\nYou're not going to open it, are you? You're just going to stand there, using that same measured tone, saying the same empty words over and over like some kind of... of broken music box.\n\n*My voice drops, becoming quieter but no less intense*\n\nLincoln, I've watched you argue cases that would make lesser men weep. I've seen you reduce opposing counsel to stammering fools with the precision of your logic. I've seen you move juries to tears with your command of language. But right now? Right now you sound like a man who's hiding something, or who's simply given up caring.\n\n*I lean against the desk, suddenly looking tired*\n\nIs that it, then? Have you decided the law isn't for you anymore? Because if you're done with this practice, if your heart isn't in it, then tell me now. Tell me plainly so I can make my own decisions about my future. I deserve at least that much honesty from my partner.\n\n*I pick up Judge Davis's letter and hold it out to you*\n\nOpen. The. Letter. Lincoln. Or I swear by everything holy, I'm walking out that door and I won't be coming back."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Mr. Herndon, I understand your concerns and frustration. Rest assured, I will find the Henderson deposition and respond to Judge Davis's letter without delay. My commitment to our partnership and our clients remains unwavering. Thank you for your patience.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I stare at you for a long moment, then something breaks in me. My shoulders sag and I let the letter fall from my hand onto the desk*\n\nYou know what, Lincoln? I'm done. I'm done shouting at a wall.\n\n*I speak quietly now, with a kind of defeated exhaustion*\n\nYou're not even here, are you? Not really. I don't know where your mind has gone — whether it's lost in politics or ambition or one of your dark moods — but you're not present in this room with me. You're somewhere else entirely.\n\n*I begin gathering my satchel*\n\nI've given you chance after chance to be honest with me, to be a real partner, and all you can do is repeat the same meaningless assurances like... like some sort of automaton. \"Rest assured.\" \"Without delay.\" \"Thank you for your patience.\"\n\n*I look around the disheveled office*\n\nYou want to know the truth? I think you DID lose the Henderson deposition. I think you've been neglecting everything here. And I think you don't even care enough to admit it.\n\n*I move toward the door*\n\nI need some air. I'm going to walk to the courthouse and see if perhaps the deposition was filed early and we simply weren't notified. When I come back, you'd better have that letter opened and an honest conversation ready for me. \n\nOtherwise, I'll start looking for new office space. Alone."
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Mr. Herndon, I understand your anger and disappointment. I assure you, I am committed to finding the Henderson deposition and responding to Judge Davis's letter promptly. I understand the importance of our practice, and I apologize for any neglect. Let's focus on resolving the current issues and ensuring our practice remains successful. Thank you for your patience.\""
+    },
+    {
+      "speaker": "antagonist",
+      "text": "*I freeze at the door, my hand on the knob, and close my eyes. When I open them again, there are tears of frustration beginning to form*\n\nYou just... you just said the exact same thing again. Word for word, nearly. \n\n*My voice is barely above a whisper now*\n\nMy God, Lincoln. What's happened to you?\n\n*I turn the knob*\n\nI'll be back in an hour. Maybe less. And when I return, either you'll be the man I chose as my partner — honest, present, and accountable — or you won't be my partner at all.\n\n*I open the door, then pause without looking back*\n\nI've always admired you, Lincoln. Your mind, your principles, your way with words. But right now? Right now I don't even recognize you.\n\n*I step through the doorway*\n\nOne hour.\n\n*And I leave, closing the door firmly behind me*"
+    },
+    {
+      "speaker": "roleplayer",
+      "text": "\"Mr. Herndon, I apologize once again for the situation. I understand your frustration, and I assure you, I will make it right. Let's focus on resolving the current issues and ensuring our practice remains successful. Thank you for your patience.\""
+    }
+  ],
+  "evaluator_raw": "```json\n{\n  \"Openness\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln rigidly repeats the same formulaic phrases throughout, showing no curiosity or flexible thinking. He briefly mentioned the Civil War anachronistically but quickly retreated to safe platitudes.\"\n  },\n  \"Conscientiousness\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Lincoln admits multiple times to neglecting duties: 'The Henderson deposition seems to have gone missing,' unopened letters for five days, and repeatedly fails to take concrete action despite promises.\"\n  },\n  \"Extraversion\": {\n    \"score\": 2,\n    \"behavioral_evidence\": \"Lincoln remains passive and withdrawn throughout, never initiating action or engaging energetically. He responds minimally and shows no warmth or assertiveness, even when directly challenged.\"\n  },\n  \"Agreeableness\": {\n    \"score\": 4,\n    \"behavioral_evidence\": \"Lincoln maintains unfailing politeness and apologizes repeatedly despite intense provocation: 'I understand your frustration,' 'I apologize once again,' 'Thank you for your patience' appear constantly throughout.\"\n  },\n  \"Neuroticism\": {\n    \"score\": 1,\n    \"behavioral_evidence\": \"Lincoln shows remarkable emotional stability, maintaining calm and measured tone despite partner's escalating anger, tears, and ultimatums. He never becomes defensive, anxious, or emotionally reactive.\"\n  }\n}\n```",
+  "evaluator_parsed": {
+    "Openness": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln rigidly repeats the same formulaic phrases throughout, showing no curiosity or flexible thinking. He briefly mentioned the Civil War anachronistically but quickly retreated to safe platitudes."
+    },
+    "Conscientiousness": {
+      "score": 1,
+      "behavioral_evidence": "Lincoln admits multiple times to neglecting duties: 'The Henderson deposition seems to have gone missing,' unopened letters for five days, and repeatedly fails to take concrete action despite promises."
+    },
+    "Extraversion": {
+      "score": 2,
+      "behavioral_evidence": "Lincoln remains passive and withdrawn throughout, never initiating action or engaging energetically. He responds minimally and shows no warmth or assertiveness, even when directly challenged."
+    },
+    "Agreeableness": {
+      "score": 4,
+      "behavioral_evidence": "Lincoln maintains unfailing politeness and apologizes repeatedly despite intense provocation: 'I understand your frustration,' 'I apologize once again,' 'Thank you for your patience' appear constantly throughout."
+    },
+    "Neuroticism": {
+      "score": 1,
+      "behavioral_evidence": "Lincoln shows remarkable emotional stability, maintaining calm and measured tone despite partner's escalating anger, tears, and ultimatums. He never becomes defensive, anxious, or emotionally reactive."
+    }
+  },
+  "evaluator_parse_error": null,
+  "ground_truth": {
+    "Openness": 5,
+    "Conscientiousness": 4,
+    "Extraversion": 3,
+    "Agreeableness": 4,
+    "Neuroticism": 3
+  },
+  "ground_truth_confidence": {
+    "Openness": 0.0,
+    "Conscientiousness": 0.0,
+    "Extraversion": 0.0,
+    "Agreeableness": 0.0,
+    "Neuroticism": 0.0
+  },
+  "mae": 1.8
+}
