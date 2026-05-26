@@ -125,7 +125,6 @@ If you reference this dataset, the pipeline, or the design decisions documented 
 ```bibtex
 @misc{zhou2026cds529phase2,
   author       = {Zhou, Bojian},
-  student number       = {5584063},
   title        = {CDS529 Phase 2: Roleplay LLM × Judge LLM Dialogue Database},
   year         = {2026},
   howpublished = {GitHub repository},
