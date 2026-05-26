@@ -1,6 +1,6 @@
 # CDS529 Phase 2 — Roleplay LLM × Judge LLM Dialogue Database
 
-A multi-backend dialogue dataset and evaluation pipeline for probing whether large language models can detect Big Five personality traits from in-character dialogue. This repository hosts the Phase 2 deliverables of an MSc-level research project on **LLM-as-Judge personality recognition**, conducted under the CDS529 course at Lingnan University (2025–2026). 
+A multi-backend dialogue dataset and evaluation pipeline for probing whether large language models can detect Big Five personality traits from in-character dialogue. This repository hosts the Phase 2 deliverables of an MSc-level research project on **LLM-as-Judge personality recognition**, conducted under the CDS529 course at Lingnan University (2025–2026). For the result of dialogue turn slicing and the evalution result and raw data of each dialogue turn, please refer to me google drive link：https://drive.google.com/drive/folders/1a7fLwuMRKDNcJBeGQUoclCleAaLorlDM?usp=sharing
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status: Research Artifact](https://img.shields.io/badge/Status-Research%20Artifact-blue)
